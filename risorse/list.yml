@@ -38,4 +38,4 @@
   file:
     formato: json
   cron: "10 0 */1 * *"
-  cronDescrizione: "ogni giorno alle 9:05"
+  cronDescrizione: "il primo giorno del mese alle ore 00:10"
