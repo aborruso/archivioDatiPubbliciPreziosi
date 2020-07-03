@@ -1,10 +1,10 @@
-name: crea feed RSS assemblea regionale siciiana
+name: crea archivio della lista dei comuni pubblicata da ISTAT
 
 on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '00 */1 * * *'
+    - cron:  '0 5 1 * *'
 
 jobs:
   scheduled:

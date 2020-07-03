@@ -4,3 +4,5 @@
   nome: listaComuniISTAT
   tipo: singolo
   formato: csv
+  cron: "0 5 1 * *"
+  cronDescrizione: "il primo giorno del messe alle 00:05"
