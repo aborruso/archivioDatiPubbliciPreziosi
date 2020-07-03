@@ -30,3 +30,12 @@
     separatore: ";"
   cron: "5 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:05"
+- titolo: "Registo comunicazioni adempimenti ANAC"
+  fonte: "ANAC"
+  URLinfo: "https://dati.anticorruzione.it/#/l190"
+  nome: registroComunicazioniANAC
+  tipo: multiplo
+  file:
+    formato: json
+  cron: "10 0 */1 * *"
+  cronDescrizione: "ogni giorno alle 9:05"
