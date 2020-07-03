@@ -1,0 +1,6 @@
+- titolo: "Lista dei comuni italiani"
+  fonte: "ISTAT"
+  URL: "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"
+  nome: listaComuniISTAT
+  tipo: singolo
+  formato: csv
