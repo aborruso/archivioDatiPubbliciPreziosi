@@ -17,6 +17,6 @@ annocorrente=$(date +"%Y")
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
   for i in $(seq 2015 "$annocorrente"); do
-    curl -skL "$URLpath$i.json" | jq -c '.[]' >"$folder"/../../docs/"$nome"/l190-"$i".jsonl
+    curl -kL "$URLpath$i.json" | jq -c '.[]' >"$folder"/../../docs/"$nome"/l190-"$i".jsonl
   done
 fi

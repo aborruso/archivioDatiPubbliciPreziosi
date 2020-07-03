@@ -8,6 +8,7 @@
     separatore: ";"
   cron: "0 5 1 * *"
   cronDescrizione: "il primo giorno del messe alle 00:05"
+  dataInserimento: 2020-07-03
 - titolo: "Carburanti - Prezzi praticati"
   fonte: "Ministero sviluppo economico"
   URL: "https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv"
@@ -19,6 +20,7 @@
     separatore: ";"
   cron: "0 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:00"
+  dataInserimento: 2020-07-03
 - titolo: "Carburanti - Anagrafica degli impianti"
   fonte: "Ministero sviluppo economico"
   URL: "https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"
@@ -30,6 +32,7 @@
     separatore: ";"
   cron: "5 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:05"
+  dataInserimento: 2020-07-03
 - titolo: "Registo comunicazioni adempimenti ANAC"
   fonte: "ANAC"
   URLinfo: "https://dati.anticorruzione.it/#/l190"
@@ -39,3 +42,4 @@
     formato: json
   cron: "10 0 */1 * *"
   cronDescrizione: "il primo giorno del mese alle ore 00:10"
+  dataInserimento: 2020-07-03
