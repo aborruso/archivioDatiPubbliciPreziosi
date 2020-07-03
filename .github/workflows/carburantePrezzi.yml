@@ -1,10 +1,10 @@
-name: crea archivio della prezzo dei carburanti
+name: crea archivio prezzo dei carburanti
 
 on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '0 5 1 * *'
+    - cron:  '0 9 */1 * *'
 
 jobs:
   scheduled:
