@@ -1,7 +1,7 @@
 name: crea archivio prezzo dei carburanti
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '0 9 */1 * *'

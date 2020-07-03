@@ -1,7 +1,7 @@
 name: crea archivio della lista dei comuni pubblicata da ISTAT
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '0 5 1 * *'
