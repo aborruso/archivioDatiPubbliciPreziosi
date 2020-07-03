@@ -22,5 +22,5 @@
   nome: carburanteAngragraficaStazioni
   tipo: singolo
   formato: csv
-  cron: "0 9 */1 * *"
-  cronDescrizione: "ogni giorno alle 9:00"
+  cron: "5 9 */1 * *"
+  cronDescrizione: "ogni giorno alle 9:05"
