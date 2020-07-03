@@ -3,7 +3,9 @@
   URL: "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"
   nome: listaComuniISTAT
   tipo: singolo
-  formato: csv
+  file:
+    formato: csv
+    separatore: ";"
   cron: "0 5 1 * *"
   cronDescrizione: "il primo giorno del messe alle 00:05"
 - titolo: "Carburanti - Prezzi praticati"
@@ -12,7 +14,9 @@
   URLinfo: "https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti"
   nome: carburantePrezzi
   tipo: singolo
-  formato: csv
+  file:
+    formato: csv
+    separatore: ";"
   cron: "0 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:00"
 - titolo: "Carburanti - Anagrafica degli impianti"
@@ -21,6 +25,8 @@
   URLinfo: "https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti"
   nome: carburanteAngragraficaStazioni
   tipo: singolo
-  formato: csv
+  file:
+    formato: csv
+    separatore: ";"
   cron: "5 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:05"
