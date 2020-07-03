@@ -12,16 +12,6 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet e xq
-      run: |-
-        mkdir -p ~/bin
-        cp bin/mlr ~/bin
-        cp bin/scrape ~/bin
-        cd ~/bin
-        chmod +x mlr
-        chmod +x scrape
-        sudo apt-get install xmlstarlet
-        sudo pip install yq
     - name: scarica i dati
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
