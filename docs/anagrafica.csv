@@ -1,0 +1,4 @@
+titolo,fonte,URL,nome,tipo,file:formato,file:separatore,cron,cronDescrizione,URLinfo
+Lista dei comuni italiani,ISTAT,https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv,listaComuniISTAT,singolo,csv,;,0 5 1 * *,il primo giorno del messe alle 00:05,
+Carburanti - Prezzi praticati,Ministero sviluppo economico,https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv,carburantePrezzi,singolo,csv,;,0 9 */1 * *,ogni giorno alle 9:00,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+Carburanti - Anagrafica degli impianti,Ministero sviluppo economico,https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv,carburanteAngragraficaStazioni,singolo,csv,;,5 9 */1 * *,ogni giorno alle 9:05,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
