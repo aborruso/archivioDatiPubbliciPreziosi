@@ -14,7 +14,7 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
 
-  cd "$folder"/../../docs/"$nome"
-  curl -skL -O "$URL"
+  curl -skL "$URL" >"$folder"/../../docs/"$nome"/prezzo_alle_8.csv
+  sed -i 1d "$folder"/../../docs/"$nome"/prezzo_alle_8.csv
 
 fi
