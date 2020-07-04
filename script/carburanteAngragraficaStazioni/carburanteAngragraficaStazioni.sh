@@ -14,7 +14,8 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
 
-  cd "$folder"/../../docs/"$nome"
-  curl -skL -O "$URL"
+  curl -skL "$URL" >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+  sed -i 1d "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+  mlr -I  --csvlite --fs ";" sort -n idImpianto  "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
 fi
