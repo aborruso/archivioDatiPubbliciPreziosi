@@ -54,6 +54,8 @@
   tipo: singolo
   file:
     formato: csv
+    separatore: ","
+    encoding: "UTF-8"
   cron: "10 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:10"
   dataInserimento: 2020-07-05
