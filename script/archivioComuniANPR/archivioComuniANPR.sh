@@ -15,5 +15,6 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 if [ $code -eq 200 ]; then
 
   curl -skL "$URL" >"$folder"/../../docs/"$nome"/ANPR_archivio_comuni.csv
+  mlr -I --csv sort -n ID "$folder"/../../docs/"$nome"/ANPR_archivio_comuni.csv
 
 fi
