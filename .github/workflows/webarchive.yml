@@ -15,6 +15,13 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
+    - name: installa miller e yq
+      run: |-
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cd ~/bin
+        chmod +x mlr
+        sudo pip install yq
     - name: lancia aggiornamento
       env:
         SUPER_SECRET: ${{ secrets.WEBARCHIVE }}
