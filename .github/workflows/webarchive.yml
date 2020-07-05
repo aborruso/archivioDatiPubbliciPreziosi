@@ -1,4 +1,4 @@
-name: aggiornamento su archive
+name: aggiornamento giornaliero su archive
 
 on:
   push:
