@@ -12,8 +12,6 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
     - name: installa miller e yq
       run: |-
         mkdir -p ~/bin
