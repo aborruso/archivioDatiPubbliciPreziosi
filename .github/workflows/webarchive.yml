@@ -1,9 +1,16 @@
 name: aggiornamento giornaliero su archive
 
 on:
+<<<<<<< HEAD
 #  push:
   repository_dispatch:
   schedule:
+=======
+  push:
+  repository_dispatch:
+  schedule:
+# le ore github sono -2, quindi se inserisco 5, sono le 7 di mattina italiane (con la variazione solare, legale)
+>>>>>>> a52bb629cadf57ad33b16adcb5a48866a7c70e8d
     - cron:  '00 5 */1 * *'
 
 jobs:
