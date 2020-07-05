@@ -56,7 +56,7 @@
     formato: csv
     separatore: ","
     encoding: "UTF-8"
-  cron: "10 9 */1 * *"
-  cronDescrizione: "ogni giorno alle 9:10"
+  cron: "10 9 * * MON"
+  cronDescrizione: "ogni lunedì alle 9:10"
   dataInserimento: 2020-07-05
   licenza: "CC BY 4.0"
