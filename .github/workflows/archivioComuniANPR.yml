@@ -12,6 +12,12 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller
+      run: |-
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cd ~/bin
+        chmod +x mlr
     - name: scarica i dati
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
