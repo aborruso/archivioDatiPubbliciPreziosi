@@ -47,3 +47,14 @@
   cronDescrizione: "il primo giorno del mese alle ore 00:10"
   dataInserimento: 2020-07-03
   licenza: "IODL"
+- titolo: "ANPR Archivio comuni"
+  fonte: "ANPR"
+  URLinfo: "https://www.anpr.interno.it/portale/documents/20182/50186/ANPR_archivio_comuni.csv"
+  nome: archivioComuniANPR
+  tipo: singolo
+  file:
+    formato: csv
+  cron: "10 9 */1 * *"
+  cronDescrizione: "ogni giorno alle 9:10"
+  dataInserimento: 2020-07-05
+  licenza: "CC BY 4.0"
