@@ -1,0 +1,18 @@
+name: aggiornamento su archive
+
+on:
+#  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '00 10 */1 * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: lancia aggiornamento
+      env:
+        SUPER_SECRET: ${{ secrets.WEBARCHIVE }}
+      run: |-
+        chmod +x ./script/webarchive.sh
+        ./script/webarchive.sh
