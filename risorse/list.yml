@@ -10,19 +10,6 @@
   cronDescrizione: "il primo giorno del messe alle 00:05"
   dataInserimento: 2020-07-03
   licenza: "CC BY 3.0"
-- titolo: "Carburanti - Prezzi praticati"
-  fonte: "Ministero sviluppo economico"
-  URL: "https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv"
-  URLinfo: "https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti"
-  nome: carburantePrezzi
-  tipo: singolo
-  file:
-    formato: csv
-    separatore: ";"
-  cron: "0 9 */1 * *"
-  cronDescrizione: "ogni giorno alle 9:00"
-  dataInserimento: 2020-07-03
-  licenza: "IODL 2.0"
 - titolo: "Carburanti - Anagrafica degli impianti"
   fonte: "Ministero sviluppo economico"
   URL: "https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"
