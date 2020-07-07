@@ -59,7 +59,7 @@
   file:
     formato: csv
     encoding: "UTF-8"
-  cron: "ogni giorno alle 9:15"
+  cron: "15 9 */1 * *"
   cronDescrizione: "ogni giorno alle 9:15"
   dataInserimento: 2020-07-07
   licenza: "CC BY 4.0"
