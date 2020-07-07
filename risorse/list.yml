@@ -10,6 +10,7 @@
   cronDescrizione: "il primo giorno del messe alle 00:05"
   dataInserimento: 2020-07-03
   licenza: "CC BY 3.0"
+  ready: true
 - titolo: "Carburanti - Anagrafica degli impianti"
   fonte: "Ministero sviluppo economico"
   URL: "https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"
@@ -23,6 +24,7 @@
   cronDescrizione: "ogni giorno alle 9:05"
   dataInserimento: 2020-07-03
   licenza: "IODL 2.0"
+  ready: true
 - titolo: "Registo comunicazioni adempimenti ANAC"
   fonte: "ANAC"
   URLinfo: "https://dati.anticorruzione.it/#/l190"
@@ -34,6 +36,7 @@
   cronDescrizione: "il primo giorno del mese alle ore 00:10"
   dataInserimento: 2020-07-03
   licenza: "IODL"
+  ready: true
 - titolo: "ANPR Archivio comuni"
   fonte: "ANPR"
   URLinfo: "https://www.anpr.interno.it/portale/documents/20182/50186/ANPR_archivio_comuni.csv"
@@ -46,4 +49,17 @@
   cron: "10 9 * * MON"
   cronDescrizione: "ogni lunedì alle 9:10"
   dataInserimento: 2020-07-05
+  licenza: "CC BY 4.0"
+- titolo: "Lista dataset del portale open data nazionale"
+  fonte: "portale open data nazionale"
+  URL: "https://www.dati.gov.it/api/3/action/package_list"
+  URLinfo: "https://dati.gov.it/sviluppatori"
+  nome: datasetDatiGovIt
+  tipo: singolo
+  file:
+    formato: csv
+    encoding: "UTF-8"
+  cron: "ogni giorno alle 9:15"
+  cronDescrizione: "ogni giorno alle 9:15"
+  dataInserimento: 2020-07-07
   licenza: "CC BY 4.0"
