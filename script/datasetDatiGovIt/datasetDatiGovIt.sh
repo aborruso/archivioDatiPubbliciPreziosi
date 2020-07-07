@@ -11,7 +11,7 @@ nome="datasetDatiGovIt"
 URL="https://www.dati.gov.it/api/3/action/package_list"
 
 # leggi la risposta HTTP del sito
-code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
+code=$(curl -k -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
