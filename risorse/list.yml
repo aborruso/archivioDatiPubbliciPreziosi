@@ -50,6 +50,7 @@
   cronDescrizione: "ogni lunedì alle 9:10"
   dataInserimento: 2020-07-05
   licenza: "CC BY 4.0"
+  ready: true
 - titolo: "Lista dataset del portale open data nazionale"
   fonte: "portale open data nazionale"
   URL: "https://www.dati.gov.it/api/3/action/package_list"
@@ -63,3 +64,4 @@
   cronDescrizione: "ogni giorno alle 9:15"
   dataInserimento: 2020-07-07
   licenza: "CC BY 4.0"
+  ready: true
