@@ -3,3 +3,8 @@
   URL: "https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti"
   nome: carburantiPrezziImpianti
   dataInserimento: 2020-07-05
+- titolo: "Sistema Informativo Monitoraggio Opere Incompiute -Anagrafe Opere Incompiute"
+  fonte: "Ministero delle Infrastrutture e dei Trasporti"
+  URL: "https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page"
+  nome: anagrafeOpereIncompiute
+  dataInserimento: 2020-07-09
