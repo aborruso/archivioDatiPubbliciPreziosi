@@ -25,7 +25,7 @@
   dataInserimento: 2020-07-03
   licenza: "IODL 2.0"
   ready: true
-- titolo: "Registo comunicazioni adempimenti ANAC"
+- titolo: "Registro comunicazioni adempimenti ANAC"
   fonte: "ANAC"
   URLinfo: "https://dati.anticorruzione.it/#/l190"
   nome: registroComunicazioniANAC
