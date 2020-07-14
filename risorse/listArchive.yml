@@ -8,3 +8,8 @@
   URL: "https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page"
   nome: anagrafeOpereIncompiute
   dataInserimento: 2020-07-09
+- titolo: "Anagrafe delle Biblioteche Italiane"
+  fonte: "ICCU - Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche"
+  URL: "https://anagrafe.iccu.sbn.it/it/open-data/"
+  nome: anagrafeBibliotecheItaliane
+  dataInserimento: 2020-07-14
