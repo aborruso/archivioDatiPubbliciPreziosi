@@ -1,10 +1,10 @@
-name: crea archivio anagrafica delle stazioni di carburanti
+name: crea archivio anagrafica delle biblioteche italiane
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '5 9 */1 * *'
+    - cron:  '20 9 */1 * *'
 
 jobs:
   scheduled:

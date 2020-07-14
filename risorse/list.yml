@@ -75,8 +75,8 @@
     formato: csv
     encoding: "UTF-8"
     separatore: ";"
-  cron: "15 9 */1 * *"
-  cronDescrizione: "ogni giorno alle 9:15"
+  cron: "20 9 */1 * *"
+  cronDescrizione: "ogni giorno alle 9:20"
   dataInserimento: 2020-07-14
   licenza: "CC0"
   ready: true
