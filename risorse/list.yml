@@ -65,3 +65,18 @@
   dataInserimento: 2020-07-07
   licenza: "CC BY 4.0"
   ready: true
+- titolo: "Anagrafe delle Biblioteche Italiane - Territorio"
+  fonte: "ICCU - Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche"
+  URL: "http://opendata.anagrafe.iccu.sbn.it/territorio.zip"
+  URLinfo: "https://anagrafe.iccu.sbn.it/it/open-data/"
+  nome: anagrafeBibliotecheItalianeTerritorio
+  tipo: singolo
+  file:
+    formato: csv
+    encoding: "UTF-8"
+    separatore: ";"
+  cron: "15 9 */1 * *"
+  cronDescrizione: "ogni giorno alle 9:15"
+  dataInserimento: 2020-07-14
+  licenza: "CC0"
+  ready: true
