@@ -23,6 +23,7 @@ jobs:
       env:
         SUPER_SECRET: ${{ secrets.WEBARCHIVE }}
       run: |-
+        export PATH=$PATH:~/bin
         chmod +x ./script/webarchive.sh
         ./script/webarchive.sh
     - name: Committa e pusha se ci sono variazioni nei dati
