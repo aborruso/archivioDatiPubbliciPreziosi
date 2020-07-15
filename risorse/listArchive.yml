@@ -3,13 +3,16 @@
   URL: "https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti"
   nome: carburantiPrezziImpianti
   dataInserimento: 2020-07-05
+  if_not_archived_within: 12h
 - titolo: "Sistema Informativo Monitoraggio Opere Incompiute -Anagrafe Opere Incompiute"
   fonte: "Ministero delle Infrastrutture e dei Trasporti"
   URL: "https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page"
   nome: anagrafeOpereIncompiute
   dataInserimento: 2020-07-09
+  if_not_archived_within: 30d
 - titolo: "Anagrafe delle Biblioteche Italiane"
   fonte: "ICCU - Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche"
   URL: "https://anagrafe.iccu.sbn.it/it/open-data/"
   nome: anagrafeBibliotecheItaliane
   dataInserimento: 2020-07-14
+  if_not_archived_within: 7d
