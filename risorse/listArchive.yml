@@ -16,3 +16,9 @@
   nome: anagrafeBibliotecheItaliane
   dataInserimento: 2020-07-14
   if_not_archived_within: 7d
+- titolo: "Elenco degli alberi monumentali d'Italia"
+  fonte: "Ministero delle politiche agricole alimentari e forestali"
+  URL: "https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260"
+  nome: alberiMonumentali
+  dataInserimento: 2020-07-29
+  if_not_archived_within: 90d
