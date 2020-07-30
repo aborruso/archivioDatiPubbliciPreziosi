@@ -22,3 +22,9 @@
   nome: alberiMonumentali
   dataInserimento: 2020-07-29
   if_not_archived_within: 90d
+- titolo: "Una selezione di API REST italiane a disposizione degli sviluppatori"
+  fonte: "Developers Italia"
+  URL: "https://developers.italia.it/it/api/"
+  nome: apiRestItalia
+  dataInserimento: 2020-07-29
+  if_not_archived_within: 7d
