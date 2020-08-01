@@ -19,3 +19,7 @@ if [ $code -eq 200 ]; then
   mlr -I --csv sort -f label "$folder"/../../docs/"$nome"/"$nome".csv
 
 fi
+
+# estrai dati aggregati
+<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_provinces' | mlr --j2c unsparsify >"$folder"/../../docs/"$nome"/aggr_by_provinces.csv
+<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_regions' | mlr --j2c unsparsify >"$folder"/../../docs/"$nome"/aggr_by_regions.csv
