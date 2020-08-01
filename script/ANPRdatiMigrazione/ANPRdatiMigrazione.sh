@@ -21,5 +21,5 @@ if [ $code -eq 200 ]; then
 fi
 
 # estrai dati aggregati
-<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_provinces' | mlr --j2c unsparsify >"$folder"/../../docs/"$nome"/aggr_by_provinces.csv
-<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_regions' | mlr --j2c unsparsify >"$folder"/../../docs/"$nome"/aggr_by_regions.csv
+<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_provinces' | mlr --j2c unsparsify then sort -f provincia >"$folder"/../../docs/"$nome"/aggr_by_provinces.csv
+<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_regions' | mlr --j2c unsparsify then sort -f  regione>"$folder"/../../docs/"$nome"/aggr_by_regions.csv
