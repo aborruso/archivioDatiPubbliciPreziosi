@@ -33,7 +33,7 @@ Cosenza,Calabria,Sud,30/07/2020,ACQUAPPESA,1859,0,,,,
 Vibo-Valentia,Calabria,Sud,,ACQUARO,2042,1299,,,,09/07/2020
 Ascoli-Piceno,Marche,Centro,,ACQUASANTA TERME,2787,0,,,,
 Terni,Umbria,Centro,,ACQUASPARTA,4684,0,30/12/2020,20/12/2020,31/12/2020,
-Campobasso,Molise,Sud,,ACQUAVIVA COLLECROCE,644,0,,,,
+Campobasso,Molise,Sud,31/07/2020,ACQUAVIVA COLLECROCE,644,0,,,,
 Isernia,Molise,Sud,,ACQUAVIVA D'ISERNIA,399,154,,,,24/07/2020
 Bari,Puglia,Sud,,ACQUAVIVA DELLE FONTI,20496,1277,,,,09/12/2019
 Ascoli-Piceno,Marche,Centro,02/03/2020,ACQUAVIVA PICENA,3803,0,,,,
@@ -2986,7 +2986,7 @@ Novara,Piemonte,Nord-Ovest,,GARBAGNA NOVARESE,1435,50,,,,25/09/2019
 Milano,Lombardia,Nord-Ovest,,GARBAGNATE MILANESE,27369,873,,,,20/12/2018
 Lecco,Lombardia,Nord-Ovest,,GARBAGNATE MONASTERO,2507,67,,,,22/01/2020
 Verona,Veneto,Nord-Est,,GARDA,4141,343,,,,05/11/2019
-Brescia,Lombardia,Nord-Ovest,24/07/2020,GARDONE RIVIERA,2631,0,31/07/2020,31/07/2020,21/08/2020,
+Brescia,Lombardia,Nord-Ovest,,GARDONE RIVIERA,2671,219,,,,31/07/2020
 Brescia,Lombardia,Nord-Ovest,,GARDONE VAL TROMPIA,11615,599,,,,07/12/2018
 Cuneo,Piemonte,Nord-Ovest,,GARESSIO,3074,322,,,,28/11/2018
 Novara,Piemonte,Nord-Ovest,,GARGALLO,1777,42,,,,29/10/2019
@@ -3263,7 +3263,7 @@ Roma,Lazio,Centro,,GUIDONIA MONTECELIO,89256,0,,01/12/2019,31/12/2019,
 Modena,Emilia Romagna,Nord-Est,,GUIGLIA,3953,754,,,,27/05/2020
 Chieti,Abruzzo,Sud,,GUILMI,416,619,,,,17/12/2019
 Verbania,Piemonte,Nord-Ovest,,GURRO,193,190,,,,11/03/2020
-,Sardegna,,15/07/2020,GUSPINI,11743,0,,,,
+,Sardegna,,31/07/2020,GUSPINI,11743,0,,,,
 Brescia,Lombardia,Nord-Ovest,,GUSSAGO,16765,488,,,,23/10/2019
 Cremona,Lombardia,Nord-Ovest,,GUSSOLA,2698,172,,,,12/12/2019
 Aosta,Valle D'Aosta,Nord-Ovest,,HONE,1156,26,,,,16/10/2018
@@ -4999,7 +4999,7 @@ Potenza,Basilicata,Sud,05/06/2020,PESCOPAGANO,1852,0,,,,
 Isernia,Molise,Sud,,PESCOPENNATARO,257,231,,,,19/11/2019
 Rieti,Lazio,Centro,,PESCOROCCHIANO,1978,276,,,,19/02/2020
 Pescara,Abruzzo,Sud,,PESCOSANSONESCO,488,268,,,,09/01/2020
-Frosinone,Lazio,Centro,,PESCOSOLIDO,1519,0,,,,
+Frosinone,Lazio,Centro,31/07/2020,PESCOSOLIDO,1519,0,,,,
 Milano,Lombardia,Nord-Ovest,,PESSANO CON BORNAGO,9063,285,,,,20/12/2017
 Cremona,Lombardia,Nord-Ovest,09/10/2019,PESSINA CREMONESE,624,0,,17/09/2019,19/09/2019,
 Torino,Piemonte,Nord-Ovest,,PESSINETTO,619,47,,,,11/12/2019
@@ -6219,7 +6219,7 @@ Salerno,Campania,Sud,,SAN PIETRO AL TANAGRO,1703,0,,,,
 Catanzaro,Calabria,Sud,,SAN PIETRO APOSTOLO,1621,365,,,,03/10/2019
 Isernia,Molise,Sud,17/09/2018,SAN PIETRO AVELLANA,518,0,,,,
 Catania,Sicilia,Isole,,SAN PIETRO CLARENZA,7908,0,,,,
-Belluno,Veneto,Nord-Est,07/07/2020,SAN PIETRO DI CADORE,1601,0,31/07/2020,27/07/2020,07/08/2020,
+Belluno,Veneto,Nord-Est,,SAN PIETRO DI CADORE,1587,195,,,,31/07/2020
 Reggio-Calabria,Calabria,Sud,,SAN PIETRO DI CARIDA',1144,0,,,,
 Treviso,Veneto,Nord-Est,,SAN PIETRO DI FELETTO,5153,823,,,,12/11/2019
 Verona,Veneto,Nord-Est,,SAN PIETRO DI MORUBIO,3029,225,,,,27/11/2019
@@ -7211,7 +7211,7 @@ Trento,Trentino Alto Adige,Nord-Est,,TRAMBILENO,1487,213,,,,16/07/2020
 Salerno,Campania,Sud,,TRAMONTI,4145,387,,,,05/12/2019
 Pordenone,Friuli Venezia Giulia,Nord-Est,,TRAMONTI DI SOPRA,291,416,,,,18/07/2019
 Pordenone,Friuli Venezia Giulia,Nord-Est,,TRAMONTI DI SOTTO,346,291,,,,09/07/2019
-Potenza,Basilicata,Sud,09/04/2020,TRAMUTOLA,3036,0,31/07/2020,31/07/2020,31/07/2020,
+Potenza,Basilicata,Sud,,TRAMUTOLA,2974,1997,,,,31/07/2020
 Torino,Piemonte,Nord-Ovest,,TRANA,3860,220,,,,23/11/2018
 Barletta-Andria-Trani,Puglia,Sud,,TRANI,56213,4135,,,,25/11/2019
 Sondrio,Lombardia,Nord-Ovest,,TRAONA,2857,241,,,,15/01/2020
@@ -7810,7 +7810,7 @@ Macerata,Marche,Centro,,VISSO,1036,49,,,,22/10/2019
 Pavia,Lombardia,Nord-Ovest,,VISTARINO,1578,12,,,,20/12/2019
 Torino,Piemonte,Nord-Ovest,,VISTRORIO,533,9,,,,27/12/2018
 Trapani,Sicilia,Isole,,VITA,1881,356,,,,29/04/2020
-Viterbo,Lazio,Centro,28/04/2020,VITERBO,67804,0,,,,
+Viterbo,Lazio,Centro,31/07/2020,VITERBO,67804,0,,,,
 Frosinone,Lazio,Centro,,VITICUSO,305,197,,,,01/10/2019
 Pordenone,Friuli Venezia Giulia,Nord-Est,,VITO D'ASIO,712,971,,,,31/05/2019
 Viterbo,Lazio,Centro,05/02/2020,VITORCHIANO,5228,0,,,,
