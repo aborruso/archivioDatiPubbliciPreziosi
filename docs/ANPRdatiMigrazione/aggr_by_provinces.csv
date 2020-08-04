@@ -12,7 +12,7 @@ Puglia,Bari,30,1065550,80092,4,67091,0
 Puglia,Barletta-Andria-Trani,9,380842,22287,0,0,0
 Veneto,Belluno,57,197606,51719,0,0,0
 Campania,Benevento,58,168990,45082,6,74345,0
-Lombardia,Bergamo,205,984106,50115,19,83196,0
+Lombardia,Bergamo,206,985191,50168,18,82077,0
 Piemonte,Biella,68,169898,12124,5,4928,0
 Emilia Romagna,Bologna,54,1011402,37955,1,6081,0
 Trentino Alto Adige,Bolzano,9,21992,2030,12,36721,0
@@ -61,7 +61,7 @@ Lombardia,Monza-Brianza,49,764603,23375,3,70148,0
 Campania,Napoli,55,2149263,102526,8,132253,0
 Piemonte,Novara,80,360709,19119,6,7543,0
 Sardegna,Nuoro,60,169849,17052,5,7307,0
-Sardegna,Oristano,83,154895,15547,4,2315,0
+Sardegna,Oristano,84,155122,15596,3,2084,0
 Veneto,Padova,98,902717,53288,1,7573,0
 Sicilia,Palermo,54,1000321,94105,8,96450,0
 Emilia Romagna,Parma,39,445014,25354,0,0,0
@@ -73,7 +73,7 @@ Emilia Romagna,Piacenza,38,256757,16178,4,12590,0
 Toscana,Pisa,37,423378,14558,0,0,0
 Toscana,Pistoia,20,293589,13901,0,0,0
 Friuli Venezia Giulia,Pordenone,42,218795,43060,5,84727,0
-Basilicata,Potenza,54,233339,64366,13,40871,0
+Basilicata,Potenza,54,233339,64366,14,41702,0
 Toscana,Prato,7,258069,5702,0,0,0
 Sicilia,Ragusa,6,173679,15200,3,27419,0
 Emilia Romagna,Ravenna,18,392160,12641,0,0,0
@@ -81,7 +81,7 @@ Calabria,Reggio-Calabria,44,368338,45993,21,77709,0
 Emilia Romagna,Reggio-Emilia,40,351217,15935,1,171879,0
 Lazio,Rieti,34,62918,3642,11,53320,0
 Emilia Romagna,Rimini,24,339677,25316,0,0,0
-Lazio,Roma,82,1169334,30093,16,2944568,0
+Lazio,Roma,82,1169334,30093,17,2955232,115
 Veneto,Rovigo,47,179617,13104,2,3568,0
 Campania,Salerno,103,806626,92696,10,31474,0
 Sardegna,Sassari,91,490328,31133,0,0,0
