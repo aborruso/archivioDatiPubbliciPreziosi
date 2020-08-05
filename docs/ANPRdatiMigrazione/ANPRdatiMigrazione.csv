@@ -193,7 +193,7 @@ Cosenza,Calabria,Sud,,ALTILIA,671,507,,,,29/05/2020
 Chieti,Abruzzo,Sud,,ALTINO,3137,422,,,,16/10/2019
 Vicenza,Veneto,Nord-Est,,ALTISSIMO,2168,446,,,,17/06/2020
 Treviso,Veneto,Nord-Est,,ALTIVOLE,6999,979,,,,14/11/2018
-Cuneo,Piemonte,Nord-Ovest,,ALTO,130,0,,,,
+Cuneo,Piemonte,Nord-Ovest,04/08/2020,ALTO,130,0,,,,
 Bologna,Emilia Romagna,Nord-Est,,ALTO RENO TERME,6961,433,,,,29/11/2019
 Vercelli,Piemonte,Nord-Ovest,,ALTO SERMENZA,155,17,,,,03/04/2019
 Palermo,Sicilia,Isole,,ALTOFONTE,10211,0,,,,
@@ -1258,7 +1258,7 @@ Venezia,Veneto,Nord-Est,,CAORLE,11495,804,,,,30/12/2019
 Piacenza,Emilia Romagna,Nord-Est,,CAORSO,4823,306,,,,05/10/2018
 Salerno,Campania,Sud,,CAPACCIO PAESTUM,22803,0,,,,
 Palermo,Sicilia,Isole,,CAPACI,11527,0,,,,
-Grosseto,Toscana,Centro,29/04/2020,CAPALBIO,4076,0,04/08/2020,04/08/2020,04/08/2020,
+Grosseto,Toscana,Centro,,CAPALBIO,3999,108,,,,04/08/2020
 Pisa,Toscana,Centro,,CAPANNOLI,6413,101,,,,14/12/2018
 Lucca,Toscana,Centro,,CAPANNORI,46979,6276,,,,28/01/2020
 Roma,Lazio,Centro,,CAPENA,11051,320,,,,09/10/2019
@@ -2283,7 +2283,7 @@ Avellino,Campania,Sud,26/03/2019,CONTRADA,3067,0,,,,
 Teramo,Abruzzo,Sud,,CONTROGUERRA,2315,244,,,,19/05/2020
 Salerno,Campania,Sud,11/12/2018,CONTRONE,869,0,,,,
 Salerno,Campania,Sud,,CONTURSI TERME,3332,0,,,,
-Bari,Puglia,Sud,26/07/2020,CONVERSANO,26163,0,06/08/2020,03/08/2020,08/08/2020,
+Bari,Puglia,Sud,04/08/2020,CONVERSANO,26163,0,06/08/2020,03/08/2020,08/08/2020,
 Avellino,Campania,Sud,,CONZA DELLA CAMPANIA,1296,1835,,,,08/01/2020
 Alessandria,Piemonte,Nord-Ovest,,CONZANO,954,176,,,,13/06/2019
 Lecce,Puglia,Sud,,COPERTINO,24140,0,,,,
@@ -2484,7 +2484,7 @@ Belluno,Veneto,Nord-Est,,DANTA DI CADORE,445,0,,,,
 Brescia,Lombardia,Nord-Ovest,,DARFO BOARIO TERME,15709,630,,,,30/07/2018
 Vibo-Valentia,Calabria,Sud,,DASA',1155,577,,,,10/12/2018
 Genova,Liguria,Nord-Ovest,,DAVAGNA,1839,147,,,,30/04/2020
-Varese,Lombardia,Nord-Ovest,15/07/2020,DAVERIO,3066,0,,,,
+Varese,Lombardia,Nord-Ovest,15/07/2020,DAVERIO,3066,0,27/08/2020,27/08/2020,27/08/2020,
 Catanzaro,Calabria,Sud,,DAVOLI,5530,895,,,,07/07/2020
 Sondrio,Lombardia,Nord-Ovest,,DAZIO,457,28,,,,10/06/2019
 Cagliari,Sardegna,Isole,,DECIMOMANNU,8370,331,,,,09/10/2019
@@ -2673,7 +2673,7 @@ Genova,Liguria,Nord-Ovest,,FASCIA,67,13,,,,07/02/2020
 Pisa,Toscana,Centro,,FAUGLIA,3689,116,,,,01/08/2018
 Cuneo,Piemonte,Nord-Ovest,,FAULE,474,84,,,,27/09/2019
 Genova,Liguria,Nord-Ovest,,FAVALE DI MALVARO,459,332,,,,05/12/2018
-Agrigento,Sicilia,Isole,11/03/2020,FAVARA,32300,0,,,,
+Agrigento,Sicilia,Isole,11/03/2020,FAVARA,32300,0,29/09/2020,01/09/2020,30/09/2020,
 Trapani,Sicilia,Isole,,FAVIGNANA,4337,702,,,,06/12/2018
 Torino,Piemonte,Nord-Ovest,,FAVRIA,5252,162,,,,07/11/2018
 Cuneo,Piemonte,Nord-Ovest,,FEISOGLIO,310,151,,,,28/06/2018
@@ -3695,7 +3695,7 @@ Como,Lombardia,Nord-Ovest,,MAGREGLIO,661,10,,,,21/11/2019
 Catanzaro,Calabria,Sud,,MAIDA,4679,0,,,,
 Cosenza,Calabria,Sud,,MAIERA',1222,0,,,,
 Vibo-Valentia,Calabria,Sud,,MAIERATO,2125,1088,,,,05/12/2019
-Ancona,Marche,Centro,09/07/2020,MAIOLATI SPONTINI,6198,0,,,,
+Ancona,Marche,Centro,09/07/2020,MAIOLATI SPONTINI,6198,0,25/08/2020,12/08/2020,08/09/2020,
 Rimini,Emilia Romagna,Nord-Est,,MAIOLO,824,0,,,,
 Salerno,Campania,Sud,,MAIORI,5553,909,,,,12/11/2019
 Lodi,Lombardia,Nord-Ovest,03/06/2019,MAIRAGO,1387,0,,29/11/2019,05/12/2019,
@@ -4316,7 +4316,7 @@ Siena,Toscana,Centro,,MONTERONI D'ARBIA,9085,199,,,,21/12/2018
 Lecce,Puglia,Sud,,MONTERONI DI LECCE,13791,895,,,,18/11/2019
 Viterbo,Lazio,Centro,20/12/2019,MONTEROSI,4550,0,27/08/2020,16/08/2020,31/08/2020,
 La-Spezia,Liguria,Nord-Est,,MONTEROSSO AL MARE,1421,968,,,,26/08/2019
-Ragusa,Sicilia,Isole,24/07/2020,MONTEROSSO ALMO,2954,0,22/09/2020,22/09/2020,22/09/2020,
+Ragusa,Sicilia,Isole,24/07/2020,MONTEROSSO ALMO,2954,0,30/09/2020,30/09/2020,30/09/2020,
 Vibo-Valentia,Calabria,Sud,,MONTEROSSO CALABRO,1658,0,14/01/2020,01/01/2020,31/01/2020,
 Cuneo,Piemonte,Nord-Ovest,05/07/2017,MONTEROSSO GRANA,530,0,,,,
 Roma,Lazio,Centro,,MONTEROTONDO,41809,1007,,,,14/12/2018
@@ -4808,7 +4808,7 @@ Brescia,Lombardia,Nord-Ovest,,PAITONE,2134,94,,,,21/11/2019
 Bergamo,Lombardia,Nord-Ovest,,PALADINA,4074,174,,,,11/10/2018
 Modena,Emilia Romagna,Nord-Est,,PALAGANO,2134,254,,,,14/05/2018
 Taranto,Puglia,Sud,,PALAGIANELLO,7783,200,,,,04/11/2019
-Taranto,Puglia,Sud,12/06/2020,PALAGIANO,16109,0,01/01/2021,01/01/2021,01/01/2021,
+Taranto,Puglia,Sud,12/06/2020,PALAGIANO,16109,0,06/10/2020,06/10/2020,06/10/2020,
 Catania,Sicilia,Isole,,PALAGONIA,16337,3713,,,,21/11/2019
 Pisa,Toscana,Centro,,PALAIA,4559,209,,,,14/02/2019
 Parma,Emilia Romagna,Nord-Est,,PALANZANO,1086,65,,,,30/09/2019
@@ -6328,7 +6328,7 @@ Messina,Sicilia,Isole,,SANT'AGATA DI MILITELLO,12269,1318,,,,26/06/2020
 Foggia,Puglia,Sud,,SANT'AGATA DI PUGLIA,1909,0,,,,
 Rimini,Emilia Romagna,Nord-Est,,SANT'AGATA FELTRIA,2075,349,,,,05/12/2019
 Alessandria,Piemonte,Nord-Ovest,,SANT'AGATA FOSSILI,392,39,,,,27/06/2019
-Catania,Sicilia,Isole,30/04/2019,SANT'AGATA LI BATTIATI,9541,0,,,,
+Catania,Sicilia,Isole,30/04/2019,SANT'AGATA LI BATTIATI,9541,0,29/09/2020,29/09/2020,29/09/2020,
 Ravenna,Emilia Romagna,Nord-Est,,SANT'AGATA SUL SANTERNO,2887,91,,,,24/03/2017
 Napoli,Campania,Sud,,SANT'AGNELLO,8964,644,,,,17/10/2019
 Cuneo,Piemonte,Nord-Ovest,,SANT'ALBANO STURA,2372,147,,,,30/08/2018
@@ -6483,7 +6483,7 @@ Trento,Trentino Alto Adige,Nord-Est,,SANZENO,925,84,,,,09/12/2019
 Padova,Veneto,Nord-Est,,SAONARA,10470,241,,,,29/05/2019
 Messina,Sicilia,Isole,,SAPONARA,3845,450,,,,26/11/2019
 Udine,Friuli Venezia Giulia,Nord-Est,,SAPPADA,1322,0,02/09/2020,02/09/2020,30/09/2020,
-Salerno,Campania,Sud,29/01/2020,SAPRI,6716,0,01/01/2021,01/01/2021,01/01/2021,
+Salerno,Campania,Sud,04/08/2020,SAPRI,6716,0,01/01/2021,01/01/2021,01/01/2021,
 Cosenza,Calabria,Sud,,SARACENA,3747,0,,,,
 Roma,Lazio,Centro,,SARACINESCO,179,0,,,,
 Vicenza,Veneto,Nord-Est,,SARCEDO,5275,265,,,,06/06/2019
@@ -6622,7 +6622,7 @@ Catanzaro,Calabria,Sud,,SELLIA MARINA,7702,195,,,,10/12/2019
 Bolzano,Trentino Alto Adige,Nord-Est,05/03/2020,SELVA DEI MOLINI,1433,0,,,,
 Belluno,Veneto,Nord-Est,,SELVA DI CADORE,507,48,,,,13/12/2018
 Verona,Veneto,Nord-Est,,SELVA DI PROGNO,896,0,,,,
-Bolzano,Trentino Alto Adige,Nord-Est,08/06/2020,SELVA DI VAL GARDENA,2616,0,04/08/2020,01/08/2020,10/08/2020,
+Bolzano,Trentino Alto Adige,Nord-Est,,SELVA DI VAL GARDENA,2556,175,,,,04/08/2020
 Padova,Veneto,Nord-Est,,SELVAZZANO DENTRO,23183,764,,,,15/02/2019
 Bergamo,Lombardia,Nord-Ovest,,SELVINO,2022,41,,,,11/12/2019
 Sassari,Sardegna,Isole,,SEMESTENE,150,0,,,,
@@ -7528,7 +7528,7 @@ Treviso,Veneto,Nord-Est,,VEDELAGO,16718,2067,,,,07/05/2019
 Bergamo,Lombardia,Nord-Ovest,,VEDESETA,203,49,,,,24/09/2019
 Monza-Brianza,Lombardia,Nord-Ovest,,VEDUGGIO CON COLZANO,4337,112,,,,21/02/2019
 Padova,Veneto,Nord-Est,,VEGGIANO,4747,146,,,,15/05/2019
-Lecce,Puglia,Sud,19/05/2020,VEGLIE,13957,0,06/08/2020,06/08/2020,06/08/2020,
+Lecce,Puglia,Sud,19/05/2020,VEGLIE,13957,0,01/10/2020,01/10/2020,01/10/2020,
 Biella,Piemonte,Nord-Ovest,,VEGLIO,466,109,,,,26/11/2019
 Viterbo,Lazio,Centro,,VEJANO,2228,42,,,,11/11/2019
 Como,Lombardia,Nord-Ovest,,VELESO,201,86,,,,11/12/2019
