@@ -12,7 +12,7 @@ Puglia,Bari,30,1065550,80092,4,67091,0
 Puglia,Barletta-Andria-Trani,9,380842,22287,0,0,0
 Veneto,Belluno,57,197606,51719,0,0,0
 Campania,Benevento,58,168990,45082,6,74345,0
-Lombardia,Bergamo,206,985191,50168,18,82077,0
+Lombardia,Bergamo,207,996052,50483,17,71213,0
 Piemonte,Biella,68,169898,12124,5,4928,0
 Emilia Romagna,Bologna,54,1011402,37955,1,6081,0
 Trentino Alto Adige,Bolzano,10,24548,2205,11,34105,0
@@ -65,7 +65,7 @@ Sardegna,Oristano,84,155122,15596,3,2084,0
 Veneto,Padova,98,902717,53288,1,7573,0
 Sicilia,Palermo,54,1000321,94105,8,96450,0
 Emilia Romagna,Parma,39,445014,25354,0,0,0
-Lombardia,Pavia,170,435884,26627,5,20440,0
+Lombardia,Pavia,171,437749,26754,4,18509,0
 Umbria,Perugia,44,591982,27983,2,42877,0
 Marche,Pesaro-Urbino,49,345304,23298,2,6941,0
 Abruzzo,Pescara,41,189859,25386,1,6926,0
@@ -81,7 +81,7 @@ Calabria,Reggio-Calabria,44,368338,45993,21,77709,0
 Emilia Romagna,Reggio-Emilia,40,351217,15935,1,171879,0
 Lazio,Rieti,34,62918,3642,11,53320,0
 Emilia Romagna,Rimini,24,339677,25316,0,0,0
-Lazio,Roma,82,1169334,30093,17,2955232,115
+Lazio,Roma,83,1172574,30208,16,2951914,0
 Veneto,Rovigo,47,179617,13104,2,3568,0
 Campania,Salerno,103,806626,92696,10,31474,0
 Sardegna,Sassari,91,490328,31133,0,0,0
@@ -90,7 +90,7 @@ Toscana,Siena,33,264973,7653,2,3011,0
 Sicilia,Siracusa,18,323319,37936,1,31407,0
 Lombardia,Sondrio,76,180042,24680,0,0,0
 Puglia,Taranto,25,521052,27569,3,37524,0
-Abruzzo,Teramo,35,266689,29931,7,24806,0
+Abruzzo,Teramo,35,266689,29931,7,24782,0
 Umbria,Terni,14,148605,5870,4,11303,0
 Piemonte,Torino,295,2207978,122508,9,28602,0
 Sicilia,Trapani,20,392513,36956,2,13422,0
@@ -102,7 +102,7 @@ Lombardia,Varese,124,822123,54262,5,15734,0
 Veneto,Venezia,40,760267,47895,0,0,0
 Piemonte,Verbania,66,145633,17007,4,7174,0
 Piemonte,Vercelli,73,118842,8773,8,52199,0
-Veneto,Verona,74,816354,40310,8,31491,0
+Veneto,Verona,75,821629,40781,7,26147,0
 Calabria,Vibo-Valentia,28,56023,27134,10,39172,0
 Veneto,Vicenza,101,648208,67126,6,41679,0
 Lazio,Viterbo,43,175354,5710,7,95828,0
