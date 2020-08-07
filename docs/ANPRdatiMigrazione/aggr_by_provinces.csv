@@ -8,14 +8,14 @@ Toscana,Arezzo,31,290081,10525,4,51976,0
 Marche,Ascoli-Piceno,24,187906,13697,4,12446,0
 Piemonte,Asti,116,214311,14943,2,668,0
 Campania,Avellino,91,258318,87177,16,102677,0
-Puglia,Bari,30,1065550,80092,4,67091,0
+Puglia,Bari,31,1091646,82928,3,40928,0
 Puglia,Barletta-Andria-Trani,9,380842,22287,0,0,0
 Veneto,Belluno,57,197606,51719,0,0,0
 Campania,Benevento,58,168990,45082,6,74345,0
 Lombardia,Bergamo,207,996052,50483,17,71213,0
 Piemonte,Biella,68,169898,12124,5,4928,0
 Emilia Romagna,Bologna,54,1011402,37955,1,6081,0
-Trentino Alto Adige,Bolzano,10,24548,2205,11,34105,0
+Trentino Alto Adige,Bolzano,11,28553,2491,10,30189,0
 Lombardia,Brescia,178,1065462,44198,8,73590,0
 Puglia,Brindisi,17,355497,32528,2,24998,0
 Sardegna,Cagliari,15,410696,18713,0,0,0
@@ -36,7 +36,7 @@ Emilia Romagna,Ferrara,20,338747,14299,0,0,0
 Toscana,Firenze,40,992621,33588,1,17882,0
 Puglia,Foggia,40,506568,48745,10,56473,0
 Emilia Romagna,Forli-Cesena,29,392504,15915,0,0,0
-Lazio,Frosinone,77,463128,52146,4,5427,0
+Lazio,Frosinone,77,463128,52146,5,10039,0
 Liguria,Genova,56,819338,79904,6,8942,0
 Friuli Venezia Giulia,Gorizia,17,58170,4643,1,28022,0
 Toscana,Grosseto,27,217340,6997,1,4379,0
@@ -53,7 +53,7 @@ Toscana,Lucca,32,367625,41970,0,0,0
 Marche,Macerata,36,206421,37750,9,43921,0
 Lombardia,Mantova,60,393637,27642,1,4390,0
 Toscana,Massa-Carrara,17,195323,18468,0,0,0
-Basilicata,Matera,7,72722,5592,5,28608,0
+Basilicata,Matera,8,74116,6273,4,27133,0
 Sicilia,Messina,91,541701,79607,5,16197,0
 Lombardia,Milano,116,3096167,137226,7,83504,0
 Emilia Romagna,Modena,38,640020,26709,1,8444,0
@@ -72,7 +72,7 @@ Abruzzo,Pescara,41,189859,25386,1,6926,0
 Emilia Romagna,Piacenza,38,256757,16178,4,12590,0
 Toscana,Pisa,37,423378,14558,0,0,0
 Toscana,Pistoia,20,293589,13901,0,0,0
-Friuli Venezia Giulia,Pordenone,42,218795,43060,5,84727,0
+Friuli Venezia Giulia,Pordenone,43,219039,43235,4,84476,0
 Basilicata,Potenza,54,233339,64366,14,41702,0
 Toscana,Prato,7,258069,5702,0,0,0
 Sicilia,Ragusa,6,173679,15200,3,27419,0
@@ -90,7 +90,7 @@ Toscana,Siena,33,264973,7653,2,3011,0
 Sicilia,Siracusa,18,323319,37936,1,31407,0
 Lombardia,Sondrio,76,180042,24680,0,0,0
 Puglia,Taranto,25,521052,27569,3,37524,0
-Abruzzo,Teramo,35,266689,29931,7,24782,0
+Abruzzo,Teramo,36,267480,30202,6,23991,0
 Umbria,Terni,14,148605,5870,4,11303,0
 Piemonte,Torino,295,2207978,122508,9,28602,0
 Sicilia,Trapani,20,392513,36956,2,13422,0
@@ -103,6 +103,6 @@ Veneto,Venezia,40,760267,47895,0,0,0
 Piemonte,Verbania,66,145633,17007,4,7174,0
 Piemonte,Vercelli,73,118842,8773,8,52199,0
 Veneto,Verona,75,821629,40781,7,26147,0
-Calabria,Vibo-Valentia,28,56023,27134,10,39172,0
+Calabria,Vibo-Valentia,29,65283,28617,9,29861,0
 Veneto,Vicenza,101,648208,67126,6,41679,0
 Lazio,Viterbo,43,175354,5710,7,95828,0
