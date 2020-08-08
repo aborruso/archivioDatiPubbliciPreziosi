@@ -1,5 +1,5 @@
 regione,provincia,comuni_subentro,popolazione_subentro,popolazione_aire_subentro,comuni_presubentro,popolazione_presubentro,popolazione_aire_presubentro
-Sardegna,,96,322716,31016,5,16581,0
+Sardegna,,96,322716,31016,6,17929,0
 Sicilia,Agrigento,22,237006,79901,6,85235,0
 Piemonte,Alessandria,187,421756,38163,0,0,0
 Marche,Ancona,31,234631,21830,3,133211,0
@@ -46,11 +46,11 @@ Abruzzo,L'Aquila,85,229742,34808,10,7495,0
 Liguria,La-Spezia,28,206865,16061,1,5412,0
 Lazio,Latina,18,441744,19516,7,52444,0
 Puglia,Lecce,86,665287,89551,5,65619,0
-Lombardia,Lecco,74,310320,13704,4,16895,0
+Lombardia,Lecco,75,321670,14107,3,5290,0
 Toscana,Livorno,16,164031,8896,2,171545,0
 Lombardia,Lodi,57,227705,4952,3,2961,0
 Toscana,Lucca,32,367625,41970,0,0,0
-Marche,Macerata,36,206421,37750,9,43921,0
+Marche,Macerata,37,213816,38528,8,36709,0
 Lombardia,Mantova,60,393637,27642,1,4390,0
 Toscana,Massa-Carrara,17,195323,18468,0,0,0
 Basilicata,Matera,8,74116,6273,4,27133,0
