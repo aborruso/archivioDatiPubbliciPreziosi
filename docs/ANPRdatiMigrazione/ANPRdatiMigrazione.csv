@@ -275,7 +275,7 @@ Macerata,Marche,Centro,,APIRO,2116,652,,,,29/04/2020
 Benevento,Campania,Sud,,APOLLOSA,2655,414,,,,28/01/2019
 Como,Lombardia,Nord-Ovest,,APPIANO GENTILE,7770,1021,,,,21/11/2019
 Bolzano,Trentino Alto Adige,Nord-Est,,APPIANO SULLA STRADA DEL VINO,14963,0,,,,
-Macerata,Marche,Centro,,APPIGNANO,4200,0,,,,
+Macerata,Marche,Centro,11/08/2020,APPIGNANO,4200,0,,,,
 Ascoli-Piceno,Marche,Centro,,APPIGNANO DEL TRONTO,1740,253,,,,04/12/2018
 Sondrio,Lombardia,Nord-Ovest,,APRICA,1590,135,,,,19/06/2018
 Imperia,Liguria,Nord-Ovest,,APRICALE,616,0,,,,
@@ -1032,7 +1032,7 @@ Pesaro-Urbino,Marche,Centro,,CAGLI,8438,1146,,,,21/11/2018
 Cagliari,Sardegna,Isole,,CAGLIARI,154226,7961,,,,26/11/2018
 Como,Lombardia,Nord-Ovest,,CAGLIO,455,0,15/12/2020,14/12/2020,18/12/2020,
 L'Aquila,Abruzzo,Sud,,CAGNANO AMITERNO,1287,60,,,,06/07/2020
-Foggia,Puglia,Sud,30/07/2020,CAGNANO VARANO,7195,0,,,,
+Foggia,Puglia,Sud,11/08/2020,CAGNANO VARANO,7195,0,,,,
 Caserta,Campania,Sud,,CAIANELLO,1885,264,,,,17/12/2018
 Caserta,Campania,Sud,,CAIAZZO,5434,996,,,,06/02/2020
 Bolzano,Trentino Alto Adige,Nord-Est,11/06/2020,CAINES,396,0,,,,
@@ -2016,7 +2016,7 @@ Ragusa,Sicilia,Isole,06/02/2019,CHIARAMONTE GULFI,8137,0,,,,
 Sassari,Sardegna,Isole,,CHIARAMONTI,1592,648,,,,16/07/2019
 Treviso,Veneto,Nord-Est,,CHIARANO,3712,770,,,,03/07/2018
 Ancona,Marche,Centro,,CHIARAVALLE,14761,576,,,,06/12/2018
-Catanzaro,Calabria,Sud,28/07/2020,CHIARAVALLE CENTRALE,5544,0,,,,
+Catanzaro,Calabria,Sud,28/07/2020,CHIARAVALLE CENTRALE,5544,0,26/08/2020,26/08/2020,31/08/2020,
 Brescia,Lombardia,Nord-Ovest,,CHIARI,18932,0,,,,
 Potenza,Basilicata,Sud,,CHIAROMONTE,1832,496,,,,14/02/2020
 Isernia,Molise,Sud,,CHIAUCI,205,342,,,,08/11/2019
@@ -2370,7 +2370,7 @@ Reggio-Calabria,Calabria,Sud,,COSOLETO,849,554,,,,07/10/2019
 Cuneo,Piemonte,Nord-Ovest,,COSSANO BELBO,961,319,,,,03/05/2018
 Torino,Piemonte,Nord-Ovest,,COSSANO CANAVESE,491,49,,,,27/12/2018
 Biella,Piemonte,Nord-Ovest,,COSSATO,14580,794,,,,20/11/2018
-Savona,Liguria,Nord-Ovest,04/05/2017,COSSERIA,1084,0,,03/08/2020,31/08/2020,
+Savona,Liguria,Nord-Ovest,04/05/2017,COSSERIA,1084,0,,01/09/2020,30/09/2020,
 Ascoli-Piceno,Marche,Centro,,COSSIGNANO,908,259,,,,28/11/2019
 Verbania,Piemonte,Nord-Ovest,,COSSOGNO,664,0,,,,
 Sassari,Sardegna,Isole,,COSSOINE,809,279,,,,03/10/2019
@@ -2510,7 +2510,7 @@ Monza-Brianza,Lombardia,Nord-Ovest,,DESIO,42002,1068,,,,16/10/2018
 Nuoro,Sardegna,Isole,,DESULO,2271,98,,,,12/12/2018
 Cosenza,Calabria,Sud,,DIAMANTE,5292,0,,,,
 Imperia,Liguria,Nord-Ovest,10/04/2020,DIANO ARENTINO,715,0,,,,
-Imperia,Liguria,Nord-Ovest,07/08/2020,DIANO CASTELLO,2255,0,,03/08/2020,31/08/2020,
+Imperia,Liguria,Nord-Ovest,07/08/2020,DIANO CASTELLO,2255,0,,01/09/2020,30/09/2020,
 Cuneo,Piemonte,Nord-Ovest,,DIANO D'ALBA,3647,279,,,,27/02/2020
 Imperia,Liguria,Nord-Ovest,,DIANO MARINA,5863,889,,,,16/11/2018
 Imperia,Liguria,Nord-Ovest,21/01/2020,DIANO SAN PIETRO,1155,0,,,,
@@ -5574,7 +5574,7 @@ Asti,Piemonte,Nord-Ovest,,REVIGLIASCO D'ASTI,781,65,,,,12/12/2019
 Treviso,Veneto,Nord-Est,,REVINE LAGO,2158,396,,,,06/12/2018
 Como,Lombardia,Nord-Ovest,,REZZAGO,307,0,,,,
 Brescia,Lombardia,Nord-Ovest,,REZZATO,13574,444,,,,20/12/2018
-Imperia,Liguria,Nord-Ovest,26/04/2017,REZZO,339,0,,03/08/2020,31/08/2020,
+Imperia,Liguria,Nord-Ovest,26/04/2017,REZZO,339,0,,01/09/2020,30/09/2020,
 Genova,Liguria,Nord-Ovest,,REZZOAGLIO,960,0,,,,
 Aosta,Valle D'Aosta,Nord-Ovest,,RHEMES-NOTRE-DAME,83,10,,,,02/08/2018
 Aosta,Valle D'Aosta,Nord-Ovest,,RHEMES-SAINT-GEORGES,173,12,,,,21/09/2018
@@ -5759,7 +5759,7 @@ Foggia,Puglia,Sud,13/05/2019,RODI GARGANICO,3664,0,,,,
 Messina,Sicilia,Isole,,RODI' MILICI,1999,514,,,,30/09/2019
 Mantova,Lombardia,Nord-Ovest,,RODIGO,5293,185,,,,26/11/2018
 Brescia,Lombardia,Nord-Ovest,,ROE' VOLCIANO,4498,285,,,,14/12/2018
-Salerno,Campania,Sud,19/06/2020,ROFRANO,1509,0,12/08/2020,12/08/2020,12/08/2020,
+Salerno,Campania,Sud,19/06/2020,ROFRANO,1474,1173,12/08/2020,12/08/2020,12/08/2020,
 Lecco,Lombardia,Nord-Ovest,,ROGENO,3129,99,,,,12/03/2019
 Cosenza,Calabria,Sud,,ROGGIANO GRAVINA,7219,2881,,,,26/11/2018
 Reggio-Calabria,Calabria,Sud,,ROGHUDI,1041,0,,,,
@@ -6171,7 +6171,7 @@ Asti,Piemonte,Nord-Ovest,,SAN MARZANO OLIVETO,1019,202,,,,19/11/2018
 Salerno,Campania,Sud,18/09/2018,SAN MARZANO SUL SARNO,10508,0,,,,
 Campobasso,Molise,Sud,,SAN MASSIMO,824,198,,,,12/11/2019
 Torino,Piemonte,Nord-Ovest,,SAN MAURIZIO CANAVESE,10271,0,,,,
-Novara,Piemonte,Nord-Ovest,19/09/2019,SAN MAURIZIO D'OPAGLIO,3062,0,,03/08/2020,31/08/2020,
+Novara,Piemonte,Nord-Ovest,19/09/2019,SAN MAURIZIO D'OPAGLIO,3062,0,,01/09/2020,30/09/2020,
 Palermo,Sicilia,Isole,,SAN MAURO CASTELVERDE,1594,0,,,,
 Salerno,Campania,Sud,,SAN MAURO CILENTO,869,162,,,,07/12/2018
 Verona,Veneto,Nord-Est,,SAN MAURO DI SALINE,568,0,,,,
@@ -6435,7 +6435,7 @@ Catania,Sicilia,Isole,,SANTA MARIA DI LICODIA,7685,862,,,,18/01/2019
 Venezia,Veneto,Nord-Est,,SANTA MARIA DI SALA,17724,719,,,,16/10/2019
 Lecco,Lombardia,Nord-Ovest,,SANTA MARIA HOE',2165,67,,,,24/07/2018
 Chieti,Abruzzo,Sud,,SANTA MARIA IMBARO,2059,211,,,,18/07/2019
-Napoli,Campania,Sud,16/03/2020,SANTA MARIA LA CARITA',11695,0,,,,
+Napoli,Campania,Sud,16/03/2020,SANTA MARIA LA CARITA',11695,0,28/08/2020,23/08/2020,13/09/2020,
 Caserta,Campania,Sud,,SANTA MARIA LA FOSSA,2620,230,,,,20/12/2019
 Udine,Friuli Venezia Giulia,Nord-Est,,SANTA MARIA LA LONGA,2302,555,,,,27/08/2019
 Verbania,Piemonte,Nord-Ovest,,SANTA MARIA MAGGIORE,1293,276,,,,23/10/2018
@@ -7325,7 +7325,7 @@ Perugia,Umbria,Centro,,TUORO SUL TRASIMENO,3778,0,,,,
 Rieti,Lazio,Centro,18/04/2019,TURANIA,237,0,,,,
 Lodi,Lombardia,Nord-Ovest,,TURANO LODIGIANO,1544,15,,,,11/11/2019
 Como,Lombardia,Nord-Ovest,,TURATE,9542,588,,,,20/05/2020
-Milano,Lombardia,Nord-Ovest,24/10/2017,TURBIGO,7260,0,,03/08/2020,31/08/2020,
+Milano,Lombardia,Nord-Ovest,24/10/2017,TURBIGO,7260,0,,01/09/2020,30/09/2020,
 Bari,Puglia,Sud,16/06/2020,TURI,13073,0,,,,
 ,Sardegna,,08/10/2019,TURRI,424,0,,,,
 Gorizia,Friuli Venezia Giulia,Nord-Est,,TURRIACO,2870,185,,,,18/10/2019
@@ -7516,7 +7516,7 @@ Pavia,Lombardia,Nord-Ovest,,VARZI,3143,388,,,,20/07/2018
 Verbania,Piemonte,Nord-Ovest,,VARZO,2021,480,,,,22/03/2019
 Viterbo,Lazio,Centro,,VASANELLO,3985,54,,,,19/11/2019
 Imperia,Liguria,Nord-Ovest,,VASIA,396,13,,,,06/08/2019
-Chieti,Abruzzo,Sud,,VASTO,41389,0,,,,
+Chieti,Abruzzo,Sud,11/08/2020,VASTO,41389,0,,,,
 Isernia,Molise,Sud,,VASTOGIRARDI,683,0,,,,
 Torino,Piemonte,Nord-Ovest,,VAUDA CANAVESE,1466,59,,,,13/08/2018
 Vibo-Valentia,Calabria,Sud,,VAZZANO,1008,695,,,,30/09/2019
