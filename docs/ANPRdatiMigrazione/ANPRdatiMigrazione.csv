@@ -3029,7 +3029,7 @@ Cremona,Lombardia,Nord-Ovest,,GENIVOLTA,1163,0,,,,
 Cuneo,Piemonte,Nord-Ovest,,GENOLA,2645,323,,,,19/09/2019
 ,Sardegna,,,GENONI,793,50,,,,11/11/2019
 Genova,Liguria,Nord-Ovest,,GENOVA,577336,41555,,,,23/03/2019
-,Sardegna,,03/07/2020,GENURI,320,0,,,,
+,Sardegna,,03/07/2020,GENURI,320,0,13/10/2020,13/10/2020,13/10/2020,
 Potenza,Basilicata,Sud,12/05/2020,GENZANO DI LUCANIA,5693,0,,,,
 Roma,Lazio,Centro,,GENZANO DI ROMA,23839,543,,,,11/12/2018
 Como,Lombardia,Nord-Ovest,,GERA LARIO,1047,110,,,,12/05/2020
@@ -3177,7 +3177,7 @@ Verbania,Piemonte,Nord-Ovest,,GRAVELLONA TOCE,7827,421,,,,07/10/2019
 Torino,Piemonte,Nord-Ovest,,GRAVERE,674,44,,,,04/03/2019
 Catania,Sicilia,Isole,,GRAVINA DI CATANIA,25830,781,,,,06/11/2018
 Bari,Puglia,Sud,,GRAVINA IN PUGLIA,43808,2358,,,,02/07/2018
-Caserta,Campania,Sud,,GRAZZANISE,7049,0,,,,
+Caserta,Campania,Sud,13/08/2020,GRAZZANISE,7049,0,,,,
 Asti,Piemonte,Nord-Ovest,,GRAZZANO BADOGLIO,616,27,,,,20/11/2018
 Rieti,Lazio,Centro,,GRECCIO,1551,47,,,,04/12/2019
 Avellino,Campania,Sud,,GRECI,636,305,,,,28/06/2019
@@ -4314,7 +4314,7 @@ Siena,Toscana,Centro,,MONTERIGGIONI,10061,193,,,,16/11/2018
 Isernia,Molise,Sud,,MONTERODUNI,2099,322,,,,28/11/2019
 Siena,Toscana,Centro,,MONTERONI D'ARBIA,9085,199,,,,21/12/2018
 Lecce,Puglia,Sud,,MONTERONI DI LECCE,13791,895,,,,18/11/2019
-Viterbo,Lazio,Centro,20/12/2019,MONTEROSI,4550,0,27/08/2020,16/08/2020,31/08/2020,
+Viterbo,Lazio,Centro,13/08/2020,MONTEROSI,4550,0,27/08/2020,16/08/2020,31/08/2020,
 La-Spezia,Liguria,Nord-Est,,MONTEROSSO AL MARE,1421,968,,,,26/08/2019
 Ragusa,Sicilia,Isole,24/07/2020,MONTEROSSO ALMO,2954,0,30/09/2020,30/09/2020,30/09/2020,
 Vibo-Valentia,Calabria,Sud,,MONTEROSSO CALABRO,1658,0,14/01/2020,01/01/2020,31/01/2020,
@@ -4620,7 +4620,7 @@ Lecco,Lombardia,Nord-Ovest,,OGGIONO,9205,290,,,,23/04/2020
 Torino,Piemonte,Nord-Ovest,,OGLIANICO,1486,26,,,,03/10/2018
 Salerno,Campania,Sud,,OGLIASTRO CILENTO,2299,439,,,,24/10/2019
 Sassari,Sardegna,Isole,,OLBIA,60534,2076,,,,17/05/2018
-Vercelli,Piemonte,Nord-Ovest,13/07/2020,OLCENENGO,790,0,,,,
+Vercelli,Piemonte,Nord-Ovest,13/07/2020,OLCENENGO,790,0,14/10/2020,14/10/2020,14/10/2020,
 Vercelli,Piemonte,Nord-Ovest,,OLDENICO,220,5,,,,31/10/2018
 Novara,Piemonte,Nord-Ovest,,OLEGGIO,14220,464,,,,20/03/2018
 Novara,Piemonte,Nord-Ovest,,OLEGGIO CASTELLO,2177,90,,,,11/12/2018
@@ -7775,7 +7775,7 @@ Monza-Brianza,Lombardia,Nord-Ovest,,VILLASANTA,13996,351,,,,11/12/2017
 ,Sardegna,,,VILLASOR,6858,388,,,,23/12/2019
 ,Sardegna,,,VILLASPECIOSA,2605,84,,,,13/01/2020
 Torino,Piemonte,Nord-Ovest,,VILLASTELLONE,4651,181,,,,08/10/2019
-Vercelli,Piemonte,Nord-Ovest,24/12/2019,VILLATA,1566,0,,,,
+Vercelli,Piemonte,Nord-Ovest,24/12/2019,VILLATA,1566,0,16/10/2020,16/10/2020,16/10/2020,
 Oristano,Sardegna,Isole,,VILLAURBANA,1605,123,,,,18/12/2018
 L'Aquila,Abruzzo,Sud,,VILLAVALLELONGA,881,219,,,,02/08/2019
 Vicenza,Veneto,Nord-Est,,VILLAVERLA,6151,552,,,,31/10/2018
