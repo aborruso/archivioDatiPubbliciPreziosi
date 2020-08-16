@@ -2319,6 +2319,8 @@ ambiente-e-natura-fed8b2d5
 ambiente-ecoisole-a-milano
 ambiente-mappa-acustica-strategica-2016-isolivello-lden
 ambiente-mappa-acustica-strategica-2016-isolivello-lnight
+ambiente__interventi_igienico_sanitari_2010_2019
+ambiente__prevenzione_randagismo_2010_2019
 ambiti-ad-eterogenea-integrita
 ambiti-amministrativi-area-regionale
 ambiti-amministrativi-comunali
@@ -5541,6 +5543,7 @@ bilancio-sociale-entrate-e-uscite-gestione-finanziaria-divisa-per-anno-flusso-fi
 bilancio-trasparente-entrate-correnti-piano-esecutivo-di-gestione-consuntivo
 bilancio-trasparente-spesa-corrente-per-missioni-e-programmi
 bilancio-trasparente-spese-correnti-piano-esecutivo-di-gestione-consuntivo
+bilancio2020
 bilancio_energetico
 bilancio_previsione_2015
 bilancio_previsione_2016
@@ -8592,6 +8595,16 @@ comune-di-palmiano-calendario-agonistici
 comune-di-palmiano-calendario-eventi-sportivi
 comune-di-palmiano-discipline-praticate
 comune-di-palmiano-praticanti-sport
+comune-di-pedaso-anagrafica-associazioni-culturali
+comune-di-pedaso-anagrafica-associazioni-di-volontariato
+comune-di-pedaso-anagrafica-impianti
+comune-di-pedaso-anagrafica-istituzioni-scolastiche
+comune-di-pedaso-anagrafica-luoghi-di-interesse
+comune-di-pedaso-anagrafica-societa
+comune-di-pedaso-calendario-agonistici
+comune-di-pedaso-calendario-eventi-sportivi
+comune-di-pedaso-discipline-praticate
+comune-di-pedaso-praticanti-sport
 comune-di-pergola-anagrafe_decessi_anno
 comune-di-pergola-anagrafe_emigrati_anno
 comune-di-pergola-anagrafe_famiglie_anno
@@ -10938,7 +10951,6 @@ dataset-condizioni-di-salute-per-provincia-genere-e-causa
 dataset-condizioni-di-salute-per-provincia-genere-e-fascia-deta
 dataset-consumi-farmaceutica-pazienti-cronici
 dataset-consumi-generati-tramite-ordini-diretti-di-acquisto-in-convenzione
-dataset-consumo-di-antibiotici-in-termini-di-ddd-per-iii-e-iv-livello
 dataset-contratti-stipulati-a-seguito-di-rdo-td-su-mepa
 dataset-coperture-vaccinali
 dataset-degenza-media-e-accessi-medi-per-acc-e-ats
@@ -16983,6 +16995,7 @@ imprese-attive-divise-per-settore-merceologico-e-anno
 imprese-attive-in-italia-per-regione-provincia-settore-divisione-classe-sottocategoria-ateco-e-
 imprese-attive-in-italia-per-settore-e-divisione-ateco-e-tempo-frequenza-mensile
 imprese-attive-in-italia-per-territorio-e-tempo-frequenza-mensile
+imprese-attive-in-italia-per-territorio-settore-ateco-classe-di-natura-giuridica-e-tempo-freque
 imprese-attive-in-italia-per-territorio-settore-ateco-e-anno-di-iscrizione
 imprese-attive-in-italia-per-territorio-settore-ateco-e-tempo-frequenza-mensile
 imprese-attive-in-italia-per-territorio-settore-ateco-e-tempo-frequenza-trimestrale-anni-d-2003
@@ -17397,6 +17410,7 @@ incidenti-stradali-nel-territorio-di-roma-capitale-anno-2016
 incidenti-stradali-nel-territorio-di-roma-capitale-anno-2017
 incidenti-stradali-nel-territorio-di-roma-capitale-anno-2018
 incidenti-stradali-nel-territorio-di-roma-capitale-anno-2019
+incidenti-stradali-nel-territorio-di-roma-capitale-anno-2020
 incidenti-stradali-per-1-000-residenti
 incidenti-stradali-per-comune-ed-anno
 incidenti-stradali-per-tipologia-e-per-anno-anni-2003-2013
@@ -20230,6 +20244,8 @@ modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-17-ore-12-utc
@@ -20240,6 +20256,8 @@ modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-17-ore-12-utc
@@ -20250,6 +20268,8 @@ modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-17-ore-12-utc
@@ -20260,6 +20280,8 @@ modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-maschera-terra-acqua-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-maschera-terra-acqua-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-17-ore-12-utc
@@ -20270,6 +20292,8 @@ modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-17-ore-12-utc
@@ -20280,6 +20304,8 @@ modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-17-ore-12-utc
@@ -20290,6 +20316,8 @@ modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-temperatura-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-c-2020-07-17-ore-12-utc
@@ -20300,6 +20328,8 @@ modello-med-gfs-a-12km-temperatura-c-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-temperatura-c-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-temperatura-c-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-temperatura-c-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-temperatura-c-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-temperatura-c-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-17-ore-12-utc
@@ -20310,6 +20340,8 @@ modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-17-ore-12-utc
@@ -20320,6 +20352,8 @@ modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-topografia-m-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-topografia-m-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-topografia-m-2020-07-17-ore-12-utc
@@ -20330,6 +20364,8 @@ modello-med-gfs-a-12km-topografia-m-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-topografia-m-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-topografia-m-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-topografia-m-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-topografia-m-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-topografia-m-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-07-17-ore-12-utc
@@ -20340,6 +20376,8 @@ modello-med-gfs-a-12km-umidita-relativa-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-umidita-relativa-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-umidita-relativa-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-17-ore-12-utc
@@ -20350,6 +20388,8 @@ modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-17-ore-12-utc
@@ -20360,6 +20400,8 @@ modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-31-
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-17-ore-12-utc
@@ -20370,6 +20412,8 @@ modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-08-15-ore-00-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-07-17-ore-12-utc
@@ -20380,6 +20424,8 @@ modello-med-gfs-a-12km-visibilita-in-metri-2020-07-31-ore-12-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-08-01-ore-00-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-08-07-ore-12-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-08-08-ore-00-utc
+modello-med-gfs-a-12km-visibilita-in-metri-2020-08-14-ore-12-utc
+modello-med-gfs-a-12km-visibilita-in-metri-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-17-ore-12-utc
@@ -20390,6 +20436,8 @@ modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-17-ore-12-utc
@@ -20400,6 +20448,8 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-17-ore-12-utc
@@ -20410,6 +20460,8 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-17-ore-12-utc
@@ -20420,6 +20472,8 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-17-ore-12-utc
@@ -20430,6 +20484,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-31-ore-12-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-17-ore-12-utc
@@ -20440,6 +20496,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-31-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-17-ore-12-utc
@@ -20450,6 +20508,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-31-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-07-10-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-07-11-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-07-17-ore-12-u
@@ -20460,6 +20520,8 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-08-01-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-08-07-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-08-08-ore-00-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-08-14-ore-12-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-08-15-ore-00-u
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-17-ore-12-utc
@@ -20470,6 +20532,8 @@ modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-17-ore-12-utc
@@ -20480,6 +20544,8 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2020-02-04-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-07-11-ore-00-utc
@@ -20491,9 +20557,13 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-46
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-4e
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-5b
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-64
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-7e
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-8c
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-98
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-a3
@@ -20505,8 +20575,10 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-1e
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-28
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-33
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-55
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-5b
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-61
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-b6
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-b8
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-e3
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-eb
@@ -20521,6 +20593,8 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-17-ore-12-utc
@@ -20531,6 +20605,8 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-03-07-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-07-11-ore-00-utc
@@ -20542,6 +20618,8 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-07-17-ore-12-utc
@@ -20552,6 +20630,8 @@ modello-wrf-arw-a-3km-temperatura-c-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-c-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-17-ore-12-utc
@@ -20562,6 +20642,8 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-17-ore-12-utc
@@ -20572,6 +20654,8 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2020-07-17-ore-12-utc
@@ -20582,6 +20666,8 @@ modello-wrf-arw-a-3km-topografia-m-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-topografia-m-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-17-ore-12-utc
@@ -20592,6 +20678,8 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-07-17-ore-12-utc
@@ -20602,6 +20690,8 @@ modello-wrf-arw-a-3km-umidita-relativa-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-17-ore-12-utc
@@ -20612,6 +20702,8 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-17-ore-12-utc
@@ -20622,6 +20714,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-31-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-17-ore-12-utc
@@ -20632,6 +20726,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-08-15-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-17-ore-12-utc
@@ -20642,6 +20738,8 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-31-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-08-01-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-08-07-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-08-08-ore-00-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2020-08-14-ore-12-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2020-08-15-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-07-10-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-07-11-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-07-17-ore-12-utc
@@ -20652,6 +20750,8 @@ modello-ww3-a-10km-average-wave-direction-deg-2020-07-31-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-08-01-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-08-07-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-08-08-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2020-08-14-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2020-08-15-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-07-10-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-07-11-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-07-17-ore-12-utc
@@ -20662,6 +20762,8 @@ modello-ww3-a-10km-average-wave-period-sec-2020-07-31-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-08-01-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-08-07-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-08-08-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2020-08-14-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2020-08-15-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-07-10-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-07-11-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-07-17-ore-12-utc
@@ -20672,6 +20774,8 @@ modello-ww3-a-10km-significant-wave-height-m-2020-07-31-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-08-01-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-08-07-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-08-08-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2020-08-14-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2020-08-15-ore-00-utc
 moduli-del-comun-general-de-fascia
 moduli-del-comune-di-ala
 moduli-del-comune-di-albiano
@@ -26062,7 +26166,6 @@ prime-iscrizioni-veicoli-nuovi-nel-2018-autovetture-per-ente-territoriale
 prime-iscrizioni-veicoli-nuovi-nel-2018-autovetture-per-ente-territoriale-e-alimentazione
 prime-iscrizioni-veicoli-nuovi-nel-2019-autovetture-per-ente-territoriale
 prime-iscrizioni-veicoli-nuovi-nel-2019-autovetture-per-ente-territoriale-e-alimentazione
-primi-dieci-farmaci-oppiacei
 principale-sistema-di-mobilita-livello-regionale
 principali-arterie
 principali-aste-fluviali
@@ -27560,6 +27663,7 @@ rapporto-di-femminilizzazione-del-tasso-di-laureati
 rapporto-di-femminilizzazione-del-tasso-di-occupazione
 rapporto-di-femminilizzazione-della-speranza-di-vita-in-buona-salute-alla-nascita
 rapporto-di-femminilizzazione-dellimprenditorialita
+rapporto-sdo1
 rapporto-tra-tasso-di-occupazione-delle-donne-di-25-49-anni-con-figli-in-eta-prescolare-e-delle
 rapporto-wise-soe-2012-qualita-dei-corsi-dacqua-del-trentino-nellanno-2011
 rapporto-wise-soe-2012-qualita-dei-laghi-del-trentino-nellanno-2011
