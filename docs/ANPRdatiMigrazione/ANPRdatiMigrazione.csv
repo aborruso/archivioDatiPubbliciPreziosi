@@ -3695,7 +3695,7 @@ Como,Lombardia,Nord-Ovest,,,MAGREGLIO,661,10,,,21/11/2019
 Catanzaro,Calabria,Sud,,,MAIDA,4679,0,,,
 Cosenza,Calabria,Sud,,,MAIERA',1222,0,,,
 Vibo-Valentia,Calabria,Sud,,,MAIERATO,2125,1088,,,05/12/2019
-Ancona,Marche,Centro,07/08/2020,25/08/2020,MAIOLATI SPONTINI,6198,0,12/08/2020,08/09/2020,
+Ancona,Marche,Centro,,,MAIOLATI SPONTINI,6218,574,,,25/08/2020
 Rimini,Emilia Romagna,Nord-Est,,,MAIOLO,824,0,,,
 Salerno,Campania,Sud,,,MAIORI,5553,909,,,12/11/2019
 Lodi,Lombardia,Nord-Ovest,03/06/2019,,MAIRAGO,1387,0,29/11/2019,05/12/2019,
@@ -4648,7 +4648,7 @@ Cremona,Lombardia,Nord-Ovest,,,OLMENETA,943,54,,,09/08/2019
 Bergamo,Lombardia,Nord-Ovest,,,OLMO AL BREMBO,500,31,,,07/05/2019
 Asti,Piemonte,Nord-Ovest,,,OLMO GENTILE,74,64,,,26/11/2018
 Bergamo,Lombardia,Nord-Ovest,,,OLTRE IL COLLE,995,208,,,01/08/2019
-Bergamo,Lombardia,Nord-Ovest,22/08/2020,25/08/2020,OLTRESSENDA ALTA,145,0,24/08/2020,28/08/2020,
+Bergamo,Lombardia,Nord-Ovest,25/08/2020,25/08/2020,OLTRESSENDA ALTA,145,1,24/08/2020,28/08/2020,
 Como,Lombardia,Nord-Ovest,,,OLTRONA DI SAN MAMETTE,2390,166,,,19/03/2019
 Nuoro,Sardegna,Isole,,,OLZAI,874,0,,,
 Brescia,Lombardia,Nord-Ovest,,,OME,3217,103,,,03/05/2019
@@ -5278,7 +5278,7 @@ Pavia,Lombardia,Nord-Ovest,,,PONTE NIZZA,787,221,,,14/12/2018
 Bergamo,Lombardia,Nord-Ovest,,,PONTE NOSSA,1768,0,,,
 Padova,Veneto,Nord-Est,,,PONTE SAN NICOLO',13510,451,,,26/07/2019
 Bergamo,Lombardia,Nord-Ovest,,,PONTE SAN PIETRO,11584,609,,,11/11/2019
-Udine,Friuli Venezia Giulia,Nord-Est,30/07/2020,25/08/2020,PONTEBBA,1391,0,25/08/2020,01/09/2020,
+Udine,Friuli Venezia Giulia,Nord-Est,30/07/2020,23/09/2020,PONTEBBA,1391,0,23/09/2020,30/09/2020,
 Salerno,Campania,Sud,,,PONTECAGNANO FAIANO,26526,1415,,,16/12/2019
 Rovigo,Veneto,Nord-Est,,,PONTECCHIO POLESINE,2205,47,,,30/09/2019
 Cuneo,Piemonte,Nord-Ovest,,,PONTECHIANALE,165,46,,,20/09/2019
@@ -6154,7 +6154,7 @@ Torino,Piemonte,Nord-Ovest,,,SAN MARTINO CANAVESE,823,57,,,09/11/2018
 Potenza,Basilicata,Sud,,,SAN MARTINO D'AGRI,704,500,,,24/03/2020
 Mantova,Lombardia,Nord-Ovest,,,SAN MARTINO DALL'ARGINE,1719,156,,,28/09/2018
 Cremona,Lombardia,Nord-Ovest,,,SAN MARTINO DEL LAGO,413,115,,,05/12/2018
-Cosenza,Calabria,Sud,23/07/2020,03/09/2020,SAN MARTINO DI FINITA,1044,0,03/09/2020,03/09/2020,
+Cosenza,Calabria,Sud,23/07/2020,01/01/2021,SAN MARTINO DI FINITA,1044,0,01/01/2021,01/01/2021,
 Padova,Veneto,Nord-Est,,,SAN MARTINO DI LUPARI,13133,1866,,,08/01/2019
 Rovigo,Veneto,Nord-Est,,,SAN MARTINO DI VENEZZE,3858,356,,,29/06/2018
 Bolzano,Trentino Alto Adige,Nord-Est,,,SAN MARTINO IN BADIA,1744,0,,,
@@ -6482,7 +6482,7 @@ Salerno,Campania,Sud,,,SANZA,2488,1248,,,10/10/2019
 Trento,Trentino Alto Adige,Nord-Est,,,SANZENO,925,84,,,09/12/2019
 Padova,Veneto,Nord-Est,,,SAONARA,10470,241,,,29/05/2019
 Messina,Sicilia,Isole,,,SAPONARA,3845,450,,,26/11/2019
-Udine,Friuli Venezia Giulia,Nord-Est,,02/09/2020,SAPPADA,1322,0,02/09/2020,30/09/2020,
+Udine,Friuli Venezia Giulia,Nord-Est,,30/12/2020,SAPPADA,1322,0,30/12/2020,31/12/2020,
 Salerno,Campania,Sud,04/08/2020,01/01/2021,SAPRI,6716,0,01/01/2021,01/01/2021,
 Cosenza,Calabria,Sud,,,SARACENA,3747,0,,,
 Roma,Lazio,Centro,,,SARACINESCO,179,0,,,
