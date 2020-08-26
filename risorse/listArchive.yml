@@ -28,3 +28,9 @@
   nome: apiRestItalia
   dataInserimento: 2020-07-29
   if_not_archived_within: 7d
+- titolo: "Dati aperti dell'Automobile Club d'Italia (ACI)"
+  fonte: "Sito ACI"
+  URL: "http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html"
+  nome: openDataACI
+  dataInserimento: 2020-08-26
+  if_not_archived_within: 60d
