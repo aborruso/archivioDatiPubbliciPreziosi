@@ -1,8 +1,8 @@
 regione,provincia,comuni_subentro,popolazione_subentro,popolazione_aire_subentro,comuni_presubentro,popolazione_presubentro,popolazione_aire_presubentro
-Sardegna,,96,322716,31016,6,17929,0
+Sardegna,,97,334134,32091,5,6186,0
 Sicilia,Agrigento,22,237006,79901,6,85235,0
 Piemonte,Alessandria,187,421756,38163,0,0,0
-Marche,Ancona,31,234631,21830,3,133211,0
+Marche,Ancona,32,240849,22404,2,127013,0
 Valle D'Aosta,Aosta,74,126435,6495,0,0,0
 Toscana,Arezzo,31,290081,10525,4,51976,0
 Marche,Ascoli-Piceno,24,187906,13697,4,12446,0
@@ -12,7 +12,7 @@ Puglia,Bari,31,1091646,82928,3,40928,0
 Puglia,Barletta-Andria-Trani,9,380842,22287,0,0,0
 Veneto,Belluno,57,197606,51719,0,0,0
 Campania,Benevento,58,168990,45082,6,74345,0
-Lombardia,Bergamo,207,996052,50483,18,73944,0
+Lombardia,Bergamo,207,996052,50483,18,73944,1
 Piemonte,Biella,68,169898,12124,5,4928,0
 Emilia Romagna,Bologna,54,1011402,37955,1,6081,0
 Trentino Alto Adige,Bolzano,11,28553,2491,10,30189,0
@@ -31,7 +31,7 @@ Lombardia,Cremona,99,334701,16753,5,6751,0
 Calabria,Crotone,23,166410,27014,1,823,0
 Piemonte,Cuneo,221,566050,54358,14,15802,0
 Sicilia,Enna,13,109362,53114,4,23845,0
-Marche,Fermo,25,89670,11887,9,51320,0
+Marche,Fermo,25,89670,11887,10,51893,0
 Emilia Romagna,Ferrara,20,338747,14299,0,0,0
 Toscana,Firenze,40,992621,33588,1,17882,0
 Puglia,Foggia,40,506568,48745,10,56473,0
