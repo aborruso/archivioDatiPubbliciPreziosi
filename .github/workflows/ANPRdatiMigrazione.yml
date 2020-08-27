@@ -1,7 +1,7 @@
 name: crea archivio stato della migrazione dei comuni a ANPR
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '25 9 */1 * *'
