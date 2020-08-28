@@ -24,8 +24,8 @@ jobs:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-
         export PATH=$PATH:~/bin
-        chmod +x ./script/RNDTcatalogo.sh
-        ./script/anagrafica.sh
+        chmod +x ./script/RNDTcatalogo/RNDTcatalogo.sh
+        ./script/RNDTcatalogo/anagrafica.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
