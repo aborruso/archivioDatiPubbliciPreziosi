@@ -1,5 +1,5 @@
 regione,provincia,comuni_subentro,popolazione_subentro,popolazione_aire_subentro,comuni_presubentro,popolazione_presubentro,popolazione_aire_presubentro
-Sardegna,,97,334134,32091,5,6186,0
+Sardegna,,97,334134,32091,6,12334,0
 Sicilia,Agrigento,22,237006,79901,6,85235,0
 Piemonte,Alessandria,187,421756,38163,0,0,0
 Marche,Ancona,32,240849,22404,2,127013,0
@@ -83,7 +83,7 @@ Lazio,Rieti,34,62918,3642,11,53320,0
 Emilia Romagna,Rimini,24,339677,25316,0,0,0
 Lazio,Roma,83,1172574,30208,16,2951914,0
 Veneto,Rovigo,47,179617,13104,2,3568,0
-Campania,Salerno,104,808100,93869,9,29965,0
+Campania,Salerno,104,808100,93869,10,52307,0
 Sardegna,Sassari,91,490328,31133,0,0,0
 Liguria,Savona,43,218453,20298,10,17337,0
 Toscana,Siena,33,264973,7653,2,3011,0
@@ -98,11 +98,11 @@ Trentino Alto Adige,Trento,148,515301,61683,5,8411,0
 Veneto,Treviso,90,781472,116521,2,94061,0
 Friuli Venezia Giulia,Trieste,0,0,0,1,204347,0
 Friuli Venezia Giulia,Udine,115,346853,63124,7,127717,0
-Lombardia,Varese,124,822123,54262,5,15734,0
+Lombardia,Varese,125,825182,54391,4,12668,0
 Veneto,Venezia,40,760267,47895,0,0,0
 Piemonte,Verbania,66,145633,17007,4,7174,0
 Piemonte,Vercelli,73,118842,8773,8,52199,0
 Veneto,Verona,75,821629,40781,8,36721,0
 Calabria,Vibo-Valentia,29,65283,28617,9,29861,0
 Veneto,Vicenza,101,648208,67126,6,41679,0
-Lazio,Viterbo,43,175354,5710,7,95828,0
+Lazio,Viterbo,44,180215,5796,6,91278,0
