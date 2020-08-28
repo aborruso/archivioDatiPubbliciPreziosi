@@ -103,8 +103,8 @@
   file:
     formato: csv
     encoding: "UTF-8"
-  cron: "30 9 */1 * *"
-  cronDescrizione: "ogni giorno alle 9:30"
+  cron: "30 9 1 */1 *"
+  cronDescrizione: "il primo giorno del mese alle 9:30"
   dataInserimento: 2020-08-28
   licenza: "CC BY 4.0"
   ready: true

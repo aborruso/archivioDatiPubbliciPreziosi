@@ -4,7 +4,7 @@ on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '30 9 */1 * *'
+    - cron:  '30 9 1 */1 *'
 
 jobs:
   scheduled:
@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa xq e gdal
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e installa gdal
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
