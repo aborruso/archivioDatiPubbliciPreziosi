@@ -94,3 +94,17 @@
   dataInserimento: 2020-07-30
   licenza: "CC BY 4.0"
   ready: true
+- titolo: "Catalogo Repertorio Nazionale Dati Territoriali - RNDT"
+  fonte: "Sito RNDT"
+  URL: "http://geodati.gov.it/RNDT/csw"
+  URLinfo: "https://geodati.gov.it/geoportale/servizio-di-ricerca-csw"
+  nome: RNDTcatalogo
+  tipo: singolo
+  file:
+    formato: csv
+    encoding: "UTF-8"
+  cron: "30 9 */1 * *"
+  cronDescrizione: "ogni giorno alle 9:30"
+  dataInserimento: 2020-08-28
+  licenza: "CC BY 4.0"
+  ready: true
