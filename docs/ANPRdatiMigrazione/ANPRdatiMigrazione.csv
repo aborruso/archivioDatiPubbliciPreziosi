@@ -2443,7 +2443,7 @@ Salerno,Campania,Sud,,CUCCARO VETERE,567,0,,,,
 Como,Lombardia,Nord-Ovest,,CUCCIAGO,3537,125,,,,08/04/2020
 Torino,Piemonte,Nord-Ovest,,CUCEGLIO,999,81,,,,27/09/2018
 Milano,Lombardia,Nord-Ovest,,CUGGIONO,8282,525,,,,04/09/2019
-Varese,Lombardia,Nord-Ovest,,CUGLIATE-FABIASCO,3124,0,,,,
+Varese,Lombardia,Nord-Ovest,28/08/2020,CUGLIATE-FABIASCO,3124,0,,,,
 Oristano,Sardegna,Isole,,CUGLIERI,2588,450,,,,21/12/2018
 Pescara,Abruzzo,Sud,,CUGNOLI,1417,302,,,,18/10/2019
 Torino,Piemonte,Nord-Ovest,,CUMIANA,7919,852,,,,07/11/2019
@@ -4309,7 +4309,7 @@ Siena,Toscana,Centro,,MONTEPULCIANO,13895,400,,,,18/06/2018
 Arezzo,Toscana,Centro,23/07/2020,MONTERCHI,1719,0,09/09/2020,31/08/2020,17/09/2020,
 L'Aquila,Abruzzo,Sud,,MONTEREALE,2358,141,,,,18/10/2019
 Pordenone,Friuli Venezia Giulia,Nord-Est,29/04/2020,MONTEREALE VALCELLINA,4373,0,27/05/2020,27/05/2020,04/06/2020,
-Bologna,Emilia Romagna,Nord-Est,27/05/2020,MONTERENZIO,6081,0,,,,
+Bologna,Emilia Romagna,Nord-Est,27/05/2020,MONTERENZIO,6081,0,28/09/2020,14/09/2020,13/10/2020,
 Siena,Toscana,Centro,,MONTERIGGIONI,10061,193,,,,16/11/2018
 Isernia,Molise,Sud,,MONTERODUNI,2099,322,,,,28/11/2019
 Siena,Toscana,Centro,,MONTERONI D'ARBIA,9085,199,,,,21/12/2018
@@ -6435,7 +6435,7 @@ Catania,Sicilia,Isole,,SANTA MARIA DI LICODIA,7685,862,,,,18/01/2019
 Venezia,Veneto,Nord-Est,,SANTA MARIA DI SALA,17724,719,,,,16/10/2019
 Lecco,Lombardia,Nord-Ovest,,SANTA MARIA HOE',2165,67,,,,24/07/2018
 Chieti,Abruzzo,Sud,,SANTA MARIA IMBARO,2059,211,,,,18/07/2019
-Napoli,Campania,Sud,26/08/2020,SANTA MARIA LA CARITA',11695,0,28/08/2020,23/08/2020,13/09/2020,
+Napoli,Campania,Sud,,SANTA MARIA LA CARITA',11853,149,,,,28/08/2020
 Caserta,Campania,Sud,,SANTA MARIA LA FOSSA,2620,230,,,,20/12/2019
 Udine,Friuli Venezia Giulia,Nord-Est,,SANTA MARIA LA LONGA,2302,555,,,,27/08/2019
 Verbania,Piemonte,Nord-Ovest,,SANTA MARIA MAGGIORE,1293,276,,,,23/10/2018
