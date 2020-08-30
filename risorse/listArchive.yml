@@ -34,3 +34,10 @@
   nome: openDataACI
   dataInserimento: 2020-08-26
   if_not_archived_within: 60d
+- titolo: "Anagrafe Nazionale Popolazione Residente - tabelle di riferimento"
+  fonte: "Sito ANPR"
+  URL: "https://www.anpr.interno.it/portale/tabelle-di-riferimento"
+  nome: ANPRtabelle
+  dataInserimento: 2020-08-30
+  if_not_archived_within: 7d
+
