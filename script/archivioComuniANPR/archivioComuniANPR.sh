@@ -16,5 +16,6 @@ if [ $code -eq 200 ]; then
 
   curl -skL "$URL" >"$folder"/../../docs/"$nome"/ANPR_archivio_comuni.csv
   mlr -I --csv sort -n ID "$folder"/../../docs/"$nome"/ANPR_archivio_comuni.csv
+  mlr --csv filter '$STATO=="A"' "$folder"/../../docs/"$nome"/ANPR_archivio_comuni.csv >"$folder"/../../docs/"$nome"/ANPR_archivio_comuni_attivi.csv
 
 fi
