@@ -30,6 +30,7 @@ if [ $code -eq 200 ]; then
 
   curl -skL "$URLsubentrati" >"$folder"/../../docs/"$nome"/"$nome"_subentrati.xlsx
   in2csv -I "$folder"/../../docs/"$nome"/"$nome"_subentrati.xlsx | mlr --csv remove-empty-columns then filter -S '${Codice Istat}=~".+"' >"$folder"/../../docs/"$nome"/"$nome"_subentrati.csv
+  mlr -I --csv put -S 'if (${Codice Istat} == "001168") {$Comune="NONE"}' "$folder"/../../docs/"$nome"/"$nome"_subentrati.csv
 
 fi
 
