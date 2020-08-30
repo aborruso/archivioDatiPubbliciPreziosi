@@ -1,7 +1,7 @@
 name: crea archivio stato della migrazione dei comuni a ANPR
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '25 9 */1 * *'
@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-    - name: installa mapshaper, crea cartella utente bin, copia dentro l'eseguibile di miller
+    - name: installa mapshaper, csvkit, crea cartella utente bin, copia dentro l'eseguibile di miller
       run: |-
         mkdir ~/.npm-global
         npm config set prefix '~/.npm-global'
