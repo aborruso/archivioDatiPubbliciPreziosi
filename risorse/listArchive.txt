@@ -4,3 +4,4 @@ https://anagrafe.iccu.sbn.it/it/open-data/
 https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
 https://developers.italia.it/it/api/
 http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
+https://www.anpr.interno.it/portale/tabelle-di-riferimento
