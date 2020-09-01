@@ -22,7 +22,7 @@ if [ $code -eq 200 ]; then
     echo "  🟢 nulla di nuovo."
   else
     echo "  🔴 occhio, ci sono degli aggiornamenti"
-    curl -X POST -H "Content-Type: application/json" -d '{"value1":"novità sul repo dati preziosi"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
+    curl -X POST -H "Content-Type: application/json" -d '{"value1":"novità sul dataset dei comuni"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
   fi
 
 fi
