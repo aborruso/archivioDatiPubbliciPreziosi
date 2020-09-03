@@ -11,7 +11,7 @@ yq <"$folder"/../../risorse/list.yml -r '.[] | select(.nome=="'"$nome"'").URL' |
 
 # scarica risorse
 while IFS=$'\t' read -r url file; do
-  curl "$url" >"$folder"/../../docs/"$nome"/"$file"
+  curl -ksL "$url" >"$folder"/../../docs/"$nome"/"$file"
   mlr -I --icsvlite --ifs "\t" --otsv  sort -f cod_amm "$folder"/../../docs/"$nome"/"$file"
 done <"$folder"/tmp.tsv
 
