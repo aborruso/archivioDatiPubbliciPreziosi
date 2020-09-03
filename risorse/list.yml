@@ -108,3 +108,21 @@
   dataInserimento: 2020-08-28
   licenza: "CC BY 4.0"
   ready: true
+- titolo: "Indice Pubblica Amministazione (IPA)"
+  fonte: "Sito IPA"
+  URL:
+    - URL: "https://indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=amministrazioni.txt"
+      nome: "amministrazioni.txt"
+    - URL: "https://indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=aoo.txt"
+      nome: "aoo.txt"
+  URLinfo: "https://indicepa.gov.it/documentale/n-consulta-dati.php"
+  nome: indiceIPA
+  tipo: multiplo
+  file:
+    formato: csv
+    encoding: "UTF-8"
+  cron: "35 9 1 * 2"
+  cronDescrizione: "Alle 9:35 di ogni martedì"
+  dataInserimento: 2020-09-03
+  licenza: "CC BY 4.0"
+  ready: false

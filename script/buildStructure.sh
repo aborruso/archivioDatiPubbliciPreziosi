@@ -16,9 +16,8 @@ yq <"$folder"/../risorse/list.yml -r '.[].nome' | while read line; do
     touch "$folder"/../script/"$line"/"$line".sh
   fi
 
-  # crea workflow dataset se non esiste
-  if [ ! -f "$folder"/../.github/workflows/"$line".yml ]; then
+  # crea workflow dataset se non esiste e se il dataset è marcato come pronto
+  if [ ! -f "$folder"/../.github/workflows/"$line".yml ] && [ $(yq <"$folder"/../risorse/list.yml '.[] | select(.nome=="'$"line"'").ready') = "true" ]; then
     touch "$folder"/../.github/workflows/"$line".yml
-    echo "non esiste"
   fi
 done
