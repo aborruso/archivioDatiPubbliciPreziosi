@@ -40,4 +40,10 @@
   nome: ANPRtabelle
   dataInserimento: 2020-08-30
   if_not_archived_within: 7d
+- titolo: "Database delle località a supporto dei sistemi RDS TMC"
+  fonte: "Sito CCIS"
+  URL: "https://www.cciss.it/web/cciss/database-rds-tmc"
+  nome: CCISSlocalitaRDSTMC
+  dataInserimento: 2020-09-04
+  if_not_archived_within: 30d
 
