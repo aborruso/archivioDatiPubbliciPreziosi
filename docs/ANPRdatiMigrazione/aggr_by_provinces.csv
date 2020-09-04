@@ -30,7 +30,7 @@ Calabria,Cosenza,82,280373,91795,15,69510,0
 Lombardia,Cremona,99,334701,16753,5,6751,0
 Calabria,Crotone,23,166410,27014,1,823,0
 Piemonte,Cuneo,221,566050,54358,14,15802,0
-Sicilia,Enna,13,109362,53114,4,23845,0
+Sicilia,Enna,14,112786,54019,3,20313,0
 Marche,Fermo,25,89670,11887,10,51893,0
 Emilia Romagna,Ferrara,20,338747,14299,0,0,0
 Toscana,Firenze,40,992621,33588,1,17882,0
@@ -51,7 +51,7 @@ Toscana,Livorno,16,164031,8896,2,171545,0
 Lombardia,Lodi,57,227705,4952,3,2961,0
 Toscana,Lucca,32,367625,41970,0,0,0
 Marche,Macerata,37,213816,38528,9,40909,0
-Lombardia,Mantova,60,393637,27642,1,4390,0
+Lombardia,Mantova,60,393637,27642,2,9027,0
 Toscana,Massa-Carrara,17,195323,18468,0,0,0
 Basilicata,Matera,8,74116,6273,4,27133,0
 Sicilia,Messina,91,541701,79607,5,16197,0
@@ -60,14 +60,14 @@ Emilia Romagna,Modena,38,640020,26709,1,8444,0
 Lombardia,Monza-Brianza,49,764603,23375,3,70148,0
 Campania,Napoli,56,2161116,102675,7,120558,0
 Piemonte,Novara,80,360709,19119,6,7543,0
-Sardegna,Nuoro,60,169849,17052,5,7307,0
+Sardegna,Nuoro,61,172953,17412,4,4330,0
 Sardegna,Oristano,84,155122,15596,3,2084,0
 Veneto,Padova,98,902717,53288,1,7573,0
 Sicilia,Palermo,54,1000321,94105,8,96450,0
 Emilia Romagna,Parma,39,445014,25354,0,0,0
 Lombardia,Pavia,171,437749,26754,4,18509,0
 Umbria,Perugia,44,591982,27983,2,42877,0
-Marche,Pesaro-Urbino,49,345304,23298,2,6941,0
+Marche,Pesaro-Urbino,49,345304,23298,3,11010,0
 Abruzzo,Pescara,41,189859,25386,1,6926,0
 Emilia Romagna,Piacenza,38,256757,16178,4,12590,0
 Toscana,Pisa,37,423378,14558,0,0,0
@@ -83,7 +83,7 @@ Lazio,Rieti,34,62918,3642,12,53877,0
 Emilia Romagna,Rimini,24,339677,25316,0,0,0
 Lazio,Roma,83,1172574,30208,17,2959246,0
 Veneto,Rovigo,47,179617,13104,2,3568,0
-Campania,Salerno,104,808100,93869,10,52307,0
+Campania,Salerno,105,830272,95750,9,29965,0
 Sardegna,Sassari,91,490328,31133,0,0,0
 Liguria,Savona,43,218453,20298,10,17337,0
 Toscana,Siena,33,264973,7653,2,3011,0
