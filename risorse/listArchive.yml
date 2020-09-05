@@ -46,4 +46,10 @@
   nome: CCISSlocalitaRDSTMC
   dataInserimento: 2020-09-04
   if_not_archived_within: 30d
+- titolo: "COVID-19 Verbali CTS"
+  fonte: "Repository github pcm-dpc"
+  URL: "https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"
+  nome: COVID-19verbaliCTS
+  dataInserimento: 2020-09-04
+  if_not_archived_within: 1d
 
