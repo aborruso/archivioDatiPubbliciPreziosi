@@ -35,5 +35,13 @@ if [ $code -eq 200 ]; then
 fi
 
 # estrai dati aggregati
-<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_provinces' | mlr --j2c unsparsify then sort -f provincia >"$folder"/../../docs/"$nome"/aggr_by_provinces.csv
-<"$folder"/../../docs/"$nome"/"$nome".geojson jq '.aggregates.aggr_by_regions' | mlr --j2c unsparsify then sort -f  regione>"$folder"/../../docs/"$nome"/aggr_by_regions.csv
+jq <"$folder"/../../docs/"$nome"/"$nome".geojson '.aggregates.aggr_by_provinces' | mlr --j2c unsparsify then sort -f provincia >"$folder"/../../docs/"$nome"/aggr_by_provinces.csv
+jq <"$folder"/../../docs/"$nome"/"$nome".geojson '.aggregates.aggr_by_regions' | mlr --j2c unsparsify then sort -f regione >"$folder"/../../docs/"$nome"/aggr_by_regions.csv
+
+# dati aggregati hanno poche righe, fai l'undo, in modo da non pushare
+if [[ $(<"$folder"/../../docs/"$nome"/aggr_by_provinces.csv | wc -l) -lt 50 ]]; then
+  git checkout -- "$folder"/../../docs/"$nome"/aggr_by_provinces.csv
+fi
+if [[ $(<"$folder"/../../docs/"$nome"/aggr_by_regions.csv | wc -l) -lt 15 ]]; then
+  git checkout -- "$folder"/../../docs/"$nome"/aggr_by_regions.csv
+fi
