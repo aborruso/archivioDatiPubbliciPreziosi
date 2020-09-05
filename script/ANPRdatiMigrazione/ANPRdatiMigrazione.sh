@@ -38,7 +38,7 @@ fi
 jq <"$folder"/../../docs/"$nome"/"$nome".geojson '.aggregates.aggr_by_provinces' | mlr --j2c unsparsify then sort -f provincia >"$folder"/../../docs/"$nome"/aggr_by_provinces.csv
 jq <"$folder"/../../docs/"$nome"/"$nome".geojson '.aggregates.aggr_by_regions' | mlr --j2c unsparsify then sort -f regione >"$folder"/../../docs/"$nome"/aggr_by_regions.csv
 
-# dati aggregati hanno poche righe, fai l'undo, in modo da non pushare
+# se i dati aggregati hanno poche righe e sono quindi errati, fai l'undo, in modo da non pushare
 if [[ $(<"$folder"/../../docs/"$nome"/aggr_by_provinces.csv | wc -l) -lt 50 ]]; then
   git checkout -- "$folder"/../../docs/"$nome"/aggr_by_provinces.csv
 fi
