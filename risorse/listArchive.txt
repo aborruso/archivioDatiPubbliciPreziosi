@@ -6,3 +6,4 @@ https://developers.italia.it/it/api/
 http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
 https://www.anpr.interno.it/portale/tabelle-di-riferimento
 https://www.cciss.it/web/cciss/database-rds-tmc
+https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
