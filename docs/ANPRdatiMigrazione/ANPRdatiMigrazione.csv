@@ -326,7 +326,7 @@ Cuneo,Piemonte,Nord-Ovest,,ARGENTERA,78,0,,,,
 Cuneo,Piemonte,Nord-Ovest,,ARGUELLO,196,13,,,,05/04/2018
 Catanzaro,Calabria,Sud,,ARGUSTO,483,257,,,,22/11/2019
 Chieti,Abruzzo,Sud,,ARI,1110,883,,,,02/12/2019
-Avellino,Campania,Sud,08/09/2020,ARIANO IRPINO,22466,0,,,,
+Avellino,Campania,Sud,09/09/2020,ARIANO IRPINO,22466,0,,,,
 Rovigo,Veneto,Nord-Est,,ARIANO NEL POLESINE,4223,217,,,,13/09/2018
 Roma,Lazio,Centro,,ARICCIA,18712,599,,,,20/11/2019
 Chieti,Abruzzo,Sud,,ARIELLI,1123,304,,,,09/12/2019
@@ -381,7 +381,7 @@ Vicenza,Veneto,Nord-Est,,ASIAGO,6443,830,,,,17/04/2019
 Vicenza,Veneto,Nord-Est,,ASIGLIANO VENETO,887,68,,,,12/12/2019
 Vercelli,Piemonte,Nord-Ovest,,ASIGLIANO VERCELLESE,1435,30,,,,28/11/2019
 Mantova,Lombardia,Nord-Ovest,,ASOLA,10078,270,,,,21/11/2019
-Treviso,Veneto,Nord-Est,17/08/2020,ASOLO,9106,0,10/09/2020,06/09/2020,30/09/2020,
+Treviso,Veneto,Nord-Est,09/09/2020,ASOLO,9106,0,10/09/2020,06/09/2020,30/09/2020,
 Milano,Lombardia,Nord-Ovest,,ASSAGO,9242,240,,,,10/10/2019
 Cagliari,Sardegna,Isole,,ASSEMINI,26937,1160,,,,14/12/2018
 Perugia,Umbria,Centro,,ASSISI,28491,1526,,,,17/06/2020
@@ -1445,7 +1445,7 @@ Alessandria,Piemonte,Nord-Ovest,,CASALE MONFERRATO,33948,1942,,,,09/07/2018
 Treviso,Veneto,Nord-Est,,CASALE SUL SILE,13131,1091,,,,05/02/2019
 Bologna,Emilia Romagna,Nord-Est,,CASALECCHIO DI RENO,36757,958,,,,04/07/2018
 Alessandria,Piemonte,Nord-Ovest,,CASALEGGIO BOIRO,373,57,,,,19/07/2019
-Novara,Piemonte,Nord-Ovest,03/06/2020,CASALEGGIO NOVARA,930,0,09/09/2020,09/09/2020,09/09/2020,
+Novara,Piemonte,Nord-Ovest,,CASALEGGIO NOVARA,911,30,,,,09/09/2020
 Verona,Veneto,Nord-Est,,CASALEONE,5562,312,,,,21/10/2019
 Cremona,Lombardia,Nord-Ovest,,CASALETTO CEREDANO,1148,17,,,,22/01/2020
 Cremona,Lombardia,Nord-Ovest,,CASALETTO DI SOPRA,544,6,,,,06/06/2018
@@ -3909,7 +3909,7 @@ Forli-Cesena,Emilia Romagna,Nord-Est,,MELDOLA,10022,565,,,,25/09/2019
 Genova,Liguria,Nord-Ovest,,MELE,2641,130,,,,06/02/2020
 Milano,Lombardia,Nord-Ovest,,MELEGNANO,18270,421,,,,13/06/2018
 Lecce,Puglia,Sud,,MELENDUGNO,10004,0,,,,
-Lodi,Lombardia,Nord-Ovest,30/07/2020,MELETI,445,0,20/08/2020,17/08/2020,21/08/2020,
+Lodi,Lombardia,Nord-Ovest,09/09/2020,MELETI,445,0,20/08/2020,17/08/2020,21/08/2020,
 Potenza,Basilicata,Sud,,MELFI,17811,1467,,,,31/10/2018
 Reggio-Calabria,Calabria,Sud,29/05/2020,MELICUCCA',896,0,,,,
 Reggio-Calabria,Calabria,Sud,,MELICUCCO,5033,984,,,,07/02/2019
@@ -5053,7 +5053,7 @@ Catanzaro,Calabria,Sud,,PIANOPOLI,2616,732,,,,19/05/2020
 Bologna,Emilia Romagna,Nord-Est,,PIANORO,17609,572,,,,18/10/2018
 Viterbo,Lazio,Centro,,PIANSANO,1982,70,,,,13/11/2019
 Sondrio,Lombardia,Nord-Ovest,,PIANTEDO,1404,89,,,,03/10/2019
-Bergamo,Lombardia,Nord-Ovest,07/09/2020,PIARIO,1082,0,,,,
+Bergamo,Lombardia,Nord-Ovest,07/09/2020,PIARIO,1082,0,16/09/2020,15/09/2020,22/09/2020,
 Cuneo,Piemonte,Nord-Ovest,,PIASCO,2753,232,,,,07/03/2019
 Sondrio,Lombardia,Nord-Ovest,,PIATEDA,2157,243,,,,21/09/2018
 Biella,Piemonte,Nord-Ovest,,PIATTO,502,35,,,,25/03/2019
@@ -5064,7 +5064,7 @@ Bergamo,Lombardia,Nord-Ovest,,PIAZZATORRE,390,22,,,,09/04/2019
 Padova,Veneto,Nord-Est,,PIAZZOLA SUL BRENTA,11186,516,,,,12/10/2018
 Bergamo,Lombardia,Nord-Ovest,,PIAZZOLO,90,16,,,,30/07/2019
 Pescara,Abruzzo,Sud,,PICCIANO,1338,110,,,,12/11/2019
-Potenza,Basilicata,Sud,07/09/2020,PICERNO,5870,0,,,,
+Potenza,Basilicata,Sud,07/09/2020,PICERNO,5870,0,24/09/2020,22/09/2020,30/09/2020,
 Frosinone,Lazio,Centro,,PICINISCO,1175,0,,,,
 Frosinone,Lazio,Centro,,PICO,2758,317,,,,19/05/2020
 Asti,Piemonte,Nord-Ovest,,PIEA,564,24,,,,07/08/2019
@@ -6170,7 +6170,7 @@ Taranto,Puglia,Sud,,SAN MARZANO DI SAN GIUSEPPE,9108,711,,,,14/10/2019
 Asti,Piemonte,Nord-Ovest,,SAN MARZANO OLIVETO,1019,202,,,,19/11/2018
 Salerno,Campania,Sud,18/09/2018,SAN MARZANO SUL SARNO,10508,0,,,,
 Campobasso,Molise,Sud,,SAN MASSIMO,824,198,,,,12/11/2019
-Torino,Piemonte,Nord-Ovest,,SAN MAURIZIO CANAVESE,10271,0,,,,
+Torino,Piemonte,Nord-Ovest,09/09/2020,SAN MAURIZIO CANAVESE,10271,0,,,,
 Novara,Piemonte,Nord-Ovest,19/09/2019,SAN MAURIZIO D'OPAGLIO,3062,0,,01/09/2020,30/09/2020,
 Palermo,Sicilia,Isole,,SAN MAURO CASTELVERDE,1594,0,,,,
 Salerno,Campania,Sud,,SAN MAURO CILENTO,869,162,,,,07/12/2018
