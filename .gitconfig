@@ -1,0 +1,5 @@
+[diff "daff-csv"]
+command = daff diff --git
+[merge "daff-csv"]
+name = daff tabular merge
+driver = daff merge --output %A %O %A %B
