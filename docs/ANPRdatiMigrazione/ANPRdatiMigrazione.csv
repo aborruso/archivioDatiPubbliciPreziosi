@@ -1343,7 +1343,7 @@ Vercelli,Piemonte,Nord-Ovest,002029,,CARCOFORO,75,4,,,,30/11/2018
 Varese,Lombardia,Nord-Ovest,012032,,CARDANO AL CAMPO,14903,710,,,,21/11/2019
 Cuneo,Piemonte,Nord-Ovest,004042,,CARDE',1153,563,,,,05/12/2019
 Nuoro,Sardegna,Isole,091103,,CARDEDU,1966,176,,,,09/12/2019
-Reggio-Calabria,Calabria,Sud,080022,04/03/2019,CARDETO,1562,0,,,,
+Reggio-Calabria,Calabria,Sud,080022,04/03/2019,CARDETO,1562,0,25/09/2020,25/09/2020,25/09/2020,
 Catanzaro,Calabria,Sud,079018,,CARDINALE,1975,2021,,,,14/01/2020
 Napoli,Campania,Sud,063016,,CARDITO,22397,731,,,,29/07/2019
 Lucca,Toscana,Centro,046008,,CAREGGINE,534,476,,,,22/11/2019
@@ -1648,7 +1648,7 @@ Teramo,Abruzzo,Sud,067011,,CASTELLALTO,7603,952,,,,23/03/2020
 Trapani,Sicilia,Isole,081005,,CASTELLAMMARE DEL GOLFO,15195,0,,,,
 Napoli,Campania,Sud,063024,,CASTELLAMMARE DI STABIA,65887,0,,,,
 Torino,Piemonte,Nord-Ovest,001066,,CASTELLAMONTE,9982,450,,,,13/11/2018
-Bari,Puglia,Sud,072017,11/09/2020,CASTELLANA GROTTE,19580,0,,,,
+Bari,Puglia,Sud,072017,11/09/2020,CASTELLANA GROTTE,19580,0,29/09/2020,25/09/2020,30/09/2020,
 Palermo,Sicilia,Isole,082024,,CASTELLANA SICULA,3196,679,,,,27/09/2019
 Taranto,Puglia,Sud,073003,,CASTELLANETA,17090,0,,,,
 Alessandria,Piemonte,Nord-Ovest,006045,,CASTELLANIA,91,26,,,,20/06/2019
@@ -3833,7 +3833,7 @@ Bologna,Emilia Romagna,Nord-Est,037036,,MARZABOTTO,6849,278,,,,06/12/2018
 Pavia,Lombardia,Nord-Ovest,018087,04/09/2018,MARZANO,1671,0,,,,
 Caserta,Campania,Sud,061050,,MARZANO APPIO,2211,0,,,,
 Avellino,Campania,Sud,064047,,MARZANO DI NOLA,1662,115,,,,22/06/2020
-Cosenza,Calabria,Sud,078078,07/09/2020,MARZI,986,0,,,,
+Cosenza,Calabria,Sud,078078,07/09/2020,MARZI,986,0,28/09/2020,24/09/2020,30/09/2020,
 Varese,Lombardia,Nord-Ovest,012099,,MARZIO,346,45,,,,30/07/2019
 ,Sardegna,,111040,,MASAINAS,1273,209,,,,12/12/2018
 Milano,Lombardia,Nord-Ovest,015136,,MASATE,3630,154,,,,12/12/2019
@@ -4024,7 +4024,7 @@ Messina,Sicilia,Isole,083052,,MISTRETTA,4653,0,,,,
 Asti,Piemonte,Nord-Ovest,005063,,MOASCA,511,18,,,,05/12/2018
 Genova,Liguria,Nord-Ovest,010036,,MOCONESI,2466,273,,,,09/06/2020
 Modena,Emilia Romagna,Nord-Est,036023,,MODENA,186092,6261,,,,12/12/2017
-Ragusa,Sicilia,Isole,088006,,MODICA,54501,0,,,,
+Ragusa,Sicilia,Isole,088006,18/09/2020,MODICA,54501,0,,,,
 Forli-Cesena,Emilia Romagna,Nord-Est,040022,,MODIGLIANA,4466,249,,,,19/07/2018
 Oristano,Sardegna,Isole,095084,,MODOLO,155,35,,,,25/07/2019
 Bari,Puglia,Sud,072027,,MODUGNO,37814,1615,,,,24/09/2019
@@ -5628,7 +5628,7 @@ Catania,Sicilia,Isole,087039,,RIPOSTO,14613,2434,,,,07/08/2019
 Cuneo,Piemonte,Nord-Ovest,004182,,RITTANA,109,12,,,,03/09/2019
 Trento,Trentino Alto Adige,Nord-Est,022153,,RIVA DEL GARDA,17590,1353,,,,30/01/2019
 Ferrara,Emilia Romagna,Nord-Est,038029,,RIVA DEL PO,7934,0,,,,
-Bergamo,Lombardia,Nord-Ovest,016180,,RIVA DI SOLTO,917,0,,,,
+Bergamo,Lombardia,Nord-Ovest,016180,18/09/2020,RIVA DI SOLTO,917,0,,,,
 Imperia,Liguria,Nord-Ovest,008050,,RIVA LIGURE,2878,200,,,,03/12/2019
 Torino,Piemonte,Nord-Ovest,001215,,RIVA PRESSO CHIERI,4782,145,,,,09/12/2019
 Torino,Piemonte,Nord-Ovest,001213,,RIVALBA,1166,23,,,,03/06/2019
@@ -6689,7 +6689,7 @@ Salerno,Campania,Sud,065140,,SERRE,3900,168,,,,04/11/2019
 Frosinone,Lazio,Centro,060071,,SERRONE,3035,56,,,,31/05/2019
 Catanzaro,Calabria,Sud,079130,,SERSALE,4562,0,,,,
 Fermo,Marche,Centro,109038,,SERVIGLIANO,2268,0,,,,
-Caserta,Campania,Sud,061088,,SESSA AURUNCA,21255,0,,,,
+Caserta,Campania,Sud,061088,18/09/2020,SESSA AURUNCA,21255,0,,,,
 Salerno,Campania,Sud,065141,,SESSA CILENTO,1260,536,,,,16/09/2019
 Asti,Piemonte,Nord-Ovest,005105,,SESSAME,255,29,,,,09/10/2019
 Isernia,Molise,Sud,094049,,SESSANO DEL MOLISE,711,518,,,,19/12/2019
@@ -7088,7 +7088,7 @@ L'Aquila,Abruzzo,Sud,066100,,TIONE DEGLI ABRUZZI,285,218,,,,30/09/2019
 Trento,Trentino Alto Adige,Nord-Est,022199,,TIONE DI TRENTO,3683,156,,,,17/09/2019
 Sondrio,Lombardia,Nord-Ovest,014066,,TIRANO,9000,1485,,,,09/04/2019
 Bolzano,Trentino Alto Adige,Nord-Est,021100,,TIRES,983,0,,,,
-Catanzaro,Calabria,Sud,079147,,TIRIOLO,3876,0,,,,
+Catanzaro,Calabria,Sud,079147,18/09/2020,TIRIOLO,3876,0,,,,
 Bolzano,Trentino Alto Adige,Nord-Est,021101,,TIROLO,2457,0,,,,
 Sassari,Sardegna,Isole,090072,,TISSI,2399,100,,,,09/08/2019
 Potenza,Basilicata,Sud,076089,,TITO,7318,2081,,,,25/11/2019
