@@ -52,4 +52,10 @@
   nome: COVID-19verbaliCTS
   dataInserimento: 2020-09-04
   if_not_archived_within: 1d
+- titolo: "Dataset Sistema Unico Territoriale"
+  fonte: "Sito del Dipartimento per gli Affari Interni e Territoriali"
+  URL: "https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale"
+  nome: datasetSUT
+  dataInserimento: 2020-09-21
+  if_not_archived_within: 7d
 
