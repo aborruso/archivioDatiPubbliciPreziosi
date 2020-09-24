@@ -7,4 +7,4 @@ http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
 https://www.anpr.interno.it/portale/tabelle-di-riferimento
 https://www.cciss.it/web/cciss/database-rds-tmc
 https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
-https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
