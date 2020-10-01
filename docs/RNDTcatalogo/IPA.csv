@@ -1,6 +1,7 @@
 cod_amm,count
 0216c195-60f8-456e-8d2e-1b5e59052268,1
 0dac4719-9d05-415a-a0be-e0e2da3cb056,1
+57a9378f-8d31-4651-9372-c150195102f5,1
 ARLPA_TO,227
 ARPAT,52
 CCSVeneto2016,1
@@ -27,7 +28,6 @@ TRIX2017,1
 TRIX2018R,1
 UM_ACQUA,4
 aaton_,1
-abb_,10
 abfa,9
 abflgv,7
 abnfa_tn,2
@@ -36,8 +36,8 @@ agcom,18
 age,7716
 agea,363
 agid,1
-arpa,216
-arpa_ve,183
+arpa,225
+arpa_ve,182
 arpa_ve_TRIX2008,1
 arpav_ve,1
 c0401053_FociLoc,1
@@ -51,12 +51,9 @@ c0407040_NitratiPot,1
 c0408260_MetFiumi,1
 c0408280_CompFiumi,1
 c0507021_CartaSuoliVen,1
-c0507051_CarbonioOrganico,1
 c0507061_RischioPerAzot,1
-c0507101_CartaSuoli50000,1
 c0507111_ClCapUsoSuoli,1
 c0507151_MetMetalloidi,1
-c0507161_CapProtSuo,1
 c0507171_TesSuoVen50cm,1
 c0507181_TesSuo50cm,1
 c0507191_TesSuoVen100cm,1
@@ -72,7 +69,6 @@ c0507291_ErosPot,1
 c0507301_ErosAtt,1
 c0604011_TipiHabitat,1
 c0901013_BrillanzaCieloNot,1
-c0902010_AbitazSuperRadon,1
 c0902030_RadonScuole,1
 c0903022_LineeElettricheAT,1
 c0904010_NumComuniClasAcus,1
@@ -132,7 +128,7 @@ c_d175,6
 c_d251,4
 c_d255,6
 c_d451,1
-c_d612,277
+c_d612,278
 c_d969,35
 c_e004,7
 c_e054,2
@@ -196,7 +192,7 @@ p_AR,14
 p_GE,12
 p_MS,19
 p_SV,13
-p_TN,288
+p_TN,286
 p_ag,13
 p_bi,53
 p_bz,91
@@ -204,7 +200,7 @@ p_cl,3
 p_cr,71
 p_en,64
 p_fe,158
-p_lo,292
+p_lo,291
 p_mn,113
 p_pi,14
 p_po,23
@@ -221,10 +217,10 @@ r_abruzz,432
 r_basili,247
 r_calabr,107
 r_campan,24
-r_emiro,1276
+r_emiro,1277
 r_friuli,1750
 r_lazio,224
-r_liguri,594
+r_liguri,619
 r_lombar,244
 r_marche,5
 r_molise,1524
