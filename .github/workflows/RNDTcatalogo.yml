@@ -1,7 +1,7 @@
 name: crea archivio catalogo RNDT
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '30 9 1 */1 *'
