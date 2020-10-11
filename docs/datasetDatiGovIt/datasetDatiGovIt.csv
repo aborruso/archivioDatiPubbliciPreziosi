@@ -721,12 +721,14 @@ id
 2016-contribuzione-e-interventi-atenei
 2016-diritto-allo-studio-universitario-dsu-regionale
 2016-diritto-allo-studio-universitario-dsu-regionale1
+2016-incidenti-stradali
 2017-collegi-universitari
 2017-contribuzione-e-interventi-afam
 2017-contribuzione-e-interventi-afam1
 2017-contribuzione-e-interventi-atenei
 2017-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2020
 2017-diritto-allo-studio-universitario-dsu-regionale
+2017-incidenti-stradali
 2017b6d6-49aa-422b-8539-9411cac52910
 2018-07-13
 2018-07-30
@@ -738,6 +740,7 @@ id
 2018-contribuzione-e-interventi-atenei
 2018-contribuzione-e-interventi-atenei1
 2018-diritto-allo-studio-universitario-dsu-regionale
+2018-incidenti-stradali
 2019-collegi-universitari
 2019-contribuzione-e-interventi-afam
 2019-contribuzione-e-interventi-atenei
@@ -1152,10 +1155,8 @@ accesso_interno6
 accessori
 accessori-elementi-arredo
 accessori-elemento-lineare-verde-pubblico
-accessori-siti-alberi
 accessori-verde-pubblico
 acclivita-7-classi-sc-1-10000-ed-2013
-acclivita-7-classi-sc-1-10000-ed-2016
 acconciatori-e-estetisti-al-31-12-2014
 accordi-del-comun-general-de-fascia
 accordi-del-comune-di-aldeno
@@ -1493,7 +1494,6 @@ alberghi-e-residenze-turistiche-alberghiere-open-data-prezzi
 alberi
 alberi-alb
 alberi-monumentali
-alberi-monumentali-d-d-n-3475-2018
 alberi-monumentali-d-d-n-8220-2019
 alberi-monumentali-dell-emilia-romagna-ea26b324
 alberi-monumentali-della-campania
@@ -2838,7 +2838,6 @@ antropico-localizzazione-di-manufatto-industriale-di-trasporto
 antropico-manufatti-stradali
 antropico-manufatto-edilizio
 antropico-manufatto-gradino
-antropico-muro-di-sostegno-e-ritenuta-del-terreno
 antropico-muro-o-divisione-in-spessore
 antropico-palo
 antropico-particolare-architettonico
@@ -3181,9 +3180,7 @@ aree-destinate-alla-balneazione
 aree-destinate-alla-mitilicoltura-sc-1-5000-d-g-r-2216-1996
 aree-di-ammassamento
 aree-di-ammassamento-dei-soccorritori-e-delle-risorse
-aree-di-assistenza-della-popolazione
 aree-di-attesa
-aree-di-attesa-della-popolazione
 aree-di-attesa-della-popolazione1
 aree-di-balneazione
 aree-di-circolazione-pedonale
@@ -4961,7 +4958,9 @@ bando-iscrizioni-asili-nido-a-s-2016_2017
 bando-prima-dote
 bando-pubblico-per-esercizi-di-vicinato-nei-rioni-sassi
 bar
+bar-e-caffe1
 bar2
+baraccopoli1
 barbieri-e-affini
 barriere-architettoniche-censite
 barriere-artificiali-sommerse-di-ripopolamento-ittico
@@ -5072,6 +5071,7 @@ beni-patrimoniali-concessi-ex-demanio
 beni-patrimoniali-concessi-nuovo-patrimonio
 beni-patrimoniali-concessi-vecchio-patrimonio
 beni-urbanistici-e-archeologici
+benzinai1
 betreuung-in-hospice-einrichtungen-die-hospice-einrichtungen-in-der-provinz-bozen1
 betreuung-in-hospice-einrichtungen-hospice-tatigkeiten
 betreuung-in-hospice-einrichtungen-hospice-tatigkeiten1
@@ -5537,6 +5537,7 @@ bilancio-consolidato-2016
 bilancio-consolidato-2017
 bilancio-consolidato-2018
 bilancio-consuntivo
+bilancio-consuntivo-2017
 bilancio-consuntivo-2018
 bilancio-consuntivo-2019
 bilancio-del-comune-di-palermo-entrate-anno-2009
@@ -5808,6 +5809,7 @@ c_a947_dataset_biblioteche
 c_a947_dataset_chiese
 c_a947_dataset_concorsi_2019
 c_a947_dataset_concorsi_2020
+c_a947_dataset_eventi-culturali
 c_a947_dataset_monumenti
 c_a947_dataset_musei
 c_a947_dataset_rocche_castelli
@@ -6039,6 +6041,7 @@ c_f268_dataset_bandi-di-gara_2020
 c_f268_dataset_biblioteche
 c_f268_dataset_chiese
 c_f268_dataset_concorsi_2019
+c_f268_dataset_concorsi_2020
 c_f268_dataset_eventi-culturali
 c_f268_dataset_monumenti
 c_f268_dataset_musei
@@ -6446,6 +6449,7 @@ campi_gara
 canale-canale-040405
 canale-canale-040405-superficie-alveo-artificiale
 canale-canale-040405-superficie-bagnata
+canale-emiliano-romagnolo1
 canale-principale-10000-ct10
 canali
 canali-artificiali
@@ -6561,7 +6565,6 @@ carta-dei-suoli-del-lazio-1-250-000-ed-2019
 carta-dei-suoli-del-veneto
 carta-dei-suoli-del-veneto-in-scala-1-250-000-livello-gerarchico-l2-province-di-suoli-aggi-2018
 carta-dei-suoli-del-veneto-in-scala-1-250-000-livello-gerarchico-l3-sistemi-di-suoli
-carta-dei-suoli-in-scala-1-50-000
 carta-dei-tipi-climatici-09e1eff7
 carta-del-consumo-di-suolo-del-veneto-2016
 carta-del-consumo-di-suolo-del-veneto-2017
@@ -6620,7 +6623,6 @@ carta-del-rischio-di-percolazione-dellinsetticida-clorantraniliprole-utilizzato-
 carta-del-rischio-incendio-boschivo-e-di-interfaccia-2017
 carta-dell-uso-suolo-della-regione-basilicata-2013
 carta-della-capacita-d-uso-dei-suoli-del-lazio-1-250-000-ed-2019
-carta-della-capacita-protettiva-dei-suoli-del-veneto1
 carta-della-criticita-idrica-sotterranea
 carta-della-natura-alla-scala-1-250-000-carta-delle-unita-fisiografiche-dei-paesaggi-italiani-d
 carta-della-natura-alla-scala-1-250-000-carta-naturalistico-culturale-dataset
@@ -7250,7 +7252,6 @@ censimento-dei-pubblici-esercizi-stagionali-bar-ristoranti
 censimento-dei-siti-inquinati
 censimento-dei-tabaccai
 censimento-della-lepre-italica-lepus-corsicanus-nel-lazio
-censimento-della-popolazione-del-2011-dati-provvisori
 censimento-delle-barriere-architettoniche-e-urbanistiche
 censimento-delle-edicole-nella-regione-lazio
 censimento-delle-grandi-strutture-di-vendita-gsv
@@ -7308,6 +7309,7 @@ centrali-di-raccolta-e-trattamento-del-gas
 centrali-grandi-derivazioni-idroelettriche
 centri-abitati-presenti-nel-territorio-escluso-il-centro-principale
 centri-abitati1
+centri-abitati2
 centri-adozioni-della-regione-toscana-valori-assoluti-anni-2008-2012
 centri-antiviolenza
 centri-antiviolenza-autorizzati-iscritti-albo-regionale
@@ -7317,7 +7319,6 @@ centri-assistenziali-anziani-autosufficienti
 centri-assistenziali-anziani-non-autosufficienti
 centri-assistenziali-dipendenze
 centri-assistenziali-disabili-fisici
-centri-assistenziali-disabili-psichici
 centri-assistenziali-disabili-sociali
 centri-assistenziali-minori
 centri-commerciali
@@ -7410,6 +7411,7 @@ cessazioni-dal-lavoro-anno-2017
 cessazioni-dal-lavoro-anno-2018
 cessole
 cessole-dati-finanziari
+cestini-arredo-urbano-e-verde1
 cfd9cd13-7674-465a-ae6a-23b0422bd1dc
 cfva-aree-percorse-dal-fuoco-2016
 cfva-perimetrazioni-aree-percorse-dal-fuoco-2005
@@ -7443,6 +7445,7 @@ check-list-dei-mammiferi-della-riserva-naturale-regionale-selva-del-lamone
 check-list-della-erpetofauna-della-riserva-naturale-regionale-selva-del-lamone
 chiese
 chiese-del-territorio-comunale-di-matera
+chiese-monasteri-e-conventi-di-lecce
 chiese1
 chiese2
 chiusure-dei-bacini-idrografici-di-dettaglio
@@ -7471,6 +7474,7 @@ cimiteri1
 cimiteri2
 cimiteri3
 cimiteri4
+cimiteri5
 cimp
 cimp-violazioni
 cinaglio-dati-finanziari
@@ -7616,6 +7620,19 @@ classificazione-acustica-zonizzazione-open-data
 classificazione-aggregati-territoriali
 classificazione-dei-corpi-idrici-fluviali-del-veneto-come-da-dgr-1856-del-12-dicembre-2015
 classificazione-delle-colture-in-atto-tramite-telerilevamento
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2008
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2009
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2010
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2011
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2012
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2013
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2014
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2015
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2016
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2017
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2018
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2019
+classificazione-delle-colture-in-atto-tramite-telerilevamento-classificazione-delle-coltur-2020
 classificazione-dello-stato-dei-corpi-idrici-superficiali-triennio-2009-2011-dgr-n-1615-2012
 classificazione-nazionale-dei-dispositivi-medici-cnd
 classificazione-qualita-ambientale-fiumi-dlgs-152-99
@@ -7661,6 +7678,7 @@ cocconato-dati-finanziari
 cocconato-dati-tributi
 cocconato-statistiche-popolazione
 cocconato-statistiche-ufficio-tecnico
+codice-avviamento-postale1
 codice-statistico-contributivo
 codice_della_strada_sanzioni_agosto_2013
 codice_della_strada_sanzioni_agosto_2014
@@ -7807,7 +7825,6 @@ commercio-estero-della-provincia-di-lucca-per-settore-di-attivita-economica-anno
 commercio-estero-della-provincia-di-lucca-per-settore-di-attivita-economica-anno-2017
 commercio-in-sede-fissa
 commercio-in-sede-fissa-comune-di-udine
-commercio-su-area-pubblica
 commercio-su-area-pubblica1
 commercio-su-aree-pubbliche-comune-di-udine
 commercio-su-aree-pubbliche-su-posteggio-e-itinerante-al-31-12-2014
@@ -9088,8 +9105,8 @@ comune-di-lapedona-praticanti-sport
 comune-di-latiano
 comune-di-lavagna-p-r-g-approvato-1998
 comune-di-lecce
+comune-di-lecco-beni-artistici-e-architettonici2
 comune-di-lecco-bike-sharing
-comune-di-lecco-punti-di-ricarica-veicoli
 comune-di-lecco-wifi-cittadino
 comune-di-lumarzo-p-r-g-approvato-2002-revisione-per-variante-approvata-2012
 comune-di-magliano-di-tenna-anagrafica-associazioni-culturali
@@ -11027,6 +11044,7 @@ consumi-energetici-del-settore-pubblico-illuminazione-pubblica
 consumi-energetici-edifici-provinciali-2011-2015
 consumi-energetici-mezzi-comunali-e-trasporti-pubblici-2007-2012
 consumi-energia-elettrica-acqua-e-gas-della-regione-lazio
+consumi-energia-elettrica-pubblica-illuminazione-03-2018-03-2019
 consumi-energia-elettrica-utenze-comune-di-genova-comge
 consumi-gas-metano-utenze-comune-di-genova-comge
 consumi-giornalieri-di-acqua-per-abitante-2000-2016
@@ -11102,7 +11120,6 @@ contenitori_di_raccolta_indumenti
 contenitori_di_raccolta_multimateriale
 contenitori_di_raccolta_organico
 contenitori_di_raccolta_rifiuti_solidi_urbani
-contenuto-in-carbonio-organico
 contenuto-perc-argilla-suoli-di-pianura-9b61ee53
 contenuto-perc-carbonio-org-0-30-montagna-5d2e9236
 contenuto-perc-carbonio-org-0-30-pianura-dcc1b362
@@ -12415,7 +12432,6 @@ dbt-varese-viabilita-mobilita-e-trasporti
 dbt10k-li-pi-pt-po-si
 dbt2k
 dbtl-a000201-porzione-di-territorio-restituito
-dbtl-a000303-abbracciamento-al-suolo-del-fotogramma
 dbtl-a010101-area-di-circolazione-veicolare
 dbtl-a010102-area-di-circolazione-pedonale
 dbtl-a010103-area-di-circolazione-ciclabile
@@ -13857,7 +13873,6 @@ dissesti-lineari-pai-vigente
 dissesti-puntuali-comuni-esonerati-classe-a
 dissesti-puntuali-derivanti-da-strumenti-urbanistici
 dissesti-puntuali-pai-vigente
-dissuasori-mobili-a-scomparsa
 distretti-assistenziali
 distretti-aziende-sanitarie-locali
 distretti-idrografici
@@ -13895,7 +13910,6 @@ distretto-po-limiti-amministrativi-distretti-ita-2018
 distretto-po-sismica-microzonazione-sismica
 distributori
 distributori-carburante
-distributori-di-carburante
 distributori-di-carburante-ai-censimenti
 distributori-di-carburante-ai-censimenti-per-10-000-residenti
 distributori-di-carburante-al-2018-della-citta-di-matera
@@ -14086,7 +14100,6 @@ dtm-2017
 dtm-5x5
 dtm-hillshade
 dtm-indice-di-convergenza
-dtm-modello-digitale-del-terreno-liguria-ed-2016
 dtm20-modello-digitale-del-terreno
 dtm_2007
 dtt-dizionario-toponomastico-trentino
@@ -14165,6 +14178,7 @@ edicole-votive-centro-storico
 edicole-votive-della-citta-di-matera
 edicole1
 edicole2
+edicole3
 edificato
 edificato-del-comune-di-vaiano
 edificato1
@@ -14256,10 +14270,8 @@ edilizia-nuovi-fabbricati-con-destinazione-duso-residenziale
 edilizia-scolastica
 edilizia_residenziale
 editori-umbria-2015
-edizione-2016-della-maratona-di-firenze
 edizione-2016-della-maratona-di-firenze-collocazione-dei-wc
 edizione-2016-della-maratona-di-firenze-collocazione-punti-di-ristoro
-edizione-2016-della-maratona-di-firenze-collocazione-punti-di-soccorso
 edizione-2016-della-maratona-di-firenze-collocazione-punti-di-spugnatura
 edizione-2016-della-maratona-di-firenze-tracciato-percorsi
 ee
@@ -14364,7 +14376,6 @@ elenco-biblioteche
 elenco-biblioteche-umbre-sbn
 elenco-cacciatori
 elenco-cani-randagi-censiti-comune-di-latiano
-elenco-canoni-di-locazione
 elenco-capi-aziende-zootecniche
 elenco-cdd
 elenco-centri-diurni-integrati-accreditati-per-anziani
@@ -16078,7 +16089,6 @@ esercizi-commerciali-di-tipologia-2-2014
 esercizi-commerciali-di-tipologia-2-2015
 esercizi-commerciali-di-tipologia-2-2016
 esercizi-commerciali-emergenza-covid19
-esercizi-commerciali-esercizi-di-vicinato
 esercizi-commerciali-grande-distribuzione
 esercizi-commerciali-in-sede-fissa
 esercizi-commerciali-media-distribuzione
@@ -16130,7 +16140,6 @@ esportazioni-del-friuli-venezia-giulia-2014-2018
 esportazioni-del-friuli-venezia-giulia-2014-i-trimestre-2016
 esportazioni-per-attivita-economica
 esposizione-dei-versanti-9-classi-sc-1-10000-ed-2007
-esposizione-dei-versanti-9-classi-sc-1-10000-ed-2016-provincia-di-la-spezia
 esposizione-dei-versanti-lidar-9-classi-sc-1-5000-ed-2008
 esposizione-dtm-25-x-25m1
 esposti-e-segnalazioni-polizia-municipale-2017
@@ -16341,7 +16350,6 @@ eventi-mar
 eventi-museo-d-arte-della-citta-di-ravenna-2017
 eventi-ravenna-2019
 eventi-regione-marche
-eventi-sismici
 eventi-spettacoli-e-manifestazioni-culturali
 eventi-sportivi-empolese-valdelsa-2016
 eventi-turismo
@@ -16573,6 +16581,40 @@ famiglie_unipersona
 famiglie_unipersonali_italiane_e_straniere
 famiglie_unipersonali_per_sesso_ed_eta
 famigliee_per_zona
+fano-chiese
+fano-crinale
+fano-cultura
+fano-edificio-in-agg-to-scala-1-10-000
+fano-edificio-o-manufatto-storico
+fano-edificio-scolastico
+fano-impianti-sportivi
+fano-mobilita
+fano-monumenti
+fano-numero-civico
+fano-parcheggi
+fano-perimetrazioni
+fano-previsione-bilancio-2015
+fano-previsione-bilancio-2016
+fano-previsione-bilancio-2017
+fano-previsione-bilancio-2018
+fano-previsione-bilancio-2019
+fano-previsione-bilancio-2020
+fano-scuole
+fano-servizi-di-interesse-pubblico
+fano-servizi-sanitari
+fano-sito-archeologico
+fano-sottosistema-botanico-vegetazionale
+fano-sottosistema-geo-geomorfo-idrogeologico
+fano-sottosistema-storico-culturale
+fano-sottosistema-territoriale
+fano-strada-consolare
+fano-strada-panoramica
+fano-varianti
+fano-varianti-puntuali
+fano-vie
+fano-vincolo-paesistico-d-lgs-42-2004
+fano-zona-a-vincolo-speciale
+fano-zonizzazione
 farma-sintesi-acromegalia-e-gigantismo-primo-liv
 farma-sintesi-acromegalia-e-gigantismo-secondo-liv
 farma-sintesi-acromegalia-e-gigantismo-terzo-liv
@@ -16736,6 +16778,7 @@ farmacie-sc-1-5000
 farmacie-territoriali-innovapuglia
 farmacie1
 farmacie10
+farmacie11
 farmacie2
 farmacie3
 farmacie4
@@ -16766,6 +16809,7 @@ fattorie-didattiche
 fattorie-didattiche-e-sociali
 fattorie-didattiche-e6de79e4
 fattorie-didattiche-lombarde
+fattorie-didattiche1
 fattorie-sociali
 fatturazione-elettronica-i-codici-univoci-delle-strutture-regionali-abilitate
 fatture-fornitori-2015
@@ -16809,12 +16853,15 @@ feriti-e-morti-per-fascia-d-eta
 fermate-autobus-urbani-del-comune-di-matera
 fermate-e-stazioni-del-servizio-ferroviario-metropolitano-bolognese-7bf33c57
 fermate-metropolitana
+fermate-scuolabus1
 fermate-servizio-trasporto-scolastico
 fermate-tpl1
+fermate-tpl2
 fermate-tram
 ferrere-atti-amministrativi
 ferrere-statistiche-demografiche
 ferrovia
+ferrovia2
 ferrovie-38291298
 ferrovie1
 festivaletteratura-mantova-luoghi
@@ -16880,6 +16927,7 @@ firenze-scandicci-transiti
 firenze-sud-transiti
 fitosanitari
 fitosanitari1
+fiume-savio1
 flora-autoctona-e-piante-infestanti-arno
 flora-vascolare-dei-lacioni-della-riserva-naturale-regionale-selva-del-lamone
 flussi-di-traffico
@@ -16936,6 +16984,7 @@ fondo-naturale-zn-pianura-b3604742
 fondo-unico-scuole-secondarie-di-ii-grado
 fontanelle-e-punti-acqua
 fontanelle-nel-comune-di-milano
+fontanelle1
 fontanelli
 fontanile-dati-finanziari
 fontanile-statistiche-demografiche
@@ -16950,7 +16999,6 @@ foreste-distretti-e-riserve-di-caccia1
 foreste-ispettorati-forestali
 foreste-ispettorati-forestali1
 foreste-piani-altitudinali-tipologie-forestali1
-foreste-regionali-ex-demaniali-sc-1-10000
 foreste-regioni-forestali-tipologie-forestali1
 foreste-riserve-di-caccia-privata1
 foreste-stazioni-forestali
@@ -17092,11 +17140,9 @@ g627-vincolistica
 galassini-vincolo-di-non-trasformabilita
 galleria-galler-020303
 gara-1-macroviabilita
-gara-1-percorso-di-gara
 gara-1-varchi
 gara-10-macroviabilita-ore-10-30-12-30
 gara-10-macroviabilita-ore-8-30-10-30
-gara-10-percorso-di-gara
 gara-10-varchi-ore-10-30-12-30
 gara-10-varchi-ore-8-30-10-30
 gara-11-macroviabilita-ore-14-15-16-15
@@ -17106,9 +17152,7 @@ gara-11-varchi-ore-14-15-16-15
 gara-11-varchi-ore-16-15-18-00
 gara-12-macroviabilita-ore-11-00-13-00
 gara-12-macroviabilita-ore-13-00-17-30
-gara-12-percorso-di-gara
 gara-12-varchi-ore-11-00-13-00
-gara-12-varchi-ore-13-00-17-30
 gara-2-macroviabilita
 gara-2-percorso-di-gara
 gara-2-varchi
@@ -17122,15 +17166,12 @@ gara-5-macroviabilita
 gara-5-percorso-di-gara
 gara-5-varchi
 gara-6-macroviabilita
-gara-6-percorso-di-gara
 gara-6-varchi
 gara-7-macroviabilita
 gara-7-percorso-di-gara
-gara-7-varchi
 gara-8-macroviabilita
 gara-8-percorso-di-gara
 gara-8-varchi
-gara-9-macroviabilita-ore-13-00-15-00
 gara-9-macroviabilita-ore-15-00-18-00
 gara-9-percorso-di-gara
 gara-9-varchi-ore-13-00-15-00
@@ -17630,6 +17671,7 @@ idrogeologia-vulnerabilita-intrinseca-dellacquifero-superficiale-metodo-god
 idrografia-1-100-000-canali-storico
 idrografia-1-100-000-corsi-dacqua-storico
 idrografia-1-100-000-laghi-storico
+idrografia-generale1
 idrografia-principale
 idrografia1
 idrografia2
@@ -17820,9 +17862,11 @@ impianti-erogazione-carburanti-uso-privato
 impianti-erogazione-carburanti-uso-privato-nel-comune-di-milano
 impianti-erogazione-carburanti-uso-pubblico
 impianti-fotovoltaici-su-edifici-comunali
+impianti-fotovoltaici1
 impianti-funiviari-in-esercizio-pubblico-marzo-2015
 impianti-pubblicitari-comune-di-lecce
 impianti-pubblicitari-del-comune-di-bari
+impianti-pubblicitari1
 impianti-semaforici
 impianti-soggetti-ad-autorizzazione-ambientale-integrata-ippc
 impianti-soggetti-ad-autorizzazione-ambientale-integrata-ippc-aggregazione-per-unita-locale
@@ -17831,6 +17875,7 @@ impianti-sportivi-comune-di-chieri
 impianti-sportivi-comune-di-lecce
 impianti-sportivi-comune-di-pezzaze
 impianti-sportivi-pugliesi
+impianti-sportivi2
 impianti-sportivi3
 impianti-sportivi4
 impianti-sportivi5
@@ -18101,7 +18146,7 @@ imprese-femminili-provincia-di-lecce-iv-trimestre-2018
 imprese-femminili-provincia-di-lecce-primo-trimestre-2019
 imprese-femminili-provincia-lecce-anno-2017
 imprese-femminili-provincia-lecce-iv-trimestre-2017
-imprese-femminili-registrate-attive-iscritte-e-cessate-in-provincia-di-torino
+imprese-femminili-registrate-attive-iscritte-e-cessate-in-provincia-di-torino1
 imprese-giovanili-comuni-di-lecce-iv-trimestre-2017
 imprese-giovanili-dei-comuni-della-prov-di-lecce-iii-trim-2017
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-anno-2015
@@ -18144,7 +18189,7 @@ imprese-giovanili-della-provincia-di-lecce-primo-trimestre-2019
 imprese-giovanili-della-provincia-di-lecce-rif-anno-2019
 imprese-giovanili-prov-lecce-iv-trimestre-2017
 imprese-giovanili-provincia-di-lecce-anno-2015
-imprese-giovanili-registrate-attive-iscritte-e-cessate-in-provincia-di-torino
+imprese-giovanili-registrate-attive-iscritte-e-cessate-in-provincia-di-torino1
 imprese-ict1
 imprese-individuale-straniere-comune-lecce-iv-trim-2017
 imprese-individuale-straniere-provincia-di-lecce-iv-trim-2017
@@ -18174,7 +18219,6 @@ imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-
 imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-i-trim-2018
 imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-i-trim-2019
 imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-i-trim-2020
-imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-ii-trim-2017
 imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-ii-trim-2018
 imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-ii-trim-2019
 imprese-individuali-gestite-da-imprenditori-extracomunitari-della-prov-di-lecce-iii-trim-2018
@@ -18203,8 +18247,8 @@ imprese-per-codice-ateco-2016
 imprese-per-comune-e-forma-giuridica
 imprese-per-comune-e-settore-di-attivita-economica
 imprese-produttive-2015-06-26
-imprese-registrate-attive-iscritte-e-cessate-in-provincia-di-torino
-imprese-straniere-registrate-attive-iscritte-e-cessate-in-provincia-di-torino
+imprese-registrate-attive-iscritte-e-cessate-in-provincia-di-torino1
+imprese-straniere-registrate-attive-iscritte-e-cessate-in-provincia-di-torino1
 imprese-titolari-di-licenza-di-trasporto-aereo
 imprese-ul-addetti-sezioni-censimento-asia2016
 imprese-ul-infocamere2018
@@ -18352,11 +18396,13 @@ incentivi-legge-provinciale-14-80
 incidentalita-stradale-anni-2001-2018
 incidentalita-stradale-anno-2014
 incidentalita-stradale-anno-2018
+incidenti-con-biciclette-coinvolte1
 incidenti-con-feriti-per-via-2013
 incidenti-con-feriti-per-via-2014
 incidenti-con-feriti-per-via-gennaio-agosto-2015
 incidenti-con-guida-in-stato-di-ebbrezza-anno-2015
 incidenti-con-guida-sotto-uso-di-stupefacenti-anno-2015
+incidenti-con-mezzi-coinvolti1
 incidenti-e-persone-infortunate-secondo-la-conseguenza-anno-2010
 incidenti-e-persone-infortunate-secondo-la-conseguenza-anno-2011
 incidenti-e-persone-infortunate-secondo-la-conseguenza-per-anno-e-mese-anno-2009
@@ -18386,6 +18432,7 @@ incidenti-per-tipo-e-persone-infortunate-anno-2011
 incidenti-riepilogo-incroci
 incidenti-riepilogo-strade
 incidenti-stradali-anno-2010
+incidenti-stradali-con-pedoni-coinvolti1
 incidenti-stradali-costi-sociali-2005-2015
 incidenti-stradali-dellanno-2018-per-mese-e-territorio
 incidenti-stradali-in-europa-anni-2001-2018
@@ -18417,6 +18464,7 @@ incidenti-stradali2
 incidenti-stradali3
 incidenti-stradali4
 incidenti-stradali5
+incidenti-stradali6
 incidenti-strade
 incidenti_2002
 incidenti_2003
@@ -19047,18 +19095,15 @@ industrie-a-rischio-di-incidente-rilevante-2018
 infermieri-e-ostetriche
 info-point-della-citta-di-matera
 infoalert365-protezione-civile-di-lecce
-infogeodetiche
 infogeodetiche-punto-rilevato-a-terra
 infogeodetiche-vertice-di-rete
 infografiche-terza-missione
 informagiovani
-informazioni-anagrafiche-scuole
 informazioni-anagrafiche-scuole-anno-scolastico-2016-17-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2016-17-scuole-statali
 informazioni-anagrafiche-scuole-anno-scolastico-2017-18-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2017-18-scuole-statali
 informazioni-anagrafiche-scuole-anno-scolastico-2018-19-scuole-paritarie
-informazioni-anagrafiche-scuole-anno-scolastico-2018-19-scuole-statali
 informazioni-anagrafiche-scuole-anno-scolastico-2019-20-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2019-20-scuole-statali
 informazioni-anagrafiche-scuole-superiori-area-metropolitana-di-napoli
@@ -19965,6 +20010,7 @@ legge-istitutiva-del-consorzio
 leggi-e-regolamenti-della-provincia-autonoma-di-trento
 letti-per-struttura-sanitaria-di-ricovero
 liberi-professionisti
+libioss-habitat-rete-natura-2000-ed-2020
 libioss-specie-animali-suddivise-nei-principali-gruppi-sistematici
 libioss-specie-grotte-e-zone-umide-ed-2016
 libioss-specie-raggruppate-per-regni
@@ -20151,6 +20197,7 @@ linea-di-riva-2011-2012
 linea-sassi-trasporti-urbani-del-comune-di-matera-2015
 linea-settentrionale-delle-risorgive
 lineamenti-strutturali
+linee-atr-agenzia-trasporti-romagna1
 linee-di-livellazione-per-il-monitoraggio-della-subsidenza
 linee-di-separazione-dei-dbgt-comunali
 linee-elettriche-2018
@@ -20165,6 +20212,7 @@ linee-indicanti-la-direzione-del-dissesto-della-provincia-di-padova
 linee-indicanti-la-direzione-del-dissesto-della-provincia-di-verona
 linee-indicanti-la-direzione-del-dissesto-della-provincia-di-vicenza
 linee-metropolitana
+linee-piedibus1
 linee-servizio-trasporto-scuolabus
 linee-tram
 linet-fulminazioni
@@ -20216,8 +20264,10 @@ locali-delluniversita-degli-studi-di-torino
 locali-e-impianti
 locali-storici-los
 localit-abitate-2b837a74
+localita-censimento-20111
 localita-significativa-10000-ct10
 localita-significative-loc_sg-080101
+localita1
 localizzazione-aree-freetorinowifi
 localizzazione-biblioteche-open-data
 localizzazione-degli-alberi-monumentali-del-veneto
@@ -20262,7 +20312,6 @@ localizzazione-degli-scarichi-dei-depuratori-pubblici
 localizzazione-dei-corpi-idrici-fluviali-del-veneto-del-piano-di-gestione-2015
 localizzazione-dei-corpi-idrici-lacustri-del-veneto-definiti-dal-piano-di-gestione-2015
 localizzazione-dei-corpi-idrici-lacustri-del-veneto-di-interesse-per-la-direttiva-2000-60-ce
-localizzazione-dei-corpi-idrici-marino-costieri
 localizzazione-dei-data-base-geotopografici-disponibili-per-il-territorio-del-veneto
 localizzazione-dei-depuratori-pubblici
 localizzazione-dei-quartieri-e-dei-poli-sociali
@@ -20316,6 +20365,7 @@ luoghi-di-culto-chiesa-cattolica
 luoghi-di-culto-luoghi-di-culto-non-cattolico
 luoghi-di-interesse
 luoghi-di-interesse-cittadino
+luoghi-di-interesse-culturali1
 luoghi-di-interesse-turistico-culturale-naturalistico
 luoghi-di-interesse-turistico-culturale-naturalistico-comune-di-castellaneta
 luoghi-di-interesse-turistico-culturale-naturalistico-comune-di-crispiano
@@ -20481,6 +20531,7 @@ luoghi-e-punti-di-interesse-del-comunita-valsugana-e-bersntol
 luoghi-e-punti-di-interesse-del-comunita-valsugana-e-tesino
 luoghi-e-punti-di-interesse-del-magnifica-comunita-degli-altipiani-cimbri
 luoghi-freschi-a-firenze
+luoghi-notevoli1
 luoghi-siciliani-del-gusto
 luoghi-storici
 luoghi-storici-del-commercio
@@ -21041,6 +21092,7 @@ mercati-su-aree-pubbliche
 mercati-tematici-e-periodici
 mercati-tematici-per-quartiere
 mercati1
+mercati2
 merci-pericolose-presenti-sulla-rete-stradale-piemontese-sistema-5t
 messaggi-di-allerta-ai-cittadini-da-parte-della-protezione-civile
 meta-distretti-industriali
@@ -21242,6 +21294,8 @@ modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-altezza-del-geopotenziale-m-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-07-17-ore-12-utc
@@ -21267,6 +21321,8 @@ modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-altezza-della-tropopausa-m-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-07-17-ore-12-utc
@@ -21292,6 +21348,8 @@ modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-copertura-nuvolosa-totale-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-07-17-ore-12-utc
@@ -21317,6 +21375,8 @@ modello-med-gfs-a-12km-maschera-terra-acqua-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-maschera-terra-acqua-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-maschera-terra-acqua-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-maschera-terra-acqua-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-07-17-ore-12-utc
@@ -21342,6 +21402,8 @@ modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-precipitazione-oraria-mm-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-07-17-ore-12-utc
@@ -21367,6 +21429,8 @@ modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-temperatura-a-2-metri-c-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-07-17-ore-12-utc
@@ -21392,6 +21456,8 @@ modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-temperatura-al-suolo-c-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-temperatura-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-c-2020-07-17-ore-12-utc
@@ -21417,6 +21483,8 @@ modello-med-gfs-a-12km-temperatura-c-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-temperatura-c-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-temperatura-c-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-temperatura-c-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-temperatura-c-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-temperatura-c-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-07-17-ore-12-utc
@@ -21442,6 +21510,8 @@ modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-temperatura-del-suolo-c-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-07-17-ore-12-utc
@@ -21467,6 +21537,8 @@ modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-temperature-di-rugiada-c-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-topografia-m-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-topografia-m-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-topografia-m-2020-07-17-ore-12-utc
@@ -21492,6 +21564,8 @@ modello-med-gfs-a-12km-topografia-m-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-topografia-m-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-topografia-m-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-topografia-m-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-topografia-m-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-topografia-m-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-07-17-ore-12-utc
@@ -21517,6 +21591,8 @@ modello-med-gfs-a-12km-umidita-relativa-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-umidita-relativa-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-umidita-relativa-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-07-17-ore-12-utc
@@ -21542,6 +21618,8 @@ modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-umidita-relativa-al-suolo-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-17-ore-12-utc
@@ -21567,6 +21645,8 @@ modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-09-25-
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-07-17-ore-12-utc
@@ -21592,6 +21672,8 @@ modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-velocita-e-direzione-del-vento-m-s-2020-10-10-ore-00-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-07-10-ore-12-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-07-11-ore-00-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-07-17-ore-12-utc
@@ -21617,6 +21699,8 @@ modello-med-gfs-a-12km-visibilita-in-metri-2020-09-25-ore-12-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-09-26-ore-00-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-10-02-ore-12-utc
 modello-med-gfs-a-12km-visibilita-in-metri-2020-10-03-ore-00-utc
+modello-med-gfs-a-12km-visibilita-in-metri-2020-10-09-ore-12-utc
+modello-med-gfs-a-12km-visibilita-in-metri-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-07-17-ore-12-utc
@@ -21643,6 +21727,8 @@ modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-07-17-ore-12-utc
@@ -21669,6 +21755,8 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-07-17-ore-12-utc
@@ -21695,6 +21783,8 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-07-17-ore-12-utc
@@ -21721,6 +21811,8 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-07-17-ore-12-utc
@@ -21747,6 +21839,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-09-25-ore-12-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-07-17-ore-12-utc
@@ -21773,6 +21867,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-09-25-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-07-17-ore-12-utc
@@ -21799,6 +21895,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-09-25-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-07-10-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-07-11-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-07-17-ore-12-u
@@ -21825,6 +21923,8 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-09-26-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-10-02-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-10-03-ore-00-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-10-09-ore-12-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2020-10-10-ore-00-u
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-07-17-ore-12-utc
@@ -21851,6 +21951,8 @@ modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-07-17-ore-12-utc
@@ -21877,6 +21979,8 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2020-02-04-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-07-11-ore-00-utc
@@ -21904,7 +22008,10 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-07
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-0b
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-0f
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-27
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2f
@@ -21917,6 +22024,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-5b
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-5f
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-64
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-69
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-7e
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-7f
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-8c
@@ -21945,6 +22053,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-5c
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-5d
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-61
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-611
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-8c
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-9f
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-b2
@@ -21954,6 +22063,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-e31
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-eb
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-f4
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-f5
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-fb
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-fb1
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-07-10-ore-12-utc
@@ -21982,6 +22092,8 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-07-17-ore-12-utc
@@ -22008,6 +22120,8 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-03-07-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-07-11-ore-00-utc
@@ -22035,6 +22149,8 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-07-17-ore-12-utc
@@ -22061,6 +22177,8 @@ modello-wrf-arw-a-3km-temperatura-c-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-c-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-07-17-ore-12-utc
@@ -22087,6 +22205,8 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-07-17-ore-12-utc
@@ -22113,6 +22233,8 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2020-07-17-ore-12-utc
@@ -22139,6 +22261,8 @@ modello-wrf-arw-a-3km-topografia-m-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-topografia-m-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-07-17-ore-12-utc
@@ -22165,6 +22289,8 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-07-17-ore-12-utc
@@ -22191,6 +22317,8 @@ modello-wrf-arw-a-3km-umidita-relativa-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-07-17-ore-12-utc
@@ -22217,6 +22345,8 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-07-17-ore-12-utc
@@ -22243,6 +22373,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-09-25-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-07-17-ore-12-utc
@@ -22269,6 +22401,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2020-10-10-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-10-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-11-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-07-17-ore-12-utc
@@ -22295,6 +22429,8 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2020-09-25-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-09-26-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-10-02-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2020-10-03-ore-00-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2020-10-09-ore-12-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2020-10-10-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-07-10-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-07-11-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-07-17-ore-12-utc
@@ -22320,6 +22456,8 @@ modello-ww3-a-10km-average-wave-direction-deg-2020-09-25-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-09-26-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-10-02-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2020-10-03-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2020-10-09-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2020-10-10-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-07-10-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-07-11-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-07-17-ore-12-utc
@@ -22345,6 +22483,8 @@ modello-ww3-a-10km-average-wave-period-sec-2020-09-25-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-09-26-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-10-02-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2020-10-03-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2020-10-09-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2020-10-10-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-07-10-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-07-11-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-07-17-ore-12-utc
@@ -22370,6 +22510,8 @@ modello-ww3-a-10km-significant-wave-height-m-2020-09-25-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-09-26-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-10-02-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2020-10-03-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2020-10-09-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2020-10-10-ore-00-utc
 moduli-del-comun-general-de-fascia
 moduli-del-comune-di-ala
 moduli-del-comune-di-albiano
@@ -22570,7 +22712,6 @@ monale-dati-statistici-demografici
 monats-und-jahrestemperaturen
 monats-und-jahrestemperaturen1
 moncucco-torinese-dati-finanziari
-mondiale-di-ciclismo-2013
 monferrato-valleversa
 mongardino-dati-demografici
 monitoraggi-in-continuo-del-campo-elettro-magnetico-stazioni-radio-tv-e-impianti-di-telefonia-c
@@ -22632,6 +22773,7 @@ montiglio-monferrato-dati-finanziari
 montiglio-monferrato-dati-tributi
 montiglio-monferrato-statistiche-demografiche
 monumenti
+monumenti-cesena1
 monumenti-chiese-musei-siti-archeologici
 monumenti-e-chiese
 monumenti-naturali
@@ -23444,6 +23586,7 @@ numero-di-banche
 numero-di-beneficiari-di-congedo-parentale-per-anno-di-competenza-2010-2012
 numero-di-cave-attive-nella-regione-del-veneto
 numero-di-certificatori-degli-attestati-di-prestazione-energetica-ape-iscritti-al-sipee-e-suddi
+numero-di-confezioni-di-farmaci-erogate-in-regione-lombardia1
 numero-di-contribuenti-e-media-annua-del-numero-di-contribuenti-lavoratori-parasubord-2011-2016
 numero-di-contribuenti-e-media-annua-del-numero-di-contribuenti-lavoratori-parasubord-2012-2016
 numero-di-contribuenti-e-media-annua-del-numero-di-contribuenti-lavoratori-parasubord-2012-20161
@@ -23460,7 +23603,6 @@ numero-di-famiglie
 numero-di-famiglie-e-di-convivenze-nel-comune-di-francavilla-fontana
 numero-di-famiglie-nellanno-2017-suddivise-per-sezioni-di-censimento
 numero-di-famiglie-per-numerosita-e-totale-componenti-al-30-ottobre-2014
-numero-di-farmaci-erogati-in-regione-lombardia-dei-primi-10-principi-attivi
 numero-di-fiorentini-nei-centri-diurni-per-autosufficienti-e-non-autosufficienti-anni-2009-2013
 numero-di-impianti-di-gestione-dei-rifiuti
 numero-di-incidenti-mortali-anni-2011-2015
@@ -24090,9 +24232,7 @@ occupati-per-tipo-di-titolo-di-studio-nel-quartiere-3-anni-2010-2013
 occupati-per-tipo-di-titolo-di-studio-nel-quartiere-3-anni-2010-2014
 occupati-per-tipo-di-titolo-di-studio-nel-quartiere-4-anni-2010-2014
 occupati-per-tipo-di-titolo-di-studio-nel-quartiere-5-anni-2010-2013
-occupati-per-tipo-e-per-quartiere
 occupati-per-tipo-e-per-quartiere-dal-2010
-occupati-per-titolo-di-studio-e-per-quartiere
 occupati-per-titolo-di-studio-e-per-quartiere-anno-2014
 occupati-per-titolo-di-studio-e-per-quartiere-dal-2010
 occupati-per-titolo-di-studio-e-per-quartiere-valori-percentuali-di-colonna-anno-2014
@@ -24893,6 +25033,7 @@ p-d-b-rilievo-regionale-rischio-geomorfologico-ed-idrogeologico
 p-d-b-rilievo-regionale-rischio-idraulico-ed-idrogeologico
 p-d-b-rilievo-regionale-suscettivita-al-dissesto
 p-r-g-vigente-tavole-centro-storico-1-2000-1-5000
+p-t-a-2017-agglomerati-ato-est-rilevanti-ai-sensi-della-direttiva-91-271-cee
 p-t-a-2018-revisione-tipizzazione-delle-acque-superficiali
 p-t-a-2018-stato-chimico-acque-sotterranee-classificazione-intermedia-2014-2016
 p-t-a-2019-registro-delle-aree-protette
@@ -24997,6 +25138,7 @@ parchi-aree-naturali-protette-siti-di-importanza-rilevante
 parchi-e-aree-a-verde
 parchi-e-giardini-pg-a-rappresentazione-puntiforme
 parchi-e-giardini1
+parchi-e-giardini2
 parchi-e-riserve-art-142-c-1-lett-f-d-lgs-142-2004
 parchi-e-riserve-naturali
 parchi-e-riserve-naturali-della-regione-emilia-romagna
@@ -25186,7 +25328,6 @@ patrimonio-disponibile-terreni-ex-comunione-delle-aa-ss-ll-comma-5
 patrimonio-disponibile-terreni-non-agricoli-proveniente
 patrimonio-disponibile-uso-abitativo
 patrimonio-fabbricati-2014
-patrimonio-immobiliare
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-demaniali1
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-patrimoniali-disponibili
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-patrimoniali-indisponibili
@@ -25205,6 +25346,7 @@ patrimonio-immobiliare-regionale-beni-patrimoniali-indisponibili
 patrimonio-immobiliare-regione-marche
 patrimonio-immobiliare-terreni
 patrimonio-immobiliare1
+patrimonio-immobiliare2
 patrimonio-indisponibile-fabbricati-e-sedi-istituzionali-proveniente-da-enti-soppressi
 patrimonio-indisponibile-fabbricati-ex-comunione-delle-aa-ss-ll-comma-10
 patrimonio-indisponibile-fabbricati-ex-comunione-delle-aa-ss-ll-comma-5
@@ -25413,10 +25555,6 @@ percezione-di-sicurezza-camminando-al-buio-da-soli-femmine
 percezione-di-sicurezza-camminando-al-buio-da-soli-maschi
 percezione-di-sicurezza-camminando-al-buio-da-soli-totale
 percorrenza-trasporto-pubblico
-percorribilita-cittadina-per-persone-con-disabilita-motoria
-percorribilita-zona-anconella
-percorribilita-zona-gioberti
-percorribilita-zona-ss-annunziata
 percorribilita_zona_anconella
 percorribilita_zona_gioberti
 percorribilita_zona_ss_annunziata
@@ -25431,7 +25569,6 @@ percorsi-di-istruzione-e-formazione-tecnica-superiore-gli-its1
 percorsi-e-sentieri
 percorsi-escursionistici-digitale-edizione-del-2008
 percorsi-istruzione-formazione-tecnica-superiore-ifts-esiti-annualita-2018
-percorsi-jogging
 percorsi-loges
 percorsi-panoramici
 percorsi-parco-murgia
@@ -25714,8 +25851,12 @@ pgt-piani-di-governo-del-territorio-elenco-documenti
 pgt-stato-avanzamento
 pgt-stato-di-approvazione
 pi
+piadinerie1
 piana-alluvionale
 piani-comunali-e-sovracomunali
+piani-comunali-e-sovracomunali-f450
+piani-comunali-e-sovracomunali-i287
+piani-comunali-e-sovracomunali-l500
 piani-delle-aree-protette
 piani-di-area-contesto-primo-ptrc
 piani-di-emergenza-protezione-civile
@@ -26001,6 +26142,7 @@ piano-strutturale-2010
 piano-strutturale-linee
 piano-strutturale-poligoni
 piano-strutturale-punti
+piano-territoriale-delle-attivita-estrattive-sc-1-5000-d-c-r-n-7-del-26-05-2020
 piano-territoriale-di-coordinamento-per-gli-insediamenti-produttivi-dellarea-centrale-ligure-pt
 piano-territoriale-regionale-darea-ptra-aeroporto-montichiari
 piano-territoriale-regionale-darea-ptra-navigli-lombardi
@@ -26048,7 +26190,6 @@ pietre-da-guado-stepping-stones-della-rete-degli-arbusteti-citta-metropolitana-d
 pietre-da-guado-stepping-stones-della-rete-dei-boschi-citta-metropolitana-di-firenze1
 pietre-da-guado-stepping-stones-della-rete-delle-aree-aperte-citta-metropolitana-di-firenze1
 pietre-da-guado-stepping-stones-della-rete-delle-zone-umide-citta-metropolitana-di-firenze1
-pietre-dinciampo
 pietre-verdi
 pil-in-ppa-per-abitante
 pil-procapite-a-prezzi-correnti
@@ -26114,6 +26255,7 @@ piste-ciclabili2
 piste-ciclabili3
 piste-ciclabili4
 piste-ciclabili5
+piste-ciclabili6
 piste-ciclopedonali-del-trentino
 pitpae
 plessi-scolastici
@@ -26130,6 +26272,8 @@ pm3
 po
 po-lazio-2014-2020-destinatari-avvisi-non-formativi
 poi
+poi-punti-di-interesse-i287
+poi-punti-di-interesse-l500
 poli-regionali-di-primo-rango
 poli-sociali-territoriali
 poli-urbani-intemedi-di-secondo-rango
@@ -26155,6 +26299,7 @@ polis-lombardia-dati-sui-pagamenti-ii-trimestre-2019
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2020
 polis-lombardia-dati-sui-pagamenti-iii-trimestre-2018
 polis-lombardia-dati-sui-pagamenti-iii-trimestre-2019
+polis-lombardia-dati-sui-pagamenti-iii-trimestre-2020
 polis-lombardia-dati-sui-pagamenti-iv-trimestre
 polis-lombardia-dati-sui-pagamenti-iv-trimestre-2018
 polis-lombardia-dirigenti-cessati
@@ -27797,6 +27942,7 @@ prime-iscrizioni-veicoli-nuovi-nel-2018-autovetture-per-ente-territoriale-e-alim
 prime-iscrizioni-veicoli-nuovi-nel-2019-autovetture-per-ente-territoriale
 prime-iscrizioni-veicoli-nuovi-nel-2019-autovetture-per-ente-territoriale-e-alimentazione
 principale-sistema-di-mobilita-livello-regionale
+principali-arterie1
 principali-aste-fluviali
 principali-caratteristiche-dei-gruppi-di-autonomi-senza-dipendenti-anno-2012
 principali-centri-turistici-marini
@@ -27942,7 +28088,6 @@ procedimenti-dufficio-di-regione-lombardia-aggiornato-al-31-12-2016-art-35-d-lgs
 procedimenti-sue-dal-2003-al-2008
 procedure-di-gara-sotto-soglia-delle-strutture-della-regione-lazio
 procedure-di-valutazione-impatto-ambientale-e-valutazione-strategica
-procedure-di-valutazione-impatto-ambientale-e-valutazione-strategica1
 procedure-effettuate-in-ambulatorio
 proceduresanzionatoriepm
 procsanzaccapplpm
@@ -28177,6 +28322,7 @@ prova-covid-19-regione
 prova-covid19-provincie
 prova-inserimento
 prova-marco
+prova-xyz
 prove-geognostiche-230e98e4
 province-fvg-2007
 province-fvg-2012
@@ -28799,7 +28945,6 @@ punti-prelievo
 punti-quotati-1-10-000-digitale-edizione-del-1988
 punti-quotati-open-data
 punti-quotati-unione-dei-comuni-valle-del-savio
-punti-rilevamento-traffico
 punti-stand-by
 punti-vendita-al-dettaglio-ai-censimenti
 punti-vendita-allingrosso-ai-censimenti
@@ -28980,6 +29125,7 @@ quantita-rifiuti-prodotti
 quantitativo-differenziato-dei-rifiuti-raccolti-nel-territorio-di-roma-capitale
 quartieri-di-bologna
 quartieri1
+quartieri2
 questio
 questionario-di-rilevazione-della-soddisfazione-per-il-settore-attivita-economiche-e-produttive
 questionario-gradimento-lavori-pubblici
@@ -29895,7 +30041,6 @@ regolamento_urbanistico_linee
 regolamento_urbanistico_poligoni
 regolamento_urbanistico_punti
 regolatore-aquila-giaveno-1
-rel-rete-escursionistica-ligure-d-g-r-162-2020
 relazione-attivita-settore-avvocatura-anno-2014
 relazione-moland-fvg
 rendiconti-del-comun-general-de-fascia
@@ -30261,6 +30406,7 @@ rete-di-monitoraggio-del-fitoplancton-delle-acque-marino-costiere-dlgs-152-06
 rete-di-monitoraggio-della-qualita-dell-aria
 rete-di-monitoraggio-delle-acque-di-balneazione-d-lgs-116-08-aggiornamento-2014
 rete-di-monitoraggio-delle-acque-di-balneazione-d-lgs-116-08-aggiornamento-2017
+rete-di-monitoraggio-delle-acque-di-balneazione-d-lgs-116-08-aggiornamento-2020
 rete-di-monitoraggio-delle-acque-di-transizione
 rete-di-monitoraggio-delle-acque-fluviali-dgr-2067-15-2015-2021
 rete-di-monitoraggio-delle-acque-fluviali-dgr-350-10-2010-2014
@@ -31148,6 +31294,8 @@ rischio-idraulico-psai-adb-campania-centrale
 rischio-idraulico-psai-adb-campania-sud-ex-destra-sele
 rischio-idraulico-psai-adb-campania-sud-ex-sinistra-sele
 rischio-idraulico-rev-41-rischio-alluvioni-pai
+rischio-idraulico1
+rischio-incendi-boschivi1
 rischio-sismico
 rischio-sismico-elenco-dei-comuni-cle-condizione-limite-di-emergenza
 rischio-sismico-elenco-dei-comuni-studi-microzonazione-sismica-di-secondo-e-terzo-livello
@@ -31156,6 +31304,7 @@ rischio-sismico-strati-cle-aree-preposte-alla-gestione-dellemergenza
 rischio-sismico-strati-cle-edifici-con-funzioni-strategiche-in-caso-di-emergenza
 rischio-sismico-strati-cle-infrastrutture-di-accessibilita-o-connessione
 rischio-sismico-strati-cle-unita-strutturali
+rischio-sismico2
 riscossioni-correnti-i-quadrimestre-anni-2013-e-2014-variazione-sul-2013-e-sul-preventivo-2014
 riscosso-imposta-di-soggiorno-sul-2018-e-su-accertamenti-anni-pregressi
 riscosso-imposta-soggiorno-anni-dal-2012-al-2018
@@ -31163,7 +31312,6 @@ riscosso-ordinario-ici-imu-dal-2010-al-2014
 riscosso-ordinario-imu-2015
 riscosso-ordinario-imu-2016
 riscosso-ordinario-imu-2017
-riscosso-ordinario-tasi-2014-e-2015
 riscosso-ordinario-tasi-2016
 riscosso-ordinario-tasi-2017
 riserva-naturale-regionale-selva-del-lamone-e-sua-area-contigua
@@ -31229,6 +31377,7 @@ risultati-elezioni-comunali-2009-sezioni
 risultati-elezioni-comunali-2009-sindaco
 risultati-elezioni-comunali-2014
 risultati-elezioni-comunali-2019
+risultati-elezioni-comunali-2020
 risultati-elezioni-europee-1994
 risultati-elezioni-europee-1999
 risultati-elezioni-europee-2004
@@ -31287,6 +31436,7 @@ risultati-elezioni-regionali-2015-affluenza-ore-19
 risultati-elezioni-regionali-2015-dati-completi
 risultati-elezioni-regionali-2020
 risultati-elezioni-regionali-31-maggio-2015
+risultati-elezioni-regionali1
 risultati-monitoraggio-regolamento-307-2006
 risultati-monitoraggio-regolamento-307-2007
 risultati-monitoraggio-regolamento-307-2008
@@ -31674,6 +31824,9 @@ scuolainfanzia2016_2017
 scuolainfanzia2017_2018
 scuole
 scuole-asili-nido
+scuole-bacini-infanzia1
+scuole-bacini-primarie1
+scuole-bacini-scuole-secondarie-di-primo-grado1
 scuole-con-alunni-con-disabilit224-per-ordine-scolastico-presenza-di-postazioni-informatiche-ad
 scuole-con-alunni-con-disabilit224-per-ordine-scolastico-presenza-di-postazioni-informatiche-ad1
 scuole-con-alunni-con-disabilit224-per-ordine-scolastico-presenza-di-postazioni-informatiche-ad2
@@ -31829,6 +31982,7 @@ sedi-legali-associazioni-consumatori
 sedi-municipi-nel-comune-di-milano
 sedi-non-accreditate-per-la-formazione-professionale
 sedi-non-accreditate-per-la-formazione-professionale1
+sedi-scolastiche1
 sedi-scuole-modena
 sedi-scuole-primarie-2014-07-09
 sedi-servizio-civile
@@ -32598,7 +32752,7 @@ servizio-prenotazione-appuntamento-edilizia-urbanistica-genere-degli-utenti
 servizio-prenotazione-appuntamento-edilizia-urbanistica-problemi-in-generale
 servizio-prenotazione-appuntamento-edilizia-urbanistica-supporto-per-utenti-in-difficolta
 servizio-prenotazione-appuntamento-edilizia-urbanistica-tipo-di-difficolta
-servizio-programmato-del-trasporto-pubblico-regione-piemonte-autobus1
+servizio-programmato-del-trasporto-pubblico-regione-piemonte-autobus2
 servizio-programmato-del-trasporto-pubblico-regione-piemonte-treni-regionali
 servizio-sociale-professionale-territoriale-le-sedi
 servizio-sportello-informativo-edilizia-chiarezza-informazioni
@@ -32791,8 +32945,6 @@ sindaci-della-citta-dal-1861-2007
 sinistri-2016
 sinistri-2017
 sinistri-2018
-sinistri-con-velocipedi
-sinistri-con-velocipedi-2011
 sinistri-con-velocipedi-2012
 sinistri-con-velocipedi-2013
 sinistri-con-velocipedi-2014
@@ -33160,7 +33312,6 @@ spazi-adibiti-ad-attivita-culturali-dellamministrazione-capitolina-novembre-2016
 spazi-adibiti-ad-attivita-culturali-di-roma-capitale-anno-2016
 spazi-di-attivita-degli-impianti-pugliesi
 spazi-pubblici
-spazi-pubblici1
 spazi_teatrali_del_veneto
 specchi-dacqua-sistema-delle-acque
 specchi-dacqua1
@@ -33650,7 +33801,6 @@ stato-della-qualita-delle-acque-superficiali-stato-ecologico-fiumi
 stato-della-qualita-delle-acque-superficiali-stato-ecologico-laghi
 stato-di-avanzamento-del-progetto-data-base-topografico-dbt
 stato-ecologico-ai-sensi-del-d-lgs-152-06-dei-laghi
-stato-ecologico-ai-sensi-del-d-lgs-152-06-delle-acque-di-transizione
 stato-patrimoniale-attivo
 stato-patrimoniale-attivo-2013-2014
 stato-patrimoniale-attivo-2015
@@ -33893,7 +34043,6 @@ stazioni-rilevamento-della-rete-idrometereologica-della-protezione-civile
 stazioni-rilievi-vegetazionali-edizione-2016
 stazioni-sismiche
 stazioni-sismiche1
-stazioni-sismiche2
 stazioni-treno-open-data
 stile-di-vita-abitudine-al-fumo
 stile-di-vita-abitudine-al-fumo1
@@ -34243,6 +34392,7 @@ strutture-sanitarie-regionali-con-codice-di-accreditamento
 strutture-sanitarie-regionali-equiparate
 strutture-sanitarie-regionali-pubbliche
 strutture-sanitarie1
+strutture-sanitarie2
 strutture-socio-assistenziali
 strutture-socio-educative-per-la-prima-infanzia
 strutture-socioassistenziali
@@ -34802,10 +34952,12 @@ temperature2
 temperature3
 tempestivita-dei-pagamenti-ai-fornitori
 tempi-e-costi-per-la-realizzazione-delle-opere-pubbliche-a-cura-di-infrato
+tempi_medi_di_attesa_allo_sportello_unico_dei_servizi_al_cittadino
 tempi_medi_di_pagamento_anni_2016_17_18
 tempo-dedicato-alla-mobilita
 tempo-trascorso-da-solo-o-con-altri
 tempo_trascorso_da_solo_o_con_altri
+tendopoli1
 terminali-marini-per-il-convogliamento-del-gas
 termometri
 terra-delle-gravine
@@ -35237,7 +35389,6 @@ ucl-gonzaga-aree-verdi-informazioni
 ucl-gonzaga-autoscuole
 ucl-gonzaga-centri-revisione-auto
 ucl-gonzaga-dirigenti
-ucl-gonzaga-elenco-pratiche
 ucl-gonzaga-hotspot-wifi
 ucl-gonzaga-parcheggi
 ucl-san-giorgio-bigarello-aree-di-sosta
@@ -35252,6 +35403,7 @@ ucl-san-giorgio-bigarello-parcheggi
 ucl-san-giorgio-bigarello-provvedimenti-degli-organi-di-indirizzo-politico
 ucl-san-giorgio-bigarello-provvedimenti-dei-dirigenti
 ucl-terra-dei-gonzaga-elenco-delle-aree-di-circolazione1
+ucl-terra-dei-gonzaga-provvedimenti-dei-dirigenti1
 ucl-terra-dei-gonzaga-rete-viaria-numeri-civici-esterni-georeferenziati
 ucs
 uffici-anagrafici
@@ -35346,9 +35498,11 @@ uffici-postali-open-data
 uffici-postali-per-1-000-residenti
 uffici-postali1
 uffici-postali2
+uffici-privati-di-interesse-pubblico1
 uffici-pubblici-in-piemonte1
 uffici-pubblici1
 uffici-pubblici2
+uffici-pubblici3
 uffici-reclami-turistici
 uffici-relazioni-con-il-pubblico-per-i-servizi-sanitari-sc-1-5000
 uffici-turistici
@@ -35596,6 +35750,7 @@ uso-del-suolo-sc-1-10000-ed-2012
 uso-del-suolo-sc-1-10000-ed-2015
 uso-del-suolo-sc-1-10000-ed-2018
 uso-del-suolo1
+uso-del-suolo2
 uso-di-facebook-nella-pa-f82762cc
 uso-di-twitter-nella-pa-9ea55948
 uso-di-youtube-nella-pa-b066ccf3
@@ -35902,7 +36057,6 @@ vestizioni
 veterinari-impianto-embrionale
 veterinari-inseminazione-artificiale
 vette-della-sardegna
-viabilita
 viabilita-1-100-000-autostrade-storico
 viabilita-1-100-000-ferrovie-storico
 viabilita-1-100-000-stazioni-storico
@@ -35920,7 +36074,6 @@ viabilita-di-interesse-silvo-pastorale-proposta
 viabilita-elemento-ferroviario
 viabilita-ferroviaria-sc-1-10000-strati-prioritari-ctr-sc-1-10000-2003
 viabilita-forestale
-viabilita-giunzione-ferroviaria
 viabilita-mista-secondaria-ar_vms-010105-aree
 viabilita-mista-secondaria-ar_vms-010105-linee
 viabilita-mobilita-e-trasporti
@@ -36005,6 +36158,9 @@ vincoli_cimiteriali
 vincoli_della_pianificazione_territoriale
 vincoli_monumentali_rovigo
 vincolistica
+vincolistica-f450
+vincolistica-i287
+vincolistica-l500
 vincolo-area-protetta
 vincolo-cimiteriale
 vincolo-idrogeologico-ai-sensi-dellart-1-del-r-d-l-3267-1923
@@ -36044,6 +36200,7 @@ vincolo-idrogeologico-l-3267-1923-comune-di-sgonico-zgonik
 vincolo-idrogeologico-l-3267-1923-comune-di-trieste
 vincolo-idrogeologico-l-3267-1923-comune-di-turriaco
 vincolo-idrogeologico-l-3267-1923-comune-di-villesse
+vincolo-idrogeologico1
 vincolo-sismico-dei-comuni-della-regione-veneto
 vincolo_area_protetta
 vincolo_aree_percorse_dal_fuoco
@@ -36103,6 +36260,7 @@ volume-di-ricoveri-per-intervento-chirurgico-per-tumore-maligno-colon
 volume-di-ricoveri-per-intervento-chirurgico-per-tumore-maligno-mammella
 volume-materiale-estratto
 volume-medio-autorizzato-per-nuovo-edificato-non-residenziale
+volumi-prestazioni-specialistica-ambulatoriale-in-regione-lombardia
 vorbeugung-von-infektions-und-parasitenerkrankungen
 vorbeugung-von-infektions-und-parasitenerkrankungen1
 votazioni-consiglio-comunale-2011
@@ -36118,7 +36276,6 @@ voucher-fiere-allestero
 voucher-missioni-allestero
 vulnerabilita-acque
 vulnerabilita_idro
-walking-city
 walking-city-percorso-1
 walking-city-percorso-2
 walking-city-percorso-3
@@ -36160,7 +36317,6 @@ wifi-emilia-romagna-indoor
 wifi-emilia-romagna-outdoor
 wifi-hotspot-pubblici-comune-di-rimini
 wifi-tutti
-wifi1
 wms-wmts-und-wfs-mit-qgis1
 wms_out_edifici
 ww
@@ -36216,6 +36372,7 @@ zonazione-del-parco
 zonazione-della-disponibilita-idrica
 zone
 zone-301
+zone-302
 zone-a-parcheggio-open-data
 zone-a-particolare-rilevanza-urbanistica
 zone-a-protezione-speciale-zps-dgr-n-650-2012
@@ -36302,6 +36459,7 @@ zone-umide1
 zone-vulcaniche-art-142-c-1-lett-l-d-lgs-142-2004
 zone-vulnerabili-ai-nitrati-di-origine-agricola
 zone-vulnerabili-ai-nitrati-di-origine-agricola1
+zone-ztl1
 zone_vulnerabili_ai_nitrati_e_bsl_del_veneto
 zonedopigp
 zonizzazione-degli-istituti-comprensivi-scolastici-statali-infanzia-primaria-e-secondaria-di-pr
