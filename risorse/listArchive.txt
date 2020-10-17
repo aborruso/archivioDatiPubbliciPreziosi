@@ -1,10 +1,11 @@
 https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
 https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page
-https://anagrafe.iccu.sbn.it/it/open-data/
+https://anagrafe.iccu.sbn.it/it/open-data
 https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-https://developers.italia.it/it/api/
+https://developers.italia.it/it/api
 http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
 https://www.anpr.interno.it/portale/tabelle-di-riferimento
 https://www.cciss.it/web/cciss/database-rds-tmc
 https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
 https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
+https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa
