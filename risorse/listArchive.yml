@@ -58,4 +58,9 @@
   nome: datasetSUT
   dataInserimento: 2020-09-21
   if_not_archived_within: 7d
-
+- titolo: "Inviti alle PA del Difensore civico per il digitale "
+  fonte: "Sito AgID"
+  URL: "https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa"
+  nome: invitiDifensoreCivico
+  dataInserimento: 2020-10-17
+  if_not_archived_within: 7d
