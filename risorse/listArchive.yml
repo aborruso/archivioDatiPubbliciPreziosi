@@ -12,7 +12,7 @@
   if_not_archived_within: 30d
 - titolo: "Anagrafe delle Biblioteche Italiane"
   fonte: "ICCU - Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche"
-  URL: "https://anagrafe.iccu.sbn.it/it/open-data/"
+  URL: "https://anagrafe.iccu.sbn.it/it/open-data"
   nome: anagrafeBibliotecheItaliane
   dataInserimento: 2020-07-14
   if_not_archived_within: 7d
@@ -24,7 +24,7 @@
   if_not_archived_within: 90d
 - titolo: "Una selezione di API REST italiane a disposizione degli sviluppatori"
   fonte: "Developers Italia"
-  URL: "https://developers.italia.it/it/api/"
+  URL: "https://developers.italia.it/it/api"
   nome: apiRestItalia
   dataInserimento: 2020-07-29
   if_not_archived_within: 7d
