@@ -1,7 +1,7 @@
 name: crea archivio registro Comunicazioni ANAC l190
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '10 0 */1 * *'
