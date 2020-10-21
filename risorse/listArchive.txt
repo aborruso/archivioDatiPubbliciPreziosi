@@ -9,3 +9,4 @@ https://www.cciss.it/web/cciss/database-rds-tmc
 https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
 https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
 https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa
+https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
