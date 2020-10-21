@@ -28,25 +28,33 @@ if [ $code -eq 200 ]; then
       -H 'Referer: https://dati.anticorruzione.it/' \
       -H 'Accept-Language: en-US,en;q=0.9,it;q=0.8' \
       --compressed
-    curl 'https://dati.anticorruzione.it/rest/legge190/ricerca?max=20&start=0' \
-      -H 'Connection: keep-alive' \
-      -H 'Accept: application/json, text/plain, */*' \
-      -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36' \
-      -H 'Content-Type: application/json;charset=UTF-8' \
-      -H 'Origin: https://dati.anticorruzione.it' \
-      -H 'Sec-Fetch-Site: same-origin' \
-      -H 'Sec-Fetch-Mode: cors' \
-      -H 'Sec-Fetch-Dest: empty' \
-      -H 'Referer: https://dati.anticorruzione.it/' \
-      -H 'Accept-Language: en-US,en;q=0.9,it;q=0.8' \
-      --data-binary '{"anno":"'"$i"'","codiceFiscaleAmministrazione":"","denominazioneAmministrazione":"","identificativoComunicazione":""}' \
-      --compressed
+    itemAnagrafica=$(curl 'https://dati.anticorruzione.it/rest/legge190/ricerca?max=1&start=0' -H 'Connection: keep-alive' -H 'Accept: application/json, text/plain, */*' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36' -H 'Content-Type: application/json;charset=UTF-8' -H 'Origin: https://dati.anticorruzione.it' -H 'Sec-Fetch-Site: same-origin' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Dest: empty' -H 'Referer: https://dati.anticorruzione.it/' -H 'Accept-Language: en-US,en;q=0.9,it;q=0.8' --data-binary '{"anno":"'"$i"'","codiceFiscaleAmministrazione":"","denominazioneAmministrazione":"","identificativoComunicazione":""}' --compressed | jq -r '.paging.itemsCount')
     curl -kL "$URLpath$i.json" | jq -c '.[]' >"$folder"/../../docs/"$nome"/tmp.jsonl
 
     # se l'output ha meno di 10 righe non lo mettere in versioning
-    check=$(<"$folder"/../../docs/"$nome"/tmp.jsonl wc -l)
+    check=$(wc <"$folder"/../../docs/"$nome"/tmp.jsonl -l)
     if [[ "$check" -gt 1000 ]]; then
       mv "$folder"/../../docs/"$nome"/tmp.jsonl "$folder"/../../docs/"$nome"/l190-"$i".jsonl
     fi
+
+    # il dowload delle anagrafiche va paginato, quindi non come sotto
+    #    curl "https://dati.anticorruzione.it/rest/legge190/ricerca?max=$itemAnagrafica&start=0" \
+    #      -H 'Connection: keep-alive' \
+    #      -H 'Accept: application/json, text/plain, */*' \
+    #      -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36' \
+    #      -H 'Content-Type: application/json;charset=UTF-8' \
+    #      -H 'Origin: https://dati.anticorruzione.it' \
+    #      -H 'Sec-Fetch-Site: same-origin' \
+    #      -H 'Sec-Fetch-Mode: cors' \
+    #      -H 'Sec-Fetch-Dest: empty' \
+    #      -H 'Referer: https://dati.anticorruzione.it/' \
+    #      -H 'Accept-Language: en-US,en;q=0.9,it;q=0.8' \
+    #      --data-binary '{"anno":"'"$i"'","codiceFiscaleAmministrazione":"","denominazioneAmministrazione":"","identificativoComunicazione":""}' \
+    #      --compressed | jq -c '.result[]' >"$folder"/../../docs/"$nome"/tmp-anagrafica.jsonl
+    #    checkAnagrafica=$(wc <"$folder"/../../docs/"$nome"/tmp-anagrafica.jsonl -l)
+    #    if [[ "$checkAnagrafica" -gt 1000 ]]; then
+    #      mv "$folder"/../../docs/"$nome"/tmp-anagrafica.jsonl "$folder"/../../docs/"$nome"/l190-"$i"-anagrafica.jsonl
+    #    fi
+
   done
 fi
