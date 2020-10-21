@@ -42,6 +42,8 @@ if [ $code -eq 200 ]; then
       --data-binary '{"anno":"'"$i"'","codiceFiscaleAmministrazione":"","denominazioneAmministrazione":"","identificativoComunicazione":""}' \
       --compressed
     curl -kL "$URLpath$i.json" | jq -c '.[]' >"$folder"/../../docs/"$nome"/tmp.jsonl
+
+    # se l'output ha meno di 10 righe non lo mettere in versioning
     check=$(<"$folder"/../../docs/"$nome"/tmp.jsonl wc -l)
     if [[ "$check" -gt 10 ]]; then
       mv "$folder"/../../docs/"$nome"/tmp.jsonl "$folder"/../../docs/"$nome"/l190-"$i".jsonl
