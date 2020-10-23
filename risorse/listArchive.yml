@@ -70,3 +70,9 @@
   nome: casellarioImprese
   dataInserimento: 2020-10-20
   if_not_archived_within: 1079m
+- titolo: "Dati comunali di produzione e raccolta differenziata"
+  fonte: "catasto-rifiuti ISPRA"
+  URL: "https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune"
+  nome: raccoltaDifferenziataComuni
+  dataInserimento: 2020-10-23
+  if_not_archived_within: 1079m
