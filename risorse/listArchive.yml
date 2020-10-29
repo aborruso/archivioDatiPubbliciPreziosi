@@ -9,43 +9,43 @@
   URL: "https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page"
   nome: anagrafeOpereIncompiute
   dataInserimento: 2020-07-09
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Anagrafe delle Biblioteche Italiane"
   fonte: "ICCU - Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche"
   URL: "https://anagrafe.iccu.sbn.it/it/open-data"
   nome: anagrafeBibliotecheItaliane
   dataInserimento: 2020-07-14
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Elenco degli alberi monumentali d'Italia"
   fonte: "Ministero delle politiche agricole alimentari e forestali"
   URL: "https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260"
   nome: alberiMonumentali
   dataInserimento: 2020-07-29
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Una selezione di API REST italiane a disposizione degli sviluppatori"
   fonte: "Developers Italia"
   URL: "https://developers.italia.it/it/api"
   nome: apiRestItalia
   dataInserimento: 2020-07-29
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Dati aperti dell'Automobile Club d'Italia (ACI)"
   fonte: "Sito ACI"
   URL: "http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html"
   nome: openDataACI
   dataInserimento: 2020-08-26
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Anagrafe Nazionale Popolazione Residente - tabelle di riferimento"
   fonte: "Sito ANPR"
   URL: "https://www.anpr.interno.it/portale/tabelle-di-riferimento"
   nome: ANPRtabelle
   dataInserimento: 2020-08-30
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Database delle località a supporto dei sistemi RDS TMC"
   fonte: "Sito CCIS"
   URL: "https://www.cciss.it/web/cciss/database-rds-tmc"
   nome: CCISSlocalitaRDSTMC
   dataInserimento: 2020-09-04
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "COVID-19 Verbali CTS"
   fonte: "Repository github pcm-dpc"
   URL: "https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"
@@ -57,22 +57,28 @@
   URL: "https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php"
   nome: datasetSUT
   dataInserimento: 2020-09-21
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Inviti alle PA del Difensore civico per il digitale"
   fonte: "Sito AgID"
   URL: "https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa"
   nome: invitiDifensoreCivico
   dataInserimento: 2020-10-17
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Elenchi delle Società organismo di attestazione (SOA)"
   fonte: "Sito ANAC"
   URL: "https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni"
   nome: casellarioImprese
   dataInserimento: 2020-10-20
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
 - titolo: "Dati comunali di produzione e raccolta differenziata"
   fonte: "catasto-rifiuti ISPRA"
   URL: "https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune"
   nome: raccoltaDifferenziataComuni
   dataInserimento: 2020-10-23
-  if_not_archived_within: 1079m
+  if_not_archived_within: 10079m
+- titolo: "Sorveglianza integrata COVID-19: i principali dati nazionali"
+  fonte: "Sito Istituto Superiore Santità"
+  URL: "https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati"
+  nome: sarsCov2SorveglianzaDati
+  dataInserimento: 2020-10-29
+  if_not_archived_within: 12h
