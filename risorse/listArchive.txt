@@ -11,3 +11,4 @@ https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
 https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa
 https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
 https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
