@@ -81,4 +81,16 @@
   URL: "https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati"
   nome: sarsCov2SorveglianzaDati
   dataInserimento: 2020-10-29
+  if_not_archived_within: 1h
+- titolo: "COVID-19, Ricoverati e posti letto in area non critica e terapia intensiva"
+  fonte: "Sito Agenzia Nazionale per i Servizi Sanitari Regionali"
+  URL: "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2"
+  nome: ricoveriPostiLettoCovi19
+  dataInserimento: 2020-11-03
+  if_not_archived_within: 12h
+- titolo: "Coronavirus, la normativa vigente"
+  fonte: "Sito  Presidenza del Consiglio dei Ministri"
+  URL: "http://www.governo.it/it/coronavirus-normativa"
+  nome: coronavirusNormativa
+  dataInserimento: 2020-11-04
   if_not_archived_within: 12h
