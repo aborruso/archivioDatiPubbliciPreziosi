@@ -100,3 +100,9 @@
   nome: monitoraggioRegionaleCovid19
   dataInserimento: 2020-11-04
   if_not_archived_within: 12h
+- titolo: "Positivi Covid-19 e ricoverati Covid-19 in area non critica ed in reparti di terapia intensiva"
+  fonte: "Sito Agenzia Nazionale per i Servizi Sanitari Regionali"
+  URL: "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1"
+  nome: positiviRicoveriCovi19
+  dataInserimento: 2020-11-03
+  if_not_archived_within: 12h
