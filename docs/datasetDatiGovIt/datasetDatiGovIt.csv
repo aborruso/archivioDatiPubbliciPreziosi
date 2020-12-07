@@ -4452,6 +4452,7 @@ autori-piu-letti-anno-20161
 autori-piu-letti-anno-2017
 autori-piu-letti-anno-20171
 autorita-di-bacino
+autorita-di-bacino-dataset
 autorita-di-sistema-portuale-adsp
 autorizzazioni-fitosanitarie
 autorizzazioni-georiferite-occupazione-suolo-pubblico-2018
@@ -4865,6 +4866,7 @@ bacini-idrografici-di-secondo-livello
 bacini-idrografici-naturali
 bacini-idrografici-naturali-elementari
 bacini-idrografici-principali
+bacini-idrografici-principali-dataset
 bacini-idrografici-secondari-dataset
 bacini-idromorfologici-1-10-000-digitale-edizione-del-1988
 bacini-imbriferi-2
@@ -6010,6 +6012,7 @@ bollettino-sismico-2019
 bollettino-sismico-2020
 bollettino-valanghe
 bonifica-siti-contaminati
+boreholes_dt
 borse-di-studio-per-rimborso-spese
 borse-di-studio-per-studenti-universitari-del-lazio-annualita-2013-2014-e-2014-2015
 borsinoassunzioni
@@ -8041,6 +8044,14 @@ classificazioni-macro-argomento-del-comune-di-trento
 classificazioni-macro-eventi-della-vita-del-comune-di-trento
 classificazioni-materie-del-comune-di-trento
 classificazioni-sotto-materie-del-comune-di-trento
+clc-1990-dataset
+clc-2000-dataset
+clc-2000-iv-livello-dataset
+clc-2006-dataset
+clc-2006-iv-livello-dataset
+clc-2012-dataset
+clc-cambiamenti-1990-2000-dataset
+clc-cambiamenti-2000-2006-dataset
 clima-del-vento-alla-superfice-edizione-2005-2007
 clima-delle-correnti-superficiali-edizione-2005-2007
 clima-ondoso-edizione-2005-2007
@@ -13119,6 +13130,8 @@ dato-grezzo-rilevato-dal-sensore-lidar
 dato_sui_rifiuti_per_presentazione_
 db-cartografico-del-territorio-del-comune-di-venezia
 db-geotopografico-national-core-sc-1-5000-nc5-iii-edizione-3d
+db-prior-strade-dataset
+db-prior-urbanizzato-dataset
 db2ccd8e-f2f2-47ba-b3fc-ee9f0b45746f
 db657cb3-4ce4-405f-8fc0-b535d349c434
 db7c495b-1639-49cc-9c78-1d6afa326dac
@@ -20144,6 +20157,7 @@ indicatori-interventi-attivita-connesse-ai-rapporti-con-le-autorita-giudiziarie-
 indicatori-per-singolo-ospedale
 indicatori-riassuntivi-della-ricettivita-degli-esercizi-complementari
 indicatori-ricoveri-per-reparto
+indicatori-sintetici-di-criticita-della-costa-suscettibilita-combinata-ai-fenomeni-di-erosione-
 indicatori-statistici-copertura-broadband-livello-comunale
 indicatori-statistici-copertura-broadband-livello-nazionale
 indicatori-statistici-copertura-broadband-livello-provinciale
@@ -20939,17 +20953,34 @@ istruzione-superiore-pubblica-della-citta-di-matera-a-s-2017-2018
 istruzione-superiore-pubblica-della-citta-di-matera-a-s-2018-2019
 istruzione-unita-educative-e-tipologie-di-servizio-nelle-scuole-dinfanzia
 istruzioni-guide-del-comune-di-trento
+it-habitat-distribution-2013
 it_3dmodel_pilotarea_geomol
 ita-impianti-combustione-2017
 ita-reporting-eprtr-2017
+ita-reporting-eprtr-209
 ita-reporting-msfd-adriatic-division-2018
 ita-reporting-msfd-region-2018
 ita-reporting-msfd-sub-region-2018
 ita-reporting-wfd-surface-body-2016
+ita_aree_naturali_protette_euap
+ita_aree_ramsar_2018
 ita_banca_dati_geofisica_dt
+ita_carta_vulnerabilita_regionale_dt
+ita_cdda_report2019
+ita_geo_faglie_1m
+ita_indagini_sottosuolo464_dt
 ita_pangeo_geohazard_palermo
 ita_pangeo_geohazard_roma
+ita_reportingaqassesmentregime2016
+ita_reportingaqd_zonesagglomerations2019
 ita_reportingwfd_groundwaterbody2016
+ita_reportingwfd_groundwaterbodyhorizon2016
+ita_reportingwfd_monitoringsite_2016
+ita_reportingwfd_protectedarea_2016
+ita_reportingwfd_riverbasindistrict2016
+ita_reportingwfd_subunit2016
+ita_reportingwfd_surfacewaterbodycentreline2016
+ita_speciesdistribution_bird2013
 italia-progetti-con-tracciato-esteso-ciclo-2007-2013-e-ciclo-2014-2020
 italia-progetti-con-tracciato-esteso-del-ciclo-2007-2013
 italia-progetti-con-tracciato-esteso-del-ciclo-2014-2020
@@ -20993,6 +21024,7 @@ laboratori-urbani-spazi-pubblici-per-i-giovani
 laccordo-di-programma-quadro-in-materia-di-ricerca-i-progetti-esplorativi-innovapuglia
 laccordo-di-programma-quadro-in-materia-di-ricerca-i-progetti-strategici-innovapuglia
 laghi-1-10-000-digitale-edizione-del-1988
+laghi-dataset
 laghi-della-sardegna-al-livello-massimo-di-invaso
 laghi-della-sardegna-al-livello-massimo-di-invaso-fascia-300m
 laghi-e-specchi-dacqua
@@ -21406,6 +21438,7 @@ limiti-amministrativi-comunali-2020-con-aggiornamenti-dbt-pgt-line
 limiti-amministrativi-comunali-2020-con-aggiornamenti-dbt-pgt-poligon
 limiti-amministrativi-comunali-ante-2014-citta-metropolitana-di-firenze1
 limiti-amministrativi-comunali-citta-metropolitana-di-firenze1
+limiti-amministrativi-comunali-dataset
 limiti-amministrativi-comunali1
 limiti-amministrativi-comunita-montane-2013-con-aggiornamenti-dbt-pgt
 limiti-amministrativi-comunita-montane-2015-con-aggiornamenti-dbt-pgt
@@ -21429,6 +21462,8 @@ limiti-amministrativi-province-2019-con-aggiornamenti-dbt-pgt-versione-semplific
 limiti-amministrativi-province-2020-con-aggiornamenti-dbt-pgt
 limiti-amministrativi-provinciali-2001
 limiti-amministrativi-provinciali-2003
+limiti-amministrativi-provinciali-dataset
+limiti-amministrativi-regionali-dataset
 limiti-amministrativi-regione-lombardia-2015-con-aggiornamenti-dbt-pgt
 limiti-amministrativi-regione-lombardia-2016-con-aggiornamenti-dbt-pgt
 limiti-amministrativi-regione-lombardia-2017-con-aggiornamenti-dbt-pgt
@@ -21459,6 +21494,7 @@ limitiportata1
 linea-delle-risorgive
 linea-di-base-dei-territori-costieri
 linea-di-costa
+linea-di-costa-dataset
 linea-di-costa-della-regione-veneto
 linea-di-costa-linea-di-costa-1943-45
 linea-di-costa-linea-di-costa-1982
@@ -29860,6 +29896,7 @@ popolazione-residenti-stranieri-per-classe-quinquennale-di-eta-genere-nazionalit
 popolazione-residenti-stranieri-per-classe-quinquennale-di-eta-genere-nazionalita-e-unita-urban1
 popolazione-ricostruzione-intercensuaria-del-movimento-naturale-e-migratorio
 popolazione-ricostruzione-intercensuaria-della-popolazione-residente-per-eta-genere-e-cittadina
+popolazione-rischio-alluvioni-dataset
 popolazione-scioglimenti-dei-matrimoni-a-milano-nel-2018
 popolazione-scolastica-2013-2014
 popolazione-scolastica-2015-2016
@@ -30165,9 +30202,11 @@ portale-pagamenti-lombardia-incassi-del-giorno
 portatori-di-interesse-per-mappatura-partecipata-comuni-arco-jonico-salentino
 porte-telematiche
 porti
+porti-2000-2008-dataset
 porti-e-approdi-dellemilia-romagna
 porti-e-approdi-dellemilia-romagna-porti-approdi-e-marine
 porti-e-approdi-dellemilia-romagna-porti-principali
+porti-e-linea-di-costa-dataset
 porto-di-chioggia
 porto-di-palermo-navi-merci-e-passeggeri-2010-2011
 porto-di-palermo-navi-merci-e-passeggeri-anno-2010
@@ -31701,7 +31740,6 @@ punteggio-conseguito-dagli-studenti-15-enni-nellarea-di-competenza-lettura-ocse-
 punteggio-conseguito-dagli-studenti-15-enni-nellarea-di-competenza-matematica-ocse-pisa
 punteggio-conseguito-dagli-studenti-15-enni-nellarea-di-competenza-scienze-ocse-pisa
 punti-accesso-wifi-citta-metropolitana-di-firenze1
-punti-di-campionamento-aree-di-popolamento-naturale-o-di-allevamento-molluschi
 punti-di-emissione-in-atmosfera-soggetti-ad-autorizzazione-ambientale
 punti-di-erogazione-pubblici-regionali-di-prestazioni-sanitarie-unita-produttive-sanitarie-up-p
 punti-di-erogazione-pubblici-regionali-di-prestazioni-sanitarie-unita-produttive-sanitarie-up-p1
@@ -33090,6 +33128,7 @@ rendiconto-gruppi-consiliari
 rendiconto-situazione-economico-patrimoniale-divisa-per-anno-e-aggregato-valori-assoluti-e-perc
 rendiconto_anno_2015
 rendimento-medio-di-energia-elettrica-da-pannelli-fotovoltaici-calcolata-nel-periodo-2004-20121
+rendis_interventidifesasuolo_dt
 repellenti-dati-storici
 reperti-archeologici-conservati-nei-musei
 reperti-archeologici-conservati-nei-musei-del-comune-di-milano
@@ -33264,6 +33303,7 @@ rete-di-monitoraggio-delle-acque-lacustri-dgr-350-10-e-2067-15
 rete-di-monitoraggio-delle-acque-sotterranee-periodo-2010-2015
 rete-di-monitoraggio-delle-acque-sotterranee-periodo-2015-2021
 rete-di-monitoraggio-delle-acque-superficiali-dgr-1420-02
+rete-di-monitoraggio-delle-aree-di-popolamento-naturale-o-di-allevamento-molluschi
 rete-di-monitoraggio-dello-stato-trofico-delle-acque-marino-costiere-l-r-3-99
 rete-di-monitoraggio-idrometrico-delle-acque-superficiali
 rete-di-monitoraggio-macrozoobenthos-delle-acque-marino-costiere-dlgs-152-06
@@ -33423,10 +33463,12 @@ reti-tecnologiche-reti-elettriche-media-tensione
 reti-tecnologiche-reti-elettriche-terzi
 reti-tecnologiche-reti-gas
 reti-wifi-pubbliche-umbriawifi
+reticolo-autostradale-dataset
 reticolo-fluviale-sistema-delle-acque
 reticolo-idrografico-e-nodi-idrografici-sc-1-10000
 reticolo-idrografico-e-punti-di-possibile-crisi
 reticolo-idrografico-naturale-rt_idn-040407-grafo
+reticolo-idrografico-nazionale-dataset
 reticolo-idrografico-regionale-db-prior-10k-nodi-idrici-storico
 reticolo-idrografico-regionale-unificato
 reticolo-idrografico-rt_idr-040408-grafo
@@ -35969,6 +36011,7 @@ sinistri-stradali-2016
 sinistri-stradali-rilevati-dalla-polizia-municipale-di-palermo-anno-2018
 sinistri-stradali-rilevati-nel-territorio-comunale-di-palermo-nellanno-2016-dalla-polizia-munic
 sinistri-stradali-rilevati-nel-territorio-comunale-di-palermo-nellanno-2017-dalla-polizia-munic
+sinkhole_dt
 sintel-dettaglio-lotti-di-gara
 siope-spese-comune-di-milano-2017
 siope-spese-comune-di-milano-2018
@@ -36185,6 +36228,7 @@ soggetti-produttori-san
 soggetti-produttori-san-per-culturaitalia
 soglia_di_povert__relativa
 soglie-dati-storici
+soilsealing-layer-dataset
 soldipubblici-spese-correnti-del-comune-di-martina-franca
 soldipubblici-spese-correnti-del-comune-di-matera
 soldipubblici-spese-correnti-della-citta-metropolitana-di-napoli
@@ -38150,6 +38194,7 @@ tipi-di-interrogazione-del-comune-di-trento
 tipi-di-licenza-del-comune-di-trento
 tipi-forestali-della-regione-liguria-sc-1-25000-ed-2010
 tipi-forestali-della-regione-liguria-sc-1-25000-ed-2013
+tipologia-coste-dataset
 tipologia-famigliare-coppie-con-figli
 tipologia-famigliare-coppie-senza-figli
 tipologia-famigliare-famiglie-unipersonali
@@ -38322,6 +38367,7 @@ totem_informativi_piuss_visualizzaiozni_di_pagina_novembre_2014
 totem_informativi_piuss_visualizzaiozni_di_pagina_ottobre_2014
 tourismus-konjunkturbarometer1
 tracce-delle-sezioni-trasversali-dalveo-sistema-delle-acque
+tracciato-ferroviario-dataset
 tracciato-linee-ferroviarie
 tracciato-linee-ferroviarie-dda2d91c
 trafair-qualita-aria
@@ -39577,6 +39623,7 @@ zone-a-protezione-speciale-zps-dgr-n-650-2012
 zone-a-rischio-sismico
 zone-a-traffico-limitato
 zone-allerta-395
+zone-altimetriche-costiere-dataset
 zone-archeologiche
 zone-archeologiche-aree
 zone-archeologiche-linee
