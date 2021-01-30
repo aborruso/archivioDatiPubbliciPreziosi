@@ -1978,7 +1978,7 @@ Lecco,Lombardia,Nord-Ovest,097021,,CESANA BRIANZA,2390,29,,,,18/11/2019
 Torino,Piemonte,Nord-Ovest,001074,,CESANA TORINESE,959,55,,,,10/12/2018
 Milano,Lombardia,Nord-Ovest,015074,,CESANO BOSCONE,23948,598,,,,10/10/2018
 Monza-Brianza,Lombardia,Nord-Ovest,108019,,CESANO MADERNO,39555,1234,,,,15/12/2020
-Verbania,Piemonte,Nord-Ovest,103022,14/01/2021,CESARA,600,0,29/01/2021,26/02/2021,29/01/2021,
+Verbania,Piemonte,Nord-Ovest,103022,,CESARA,600,78,,,,29/01/2021
 Messina,Sicilia,Isole,083017,23/12/2020,CESARO',2381,0,,,,
 Milano,Lombardia,Nord-Ovest,015076,,CESATE,14418,321,,,,19/09/2018
 Forli-Cesena,Emilia Romagna,Nord-Est,040007,,CESENA,96970,4146,,,,23/04/2017
@@ -2522,7 +2522,7 @@ Cosenza,Calabria,Sud,078049,,DIPIGNANO,4339,0,,,,
 Lecce,Puglia,Sud,075027,,DISO,2913,306,,,,20/12/2019
 Novara,Piemonte,Nord-Ovest,003060,,DIVIGNANO,1410,54,,,,19/11/2018
 Como,Lombardia,Nord-Ovest,013087,,DIZZASCO,625,88,,,,24/05/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021028,27/11/2020,DOBBIACO,3349,0,05/01/2021,30/01/2021,29/01/2021,
+Bolzano,Trentino Alto Adige,Nord-Est,021028,,DOBBIACO,3361,372,,,,29/01/2021
 Gorizia,Friuli Venezia Giulia,Nord-Est,031003,,DOBERDO' DEL LAGO,1384,0,31/12/2021,31/12/2021,31/12/2021,
 Cuneo,Piemonte,Nord-Ovest,004081,,DOGLIANI,4686,467,,,,19/05/2020
 Chieti,Abruzzo,Sud,069029,,DOGLIOLA,329,201,,,,18/10/2019
@@ -2821,7 +2821,7 @@ Forli-Cesena,Emilia Romagna,Nord-Est,040013,,FORLIMPOPOLI,13295,398,,,,13/08/201
 Verbania,Piemonte,Nord-Ovest,103031,,FORMAZZA,439,17,,,,27/04/2018
 Roma,Lazio,Centro,058038,,FORMELLO,13477,465,,,,15/10/2018
 Latina,Lazio,Centro,059008,,FORMIA,38401,2397,,,,17/10/2018
-Caserta,Campania,Sud,061035,27/01/2021,FORMICOLA,1447,0,,,,
+Caserta,Campania,Sud,061035,27/01/2021,FORMICOLA,1447,0,07/02/2021,06/03/2021,08/02/2021,
 Cremona,Lombardia,Nord-Ovest,019044,,FORMIGARA,1044,42,,,,16/11/2018
 Modena,Emilia Romagna,Nord-Est,036015,,FORMIGINE,34711,846,,,,18/12/2019
 Vercelli,Piemonte,Nord-Ovest,002059,,FORMIGLIANA,489,47,,,,17/10/2019
@@ -7615,7 +7615,7 @@ Reggio-Emilia,Emilia Romagna,Nord-Est,035043,,VEZZANO SUL CROSTOLO,4247,116,,,,1
 Savona,Liguria,Nord-Ovest,009067,,VEZZI PORTIO,813,102,,,,29/05/2020
 Mantova,Lombardia,Nord-Ovest,020066,,VIADANA,20144,1336,,,,29/11/2018
 Bergamo,Lombardia,Nord-Ovest,016235,,VIADANICA,1122,36,,,,23/09/2019
-Catania,Sicilia,Isole,087053,27/11/2019,VIAGRANDE,8671,0,29/01/2021,29/01/2021,29/01/2021,
+Catania,Sicilia,Isole,087053,,VIAGRANDE,8931,479,,,,29/01/2021
 Asti,Piemonte,Nord-Ovest,005114,,VIALE,241,9,,,,28/11/2019
 Torino,Piemonte,Nord-Ovest,001296,,VIALFRE',240,5,,,,07/12/2018
 Reggio-Emilia,Emilia Romagna,Nord-Est,035044,,VIANO,3323,131,,,,22/10/2018
