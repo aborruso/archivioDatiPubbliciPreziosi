@@ -7049,6 +7049,7 @@ biblioteche-prestiti-suddivisi-per-argomento
 biblioteche-prestiti-suddivisi-per-argomento1
 biblioteche-regione-campania
 biblioteche-rionali-caratteristiche-e-localizzazione
+biblioteche-rionali-e-sormani-patrimonio-bibliotecario-prestiti-e-utenti
 biblioteche-rionali-patrimonio-bibliotecario-prestiti-e-utenti
 biblioteche-rionali-patrimonio-prestiti-e-utenti
 biblioteche-sdiaf
@@ -26197,6 +26198,7 @@ localizzazione-incidenti-stradali-anni-2004-2018
 localizzazione-nidi-dinfanzia-open-data
 localizzazione-pubblici-esercizi-open-data
 localizzazione-scuole-dellinfanzia-open-data
+localizzazione-sinistri-dal-2018-lecce
 localizzazione-strutture-ricettive-open-data
 localizzazione-uffici-comunali
 localizzazione_contenitori_di_raccolta_multimateriale_leggero
@@ -31228,6 +31230,7 @@ nati-vivi
 nati-vivi-e-nati-morti-anno-2010
 nati-vivi-e-nati-morti-anno-2011
 nati-vivi-residenti-con-almeno-un-genitore-di-cittadinanza-straniera
+nati-vivi-serie-storica-dal-1880
 nati_nel_comune_di_carbonera_suddivisi_per_frazione_e_sesso_anni_dal_2015_al_2019
 nati_nel_comune_di_carbonera_suddivisi_per_frazione_e_sesso_anno_2016
 nati_nel_comune_di_carbonera_suddivisi_per_frazione_e_sesso_anno_2017
@@ -31762,6 +31765,7 @@ numero-di-iscritti-alle-biblioteche-comunali-di-firenze-anni-2008-2014
 numero-di-iscritti-alle-scuole-infanzia-statali-per-quartiere-anno-scolastico-2012-2013
 numero-di-iscritti-alle-scuole-infanzia-statali-per-quartiere-anno-scolastico-2013-2014
 numero-di-ispezioni-distribuzione-per-gestione
+numero-di-matrimoni-serie-storica-dal-1948
 numero-di-motocicli-per-100-residenti
 numero-di-occupati-in-friuli-venezia-giulia-2007-2017
 numero-di-occupati-in-friuli-venezia-giulia-2007-2018
@@ -34084,18 +34088,21 @@ personale-a-tempo-indeterminato-in-telelavoro-anno-2016
 personale-a-tempo-indeterminato-in-telelavoro-anno-2017
 personale-a-tempo-indeterminato-in-telelavoro-anno-2018
 personale-a-tempo-indeterminato-in-telelavoro-anno-2019
+personale-a-tempo-indeterminato-in-telelavoro-anno-2020
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2014
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2015
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2016
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2017
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2018
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2019
+personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2020
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2014
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2015
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2016
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2017
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2018
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2019
+personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2020
 personale-accademico-e-tecnico-amministrativo-delluniversita-di-trento
 personale-afam-serie-storica
 personale-afam-serie-storica1
@@ -34106,6 +34113,7 @@ personale-assunto-con-contratto-a-tempo-indeterminato-anno-2016
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2017
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2018
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2019
+personale-assunto-con-contratto-a-tempo-indeterminato-anno-2020
 personale-comunale-anno-2010
 personale-comunale-anno-2011
 personale-comunale-femmine-anno-2010
@@ -34151,6 +34159,7 @@ personale-dipendente-del-comune-milano-anno-2016
 personale-dipendente-del-comune-milano-anno-2017
 personale-dipendente-del-comune-milano-anno-2018
 personale-dipendente-del-comune-milano-anno-2019
+personale-dipendente-del-comune-milano-anno-2020
 personale-dipendente-delle-asl-aziende-ospedaliere-aziende-ospedaliere-universitarie-e-degli-ir
 personale-dislocazione-territoriale-per-provincia
 personale-docente-dati-al-31-dicembre-2013
@@ -35693,6 +35702,7 @@ popolazione-residente-per-stato-civile-eta-sesso-cittadinanza-quartiere-e-zona
 popolazione-residente-per-stato-civile-sesso-cittadinanza-quartiere-zona-area-statistica-e-sezi
 popolazione-residente-per-via
 popolazione-residente-per-zone-concentriche
+popolazione-residente-serie-storica-dal-1880
 popolazione-residente-straniera-censita-2005-2015
 popolazione-residente-straniera-per-cittadinanzasesso-quartiere-e-zona
 popolazione-residente-suddivisa-per-centro-abitato-e-per-sesso
@@ -45118,6 +45128,7 @@ tasso-di-disoccupazione-per-genere-valore-percentuale-e-variazioni-congiunturale
 tasso-di-disoccupazione-per-genere-valore-percentuale-e-variazioni-congiunturale-dati-destagion1
 tasso-di-disoccupazione-per-genere-valore-percentuale-e-variazioni-congiunturale-dati-destagion2
 tasso-di-disoccupazione-per-sesso-classe-di-et224-regione-anno-2012
+tasso-di-disoccupazione-serie-storica-dal-2004
 tasso-di-disoccupazione-su-popolazione-attiva
 tasso-di-disoccupazione-totale
 tasso-di-disoccupazione1
@@ -45137,6 +45148,7 @@ tasso-di-incidenza-universita
 tasso-di-incremento-annuo-della-popolazione-residente
 tasso-di-incremento-migratorio-annuo
 tasso-di-incremento-naturale-annuo-della-popolazione
+tasso-di-inflazione-serie-storica-dal-1971
 tasso-di-infortuni-mortali-e-inabilita-permanente-femmine
 tasso-di-infortuni-mortali-e-inabilita-permanente-maschi
 tasso-di-infortuni-mortali-e-inabilita-permanente-totale
@@ -45196,6 +45208,7 @@ tasso-di-occupazione-per-anno-trimestre-e-genere-valore-percentuale-e-variazioni
 tasso-di-occupazione-per-anno-trimestre-e-genere-valore-percentuale-e-variazioni-congiunturale-1
 tasso-di-occupazione-per-classi-di-et224-sesso-e-regione-anno-2012
 tasso-di-occupazione-per-titolo-di-studio-sesso-e-regione-anno-2012
+tasso-di-occupazione-serie-storica-dal-2004
 tasso-di-occupazione-su-popolazione-residente
 tasso-di-occupazione-totale
 tasso-di-occupazione1
