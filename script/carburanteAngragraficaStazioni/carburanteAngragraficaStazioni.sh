@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 nome="carburanteAngragraficaStazioni"
 
 URL="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"

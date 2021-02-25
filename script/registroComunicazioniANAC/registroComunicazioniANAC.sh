@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 nome="registroComunicazioniANAC"
 
 URL="https://dati.anticorruzione.it/data/l190-2018.json"

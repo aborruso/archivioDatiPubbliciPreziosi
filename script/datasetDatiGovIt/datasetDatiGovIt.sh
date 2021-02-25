@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 nome="datasetDatiGovIt"
 
 # curl -kL "https://www.dati.gov.it/api/3/action/package_list" | jq -r '.result[]' | mlr --csv --implicit-csv-header sort -f 1 then label id

@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 nome="listaComuniISTAT"
 
 URL="https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"

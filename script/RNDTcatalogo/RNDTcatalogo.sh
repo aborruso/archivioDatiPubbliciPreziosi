@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 nome="RNDTcatalogo"
 
 URL="http://geodati.gov.it/RNDT/csw"
