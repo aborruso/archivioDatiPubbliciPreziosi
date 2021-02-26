@@ -1494,6 +1494,7 @@ abitazioni-occupate-costruite-al-massimo-20-anni-prima-del-censimento
 abitazioni-occupate-costruite-piu-di-20-anni-prima-del-censimento
 abitazioni-occupate-dotate-di-posto-auto
 abitazioni-occupate-dotate-di-telefono-fisso
+abitazioni-occupate-per-numero-di-occupanti-e-unita-urbanistica
 abitazioni-occupate1
 abitazioni-permessi-di-costruire-a-modena
 abitazioni_e_stanze_1921_1931_1951_1961_comune_di_treviso
@@ -1854,6 +1855,7 @@ affittacamere-2016
 affittacamere-2017
 affittacamere-2020
 affittacamere-open-data
+affluenza-dei-visitatori-dellacquario-di-genova
 affluenza-sportello-tari
 affluenza_demografici_agosto_2019
 affluenza_demografici_luglio_2019_inserisci_il_titolo_della_scheda1
@@ -2274,6 +2276,7 @@ albo-fornitori
 albo-fornitori-della-regione-lazio
 albo-lombardia-eccellente
 albo-pretorio
+albo-pretorio-pubblicazioni-attive-comune-di-latiano
 albo-pretorio-ultime-pubblicazioni-in-corso-comune-di-lecce
 albo-regionale-cooperative-sociali
 albo-regionale-degli-enti-di-servizio-civile
@@ -3160,6 +3163,7 @@ ammortizzatori-sociali-in-deroga-mobilita-lavoratori
 ammortizzatori-sociali-spesa-per-prestazione-contributi-figurativi-e-relativo-finanziament-2012
 ampiezza_delle_aziende_agricole_nella_loro_forma_di_conduzione_censimento_1961
 ampm___catalogue_des_donn_es_publiques_ouvertes_par_la_m_tropole_aix_marseille_provence
+amt-trasporto-pubblico-nel-comune-di-genova
 anagrafe
 anagrafe-biblioteche-comunali-lombarde
 anagrafe-degli-archivi-di-stato-icar
@@ -3208,6 +3212,7 @@ anagrafica-delle-citta-metropolitane-della-regione-autonoma-della-sardegna
 anagrafica-delle-compagnie-barracellari-della-regione-autonoma-della-sardegna
 anagrafica-delle-province-della-regione-autonoma-della-sardegna
 anagrafica-delle-reti-urbane-della-regione-autonoma-della-sardegna
+anagrafica-delle-scuole-pubbliche
 anagrafica-e-geolocalizzazione-degli-enti-del-settore-pubblico-allargato-spa
 anagrafica-elette-ed-eletti
 anagrafica-esercizi-di-vicinato
@@ -3284,6 +3289,8 @@ andamento-occupazione-2015
 andamento-occupazione-2016
 andamento-occupazione-2017
 andamento-spesa-stati-di-invalidit224-civile-2002-2012
+andamento-storico-del-tasso-di-disoccupazione-per-fascia-deta-e-ambito-territoriale
+andamento-storico-del-tasso-di-occupazione-per-fascia-deta-e-ambito-territoriale
 andamento-temporale-della-concentrazione-di-attivita-di-radionuclidi-nei-fanghi-e-reflui-di-dep
 andamentodemografico-anno-2017
 anejo_fotogr_fico_comunidad_de_teruel_c29_album
@@ -3469,6 +3476,9 @@ archivio-attivita-commerciali
 archivio-avvisi-rischio-attivita-vulcanica-e-sismica
 archivio-avvisi-rischio-idrogeologico
 archivio-avvisi-rischio-incendi-e-ondate-di-calore
+archivio-dei-prezzi
+archivio-dei-prezzi-tasso-congiunturale
+archivio-dei-prezzi-tasso-tendenziale
 archivio-restauri-beni-mobili-conservati-nei-luoghi-di-cultura
 area-1-batimetria-curve-giugno-2016
 area-1-batimetria-curve-maggio2016
@@ -4132,6 +4142,7 @@ aree-verdi-comune-di-ravenna1
 aree-verdi-fruibili-comune-di-chieri
 aree-verdi1
 aree-verdi2
+aree-verdi3
 aree-viarie
 aree-viarie1
 aree-viarie2
@@ -4584,7 +4595,10 @@ arrivi-e-presenze-dei-turisti-negli-esercizi-alberghieri-e-in-altre-strutture-ri
 arrivi-e-presenze-dei-turisti-negli-esercizi-alberghieri-per-categoria-anno-2010
 arrivi-e-presenze-dei-turisti-negli-esercizi-alberghieri-per-categoria-anno-2011
 arrivi-e-presenze-di-turisti-negli-esercizi-ricettivi-per-paese-di-residenza-dei-clienti
+arrivi-e-presenze-mensili-negli-esercizi-alberghieri
+arrivi-e-presenze-negli-esercizi-extra-alberghieri
 arrivi-e-presenze-negli-esercizi-ricettivi
+arrivi-e-presenze-negli-esercizi-ricettivi1
 arrivi-e-presenze-nel-comune-di-firenze-per-tipologia-ricettiva-e-per-paese-di-provenienza-2013
 arrivi-e-presenze-nel-comune-di-firenze-per-tipologia-ricettiva-e-per-paese-di-provenienza-2014
 arrivi-e-presenze-nel-comune-di-modena
@@ -5735,6 +5749,7 @@ banca-dati-risorse-e-valorizzazione-della-montagna-strutture-tettoniche
 banca-dati-risorse-e-valorizzazione-della-montagna-strutture-tettoniche1
 banca-dati-servizio-contratti-pubblici-scp
 banca-dati-sui-presidi-socio-assistenziali-della-regione-emilia-romagna
+banca-regionale-della-terra-elenco-dei-terreni-del-comune-di-genova
 banca_dati_localit____e_nomi_geografici
 banche-dati
 banche-dati-regione-lombardia
@@ -5861,6 +5876,7 @@ bandi-di-gara-del-comunita-valsugana-e-tesino
 bandi-di-gara-della-p-a-lombarda
 bandi-di-gara-e-contratti
 bandi-di-gara-e-contratti-anno-2016-2017
+bandi-di-gara-e-contratti-anno-2017
 bandi-di-gara-e-contratti-anno-in-corso
 bandi-di-gara-e-contratti-della-direzione-centrale-acquisti
 bandi-di-gara-osservatorio-regionale
@@ -6004,6 +6020,7 @@ beneficiari-social-card-con-almeno-un-accredito-2011-2012
 beni-ambientali-e-architettonici
 beni-confiscati-alla-criminalita-organizzata
 beni-confiscati-alla-criminalita-organizzata-comune-di-francavilla-fontana
+beni-confiscati-alla-criminalita-organizzata-comune-di-latiano
 beni-confiscati-alla-criminalita-organizzata-comune-di-matera
 beni-culturali
 beni-culturali-archeologici-tratturi-art-10-del-d-lgs-42-2004
@@ -6747,6 +6764,7 @@ bollettino-valanghe
 bollettino_ufficiale_della_regione_piemonte
 bonifica-siti-contaminati
 boreholes-dataset
+borse-di-studio
 borse-di-studio-per-studenti-universitari-del-lazio-annualita-2013-2014-e-2014-2015
 borsinoassunzioni
 boschi-art-142-c-1-lett-g-d-lgs-142-2004
@@ -8827,6 +8845,19 @@ centri_urbani_2001___poligoni
 centro-di-prima-accoglienza-per-minori-flussi-di-utenza
 centro-produzione-embrioni
 centro-sociale-polivalente-per-diversamente-abili
+centro-storico-area-di-rispetto-del-riconoscimento-unesco
+centro-storico-carte-storiche-carta-del-1656
+centro-storico-carte-storiche-catasto-del-1414
+centro-storico-carte-storiche-catasto-del-1810
+centro-storico-carte-storiche-catasto-unitario-del-1907
+centro-storico-carte-storiche-le-mura-del-1414
+centro-storico-epoca-antiquaria-edifici
+centro-storico-epoca-prevalente-edifici
+centro-storico-i-palazzi-dei-rolli
+centro-storico-i-palazzi-del-riconoscimento-unesco-genova-le-strade-nuove-e-il-sistema-dei-pala
+centro-storico-perimetro-del-riconoscimento-unesco
+centro-storico-tipo-attuativo-edifici
+centro-storico-tipo-connotativo-edifici
 centro_abitato
 centro_commerciale_naturale
 centro_di_socializzazione_la_mimosa
@@ -9299,8 +9330,10 @@ collegi-camerali
 collegi-elettorali-del-senato
 collegi-elettorali-della-camera
 collegi-etpi
+collegi-plurinominali-2018-camera
 collegi-provinciali
 collegi-senatoriali
+collegi-uninominali-2018-senato
 collegio-dei-sindaci-revisori
 collezione-opere-darte-regionale-presso-il-palazzo-del-lloyd-triestino
 collezione-regionale-della-provincia-di-gorizia
@@ -9401,6 +9434,7 @@ comoreserviziopm2014
 comoreserviziopm2015
 comoreserviziopm2016
 comoreserviziopm2017
+compensi-incarichi-amministratori-municipali-2013
 compensi-percepiti-eletti
 compianservpm
 compianservpm2014
@@ -13772,6 +13806,8 @@ consistenza-degli-esercizi-ricettivi-anno-2018
 consistenza-del-patrimonio-abitativo-ai-censimenti-dal-1951-al-2011
 consistenza-del-personale-taa
 consistenza-del-tessuto-urbano-storico
+consistenza-della-rete-distributiva-al-dettaglio-esercizi-attivi
+consistenza-della-rete-distributiva-al-dettaglio-in-sede-fissa
 consistenza-media-annua-dei-dipendenti-privati-divisi-per-anno-classi-di-et224-tavola-2014-2015
 consistenza-media-annua-lavoratori-dipendenti-privati-divisi-per-anno-e-qualifica-valori-assolu
 consistenza-media-comune-2016
@@ -13920,9 +13956,15 @@ consumi-energetici-del-settore-pubblico-illuminazione-pubblica
 consumi-energetici-mezzi-comunali-e-trasporti-pubblici-2007-2012
 consumi-energia-elettrica-acqua-e-gas-della-regione-lazio
 consumi-energia-elettrica-pubblica-illuminazione-03-2018-03-2019
+consumi-energia-elettrica-utenze-comune-di-genova-comge
+consumi-gas-metano-utenze-comune-di-genova-comge
 consumi-giornalieri-di-acqua-per-abitante-2000-2016
 consumi-sostanze-illecite-pop-gen
 consumi-sostanze-illecite-pop-studentesca
+consumi-trasporto-privato
+consumi-trasporto-pubblico-locale-genova-ge
+consumi-utenze-altri-combustibili
+consumi-veicoli-comune-di-genova-comge
 consumi_carburanti_2013
 consumi_carburanti_2014
 consumi_carburanti_2015
@@ -13966,6 +14008,7 @@ consumo-di-suolo-della-regione-emilia-romagna-consumo-di-suolo-della-regione-emi
 consumo-di-suolo-della-regione-emilia-romagna-consumo-di-suolo-della-regione-emilia-romagn-20202
 consumo-di-suolo-della-regione-emilia-romagna-consumo-di-suolo-della-regione-emilia-romagn-20203
 consumo-di-suolo-progressivo-comune-di-francavilla-fontana-ispra
+consumo-di-suolo-progressivo-comune-di-latiano-ispra
 consumo-di-suolo-progressivo-comune-di-matera-ispra
 consumo-mensile-medio-familiare1
 consumo-suolo-2018
@@ -14173,6 +14216,7 @@ conto-annuale-2019-r-9813-personale-assunzioni
 conto-annuale-2019-r-9813-personale-cessato
 conto-annuale-2019-r-9813-sede-lavoro
 conto-annuale-2019-r-9813-titolo-di-studio
+conto-annuale-del-personale-2015-2016-2017-2018-2019
 conto-consuntivo-2012
 conto-economico
 conto-economico-2013-2014
@@ -14506,6 +14550,10 @@ costigliole-d-asti-dati-demografici
 costigliole-d-asti-dati-finanziari
 costigliole-d-asti-dati-tributi
 costituzioni_2017_2019
+costo-complessivo-personale-non-a-tempo-indeterminato-2017
+costo-complessivo-personale-non-a-tempo-indeterminato-2018
+costo-complessivo-personale-non-a-tempo-indeterminato-anno-2019
+costo-complessivo-personale-non-a-tempo-indeterminato-anno-2020
 costo-di-gestione-dei-rifiuti-per-kg-dal-2011-al-2017
 costo-di-gestione-dei-rifiuti-pro-capite-dal-2011-al-2017
 costo-missioni-amministratori
@@ -15376,6 +15424,7 @@ dati-relativi-alla-scuola-comunale-dellinfanzia
 dati-relativi-alla-scuola-comunale-dellinfanzia-anno-2016
 dati-relativi-alla-seconda-operazione-di-salvaguardia
 dati-relativi-alla-terza-operazione-di-salvaguardia
+dati-rifiuti-solidi-urbani-progressivo-per-anno-in-corso-per-il-comune-di-latiano
 dati-rifiuti-solidi-urbani-progressivo-per-anno-in-corso-per-il-comune-di-lecce
 dati-salute
 dati-segnalazioni-all-ufficio-relazioni-con-il-pubblico-anno-2012-2013
@@ -17370,6 +17419,7 @@ disoccupati-femmine-tra-i-20-e-i-64-anni
 disoccupati-in-cerca-di-primo-lavoro1
 disoccupati-maschi-tra-i-15-e-i-24-anni
 disoccupati-maschi-tra-i-20-e-i-64-anni
+disoccupati-nei-grandi-comuni
 disoccupati-per-sesso-e-fasce-deta
 disoccupati-per-sesso-e-fasce-deta1
 disoccupati-sotto-i-30-anni
@@ -17752,6 +17802,7 @@ ecosistema_urbano_mobilita_comune_di_treviso_anno_2015
 ecotipi
 edicole
 edicole-votive-della-citta-di-matera
+edicole-votive-nel-centro-storico-di-genova
 edicole1
 edificato
 edificato-2018-rer
@@ -17975,6 +18026,7 @@ elenco-agenzie-trasporto-pubblico-locale-tpl-di-regione-lombardia-anno-2017-2018
 elenco-agenzie-trasporto-pubblico-locale-tpl-di-regione-lombardia-anno-2018-2019
 elenco-aggiornato-a-giugno-2014-delle-rivendite-di-biglietti-bus-urbani
 elenco-agriturismi
+elenco-aiuti-di-stato-a-finalita-regionale-2014-2020
 elenco-alberi-monumentali-della-regione-lazio
 elenco-aler-di-regione-lombardia-anno-2016
 elenco-aler-di-regione-lombardia-anno-2017
@@ -18029,6 +18081,7 @@ elenco-benzine-con-turni-2014-del-comune-di-matera
 elenco-biblioteche
 elenco-biblioteche-umbre-sbn
 elenco-cacciatori
+elenco-cani-randagi-censiti-comune-di-latiano
 elenco-capi-aziende-zootecniche
 elenco-cdd
 elenco-centri-diurni-integrati-accreditati-per-anziani
@@ -18221,6 +18274,7 @@ elenco-impianti-sportivi-nella-provincia-di-caserta
 elenco-impianti-sportivi-nella-provincia-di-napoli
 elenco-impianti-sportivi-nella-provincia-di-salerno
 elenco-impianti-sportivi-presenti-sul-territorio
+elenco-incarichi-2012-2015-comune-di-latiano
 elenco-incidenti-2020
 elenco-incidenti-nell-anno-2019-nella-citta-di-torino
 elenco-iniziative-promozione-cinema-e-audiovisivo-2013
@@ -18328,6 +18382,7 @@ elenco-sensori-meteo
 elenco-sensori-meteo1
 elenco-sert
 elenco-servizi-socio-assistenziali
+elenco-sezioni-di-censimento
 elenco-smi
 elenco-societa-partecipate-da-regione-lombardia-2015-2016
 elenco-societa-partecipate-di-regione-lombardia-anno-2016-2017
@@ -18497,6 +18552,7 @@ elettori_residenti_estero_marzo_2016
 elettrodotto-10000-ct10
 elettromagnetici_nel_comu2013
 elezione-diretta-del-sindaco-e-del-consiglio-comunale-della-citta-di-matera-31-maggio-2015
+elezione-suppletiva-della-camera-dei-deputati-collegio-uninominale-n-10-anno-2004
 elezioni-2018-collegi-elettorali
 elezioni-2019-sezioni-elettorali-e-plessi-georeferenziati-consistenza-elettorale-per-sezioni
 elezioni-amministrative-11-giugno-2017
@@ -18656,6 +18712,7 @@ elezioni-amministrative-2017-iv-circoscrizione-voti-ai-consiglieri-di-circ-per-s
 elezioni-amministrative-2017-iv-circoscrizione-voti-ai-consiglieri-di-circ-per-sez-lista-7
 elezioni-amministrative-2017-iv-circoscrizione-voti-ai-consiglieri-di-circ-per-sez-lista-8
 elezioni-amministrative-2017-iv-circoscrizione-voti-ai-consiglieri-di-circ-per-sez-lista-9
+elezioni-amministrative-2017-preferenze-liste-municipi
 elezioni-amministrative-2017-risultati-definitivi
 elezioni-amministrative-2017-turno-di-ballottaggio-25-giugno
 elezioni-amministrative-2017-v-circoscrizione-dati-relativi-ai-voti-assegnati-ai-presidenti-per
@@ -18810,12 +18867,15 @@ elezioni-amministrative-2017-voti-assegnati-ai-consiglieri-comunali-per-sezione-
 elezioni-amministrative-2017-voti-assegnati-ai-consiglieri-comunali-per-sezione-lista-7
 elezioni-amministrative-2017-voti-assegnati-ai-consiglieri-comunali-per-sezione-lista-8
 elezioni-amministrative-2017-voti-assegnati-ai-consiglieri-comunali-per-sezione-lista-9
+elezioni-amministrative-2018-municipio-ii-centro-ovest
 elezioni-amministrative-2019-affluenza-finale
 elezioni-amministrative-2019-affluenza-ore-12
 elezioni-amministrative-2019-affluenza-ore-19
 elezioni-amministrative-2019-preferenze-dei-candidati-alla-carica-di-consigliere-per-liste-e-se
 elezioni-amministrative-2019-preferenze-dei-candidati-alla-carica-di-consigliere-per-liste-e-se1
 elezioni-amministrative-2019-voti-di-preferenza-dei-candidati-alla-carica-di-sindaco
+elezioni-amministrative-anno-2007
+elezioni-amministrative-anno-2012
 elezioni-amministrative-comunali
 elezioni-amministrative-comunali-maggio-2007
 elezioni-amministrative-comunali-maggio-2012-voti-di-lista
@@ -18826,6 +18886,7 @@ elezioni-amministrative-del-sindaco-1-turno-anno-2012
 elezioni-amministrative-del-sindaco-20-maggio-2012-ballottaggio
 elezioni-amministrative-del-sindaco-maggio-2007
 elezioni-amministrative-maggio-2012-consiglieri-eletti
+elezioni-amministrative-municipi-anno-2017
 elezioni-amministrative-provinciali
 elezioni-amministrative-roma-capitale-19-giugno-2016-ballottaggio
 elezioni-amministrative-roma-capitale-5-giugno-2016-candidati-alla-carica-di-sindaco-di-roma-ca
@@ -19185,6 +19246,10 @@ elezioni-europee-2019-voti-assegnati-ai-candidati-per-sezione-lista-8
 elezioni-europee-2019-voti-assegnati-ai-candidati-per-sezione-lista-9
 elezioni-europee-2019-voti-complessivi-assegnati-ai-candidati
 elezioni-europee-2019-voti-complessivi-assegnati-alle-liste
+elezioni-europee-anno-2004
+elezioni-europee-anno-2009
+elezioni-europee-anno-2014
+elezioni-europee-anno-2019
 elezioni-europee-comunali-2009
 elezioni-europee-e-amministrative-2019-affluenze-risultati
 elezioni-europee-preferenze_per_sezione
@@ -19282,16 +19347,21 @@ elezioni-politiche-2018-unione-dei-comuni-valle-del-savio-senato
 elezioni-politiche-2018-unione-dei-comuni-valle-savio-candidati-al-senato
 elezioni-politiche-4-marzo-2018-affluenza-alle-urne
 elezioni-politiche-4-marzo-2018-risultati
+elezioni-politiche-anno-2006
+elezioni-politiche-anno-2008
 elezioni-politiche-anno-2008-affluenza-camera
 elezioni-politiche-anno-2008-affluenza-senato
+elezioni-politiche-anno-2013
 elezioni-politiche-camera-2013
 elezioni-politiche-camera-2018
+elezioni-politiche-camera-anno-2018
 elezioni-politiche-camera-dei-deputati
 elezioni-politiche-comunali-2008
 elezioni-politiche-comunali-20081
 elezioni-politiche-senato
 elezioni-politiche-senato-2013
 elezioni-politiche-senato-2018
+elezioni-politiche-senato-anno-2018
 elezioni-politiche-voti-camera
 elezioni-politiche-voti-senato
 elezioni-provinciali-2008
@@ -19435,6 +19505,10 @@ elezioni-regionali-2018-voti-presidente
 elezioni-regionali-2020
 elezioni-regionali-2020-candidati-presidenza-della-regione
 elezioni-regionali-26-gennaio-2020
+elezioni-regionali-anno-2005
+elezioni-regionali-anno-2010
+elezioni-regionali-anno-2015
+elezioni-regionali-anno-2020
 elezioni-regionali-della-campania-2010-2
 elezioni-regionali-puglia-31-maggio-2015
 elezioni-stradario-per-i-referendum-abrogativi-del-12-13-giugno-2005
@@ -20345,6 +20419,7 @@ famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2015
 famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2016
 famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2017
 famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2018
+famiglie-per-numero-di-componenti-e-unita-urbanistica
 famiglie-per-numero-di-componenti1
 famiglie-per-numero-di-componenti2
 famiglie-per-numero-di-componenti3
@@ -20381,13 +20456,19 @@ famiglie-residenti-per-dimensione-e-tipologia-familiare-e-codice-di-avviamento-p
 famiglie-residenti-per-dimensione-familiare-sezione-di-censimento-area-statistica-quartiere-e-z
 famiglie-residenti-per-eta-tipologia-e-cittadinanza-del-capofamiglia-per-quartiere-e-zona
 famiglie-residenti-per-municipio
+famiglie-residenti-per-numero-di-figli-e-unita-urbanistica
 famiglie-residenti-per-quartiere
 famiglie-residenti-per-quartiere-di-appartenenza-e-per-numero-di-componenti-al-31-dicembre-2014
 famiglie-residenti-per-quartiere-zona-tipologia-numero-di-componenti-numero-di-minori-e-numero-
 famiglie-residenti-per-tipologia-anni-1998-2016
 famiglie-residenti-per-tipologia-dati-assoluti
 famiglie-residenti-per-tipologia-della-famiglia-dimensione-familiare-numero-componenti-quartier
+famiglie-residenti-per-tipologia-e-unita-urbanistica
 famiglie-residenti-per-via
+famiglie-straniere-per-nazionalita-del-capo-famiglia-e-unita-urbanistica
+famiglie-straniere-residenti-per-numero-di-componenti-e-unita-urbanistica
+famiglie-straniere-residenti-per-numero-di-figli-e-unita-urbanistica
+famiglie-straniere-residenti-per-tipologia-e-unita-urbanistica
 famiglie-stranieri
 famiglie-tipologie-per-municipio
 famiglie-tipologie-per-quartiere
@@ -21071,6 +21152,7 @@ frantoi-oleari
 frazioni-presenti-nel-territorio
 freccia-di-valanga
 freeriding_ski_routes_in_the_veneto_region
+freewi-figenova
 frequentanti_2018_19
 friuli-venezia-giulia-progetti-con-tracciato-esteso-ciclo-2007-2013-e-ciclo-2014-2020
 friuli-venezia-giulia-progetti-con-tracciato-esteso-del-ciclo-2007-2013
@@ -21117,6 +21199,7 @@ garanties_d_emprunt_accord_es_en_2013_pour_martigues
 gare-bandite-sulla-piattaforma-e-procurement-della-direzione-regionale-centrale-acquisti
 gare-e-appalti
 gare-e-contratti-perugia
+gare-opere-pubbliche-mop-comune-di-latiano
 gare-pubbliche-adesioni-consip-e-arca-della-giunta-regionale
 gare-telematiche-concluse
 gares___corse
@@ -21963,6 +22046,7 @@ immigrazioni_nell_anno_per_comune_di_provenienza__2012_
 immigrazioni_nell_anno_per_comune_di_provenienza__2013_
 immigrazioni_nell_anno_per_comune_di_provenienza__serie_storica_
 immobili-confiscati-alla-mafia
+immobili-del-comune-di-genova-opportunita-e-valorizzazione
 immobili-della-citta-di-torino-in-gestione-atc
 immobili-di-proprieta
 immobili-di-proprieta-del-comune-di-lecce-anno-2017
@@ -22763,6 +22847,7 @@ incidenti-stradali2
 incidenti-stradali3
 incidenti-stradali4
 incidenti-stradali5
+incidenti-stradali6
 incidenti-strade
 incidenti-suddivisi-per-giorno-della-settimana-e-gravita
 incidenti_2002
@@ -23482,6 +23567,7 @@ inquadramento-degli-amministrati
 inquadramento-strutturale-pup
 inquinamento-acustico-autostrada-del-brennero-diurno
 inquinamento-acustico-autostrada-del-brennero-notturno
+inquinamento-atmosferico
 inquinamento_atmosferico_anno_2014_comune_di_treviso
 inquinamento_atmosferico_anno_2015_comune_di_treviso
 inquinamento_atmosferico_anno_2016_comune_di_treviso
@@ -23714,6 +23800,7 @@ inventaires_naturalistes_de_digne_les_bains_de_2012___2014
 inventari_patrimonio_immobiliare_comunale___beni_demaniali
 inventari_patrimonio_immobiliare_comunale___patrimonio_disponibile
 inventari_patrimonio_immobiliare_comunale___patrimonio_indisponibile
+inventario-dei-beni-del-polo-museale-citta-di-latiano
 inventario-dei-fenomeni-franosi-iffi-basilicata
 inventario-dei-fenomeni-franosi-sc-1-10000-progetto-iffi
 inventario-della-biblioteca-giuridica-giunta-regionale-lazio
@@ -23905,6 +23992,7 @@ iscritti-scuole-per-anno-di-corso-anno-scolastico-2011-2012
 iscritti-scuole-primarie-ed-iscritti-alla-ristorazione-scolastica-2018
 iscritti-scuole-primarie-ed-iscritti-alla-ristorazione-scolastica-2019
 iscritti-scuole-primarie-ed-iscritti-alla-ristorazione-scolastica-2020
+iscritti-scuole-pubbliche
 iscritti-scuole-secondarie-i-grado-ed-iscritti-alla-ristorazione-scolastica-2018
 iscritti-scuole-secondarie-i-grado-ed-iscritti-alla-ristorazione-scolastica-2019
 iscritti-scuole-secondarie-i-grado-ed-iscritti-alla-ristorazione-scolastica-2020
@@ -24414,6 +24502,7 @@ le-botteghe-storiche-nel-territorio-di-roma-capitale
 le-dieci-strade-piu-incidentate-1998-2009
 le-entratespese-riclassificate-della-regione-lazio-suddivise-per-categoria-economica
 le-grandi-strutture-di-vendita-presenti-nel-territorio-di-roma-capitale-non-inserite-nei-centri
+le-isole-azzurre
 le-produzioni-originali-di-matera-2019
 le-scuole-comunali
 le-strade-piu-incidentate-del-2013
@@ -24435,6 +24524,7 @@ legge-104-e-congedo-straordinario-numero-beneficiari-per-tipo-di-prestazione-ses
 legge-104-e-congedo-straordinario-numero-beneficiari-per-tipologia-contrattuale-e-regione-2014
 legge-104-e-congedo-straordinario-numero-beneficiari-per-tipologia-contrattuale-sesso-e-ar-2014
 legge-104-e-congedo-straordinario-numero-beneficiari-per-tipologia-contrattuale-tipo-prest-2014
+legge-190-2012-anticorruzione-progressivo-2018
 legge-istitutiva-del-consorzio
 leggi-e-regolamenti-della-provincia-autonoma-di-trento
 leia_2015___2016____statistiques_de_connexion___l_ent_par__tablissement___corse
@@ -25798,6 +25888,7 @@ malattie_professionali_per_data_decesso
 malattie_professionali_per_data_protocollo
 manades_des_bouches_du_rh_ne
 manifestations_livre_et_lecture_de_provence_alpes_c_te_d_azur
+manifestazioni-della-fiera-di-genova
 manifestazioni-e-artigianato
 manifestazioni-fieristiche-locali
 manifestazioni-sportive-e-popolari-organizzate-dal-comune-di-firenze-anni-2006-2014
@@ -26045,6 +26136,7 @@ matrice-od2030-passeggeri
 matrice-od2030-passeggeri-file-compresso-per-download-rapido
 matrice-od2030-veicoli-commerciali-e-pesanti
 matrice-od2030-veicoli-commerciali-e-pesanti-file-compresso-per-download-rapido
+matrici-dei-viaggi-origine-destinazione
 matrici_tariffarie_tpl_sardegna
 matrici_tariffarie_tpl_sardegna1
 matrimoni
@@ -26188,6 +26280,9 @@ media-della-temperatura-massima-giornaliera
 media-della-temperatura-minima-giornaliera-1981-2010
 media-library-online
 media-per-schermo-dei-biglietti-venduti-a-torino-2017-2019
+media-prezzi-al-dettaglio-alimentari
+media-prezzi-al-dettaglio-ortofrutta
+media-prezzi-al-dettaglio-prodotti-vari
 medici-medicina-generale
 medici-praticanti
 medie-mensili-delle-temperature-massime-giornaliere-in-c-nel-comune-di-firenze-anni-2011-2014
@@ -27101,6 +27196,7 @@ multimodel-forecasts
 municipio-x-elenco-sezioni-elettorali
 municipios_comarcas_y_provincias_de_arag_n
 municipios_de_arag_n
+mura-seicentesche
 murisengo-dati-finanziari
 murisengo-statistiche-demografiche
 murisengo-statistiche-edilizia-privata
@@ -27392,6 +27488,7 @@ nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-r
 nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-regione-ann-2017
 nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-regione-ann-2018
 nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-regione-ann-2019
+non-forze-lavoro-grandi-comuni
 non-profit-cooperative-sociali-e-consorzi
 norbello-beni-culturali
 norbello-beni-culturali1
@@ -27489,6 +27586,7 @@ numerazione-civica-monteciccardo
 numerazione-civica1
 numerazione_civica_del_comune_di_schio
 numeri-civici
+numeri-civici-ammessi-ad-aiuti-di-stato-a-finalita-regionale-2007-13
 numeri-civici-comune-di-cento
 numeri-civici-con-coordinate-geografiche
 numeri-civici-del-comune-di-ferrara
@@ -28364,6 +28462,7 @@ occupati-in-imprese-culturali-e-creative-maschi
 occupati-in-imprese-culturali-e-creative-totale
 occupati-in-possesso-di-laurea-breve-laurea-o-dottorato
 occupati-maschi-tra-i-20-e-i-64-anni
+occupati-nei-grandi-comuni-italiani
 occupati-nei-servizi
 occupati-nel-commercio
 occupati-nel-settore-pubblico
@@ -29404,6 +29503,7 @@ parcheggi-sosta-disabili
 parcheggi-zona-blu
 parcheggi-zone-accesso-controllato
 parcheggi1
+parcheggi2
 parcheggio-protetto-per-biciclette-open-data
 parchi
 parchi-e-aree-a-verde
@@ -29461,6 +29561,7 @@ parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2016
 parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2017
 parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2018
 parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2019
+parco-veicolare-nel-comune-di-genova
 parco-veicolare-suddiviso-per-categoria-serie-storica
 parco-veicoli-circolanti-2004-2018
 parco-veicoli-circolanti-regione-lombardia-a-aprile-2015-file-compresso-per-download-rapido
@@ -29637,7 +29738,9 @@ patrimonio-immobiliare
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-demaniali
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-patrimoniali-disponibili
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-patrimoniali-indisponibili
+patrimonio-immobiliare-comune-di-latiano
 patrimonio-immobiliare-comune-di-matera-anno-2017
+patrimonio-immobiliare-del-comune-di-latiano
 patrimonio-immobiliare-della-provincia-autonoma-di-trento
 patrimonio-immobiliare-disponibile-della-regione-fvg
 patrimonio-immobiliare-fabbricati
@@ -29682,6 +29785,7 @@ patrocinipatronati-e-comitati-di-onore
 patrocinipatronati-e-comitati-di-onore-nel-comune-di-milano
 patti-di-collaborazione-open-data
 patto-per-lo-sviluppo-del-lazio
+patto-per-lo-sviluppo-della-citta-di-genova-fsc-2014-2020
 paura-di-stare-per-subire-un-reato-in-futuro
 pav_du_pays_d_aix
 pav_du_pays_d_aubagne_et_de_l_etoile
@@ -29982,6 +30086,7 @@ permessi-di-costruire-abitazioni-e-vani-di-abitazione-in-fabbricati-residenziali
 permessi-di-costruire-abitazioni-e-vani-di-abitazione-in-fabbricati-residenziali-e-non-residenz2
 permessi-di-costruire-abitazioni-in-fabbricati-nuovi-per-numero-di-stanze
 permessi-di-costruire-abitazioni-in-fabbricati-residenziali-per-classe-di-superficie-utile
+permessi-di-costruire-comune-di-latiano
 permessi-di-costruire-rilasciati
 permessi-ztl-rilasciati-anno-2012
 permessi-ztl-rilasciati-anno-2013
@@ -30616,6 +30721,7 @@ piste-ciclabili3
 piste-ciclabili4
 piste-ciclabili5
 piste-ciclabili6
+piste-ciclabili7
 piste-ciclopedonali-del-trentino
 piste-da-sci
 pistes_cyclables_de_martigues_en_2015
@@ -31590,10 +31696,14 @@ popolazione-residente-suddivisa-per-eta-e-per-sesso
 popolazione-residente-suddivisa-per-eta-e-per-sesso1
 popolazione-residente-suddivisa-per-sesso-e-per-periodo-trascorso-dalleventuale-immigrazione
 popolazione-residente1
+popolazione-residenti-da-0-a-17-anni-per-singolo-anno-di-eta-e-unita-urbanistica
 popolazione-residenti-per-cittadinanza-e-municipio
 popolazione-residenti-per-cittadinanza-e-quartiere
+popolazione-residenti-per-classe-quinquennale-di-eta-genere-e-unita-urbanistica
 popolazione-residenti-per-genere
 popolazione-residenti-per-stato-civile-genere-eta-e-cittadinanza
+popolazione-residenti-stranieri-da-0-a-17-anni-per-singolo-anno-di-eta-e-unita-urbanistica
+popolazione-residenti-stranieri-per-classe-quinquennale-di-eta-genere-nazionalita-e-unita-urban
 popolazione-ricostruzione-intercensuaria-del-movimento-naturale-e-migratorio
 popolazione-ricostruzione-intercensuaria-della-popolazione-residente-per-eta-genere-e-cittadina
 popolazione-rischio-alluvioni-dataset
@@ -31925,6 +32035,9 @@ porto-di-chioggia
 porto-di-palermo-navi-merci-e-passeggeri-2010-2011
 porto-di-palermo-navi-merci-e-passeggeri-anno-2010
 porto-di-venezia
+porto-passeggeri-traghetti-imbarcati-sbarcati
+porto-traffico-merci
+porto-traffico-passeggeri-traghetti-e-navi-da-crociera
 porzione-di-territorio-restituito-zona_r-000201
 pos
 posas-popolazione-per-sesso-eta-e-stato-civile
@@ -32912,6 +33025,7 @@ produzione-editoriale-della-regione-toscana-nel-2016
 produzione-editoriale-della-regione-toscana-nel-2017
 produzione-editoriale-della-regione-toscana-nel-2018
 produzione-editoriale-della-regione-toscana-nel-2019
+produzione-energia-da-fonti-rinnovabili-in-edifici-del-comune-di-genova-comge
 produzione-fotovoltaica
 produzione-fotovoltaica-pat-opere-pubbliche
 produzione-lorda-vendibile-frutticoltura1
@@ -33717,6 +33831,9 @@ pubblici-esercizi-classificati-con-ateco-2007
 pubblici-esercizi-classificati-con-ateco-2007-per-1-000-residenti
 pubblici-esercizi1
 publications-of-the-university-of-trento
+puc-ambiti-produttivi
+puc-distretti
+puc-puo
 puc___aree_di_rispetto
 puc___impianti
 puc___zonizzazione_urbana
@@ -34471,6 +34588,8 @@ referendum-costituzionale-2020-abbinamenti-dei-civici-alle-sezioni-elettorali
 referendum-costituzionale-2020-indirizzi-e-plessi-elettorali
 referendum-costituzionale-2020-sezioni-e-sedi-elettorali
 referendum-costituzionale-21-21-settembre-2020
+referendum-costituzionale-anno-2006
+referendum-costituzionale-anno-2016
 referendum-costituzionale-dati-affluenze-alle-urne
 referendum-costituzionale-dati-affluenze-alle-urne-per-seggio-rilevazione-ore-12-00
 referendum-costituzionale-dati-affluenze-alle-urne-per-seggio-rilevazione-ore-19-00
@@ -34503,6 +34622,11 @@ referendum-popolare-2011-scrutinio-finale-quesito-2
 referendum-popolare-2011-scrutinio-finale-quesito-3
 referendum-popolare-2011-scrutinio-finale-quesito-4
 referendum-popolare-abrogativo-domenica-17-aprile-2016
+referendum-popolare-anno-2003-articolo-18-e-elettrodotto
+referendum-popolare-anno-2005
+referendum-popolare-anno-2009
+referendum-popolare-anno-2011
+referendum-popolare-anno-2016
 referendum-popolare-sulla-durata-delle-trivellazioni-in-mare-dati-affluenze-alle-urne
 referendum-popolare-sulla-durata-delle-trivellazioni-in-mare-dati-relativi-alle-sezioni-scrutin
 referendum-popolare-sulla-durata-delle-trivellazioni-in-mare-i-seggi-nelle-scuole
@@ -35163,6 +35287,7 @@ rendiconto-gestionale-uscite-2015
 rendiconto-gestionale-uscite-2016
 rendiconto-gestionale-uscite-2017
 rendiconto-gestionale-uscite-2018
+rendiconto-gruppi-consiliari-dal-2013
 rendiconto-pat-2002
 rendiconto-pat-2003
 rendiconto-pat-2004
@@ -35380,6 +35505,7 @@ rete-di-monitoraggio-delle-aree-di-popolamento-naturale-o-di-allevamento-mollusc
 rete-di-monitoraggio-dello-stato-trofico-delle-acque-marino-costiere-l-r-3-99
 rete-di-monitoraggio-idrometrico-delle-acque-superficiali
 rete-di-monitoraggio-macrozoobenthos-delle-acque-marino-costiere-dlgs-152-06
+rete-di-monitoraggio-pioggia
 rete-di-stazioni-di-monitoraggio-idro-termo-pluviometrica
 rete-di-telecomunicazione-copertura-wireless-provider-antea
 rete-di-telecomunicazione-copertura-wireless-provider-bb44
@@ -35557,6 +35683,7 @@ retribuzioni-lorde-annue-media-massima-e-minima
 rette-asili-nido-comunali-in-base-alle-fasce-di-reddito
 rette-asilo-nido-incassate-dal-comune-di-lecce-dal-2011-al-2018
 revenus_d_clares_pauvrete_et_niveau_de_vie_en_2012_en_corse__iris_
+riassunto-affluenze-elezioni-dal-2003-al-2018
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2005
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2006
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2007
@@ -36371,6 +36498,7 @@ ristrutturazioni-edilizie-interventi-per-risparmio-energetico
 risultati-attivit224-di-vigilanza-inps-per-territorio-anno-2010
 risultati-attivit224-di-vigilanza-inps-per-territorio-anno-2011
 risultati-attivit224-di-vigilanza-inps-per-territorio-anno-2012
+risultati-delle-elezioni-amministrative-e-successivo-ballottaggio-elezioni-sindaco-e-consi-2017
 risultati-elezione-presidente-regione-2015
 risultati-elezione-sindaco-2014
 risultati-elezioni
@@ -36871,7 +36999,11 @@ schede-di-catalogazione-di-strumenti-musicali-sm-4-00
 schede-di-dimissione-ospedaliera-dimessi-in-regime-ordinario-per-azienda-di-ricovero-e-drg
 schede-di-dimissione-ospedaliera-dimessi-per-azienda-di-ricovero-e-regime-di-ricovero
 schede-di-dimissione-ospedaliera-tasso-standardizzato-di-ospedalizzazione-per-azienda-usl-di-re
+schede-iaas
 schede-informative-del-comune-di-trento
+schede-infrastruttura
+schede-paas
+schede-saas
 schede_di_catalogazione_di_opere_e_oggetti_di_arte_contemporanea___oac_3_00
 schede_di_catalogazione_di_reperti_archeologici___ra_3_00
 schutzhutten-in-sudtirol
@@ -36907,6 +37039,7 @@ scuole-del-lazio-partecipanti-al-programma-di-educazione-ambientale-gens2-0
 scuole-dell-infanzia-comunali-alunni-iscritti-anno-2012-2013
 scuole-dellinfanzia-paritarie-e-statali-della-lombardia
 scuole-di-italiano-per-stranieri-e-cpia
+scuole-di-ogni-ordine-e-grado
 scuole-di-sci
 scuole-di-sci-dellalto-adige
 scuole-dinfanzia
@@ -38520,6 +38653,7 @@ sezioni-elettorali-shp
 sezioni-elettorali1
 sezioni-elettorali11
 sezioni-elettorali2
+sezioni-elettorali3
 sezioni-primavera
 sezioni_censimento_1991
 sezioni_censimento_2001
@@ -38669,6 +38803,14 @@ sinistri-per-natura-incidente-2019
 sinistri-per-velocipedi-2015
 sinistri-per-via
 sinistri-per-via-2019
+sinistri-per-via-e-gravita-anno-2017
+sinistri-per-via-e-gravita-dal-2010-al-2016
+sinistri-per-via-e-numero-persone-coinvolte-per-gravita-anno-2017
+sinistri-per-via-e-numero-persone-coinvolte-per-gravita-dal-2010-al-2016
+sinistri-per-via-e-persone-coinvolte-anno-2017
+sinistri-per-via-e-persone-coinvolte-dal-2010-al-2016
+sinistri-per-via-e-tipo-di-veicoli-coinvolti-anno-2017
+sinistri-per-via-e-tipo-di-veicoli-coinvolti-dal-2010-al-2016
 sinistri-stradali-2016
 sinistri-stradali-rilevati-dalla-polizia-municipale-di-palermo-anno-2018
 sinistri-stradali-rilevati-nel-territorio-comunale-di-palermo-nellanno-2016-dalla-polizia-munic
@@ -38955,6 +39097,7 @@ sosta-riservata-bus-gt
 sosta-tariffata-su-strada-nel-territorio-di-roma-capitale
 sosta_centro_storico_anno_2015_bis
 sosta_centro_storico_anno_2016_1semestre
+soste-blu-area
 soste-disabili-zcs
 sostegno-a-traliccio-tralic-020207
 sostegno-economico-per-minori-riconosciuti-dalla-sola-madre-ex-baliatico
@@ -39383,6 +39526,7 @@ statistiche-popolazione-via-di-residenza
 statistiche-portale-istituzionale-comune-di-lecce-anno-2015
 statistiche-portale-istituzionale-comune-di-lecce-anno-2016
 statistiche-portale-istituzionale-comune-di-lecce-anno-2017
+statistiche-presenze-biblioteca-comune-di-latiano-anno-2017
 statistiche-protesti-levati-anno-2016
 statistiche-servizio-finanziario
 statistiche-stato-civile-per-anno-di-nascita
@@ -39862,6 +40006,7 @@ stradario-2019-citta-metropolitana-di-napoli
 stradario-abitazioni
 stradario-comunale
 stradario-comunale1
+stradario-comune-di-genova
 stradario-del-comune-di-calosso
 stradario-del-comune-di-lecce-con-quartieri-frazioni-e-borghi-di-appartenenza
 stradario-del-comune-di-palermo-marzo_2017
@@ -40499,13 +40644,18 @@ tassi-di-assenza-2016
 tassi-di-assenza-20161
 tassi-di-assenza-2017
 tassi-di-assenza-20171
+tassi-di-assenza-20172
 tassi-di-assenza-2018
 tassi-di-assenza-20181
+tassi-di-assenza-20182
 tassi-di-assenza-2019
 tassi-di-assenza-20191
+tassi-di-assenza-20192
 tassi-di-assenza-2020
 tassi-di-assenza-20201
+tassi-di-assenza-20202
 tassi-di-assenza-2021
+tassi-di-assenza-20211
 tassi-di-assenza-del-comune-di-campitello-di-fassa
 tassi-di-assenza-del-comune-di-carisolo
 tassi-di-assenza-del-comune-di-cavizzana
@@ -40586,6 +40736,7 @@ tasso-di-disoccupazione
 tasso-di-disoccupazione-15-24-anni
 tasso-di-disoccupazione-15-24-anni-per-sesso-nei-paesi-dell39ue-a-15-e-sinteticamente-2005-2012
 tasso-di-disoccupazione-15-64-anni
+tasso-di-disoccupazione-15-64-anni-grandi-comuni
 tasso-di-disoccupazione-15-64-per-sesso-nei-paesi-dell39ue-a-15-e-sinteticamente-nell-2005-2012
 tasso-di-disoccupazione-20-64-anni
 tasso-di-disoccupazione-di-lunga-durata-per-genere-nei-paesi-dell39ue-a-15-e-sintenti-2005-2012
@@ -40619,6 +40770,7 @@ tasso-di-inattivita-15-64-anni-per-anno-trimestre-e-classe-di-eta-valori-percent
 tasso-di-inattivita-15-64-anni-per-anno-trimestre-e-classe-di-eta-valori-percentuali-e-variazio1
 tasso-di-inattivita-15-64-anni-per-genere-anno-e-trimestre-valori-percentuali-e-variazioni-cong
 tasso-di-inattivita-15-64-anni-per-genere-anno-e-trimestre-valori-percentuali-e-variazioni-cong1
+tasso-di-inattivita-grandi-comuni
 tasso-di-incidentalita
 tasso-di-incidenza-scuola-superiore
 tasso-di-incidenza-universita
@@ -40659,6 +40811,7 @@ tasso-di-nuzialita1
 tasso-di-occupazione
 tasso-di-occupazione-15-24-anni
 tasso-di-occupazione-15-64-anni
+tasso-di-occupazione-15-64-anni-grandi-comuni
 tasso-di-occupazione-15-64-anni-per-sesso-nei-paesi-dell39ue-a-15-e-sinteticamente-ne-2005-2012
 tasso-di-occupazione-15-64-per-cittadinanza-e-sesso-nei-paesi-dell39ue-e-sinteticamen-2005-2012
 tasso-di-occupazione-20-64-anni
@@ -40772,6 +40925,7 @@ teatri-privati-gennaio-dicembre-2016
 teatri-privati-gennaio-settembre-2016
 teatri1
 teatri2
+telecamere-e-pannelli-messaggistica
 telefoni-del-comune-di-trento
 tematismi-numerici-tratti-dalle-carte-della-copertura-del-suolo-corine-land-cover-digitale-1996
 temi-puntuali-escursionistici-digitale-edizione-del-2008
@@ -41048,6 +41202,7 @@ toponomastica-della-ctr-sc-1-5000-ed-1990-2006
 toponomastica-e-numerazione-civica-archi-stradali
 toponomastica-e-numerazione-civica-numeri-civici
 toponomastica-gradara
+toponomastica-i-civici-e-le-strade-di-genova
 toponomastica-monteciccardo
 toponomastica-partecipata-della-val-di-farma
 toponomastica-vallefoglia
@@ -42314,6 +42469,7 @@ violazioni-al-codice-della-strada-2017
 violazioni-al-codice-della-strada-2018
 violazioni-al-codice-della-strada-2019
 visitatori-del-multiportale-servizi
+visitatori-musei
 visite-fiscali-2016
 visite-fiscali-2017
 visite-fiscali-2018
@@ -42500,6 +42656,7 @@ zone-a-parcheggio-open-data
 zone-a-particolare-rilevanza-urbanistica
 zone-a-protezione-speciale-zps-dgr-n-650-2012
 zone-a-rischio-sismico
+zone-a-traffico-limitato
 zone-allerta-395
 zone-altimetriche-costiere-dataset
 zone-archeologiche
@@ -42567,6 +42724,7 @@ zone-sismiche-d-g-r-962-2018
 zone-sottoposte-a-vincolo-idrogeologico
 zone-speciali-di-conservazione
 zone-statistiche
+zone-storiche-di-genova
 zone-territoriali-di-competenza-delle-strade-in-gestione-citta-metropolitana-di-firenze
 zone-traffico-limitato
 zone-traffico-limitato-ztl
