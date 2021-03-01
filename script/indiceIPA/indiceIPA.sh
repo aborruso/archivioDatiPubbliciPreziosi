@@ -18,5 +18,8 @@ while IFS=$'\t' read -r url file; do
 done <"$folder"/tmp.tsv
 
 if [ -f "$folder"/../../docs/"$nome"/amministrazioni.txt ]; then
+  # estrai righe in cui cod_amm inizia per "c_" e "des_amm" inizia per comune
+  # filtra i record con tipologia_istat=~"^Comuni
+  # rimuovi i consorzi
   mlr --tsv clean-whitespace then filter -S '(tolower($cod_amm)=~"^c_" || tolower($des_amm)=~"^comune") && ($tipologia_istat=~"^Comuni ") && (tolower($des_amm)!=~"^conso")' "$folder"/../../docs/"$nome"/amministrazioni.txt >"$folder"/../../docs/"$nome"/comuniIPA.csv
 fi
