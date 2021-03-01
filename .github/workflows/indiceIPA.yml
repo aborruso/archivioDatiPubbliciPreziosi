@@ -1,7 +1,7 @@
 name: crea archivio catalogo iPA
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '35 9 1 * 2'
