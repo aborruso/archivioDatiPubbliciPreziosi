@@ -17,9 +17,14 @@ while IFS=$'\t' read -r url file; do
   mlr -I --icsvlite --ifs "\t" --otsv sort -f cod_amm "$folder"/../../docs/"$nome"/"$file"
 done <"$folder"/tmp.tsv
 
+# estrai soltanto i comuni italiani. Purtroppo non c'è un criterio booleano per farlo
 if [ -f "$folder"/../../docs/"$nome"/amministrazioni.txt ]; then
-  # estrai righe in cui cod_amm inizia per "c_" e "des_amm" inizia per comune
-  # filtra i record con tipologia_istat=~"^Comuni
-  # rimuovi i consorzi
-  mlr --tsv clean-whitespace then filter -S '(tolower($cod_amm)=~"^c_" || tolower($des_amm)=~"^comune") && ($tipologia_istat=~"^Comuni ") && (tolower($des_amm)!=~"^conso")' "$folder"/../../docs/"$nome"/amministrazioni.txt >"$folder"/../../docs/"$nome"/comuniIPA.tsv
+  # - rimuovi per prima cosa eventuali spazi bianchi errati
+  # - estrai righe in cui cod_amm inizia per "c_" e "des_amm" inizia per "comune" (la gran parte sono comuni)
+  # - rimuovi tutto ciò che non è tipologia_istat=~"^Comuni "
+  # - rimuovi i consorzi, $des_amm)!=~"^conso"
+  mlr --tsv clean-whitespace then filter -S '
+  (tolower($cod_amm)=~"^c_" || tolower($des_amm)=~"^comune") &&
+  ($tipologia_istat=~"^Comuni ") && (tolower($des_amm)!=~"^conso")
+  ' "$folder"/../../docs/"$nome"/amministrazioni.txt >"$folder"/../../docs/"$nome"/comuniIPA.tsv
 fi
