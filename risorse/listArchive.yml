@@ -106,3 +106,9 @@
   nome: positiviRicoveriCovi19
   dataInserimento: 2020-11-03
   if_not_archived_within: 12h
+- titolo: "Elenco dei soggetti che hanno erogato finanziamenti o contributi di importo superiore, nell'anno, a euro 500 in favore di partiti e fondazioni"
+  fonte: "Sito del Parlamento italiano"
+  URL: "https://parlamento18.camera.it/199"
+  nome: erogazionePartiti
+  dataInserimento: 2021-03-11
+  if_not_archived_within: 15d
