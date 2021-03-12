@@ -44,4 +44,4 @@ while IFS=$'\t' read -r url time; do
 
 done <"$folder"/../risorse/listArchive.tsv
 
-mlr --j2t unsparsify then sort-within-records "$folder"/webarchiveLatest.log >"$folder"/webarchiveLatest.tsv
+mlr --j2t unsparsify "$folder"/webarchiveLatest.log >"$folder"/webarchiveLatest.tsv
