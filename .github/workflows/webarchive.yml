@@ -21,7 +21,7 @@ jobs:
         sudo pip install yq
     - name: lancia aggiornamento
       env:
-        SUPER_SECRET: ${{ secrets.WEBARCHIVE }}
+        SUPER_SECRET_WEBARCHIVE: ${{ secrets.WEBARCHIVE }}
       run: |-
         export PATH=$PATH:~/bin
         chmod +x ./script/webarchive.sh
