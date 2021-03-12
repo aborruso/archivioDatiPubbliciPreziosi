@@ -31,4 +31,4 @@ mlr -I --json sort-within-records "$folder"/rawdata/tmp.log
 
 mlr --j2t filter -S '$status=="error"' then cut -r -x -f ":" "$folder"/rawdata/tmp.log >"$folder"/rawdata/tmp_errori_id.tsv
 
-mlr --t2c join --ul -j job_id -f "$folder"/rawdata/tmp_errori_id.tsv then unsparsify "$folder"/webarchiveLatest.tsv >"$folder"/../docs/webarchive/report.csv
+#mlr --t2c join --ul -j job_id -f "$folder"/rawdata/tmp_errori_id.tsv then unsparsify "$folder"/../docs/webarchive/webarchiveLatest.tsv >"$folder"/../docs/webarchive/webarchiveJobReport.csv
