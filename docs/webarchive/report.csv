@@ -1,0 +1,3 @@
+job_id,duration_sec,message,status,status_ext,url
+81464d1d-cb43-4d53-aa1b-deaae136e059,5.585,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+33643122-dd2f-4df0-bc1e-557384530e41,28.744,,error,error:no-access,https://parlamento18.camera.it/199
