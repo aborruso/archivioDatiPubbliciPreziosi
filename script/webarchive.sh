@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+mkdir -p "$folder"/../docs/webarchive
+
 # se lo script è lanciato sulla mia macchina, leggi il file di config
 if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
   source "$folder"/../.config
@@ -45,3 +47,5 @@ while IFS=$'\t' read -r url time; do
 done <"$folder"/../risorse/listArchive.tsv
 
 mlr --j2t unsparsify "$folder"/webarchiveLatest.log >"$folder"/../docs/webarchive/webarchiveLatest.tsv
+
+bash "$folder"/webarchiveCheckJob.sh
