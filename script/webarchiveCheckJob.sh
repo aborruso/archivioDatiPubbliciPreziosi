@@ -15,7 +15,7 @@ if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
 fi
 
 # estrai tutti i job che hanno un ID e che non sono in wait perché già catturati
-mlr --json unsparsify then sort-within-records then filter -S '$job_id=~".+" && $message!=~"The same.+"' "$folder"/webarchiveLatest.log >"$folder"/rawdata/webarchiveCheckID.log
+mlr --t2j filter -S '$job_id=~".+" && $message!=~"The same.+"' "$folder"/../docs/webarchive/webarchiveLatest.tsv >"$folder"/rawdata/webarchiveCheckID.log
 
 if [ -f "$folder"/rawdata/tmp.log ]; then
   rm "$folder"/rawdata/tmp.log
@@ -31,4 +31,4 @@ mlr -I --json sort-within-records "$folder"/rawdata/tmp.log
 
 mlr --j2t filter -S '$status=="error"' then cut -r -x -f ":" "$folder"/rawdata/tmp.log >"$folder"/rawdata/tmp_errori_id.tsv
 
-#mlr --t2c join --ul -j job_id -f "$folder"/rawdata/tmp_errori_id.tsv then unsparsify "$folder"/../docs/webarchive/webarchiveLatest.tsv >"$folder"/../docs/webarchive/webarchiveJobReport.csv
+mlr --t2c join --ul -j job_id -f "$folder"/rawdata/tmp_errori_id.tsv then unsparsify "$folder"/../docs/webarchive/webarchiveLatest.tsv >"$folder"/../docs/webarchive/webarchiveJobReport.csv
