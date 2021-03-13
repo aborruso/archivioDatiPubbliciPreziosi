@@ -48,4 +48,8 @@ done <"$folder"/../risorse/listArchive.tsv
 
 mlr --j2t unsparsify "$folder"/webarchiveLatest.log >"$folder"/../docs/webarchive/webarchiveLatest.tsv
 
+# fai check errori
+
+sleep 30
+
 bash "$folder"/webarchiveCheckJob.sh
