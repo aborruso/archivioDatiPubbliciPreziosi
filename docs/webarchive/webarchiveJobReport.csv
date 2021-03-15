@@ -1,8 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-1c736160-caa0-4a0a-8287-62f55fc6ebc0,21.777,,error,error:no-access,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
-ff86829d-c9dd-4f23-9241-80320e24bc31,20.406,,error,error:no-access,https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page
-5c870e17-1ec3-4b3f-893d-a00b3d623970,21.161,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-911d5204-5452-4dfb-8a5f-25d1530b2a45,22.162,,error,error:no-access,https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2
-783784dd-f4ba-4c0b-8a95-58f570b7dbdb,4.71,,error,error:no-access,http://www.governo.it/it/coronavirus-normativa
-6353a19b-e1d9-4b1f-9cde-8f3b7ce1e456,20.741,,error,error:no-access,https://bit.ly/2Umw1EZ
-36a5e400-411b-40e9-a9ad-282b310c2395,20.639,,error,error:no-access,https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1
+72a9209c-40c6-4b48-8086-898b538b0a87,5.641,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+b3e2e7de-c53d-4199-9c89-2b93c1b89d1c,20.237,,error,error:no-access,https://bit.ly/2Umw1EZ
