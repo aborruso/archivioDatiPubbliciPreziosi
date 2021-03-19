@@ -1,2 +1,2 @@
-job_id,message,status,status_ext,url
-340bc4f6-24fa-4a02-8373-4c5c2c44fc84,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+job_id,duration_sec,message,status,status_ext,url
+adb7d784-a0e8-4aff-9118-20b20eb20775,5.648,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
