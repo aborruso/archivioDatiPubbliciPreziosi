@@ -7189,6 +7189,8 @@ c_i436_dataset_case-vacanze
 c_i436_dataset_chiese
 c_i436_dataset_concorsi_2019
 c_i436_dataset_concorsi_2020
+c_i436_dataset_concorsi_2021
+c_i436_dataset_eventi-culturali
 c_i436_dataset_monumenti
 c_i436_dataset_musei
 c_i436_dataset_strutture-ricettive-alberghiere
@@ -9764,6 +9766,7 @@ comune-di-agugliano-imprese-suap-tempi-medi-per-attivit
 comune-di-agugliano-interfaccia-con-i-cittadini-uffici-comunali-indirizzi
 comune-di-agugliano-interfaccia-con-i-cittadini-uffici-comunali-orari-di-apertura
 comune-di-agugliano-istruzione-e-formazione-scuole-comunali
+comune-di-agugliano-istruzione-e-formazione-scuole-private
 comune-di-agugliano-mensa-scolastica
 comune-di-agugliano-nati-per-anno
 comune-di-agugliano-numero-famiglie
@@ -11656,6 +11659,7 @@ comune-di-polverigi-imprese-suap-tempi-medi-per-attivit
 comune-di-polverigi-interfaccia-con-i-cittadini-uffici-comunali-indirizzi
 comune-di-polverigi-interfaccia-con-i-cittadini-uffici-comunali-orari-di-apertura
 comune-di-polverigi-istruzione-e-formazione-scuole-comunali
+comune-di-polverigi-istruzione-e-formazione-scuole-private
 comune-di-polverigi-mensa-scolastica
 comune-di-polverigi-nati-per-anno
 comune-di-polverigi-numero-famiglie
@@ -13461,6 +13465,7 @@ congestione-del-traffico
 congestione-del-traffico1
 coniugati-a-fine-anno
 coniugati-a-fine-anno1
+connessioni_per_dispositivo_al_wi_fi_pubblico_di_mira_2020
 connessioni_wi_fi_comune_di_treviso_anno_2019
 connessioni_wi_fi_comune_di_treviso_anno_2020
 connessioni_wifi_comune_di_treviso_per_ricevitore_anno_2016
@@ -13668,6 +13673,7 @@ consumi_carburanti_2017
 consumi_carburanti_2018
 consumi_di_energia_2015_scuole_del_comune_di_treviso
 consumi_elettrici_edifici_comunali_2016_2018
+consumi_elettrici_per_illuminazione_pubblica_nel_comune_di_vicenza_dati_2013_2019
 consumi_energetici_dell_ente
 consumi_energetici_stagione_invernale_2014_2015_complesso_scolastico
 consumi_energetici_stagione_invernale_2015_2016__c_a__dalla_chiesa_e_m_l__alessi
@@ -17876,7 +17882,7 @@ elenco-dei-distretti-del-commercio-della-lombardia-con-dettaglio-comuni-apparten
 elenco-dei-distretti-del-commercio-della-lombardia-forma-aggregata
 elenco-dei-distributori-carburante-con-turni-e-relative-date-anno-2015-del-comune-di-matera
 elenco-dei-gestori-di-servizi-di-trasporto-pubblico-locale-regionale-operativi-e-suddivisi-per-1
-elenco-dei-medici-di-medicina-generale-e-pediatri-di-libera-scelta-con-codice-regionale2
+elenco-dei-medici-di-medicina-generale-e-pediatri-di-libera-scelta-con-codice-regionale3
 elenco-dei-musei-del-lazio
 elenco-dei-nodi-fermata-presenti-in-ogni-comune-della-regione-suddivisi-per-comune-provincia1
 elenco-dei-progetti-e-dei-lavori-in-corso
@@ -19147,6 +19153,7 @@ energia-impianti-idroelettrici-aggiornamento-2018
 energia-termica-utile
 energia-termica-utile-ottobre2014-aprile2017
 energia_elettrica_da_fonti_rinnovabili
+energia_prodotta_da_impianti_fotovoltaici_dell_amministrazione_comunale_2009_2019
 energie_rinnovabili_comune_di_treviso_anno_2016
 energies_renouvelables__lectriques_raccord_es_au_r_seau_par_commune
 energymonitor
@@ -21687,6 +21694,9 @@ imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca
 imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2015
 imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2016
 imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2017
+imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2018
+imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2019
+imprese-artigiane-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2020
 imprese-attive
 imprese-attive-con-sede-nel-comune-di-firenze-per-sezione-di-attivita-economica
 imprese-attive-con-sede-nel-comune-di-firenze-per-sottosezione-di-attivita-economica
@@ -21943,6 +21953,9 @@ imprese-per-sezione-di-attivita-dal-20095
 imprese-produttive
 imprese-registrate-attive-iscritte-e-cessate
 imprese-registrate-attive-iscritte-e-cessate-dati-trimestrali
+imprese-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2018
+imprese-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2019
+imprese-registrate-e-attive-iscrizioni-e-cessazioni-provincia-di-lucca-anno-2020
 imprese-straniere-registrate-attive-iscritte-e-cessate
 imprese-straniere-registrate-attive-iscritte-e-cessate-dati-trimestrali
 imprese-titolari-di-licenza-di-trasporto-aereo
@@ -23214,6 +23227,7 @@ innovationlab_digiti_mo_popolazione_residente_per_area_di_circolazione_nei_comun
 innovationlab_digiti_mo_popolazione_scolastica_per_ciclo_d_istruzione_nei_comuni_aderenti_al_pr
 innovationlab_void_registro_apr_musile_di_piave_dal_1_gennaio_2000
 innovationlab_void_registro_apr_san_don_di_piave_dal_1_gennaio_2000_2531
+innovationlab_void_registro_dei_deceduti_a_musile_di_piave_dal_1_gennaio_2000
 innovationlab_void_registro_dei_deceduti_a_san_don_di_piave_dal_1_gennaio_2000
 innovazioni-realizzate-nel-psr-2007-2013
 inondations_de_l_hiver_2000_2001_sur_les_pays_de_la_loire
@@ -30420,6 +30434,7 @@ piano-zonizzazione-acustica
 piano_degli_interventi
 piano_di_tutela_delle_acque___aree_idrogeologicamente_separate_del_sistema_acquifero_superficia
 piano_di_volo_delle_foto_dei_centri_matrice__pictometry_
+piano_esercizio_invernale_trasporto_pubblico_urbano
 piano_operativo
 piano_operativo_linee
 piano_operativo_poligoni
@@ -37245,6 +37260,7 @@ sedute-di-consiglio-del-comune-di-volano
 sedute-di-consiglio-del-comune-di-zambana
 sedute-di-consiglio-del-comunita-valsugana-e-tesino
 seggielettorali
+segnalazione_tramite_app_nel_comune_di_mira_secondo_semestre_2020
 segnalazione_tramite_app_primo_semestre_2020
 segnalazioni
 segnalazioni-aggiornate-da-terremotocentroitalia
@@ -41753,6 +41769,7 @@ unione-terra-dei-castelli-imprese-suap-tempi-medi-per-attivit
 unione-terra-dei-castelli-interfaccia-con-i-cittadini-uffici-comunali-indirizzi
 unione-terra-dei-castelli-interfaccia-con-i-cittadini-uffici-comunali-orari-di-apertura
 unione-terra-dei-castelli-istruzione-e-formazione-scuole-comunali
+unione-terra-dei-castelli-istruzione-e-formazione-scuole-private
 unione-terra-dei-castelli-mensa-scolastica
 unione-terra-dei-castelli-nati-per-anno
 unione-terra-dei-castelli-partecipazione-elezioni-amministrative-affluenza
