@@ -1,5 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-1c43e3bf-0ed1-4e23-83ce-adf1f66fc0c1,4.881,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-0ee1945a-6723-4e78-a4a8-58eb0649a61b,1.666,,error,error:job-failed,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
-8d6b7bec-2d17-41d6-ab57-82a43b21fadd,6.133,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-34498e8c-818a-4980-ae51-e14e06b4c8ff,0.907,,error,error:job-failed,http://www.governo.it/it/coronavirus-normativa
+64a68360-226a-4333-9259-114c75655eef,5.652,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
