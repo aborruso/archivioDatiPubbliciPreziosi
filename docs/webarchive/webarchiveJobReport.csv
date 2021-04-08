@@ -1,3 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-52b67551-d97d-4bb5-9844-e4e7539edcda,5.426,,,,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-db3d89ca-7808-4c9f-8507-6e90f3cf5d2f,5.706,,,,https://www.cciss.it/web/cciss/database-rds-tmc
+527b79f2-5a3e-409c-994d-057753a4b1b7,4.918,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+f70a62db-53ab-4d2a-b71c-721113ac91eb,6.149,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
