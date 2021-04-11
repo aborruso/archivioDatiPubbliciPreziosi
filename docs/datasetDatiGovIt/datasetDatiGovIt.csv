@@ -1631,6 +1631,7 @@ accessori
 accidentalit__sur_la_ville_de_martigues
 acclivita-7-classi-sc-1-10000-ed-2013
 acclivita-7-classi-sc-1-10000-ed-2017
+accompagnatori-turistici-provincia-di-brescia
 acconciatori-e-estetisti-al-31-12-2014
 accordi-del-comun-general-de-fascia
 accordi-del-comune-di-aldeno
@@ -6928,6 +6929,7 @@ c_c704_dataset_aree-sosta-camper
 c_c704_dataset_bandi-di-gara_2019
 c_c704_dataset_bandi-di-gara_2020
 c_c704_dataset_biblioteche
+c_c704_dataset_case-vacanze
 c_c704_dataset_chiese
 c_c704_dataset_concorsi_2019
 c_c704_dataset_concorsi_2020
@@ -11548,6 +11550,7 @@ comune-di-montemarciano-anagrafica-societa
 comune-di-montemarciano-calendario-agonistici
 comune-di-montemarciano-calendario-eventi-sportivi
 comune-di-montemarciano-discipline-praticate
+comune-di-montemarciano-eventi-demografici
 comune-di-montemarciano-praticanti-sport
 comune-di-montemarciano-suap-accadimenti
 comune-di-montemarciano-suap-accadimenti-2018
@@ -11992,12 +11995,15 @@ comune-di-pergola-suap-tempi
 comune-di-pergola-suap-tempi-2018
 comune-di-pergola-suap-tempi-2020
 comune-di-pergola-suap-tempi-2021
+comune-di-pergola-sue-classificazione
 comune-di-pergola-sue-classificazione-2018
 comune-di-pergola-sue-classificazione-2020
 comune-di-pergola-sue-classificazione-2021
+comune-di-pergola-sue-eventi
 comune-di-pergola-sue-eventi-2018
 comune-di-pergola-sue-eventi-2020
 comune-di-pergola-sue-eventi-2021
+comune-di-pergola-sue-nazionalita
 comune-di-pergola-sue-nazionalita-2018
 comune-di-pergola-sue-nazionalita-2020
 comune-di-pergola-sue-nazionalita-2021
@@ -12094,6 +12100,7 @@ comune-di-polverigi-popolazione-e-societ-cittadini-italiani
 comune-di-polverigi-popolazione-e-societ-cittadini-stranieri
 comune-di-polverigi-popolazione-e-societ-studenti
 comune-di-polverigi-pubblicazioni-albo-anno-2021
+comune-di-polverigi-scuolabus
 comune-di-polverigi-servizi-sociali-associazioni-di-volontariato
 comune-di-polverigi-servizi-sociali-contatti-allo-sportello-sociale
 comune-di-polverigi-servizi-sociali-operatori
@@ -12271,10 +12278,25 @@ comune-di-san-benedetto-del-tronto-praticanti-sport
 comune-di-san-benedetto-del-tronto-prg
 comune-di-san-benedetto-del-tronto-punti-interesse
 comune-di-san-benedetto-del-tronto-suap-accadimenti
+comune-di-san-benedetto-del-tronto-suap-accadimenti-2018
+comune-di-san-benedetto-del-tronto-suap-accadimenti-2020
+comune-di-san-benedetto-del-tronto-suap-accadimenti-2021
 comune-di-san-benedetto-del-tronto-suap-classificazione
+comune-di-san-benedetto-del-tronto-suap-classificazione-2018
+comune-di-san-benedetto-del-tronto-suap-classificazione-2020
+comune-di-san-benedetto-del-tronto-suap-classificazione-2021
 comune-di-san-benedetto-del-tronto-suap-eventi
+comune-di-san-benedetto-del-tronto-suap-eventi-2018
+comune-di-san-benedetto-del-tronto-suap-eventi-2020
+comune-di-san-benedetto-del-tronto-suap-eventi-2021
 comune-di-san-benedetto-del-tronto-suap-nazionalita
+comune-di-san-benedetto-del-tronto-suap-nazionalita-2018
+comune-di-san-benedetto-del-tronto-suap-nazionalita-2020
+comune-di-san-benedetto-del-tronto-suap-nazionalita-2021
 comune-di-san-benedetto-del-tronto-suap-tempi
+comune-di-san-benedetto-del-tronto-suap-tempi-2018
+comune-di-san-benedetto-del-tronto-suap-tempi-2020
+comune-di-san-benedetto-del-tronto-suap-tempi-2021
 comune-di-san-benedetto-del-tronto-turismo
 comune-di-san-colombano-certenoli-p-r-g-d-p-g-r-n-194-1999
 comune-di-san-costanzo-anagrafe_decessi_anno
@@ -18535,7 +18557,7 @@ elenco-pagamenti-misura-311-diversificazione-in-attivita-non-agricole
 elenco-panificatori
 elenco-parafarmacie
 elenco-parafarmacie1
-elenco-parcheggi-zona-stazione-chieri
+elenco-parcheggi-zona-stazione-chieri1
 elenco-particelle-percorse-dal-fuoco-anni-2004-2017
 elenco-particelle-vincolate-aree-di-rispetto-dei-pozzi-artesiani
 elenco-patrimonio-indisponibile
@@ -18630,7 +18652,7 @@ elenco-societa-partecipate-direttamente-da-regione-lombardia-ex-art-22-d-lgs-33-
 elenco-soggetti-accreditati-per-le-attivita-formative
 elenco-soggetti-proponenti-bando-delle-idee-anno-2013-2014
 elenco-sportello-unico-attivita-produttive-edilizia-suape
-elenco-stalli-disabili-comune-di-chieri
+elenco-stalli-disabili-comune-di-chieri1
 elenco-stato-di-avanzamento-del-progetto-data-base-topografico-dbt
 elenco-stazioni-monta-naturale-equina-autorizzate
 elenco-strade-e-numeri-civici
@@ -20800,6 +20822,8 @@ famiglie_monocomponente_per_classi_di_eta_centro_storico_2017
 famiglie_nel_comune_di_treviso_censimento_1901_1911_1921
 famiglie_per_nazionalit_2015_
 famiglie_per_numero_componenti
+famiglie_per_numero_componenti_quartiere_frazione_al_31_12_2018
+famiglie_per_numero_componenti_quartiere_frazione_al_31_12_2019
 famiglie_per_numero_di_componenti
 famiglie_per_numero_di_componenti_2015_
 famiglie_per_numero_di_componenti_centro_storico_anno_2019
@@ -20901,6 +20925,10 @@ fasce-omogenee-per-lapplicazione-dei-valori-i-m-u
 fasce-reddito-complessivo
 fasce-reddito-servizio-mensa
 fasce_altimetriche
+fasce_di_et_in_ordine_di_stato_civile_comune_di_villadose_aggiornamento_al_31_12_2017
+fasce_di_et_in_ordine_di_stato_civile_comune_di_villadose_aggiornamento_al_31_12_2018
+fasce_di_et_in_ordine_di_stato_civile_comune_di_villadose_aggiornamento_al_31_12_2019
+fasce_di_et_in_ordine_di_stato_civile_comune_di_villadose_aggiornamento_al_31_12_2020
 fasce_di_rischio
 fasce_fluviali_varianti
 fascia-costiera
@@ -22040,6 +22068,7 @@ horto_hr__orthophotograhie_haute_r_solution____corse
 hospital-beds-by-nuts-2-regions
 hot-spot-lecce-wireless
 hotel1
+hotspot-provincia-di-brescia
 hotspot-umbriawifi-2017
 hotspot-wifi
 hotspot_wifi_della_sardegna
@@ -24565,6 +24594,7 @@ iscritti-uniba-scuole-di-specializzazione
 iscritti-unibas-per-provincia-comune-di-residenza-e-corso-di-studio
 iscritti-unibas-per-tipologia-di-corso
 iscritti-unibas-per-tipologia-di-corso-e-corso-di-studio
+iscritti_istituti_scolastici
 iscritti_scuole_anno_scolastico_2011_2012
 iscrizione_asili_nido_gennaio_aprile_2019
 iscrizione_asili_nido_spazi_gioco_gennaio_aprile_2019
@@ -27227,6 +27257,8 @@ modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-02-26-ore-12-utc
@@ -27235,6 +27267,8 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-02-26-ore-12-utc
@@ -27243,6 +27277,8 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-02-26-ore-12-utc
@@ -27251,6 +27287,8 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-02-26-ore-12-utc
@@ -27259,6 +27297,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-03-31-ore-12-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-02-26-ore-12-utc
@@ -27267,6 +27307,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-03-31-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-02-26-ore-12-utc
@@ -27275,6 +27317,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-03-31-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-18-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-19-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-26-ore-12-u
@@ -27283,6 +27327,8 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-04-01-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-04-02-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-04-03-ore-00-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-04-09-ore-12-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-04-10-ore-00-u
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-02-26-ore-12-utc
@@ -27291,6 +27337,8 @@ modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2021-02-26-ore-12-utc
@@ -27299,6 +27347,8 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2020-02-04-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-02-19-ore-00-utc
@@ -27308,6 +27358,8 @@ modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-26-ore-12-utc
@@ -27316,22 +27368,28 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-13
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-3b
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-52
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-6c
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-93
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-e0
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f5
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f7
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f9
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-fc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-01
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-12
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-4d
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-5d
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-70
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-ae
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-c0
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-d3
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-db
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-dd
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-02-26-ore-12-utc
@@ -27340,6 +27398,8 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-26-ore-12-utc
@@ -27348,6 +27408,8 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2020-03-07-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-02-19-ore-00-utc
@@ -27357,6 +27419,8 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-26-ore-12-utc
@@ -27365,6 +27429,8 @@ modello-wrf-arw-a-3km-temperatura-c-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-c-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-02-26-ore-12-utc
@@ -27373,6 +27439,8 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-02-26-ore-12-utc
@@ -27381,6 +27449,8 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2021-02-26-ore-12-utc
@@ -27389,6 +27459,8 @@ modello-wrf-arw-a-3km-topografia-m-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-topografia-m-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-26-ore-12-utc
@@ -27397,6 +27469,8 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-02-26-ore-12-utc
@@ -27405,6 +27479,8 @@ modello-wrf-arw-a-3km-umidita-relativa-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-26-ore-12-utc
@@ -27413,6 +27489,8 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-02-26-ore-12-utc
@@ -27421,6 +27499,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-03-31-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-02-26-ore-12-utc
@@ -27429,6 +27509,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2021-04-10-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-02-26-ore-12-utc
@@ -27437,6 +27519,8 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2021-03-31-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-04-01-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-04-02-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-04-03-ore-00-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2021-04-09-ore-12-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2021-04-10-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-02-18-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-02-19-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-02-26-ore-12-utc
@@ -27444,6 +27528,8 @@ modello-ww3-a-10km-average-wave-direction-deg-2021-02-27-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-03-31-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-04-01-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-04-03-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2021-04-09-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2021-04-10-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2021-02-18-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2021-02-19-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2021-02-26-ore-12-utc
@@ -27451,6 +27537,8 @@ modello-ww3-a-10km-average-wave-period-sec-2021-02-27-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2021-03-31-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2021-04-01-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2021-04-03-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2021-04-09-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2021-04-10-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-02-18-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-02-19-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-02-26-ore-12-utc
@@ -27458,6 +27546,8 @@ modello-ww3-a-10km-significant-wave-height-m-2021-02-27-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-03-31-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-04-01-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-04-03-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2021-04-09-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2021-04-10-ore-00-utc
 modello_digitale_del_terreno__dtm__passo_1_m
 modello_digitale_del_terreno__dtm__passo_5_m
 modello_digitale_del_terreno_da_ctrn_1_10000__passo_10_m____storico
@@ -31820,6 +31910,7 @@ piste-ciclabili-anni-2008-2013
 piste-ciclabili-del-comune-di-lecce
 piste-ciclabili-open-data
 piste-ciclabili-per-quartiere
+piste-ciclabili-provincia-di-brescia
 piste-ciclabili1
 piste-ciclabili11
 piste-ciclabili2
@@ -31933,9 +32024,11 @@ polis-lombardia-comitato-tecnico-scientifico-anno-2020
 polis-lombardia-costi-del-personale-non-a-tempo-indeterminato-anno-2018
 polis-lombardia-costi-del-personale-non-a-tempo-indeterminato-anno-2019
 polis-lombardia-costi-del-personale-non-a-tempo-indeterminato-anno-2020
+polis-lombardia-costi-del-personale-non-a-tempo-indeterminato-anno-2021
 polis-lombardia-dati-sui-pagamenti-i-trimestre-2018
 polis-lombardia-dati-sui-pagamenti-i-trimestre-2019
 polis-lombardia-dati-sui-pagamenti-i-trimestre-2020
+polis-lombardia-dati-sui-pagamenti-i-trimestre-2021
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2018
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2019
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2020
@@ -31948,9 +32041,11 @@ polis-lombardia-dati-sui-pagamenti-iv-trimestre-2020
 polis-lombardia-dirigenti-cessati
 polis-lombardia-incarichi-conferiti-e-autorizzati-ai-dipendentidirigenti-e-non-dirigenti
 polis-lombardia-indicatore-trim_annuale-debiti_imprese-creditrici-2019
+polis-lombardia-indicatori-di-tempestivita-dei-pagamenti-anno-2021
 polis-lombardia-indicatori-tempestivita-dei-pagamenti-anno-2019
 polis-lombardia-indicatori-tempestivita-pagamenti-anno-2018
 polis-lombardia-lombardia-indicatore-trim_annuale-debiti_imprese-creditrici-2020
+polis-lombardia-lombardia-indicatore-trim_annuale-debiti_imprese-creditrici-2021
 polis-lombardia-lombardia-indicatori-tempestivita-dei-pagamenti-anno-2020
 polis-lombardia-lombardia-titolari-di-incarichi-dirigenziali-amministrativi-di-vertice-dir-2019
 polis-lombardia-lombardia-titolari-di-incarichi-dirigenziali-amministrativi-di-vertice-dir-2020
@@ -34591,7 +34686,6 @@ provincia-di-firenze-permessi-di-soggiorno-validi-per-popolazione-femminile-e-ri
 provincia-di-firenze-permessi-di-soggiorno-validi-per-popolazione-femminile-ripartizion-12-2009
 provincia-di-firenze-permessi-di-soggiorno-validi-per-popolazione-femminile-tipologia-e-12-2009
 provincia-di-firenze-tassi-di-per-forma-giuridica
-provincia-di-lecco-centri-revisione-auto
 provincia-di-lecco-elenco-canoni-di-locazione
 provincia-di-lecco-elenco-immobili-di-proprieta
 provincia-di-lecco-elenco-provvedimenti-dei-dirigenti
@@ -34605,6 +34699,7 @@ provincia-di-lecco-mappa-strutture-ricettive-alberghiere-e-extra-alberghiere
 provincia-di-lecco-parcheggi-per-camper-e-aree-camper
 provincia-di-lecco-provvedimenti-degli-organi-di-indirizzo-politico
 provincia-lecco-autoscuole
+provincia-lecco-centri-revisione-auto
 provincia-lecco-iscritti-negli-istituti-e-nei-c-f-p
 provincia-lecco-mappa-shapefile-piste-ciclabili
 provincia-lecco-shapefile-piste-ciclabili
@@ -38381,6 +38476,7 @@ scolarizzazione-nelle-scuole-dellinfanzia-primarie-e-secondarie-di-1-grado-2015-
 screening
 scritta-cartografica-scr_cr-080201-linee
 scrutatori_marzo_2016
+scuola-dell-infanzia-3-5-anni-toscana
 scuola-dinfanzia-tipologia-numero-di-classi-e-alunni
 scuola-primaria-tipologia-numero-di-classi-e-alunni
 scuolainfanzia
@@ -41260,6 +41356,7 @@ stato_chimico_dei_laghi_nel_periodo_2010_2013
 stato_chimico_dei_laghi_nel_periodo_2010_2015
 stato_chimico_delle_acque_marino_costiere
 stato_chimico_delle_acque_marino_costiere1
+stato_civile_fasce_di_eta_
 stato_ecologico_dei_laghi_sel
 stato_ecologico_delle_acque_di_transizione_ai_sensi_del_d_lgs_152_06
 stato_ecologico_delle_acque_marino_costiere
@@ -44194,8 +44291,8 @@ vigneto-in-sicilia
 viii-censimento-industria-e-servizi
 viii-censimento-industria-e-servizi-imprese-e-addetti-per-classe-di-addetti
 viii-censimento-industria-e-servizi-imprese-e-addetti-per-forma-giurdica
-villa-monastero-censimento-arboreo
-villa-monastero-censimento-arbustivo
+villa-monastero-censimento-arboreo1
+villa-monastero-censimento-arbustivo1
 villa-monastero-ingressi
 villa-monastero-matrimoni-civili-e-cerimonie-simboliche
 villa-monastero-mostre-ed-eventi
