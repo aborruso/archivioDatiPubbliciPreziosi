@@ -1,20 +1,20 @@
-job_id	url	message
-2ed0765f-5eb6-416a-ad94-93946eac8c93	https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti	
-a5ea0115-970f-4b8b-afdc-9b734bd5b790	https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page	The same snapshot had been made 8642 minutes and 28 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-3c1733dc-54c8-4fda-a6aa-98488e0513de	https://anagrafe.iccu.sbn.it/it/open-data	The same snapshot had been made 8638 minutes and 51 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-81feae97-adc0-4be3-82e0-b48ab7b5534d	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260	
-da66251b-58ed-4fbd-be23-f13eb38d3885	https://developers.italia.it/it/api	The same snapshot had been made 1441 minutes and 25 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-f1839fd9-6c0f-4be1-8ec5-6cb549897327	http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html	The same snapshot had been made 1439 minutes and 53 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-ad3f2659-9914-4639-aded-43bbca586f10	https://www.anpr.interno.it/portale/tabelle-di-riferimento	The same snapshot had been made 1439 minutes and 27 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-d52f3acb-e990-4111-9541-01ec7f72b964	https://www.cciss.it/web/cciss/database-rds-tmc	The same snapshot had been made 5759 minutes and 8 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-d36ce901-9e50-4877-9f7f-718d3186872c	https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md	The same snapshot had been made 75 minutes and 17 seconds ago. We only allow new captures of the same URL every 1440 minutes.
-0893266b-386c-4430-b29e-f1bcf1812dc5	https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php	The same snapshot had been made 1435 minutes and 35 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-72cb9542-dd35-43fc-8bcc-81f7c29af3ee	https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa	The same snapshot had been made 1432 minutes and 44 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-6a7af207-f009-4a53-8a39-5c93c4d1670e	https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni	
-5aa16b7f-a1e0-4640-8d5f-b3fcbfc23e90	https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune	
-1e3d2ea6-ec12-4dc4-9510-daad13a15957	https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati	
-7df64dc5-e22f-4e22-ab08-555c3cfb23ee	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2	
-53551527-e3c2-4c3a-8319-5e9e64ac74f2	http://www.governo.it/it/coronavirus-normativa	
-cf8669b4-2325-4bbd-b3d9-2658da5027ba	https://bit.ly/2Umw1EZ	
-9e88462a-2f25-467a-8033-042852c49bae	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1	
-2c3f9d7c-3338-4014-bce3-d6a3640fa736	https://parlamento18.camera.it/199	The same snapshot had been made 1435 minutes and 26 seconds ago. We only allow new captures of the same URL every 21600 minutes.
+job_id	url	status	message	status_ext
+ab93939f-de35-4328-9701-c751b93dabe9	https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti			
+6baaa243-373b-4f60-b7b5-9b4676df6713	https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page			
+4162c606-ef23-4d8f-80dc-91f74049c1ce	https://anagrafe.iccu.sbn.it/it/open-data			
+f684c2a3-a3b4-4bd8-a706-b78cf05cafc7	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260			
+		error	Cannot resolve host developers.italia.it.	error:invalid-host-resolution
+f1839fd9-6c0f-4be1-8ec5-6cb549897327	http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html		The same snapshot had been made 4320 minutes and 14 seconds ago. We only allow new captures of the same URL every 10079 minutes.	
+ad3f2659-9914-4639-aded-43bbca586f10	https://www.anpr.interno.it/portale/tabelle-di-riferimento		The same snapshot had been made 4319 minutes and 48 seconds ago. We only allow new captures of the same URL every 10079 minutes.	
+d52f3acb-e990-4111-9541-01ec7f72b964	https://www.cciss.it/web/cciss/database-rds-tmc		The same snapshot had been made 8639 minutes and 29 seconds ago. We only allow new captures of the same URL every 10079 minutes.	
+57999183-9d02-47a1-88f9-a9a842bacf38	https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md		The same snapshot had been made 78 minutes and 23 seconds ago. We only allow new captures of the same URL every 1440 minutes.	
+0893266b-386c-4430-b29e-f1bcf1812dc5	https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php		The same snapshot had been made 4315 minutes and 56 seconds ago. We only allow new captures of the same URL every 10079 minutes.	
+72cb9542-dd35-43fc-8bcc-81f7c29af3ee	https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa		The same snapshot had been made 4313 minutes and 5 seconds ago. We only allow new captures of the same URL every 10079 minutes.	
+6a7af207-f009-4a53-8a39-5c93c4d1670e	https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni		The same snapshot had been made 2879 minutes and 52 seconds ago. We only allow new captures of the same URL every 10079 minutes.	
+387b3237-3617-438e-bb2d-daea77e6f27b	https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune			
+1e695109-17d4-467d-85f4-1dfb72da7ff6	https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati			
+0499d7a5-2935-4a49-afa7-26aca47db26b	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2			
+2e6421e5-4d44-43ce-a9dc-040b8d91b008	http://www.governo.it/it/coronavirus-normativa			
+b1481d1d-c96f-4332-938d-d7d0dec9098e	https://bit.ly/2Umw1EZ			
+spn2-abb5120976e72196664341e6f4b2dbe03327559c	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1		The same snapshot had been made 4 minutes and 50 seconds ago. We only allow new captures of the same URL every 720 minutes.	
+2c3f9d7c-3338-4014-bce3-d6a3640fa736	https://parlamento18.camera.it/199		The same snapshot had been made 4312 minutes and 49 seconds ago. We only allow new captures of the same URL every 21600 minutes.	
