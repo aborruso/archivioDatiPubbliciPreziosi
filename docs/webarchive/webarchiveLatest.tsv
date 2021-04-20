@@ -1,20 +1,20 @@
-url	job_id	message
-https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti	d8255b21-3fcb-4f68-b264-d71206745e84	
-https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page	6baaa243-373b-4f60-b7b5-9b4676df6713	The same snapshot had been made 2877 minutes and 39 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://anagrafe.iccu.sbn.it/it/open-data	4162c606-ef23-4d8f-80dc-91f74049c1ce	The same snapshot had been made 2877 minutes and 0 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260	4a6c67db-0e17-4b7c-93aa-9cae7700af13	
-https://developers.italia.it/it/api	da66251b-58ed-4fbd-be23-f13eb38d3885	The same snapshot had been made 7200 minutes and 57 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html	f1839fd9-6c0f-4be1-8ec5-6cb549897327	The same snapshot had been made 7199 minutes and 25 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.anpr.interno.it/portale/tabelle-di-riferimento	ad3f2659-9914-4639-aded-43bbca586f10	The same snapshot had been made 7199 minutes and 0 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.cciss.it/web/cciss/database-rds-tmc	cb8d74ca-eb7e-4f8a-bde0-1e0da9cb0521	
-https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md	29619772-4bf6-4b44-8088-2be278f18565	The same snapshot had been made 75 minutes and 29 seconds ago. We only allow new captures of the same URL every 1440 minutes.
-https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php	0893266b-386c-4430-b29e-f1bcf1812dc5	The same snapshot had been made 7195 minutes and 8 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa	72cb9542-dd35-43fc-8bcc-81f7c29af3ee	The same snapshot had been made 7195 minutes and 28 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni	6a7af207-f009-4a53-8a39-5c93c4d1670e	The same snapshot had been made 5762 minutes and 15 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune	2c93b799-e85b-496a-94df-36c8082fb31a	
-https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati	f30b70af-b340-4bf4-ba05-fed129503610	
-https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2	9d78104b-8c41-4c07-9855-e0a3748710a2	
-http://www.governo.it/it/coronavirus-normativa	804a8dfe-cab0-40f8-9bfe-b0852c3cdf9f	
-https://bit.ly/2Umw1EZ	92485547-b608-4c00-b220-40cb88b66a32	
-https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1	spn2-abb5120976e72196664341e6f4b2dbe03327559c	The same snapshot had been made 4 minutes and 10 seconds ago. We only allow new captures of the same URL every 720 minutes.
-https://parlamento18.camera.it/199	2c3f9d7c-3338-4014-bce3-d6a3640fa736	The same snapshot had been made 7193 minutes and 49 seconds ago. We only allow new captures of the same URL every 21600 minutes.
+job_id	url
+66a6590f-b55b-4c64-a994-77b00e230553	https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+910c68c2-5f7f-48a2-b809-d18ee9b5194a	https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page
+25df0f40-6fa3-4b0e-8c82-bd1430fb762b	https://anagrafe.iccu.sbn.it/it/open-data
+7c9ca2ae-8a92-49f3-b87f-7293015f0a12	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+b2d0e098-d4bd-41bf-90a9-db57af866493	https://developers.italia.it/it/api
+e3df563e-7448-4a8d-9cf1-413b1b99d7e4	http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
+41c6088d-1852-4896-98ea-3c9d7605d90b	https://www.anpr.interno.it/portale/tabelle-di-riferimento
+fe47499a-b095-4f2e-9299-2be0a86e71d3	https://www.cciss.it/web/cciss/database-rds-tmc
+c64a3221-5338-4fe7-acc6-85a09113729e	https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
+5b457d23-5541-4fcb-9181-02e797f21334	https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
+ed03a609-a398-4303-8097-05cac379dae2	https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa
+c5f170f9-0af8-4956-aa98-221561850ad8	https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
+938fe7e9-a79d-4ac9-a385-27eb8ec4b49d	https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+bcbc78be-e2e3-461f-be62-9da4ad1c7ffc	https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+f820899e-048e-4393-90b3-94ffebd120d9	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2
+77f3e2c1-f129-46fa-b9c2-f700b5dfcfb7	http://www.governo.it/it/coronavirus-normativa
+87a0e712-6ade-4835-9ce3-d755eefcae0b	https://bit.ly/2Umw1EZ
+8befbc42-bc42-43cc-a5ac-9851e75d6c99	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1
+5b8e40cd-1113-4190-b93a-3188955f303c	https://parlamento18.camera.it/199
