@@ -1,4 +1,5 @@
 job_id,duration_sec,message,status,status_ext,url
-f0a1eaa3-eddb-4358-94c7-9f271f94d71f,5.534,Live page is not available: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-f7e83315-4cc3-4fa3-8b86-709ca9af3a30,5.751,Live page is not available: https://www.cciss.it/web/cciss/database-rds-tmc,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
-340dcd53-6ad8-4bb0-897a-220f650eab04,4.596,Live page is not available: https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune,error,error:no-access,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+7c9ca2ae-8a92-49f3-b87f-7293015f0a12,5.353,Live page is not available: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+fe47499a-b095-4f2e-9299-2be0a86e71d3,5.192,Live page is not available: https://www.cciss.it/web/cciss/database-rds-tmc,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
+938fe7e9-a79d-4ac9-a385-27eb8ec4b49d,29.025,Live page is not available: https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune,error,error:no-access,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+bcbc78be-e2e3-461f-be62-9da4ad1c7ffc,5.963,Live page is not available: https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
