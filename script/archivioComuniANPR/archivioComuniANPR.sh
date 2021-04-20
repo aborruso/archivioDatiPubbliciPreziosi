@@ -8,7 +8,7 @@ mkdir -p "$folder"/rawdata
 
 nome="archivioComuniANPR"
 
-URL="https://www.anpr.interno.it/portale/documents/20182/50186/ANPR_archivio_comuni.csv"
+URL="https://www.anpr.interno.it/wp-content/uploads/ANPR_archivio_comuni.csv"
 
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
