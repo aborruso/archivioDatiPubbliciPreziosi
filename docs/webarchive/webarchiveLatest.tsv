@@ -1,20 +1,20 @@
-url	job_id	message
-https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti	b690407b-04f1-4edd-897f-7cf8d6944e26	
-https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page	483f2d11-e99a-4c24-b979-753fcba6b5ad	
-https://anagrafe.iccu.sbn.it/it/open-data	54bfca93-6418-4c11-8979-8525bab53dda	
-https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260	9bc05955-3a8c-4d45-bfcc-feb5d4d52af3	
-https://developers.italia.it/it/api	a2139d44-589e-453d-aa46-6bf1eb7defff	
-http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html	6c1969dd-67b6-4154-aaf2-83851c004367	
-https://www.anpr.interno.it/il-progetto/strumenti-di-lavoro/tabelle-decodifica/		The same snapshot had been made 977 minutes and 10 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.cciss.it/web/cciss/database-rds-tmc	e2ab1bca-705f-45a1-ad75-84e19a509001	
-https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md	6a12b0aa-ce6c-483b-8905-f42656db5c41	
-https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php	d843fb30-dc61-4d81-85bb-be6410933a44	
-https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa	bc045211-09e3-4b60-b46a-e438d8a0027d	
-https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni	037065ef-fc12-4a5a-ab34-8edceacd057a	
-https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune	69cd9ae3-b544-4c84-9519-a6b564c1bcbd	
-https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati	9179ca32-b8e6-4de0-82a9-d39cde7fe0be	
-https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2	cf11a290-659c-42a6-bc69-bf1b6cefc61f	
-http://www.governo.it/it/coronavirus-normativa	72c1a53f-a856-42b4-8afb-ff714e917f13	
-https://bit.ly/2Umw1EZ	a2dc41ae-3c74-4d7a-8713-cb38f43ea7ac	
-https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1	4d35891c-6b36-4734-a962-5cf3105e7ed0	
-https://parlamento18.camera.it/199	6882f3ea-6e52-405a-ae6d-6e4b6be7181c	
+job_id	url	message
+1bf80439-17e3-4aa7-9e30-1f01d1d144e2	https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti	
+ec4f03de-a57f-46ba-9108-3d8366250dfc	https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page	
+e8099b1c-7486-42db-8b33-0bb3db6e226f	https://anagrafe.iccu.sbn.it/it/open-data	
+0e43ad75-6a4b-4f6b-b3b6-1ae13cc3d76d	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260	
+e19ad147-7903-43ad-825f-26ed6cddd69d	https://developers.italia.it/it/api	
+5a801c06-adcb-4904-9eb8-c97b81f34d94	http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html	
+	https://www.anpr.interno.it/il-progetto/strumenti-di-lavoro/tabelle-decodifica/	The same snapshot had been made 2416 minutes and 1 seconds ago. We only allow new captures of the same URL every 10079 minutes.
+44e19f75-85e0-4f58-9b9d-21bdec5b2fb7	https://www.cciss.it/web/cciss/database-rds-tmc	
+d963dff8-12f1-4c73-ab19-5e22a306c1e0	https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md	
+330eb054-9f7b-4c7b-b4dc-a45094fffef5	https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php	
+6dd41851-4371-4aba-b7ac-982b2364c88e	https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa	
+5438bc6b-9353-47c9-8cfe-81977cc96184	https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni	
+5dbc3590-45c0-43d6-9662-a37c5ee91b34	https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune	
+b5e7ab89-073b-40b4-a563-c1c32a73bb9a	https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati	
+bf693855-447c-4ee5-b58f-7317087eb509	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2	
+431e1cda-7be1-4e61-9f5d-aa4fa329b1e3	http://www.governo.it/it/coronavirus-normativa	
+7a2c7c0d-24dc-400d-913f-b52304a6216a	https://bit.ly/2Umw1EZ	
+25a2d0f6-b74c-411d-a8d8-fb9ec37a70a2	https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1	
+02c83103-227d-41c1-8ce0-f3b3484037dc	https://parlamento18.camera.it/199	
