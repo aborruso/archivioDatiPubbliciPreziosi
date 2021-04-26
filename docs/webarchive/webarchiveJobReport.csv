@@ -1,3 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-4f2c888f-92dc-4043-9f23-73f4e6f8d400,5.867,,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
-2325fec6-42c3-48cf-9dc9-418dc4a86f10,6.163,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+34021c3c-2c10-46b4-92d2-704abae35b5a,5.377,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+127c30de-cd1b-4c44-8bd2-979562ded4c4,5.631,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
