@@ -18,7 +18,7 @@ CCSVeneto2018,1
 C_L736,1
 Carta dei suoli del Veneto in scala 1,2
 M_D,12
-PCM,705
+PCM,707
 PCM_MaGIC1_01,1
 PCM_MaGIC1_17,1
 PCM_MaGIC1_19,1
@@ -37,7 +37,7 @@ agcom,18
 age,7720
 agea,363
 agid,1
-arpa,213
+arpa,214
 arpa_09,16
 arpa_ve,182
 arpa_ve_TRIX2008,1
@@ -134,7 +134,7 @@ c_d175,6
 c_d251,4
 c_d255,6
 c_d451,1
-c_d612,281
+c_d612,285
 c_d969,35
 c_e004,7
 c_e054,2
@@ -193,7 +193,7 @@ cnz_pvdt,5
 e5eaf00f-cb4a-4427-8019-a306b1641af2,1
 ee75b653-409d-40bb-b9d9-f1eb09fce62a,1
 fd35de31-082b-4f77-b4fe-6f9268f7449a,1
-ispra_rm,256
+ispra_rm,257
 istat,8
 istgemil,16
 m_amte,326
@@ -228,20 +228,20 @@ r_abruzz,432
 r_basili,274
 r_calabr,102
 r_campan,24
-r_emiro,1290
+r_emiro,1289
 r_friuli,1585
 r_lazio,230
-r_liguri,513
+r_liguri,529
 r_lombar,245
 r_marche,6
 r_molise,1524
 r_piemon,379
 r_puglia,29
-r_sicili,404
+r_sicili,405
 r_toscan,2
 r_umbria,53
 r_vda,516
-r_veneto,362
+r_veneto,358
 udapm,1
 udcg,18
 udctf_fe ,1
