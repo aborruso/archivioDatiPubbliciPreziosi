@@ -112,3 +112,9 @@
   nome: erogazionePartiti
   dataInserimento: 2021-03-11
   if_not_archived_within: 15d
+- titolo: "Codici degli enti presenti in SIOPE"
+  fonte: "Sito Ministero dell'Economia e delle Finanze"
+  URL: "https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/siope/codici_degli_enti/"
+  nome: codiciEnti
+  dataInserimento: 2021-05-03
+  if_not_archived_within: 15d
