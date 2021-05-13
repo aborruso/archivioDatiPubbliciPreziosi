@@ -1,4 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-c50267f6-e969-42f8-92be-005b7c7bb07e,5.192,,error,error:job-failed,https://www.cciss.it/web/cciss/database-rds-tmc
-a37d85a6-c817-4d1f-8e4f-3784a1e98ffb,15.286,,error,error:job-failed,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
-2007c490-ceb4-4a21-b670-c9d245a2e6d7,5.147,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+2374d467-0776-48d8-ae73-ac72e81272c5,4.857,,error,error:job-failed,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+cae726f6-6c40-41a4-8cce-83fbee4cef01,6.488,,error,error:job-failed,https://www.cciss.it/web/cciss/database-rds-tmc
+b6b7e0de-bdc3-44f6-b52e-e24e378b82e6,5.151,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
