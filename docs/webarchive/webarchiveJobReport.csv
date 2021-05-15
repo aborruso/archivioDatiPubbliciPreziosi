@@ -1,4 +1,4 @@
-job_id,duration_sec,message,status,status_ext,url
-2374d467-0776-48d8-ae73-ac72e81272c5,4.857,,error,error:job-failed,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-cae726f6-6c40-41a4-8cce-83fbee4cef01,6.488,,error,error:job-failed,https://www.cciss.it/web/cciss/database-rds-tmc
-b6b7e0de-bdc3-44f6-b52e-e24e378b82e6,5.151,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+job_id,duration_sec,message,status,status_ext,worker,url
+5c998ea1-6201-4e74-8fa9-1750c6d8dff7,4.931,,error,error:job-failed,wwwb-spn21,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+7b7742ba-1970-42ec-bc33-6b3dc0cae97f,5.704,,error,error:job-failed,wwwb-spn20,https://www.cciss.it/web/cciss/database-rds-tmc
+00c73bed-8adc-4470-b6c3-68304d7916d7,5.649,,error,error:job-failed,wwwb-spn13,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
