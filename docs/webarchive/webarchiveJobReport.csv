@@ -1,3 +1,2 @@
-job_id,duration_sec,message,status,status_ext,worker,url
-1e59286c-b95e-42b1-8f66-3677dfc8c8fb,5.26,,error,error:job-failed,wwwb-spn08,https://www.cciss.it/web/cciss/database-rds-tmc
-e44995b0-5bb4-40d1-af7d-875be724ba48,7.321,,error,error:job-failed,wwwb-spn06,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+job_id,duration_sec,message,status,status_ext,url
+f46e4c30-6f37-4d0d-acfe-c316bff02a70,5.649,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
