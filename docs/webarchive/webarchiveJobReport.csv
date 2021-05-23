@@ -1,4 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-ca38b510-dea3-4a74-b6f5-e4078bd21f2b,45.501,,error,error:no-access,http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
-8ba03342-d5f4-4edd-bb7f-943bccbb350a,15.806,,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
-a9aaa7da-e1a3-4345-8257-e238ec7beb7f,6.522,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+dc843d33-f188-4cc5-903a-970a34fa2d2b,4.787,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
