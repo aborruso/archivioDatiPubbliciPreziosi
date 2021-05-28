@@ -1,3 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-902dad94-6cd7-431c-a41e-9e80a10ecc05,6.951,,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
-47a812a5-4dfc-425e-a2b0-a6080dc7bfcf,8.299,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+8cfd5548-f7c5-417d-9154-c616ccc0c607,5.795,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
