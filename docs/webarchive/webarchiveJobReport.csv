@@ -1,4 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-100c731c,6.515,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-54c9078a,6.32,,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-6551bec6,4.803,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-7e40f09f,5.961,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
