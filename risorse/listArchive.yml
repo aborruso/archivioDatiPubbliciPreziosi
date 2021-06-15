@@ -118,3 +118,9 @@
   nome: codiciEnti
   dataInserimento: 2021-05-03
   if_not_archived_within: 15d
+- titolo: "Analisi acqua fontanelle Palermo"
+  fonte: "Sito AMAP"
+  URL: "https://www.amapspa.it/it/analisi-fontanelle-di-palermo/"
+  nome: fontanellePalermo
+  dataInserimento: 2021-06-15
+  if_not_archived_within: 7d
