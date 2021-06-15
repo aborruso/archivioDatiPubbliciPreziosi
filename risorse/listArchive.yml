@@ -124,3 +124,9 @@
   nome: fontanellePalermo
   dataInserimento: 2021-06-15
   if_not_archived_within: 7d
+- titolo: "history of NUTS"
+  fonte: "Sito Eurostat"
+  URL: "https://ec.europa.eu/eurostat/web/nuts/history"
+  nome: nutsHistory
+  dataInserimento: 2021-06-15
+  if_not_archived_within: 30d
