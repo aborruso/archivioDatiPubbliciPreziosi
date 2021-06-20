@@ -130,3 +130,9 @@
   nome: nutsHistory
   dataInserimento: 2021-06-15
   if_not_archived_within: 30d
+- titolo: "Piano Manutenzione Verde e Spiagge, comune Palermo"
+  fonte: "sito ReSeT"
+  URL: "http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge"
+  nome: resetPalermoVerde
+  dataInserimento: 2021-06-20
+  if_not_archived_within: 7d
