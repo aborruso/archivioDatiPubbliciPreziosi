@@ -135,4 +135,4 @@
   URL: "http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge"
   nome: resetPalermoVerde
   dataInserimento: 2021-06-20
-  if_not_archived_within: 7d
+  if_not_archived_within: 1d
