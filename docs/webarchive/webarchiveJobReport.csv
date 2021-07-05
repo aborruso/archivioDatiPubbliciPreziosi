@@ -1,3 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-3ec9899b,5.319,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-ae91466f,33.095,,error,error:cannot-fetch,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-bdd3f847,8.197,,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-50f87080,5.822,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-759d9d2b,36.968,,error,error:cannot-fetch,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
