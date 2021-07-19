@@ -136,3 +136,9 @@
   nome: resetPalermoVerde
   dataInserimento: 2021-06-20
   if_not_archived_within: 1d
+- titolo: "Dashboard SARS COV2 Istituto Superiore di Sanità"
+  fonte: "sito ISS"
+  URL: "https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"
+  nome: sarsCov2DashboardISS
+  dataInserimento: 2021-07-19
+  if_not_archived_within: 1d
