@@ -1,4 +1,6 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-130170e2,5.84,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-051a8457,9.665,,error,error:no-access,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-d70d2372,6.323,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-5ecab3d1,5.937,,,,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-9d9fb977,6.699,,,,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-2ab46237,6.825,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-7d1e83f3,50.052,,,,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-cdb7d134,6.291,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
