@@ -1,5 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-9b574d79,7.112,,,,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-01845146,5.827,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-cc3ca4db,40.656,,,,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-a74e6743,92.619,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-88d10e19,7.815,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-1698e758,42.432,,error,error:cannot-fetch,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-afcaf93e,5.805,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
