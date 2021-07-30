@@ -81,7 +81,7 @@ L'Aquila,Abruzzo,Sud,066002,,,AIELLI,1475,327,,,29/07/2019
 Cosenza,Calabria,Sud,078004,,,AIELLO CALABRO,1612,1436,,,09/10/2019
 Udine,Friuli Venezia Giulia,Nord-Est,030001,,,AIELLO DEL FRIULI,2222,284,,,18/11/2019
 Avellino,Campania,Sud,064001,,,AIELLO DEL SABATO,4041,495,,,17/02/2020
-Cosenza,Calabria,Sud,078005,23/07/2021,,AIETA,813,0,05/09/2021,30/09/2021,
+Cosenza,Calabria,Sud,078005,29/07/2021,02/09/2021,AIETA,813,0,02/09/2021,02/09/2021,
 Caserta,Campania,Sud,061001,,,AILANO,1327,182,,,10/12/2020
 Biella,Piemonte,Nord-Ovest,096001,,,AILOCHE,329,9,,,27/02/2020
 Torino,Piemonte,Nord-Ovest,001002,,,AIRASCA,3700,565,,,20/12/2018
@@ -1309,7 +1309,7 @@ Avellino,Campania,Sud,064018,,,CAPRIGLIA IRPINA,2273,446,,,14/01/2021
 Asti,Piemonte,Nord-Ovest,005019,,,CAPRIGLIO,309,6,,,28/02/2019
 Biella,Piemonte,Nord-Ovest,096013,,,CAPRILE,184,15,,,14/02/2020
 Bergamo,Lombardia,Nord-Ovest,016052,,,CAPRINO BERGAMASCO,3065,151,,,12/05/2020
-Verona,Veneto,Nord-Est,023018,21/07/2021,,CAPRINO VERONESE,8416,0,,,
+Verona,Veneto,Nord-Est,023018,21/07/2021,06/09/2021,CAPRINO VERONESE,8416,0,06/09/2021,06/09/2021,
 Brescia,Lombardia,Nord-Ovest,017038,,,CAPRIOLO,9481,209,,,29/07/2020
 Gorizia,Friuli Venezia Giulia,Nord-Est,031001,,,CAPRIVA DEL FRIULI,1635,296,,,28/02/2020
 Caserta,Campania,Sud,061015,,,CAPUA,18210,680,,,03/03/2020
@@ -3640,7 +3640,7 @@ Udine,Friuli Venezia Giulia,Nord-Est,030051,,,LUSEVERA,611,374,,,03/03/2020
 Rovigo,Veneto,Nord-Est,029031,,,LUSIA,3445,312,,,27/03/2019
 Vicenza,Veneto,Nord-Est,024127,,,LUSIANA CONCO,4652,1575,,,26/10/2020
 Torino,Piemonte,Nord-Ovest,001141,,,LUSIGLIE',562,7,,,08/07/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021044,21/06/2021,29/07/2021,LUSON,1544,0,29/07/2021,31/07/2021,
+Bolzano,Trentino Alto Adige,Nord-Est,021044,,,LUSON,1591,130,,,29/07/2021
 Salerno,Campania,Sud,065064,,,LUSTRA,1025,224,,,03/07/2020
 Varese,Lombardia,Nord-Ovest,012093,,,LUVINATE,1345,108,,,25/07/2019
 Bergamo,Lombardia,Nord-Ovest,016130,,,LUZZANA,911,38,,,28/05/2018
@@ -4107,7 +4107,7 @@ Alessandria,Piemonte,Nord-Ovest,006100,,,MONGIARDINO LIGURE,148,274,,,26/09/2019
 Messina,Sicilia,Isole,083055,,,MONGIUFFI MELIA,570,95,,,09/07/2019
 Biella,Piemonte,Nord-Ovest,096035,,,MONGRANDO,3822,148,,,10/10/2019
 Cosenza,Calabria,Sud,078080,,,MONGRASSANO,1535,1431,,,04/12/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021052,,,MONGUELFO-TESIDO,2876,0,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021052,29/07/2021,,MONGUELFO-TESIDO,2876,0,,,
 Como,Lombardia,Nord-Ovest,013153,,,MONGUZZO,2375,79,,,30/07/2019
 Brescia,Lombardia,Nord-Ovest,017109,,,MONIGA DEL GARDA,2619,120,,,15/11/2019
 Alessandria,Piemonte,Nord-Ovest,006101,,,MONLEALE,564,55,,,04/06/2019
