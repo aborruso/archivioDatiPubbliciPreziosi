@@ -1,5 +1,5 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-06e7ab12,8.039,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-2c25e988,5.302,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-eafae48f,49.331,,error,error:cannot-fetch,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-84af1a72,6.387,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-27548219,5.902,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-8204edd2,5.313,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-25648e1f,49.078,,error,error:cannot-fetch,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-6ca3e3f7,5.31,,error,error:no-access,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
