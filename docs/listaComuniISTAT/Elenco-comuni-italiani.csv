@@ -4384,6 +4384,8 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 08;099;099; 027 ;099027;Talamello;Talamello;;2;Nord-est;Emilia-Romagna;Rimini;1;0;RN;99027;99027;41063;41063;L034;ITH;ITH5;ITH59;ITH;ITH5;ITH59
 08;099;099; 028 ;099028;Poggio Torriana;Poggio Torriana;;2;Nord-est;Emilia-Romagna;Rimini;1;0;RN;99028;99028;99028;99028;M324;ITH;ITH5;ITH59;ITH;ITH5;ITH59
 08;099;099; 029 ;099029;Montescudo-Monte Colombo;Montescudo-Monte Colombo;;2;Nord-est;Emilia-Romagna;Rimini;1;0;RN;99029;99029;99029;99029;M368;ITH;ITH5;ITH59;ITH;ITH5;ITH59
+08;099;099; 030 ;099030;Montecopiolo;Montecopiolo;;2;Nord-est;Emilia-Romagna;Rimini;1;0;RN;99030;41033;41033;41033;F478;ITI;ITI3;ITI31;ITH;ITH5;ITH59
+08;099;099; 031 ;099031;Sassofeltrio;Sassofeltrio;;2;Nord-est;Emilia-Romagna;Rimini;1;0;RN;99031;41060;41060;41060;I460;ITI;ITI3;ITI31;ITH;ITH5;ITH59
 09;045;045; 001 ;045001;Aulla;Aulla;;3;Centro;Toscana;Massa-Carrara;1;0;MS;45001;45001;45001;45001;A496;ITI;ITI1;ITI11;ITI;ITI1;ITI11
 09;045;045; 002 ;045002;Bagnone;Bagnone;;3;Centro;Toscana;Massa-Carrara;1;0;MS;45002;45002;45002;45002;A576;ITI;ITI1;ITI11;ITI;ITI1;ITI11
 09;045;045; 003 ;045003;Carrara;Carrara;;3;Centro;Toscana;Massa-Carrara;1;0;MS;45003;45003;45003;45003;B832;ITI;ITI1;ITI11;ITI;ITI1;ITI11
@@ -4775,7 +4777,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 11;041;041; 029 ;041029;Mondolfo;Mondolfo;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41029;41029;41029;41029;F348;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 030 ;041030;Montecalvo in Foglia;Montecalvo in Foglia;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41030;41030;41030;41030;F450;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 031 ;041031;Monte Cerignone;Monte Cerignone;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41031;41031;41031;41031;F467;ITI;ITI3;ITI31;ITI;ITI3;ITI31
-11;041;041; 033 ;041033;Montecopiolo;Montecopiolo;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41033;41033;41033;41033;F478;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 034 ;041034;Montefelcino;Montefelcino;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41034;41034;41034;41034;F497;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 035 ;041035;Monte Grimano Terme;Monte Grimano Terme;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41035;41035;41035;41035;F524;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 036 ;041036;Montelabbate;Montelabbate;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41036;41036;41036;41036;F533;ITI;ITI3;ITI31;ITI;ITI3;ITI31
@@ -4791,7 +4792,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 11;041;041; 054 ;041054;San Lorenzo in Campo;San Lorenzo in Campo;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41054;41054;41054;41054;H958;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 057 ;041057;Sant'Angelo in Vado;Sant'Angelo in Vado;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41057;41057;41057;41057;I287;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 058 ;041058;Sant'Ippolito;Sant'Ippolito;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41058;41058;41058;41058;I344;ITI;ITI3;ITI31;ITI;ITI3;ITI31
-11;041;041; 060 ;041060;Sassofeltrio;Sassofeltrio;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41060;41060;41060;41060;I460;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 061 ;041061;Serra Sant'Abbondio;Serra Sant'Abbondio;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41061;41061;41061;41061;I654;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 064 ;041064;Tavoleto;Tavoleto;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41064;41064;41064;41064;L078;ITI;ITI3;ITI31;ITI;ITI3;ITI31
 11;041;041; 065 ;041065;Tavullia;Tavullia;;3;Centro;Marche;Pesaro e Urbino;1;0;PU;41065;41065;41065;41065;L081;ITI;ITI3;ITI31;ITI;ITI3;ITI31
@@ -7163,7 +7163,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 19;081;081; 024 ;081024;Petrosino;Petrosino;;5;Isole;Sicilia;Trapani;4;0;TP;81024;81024;81024;81024;M281;ITG;ITG1;ITG11;ITG;ITG1;ITG11
 19;081;081; 025 ;081025;Misiliscemi;Misiliscemi;;5;Isole;Sicilia;Trapani;4;0;TP;81025;81025;81025;81025;M432;ITG;ITG1;ITG11;ITG;ITG1;ITG11
 19;282;082; 001 ;082001;Alia;Alia;;5;Isole;Sicilia;Palermo;3;0;PA;82001;82001;82001;82001;A195;ITG;ITG1;ITG12;ITG;ITG1;ITG12
-19;282;082; 002 ;082002;Alimena;Alimena;;5;Isole;Sicilia;Palermo;3;0;PA;82002;M432;82002;82002;A202;ITG;ITG1;ITG12;ITG;ITG1;ITG12
+19;282;082; 002 ;082002;Alimena;Alimena;;5;Isole;Sicilia;Palermo;3;0;PA;82002;82002;82002;82002;A202;ITG;ITG1;ITG12;ITG;ITG1;ITG12
 19;282;082; 003 ;082003;Aliminusa;Aliminusa;;5;Isole;Sicilia;Palermo;3;0;PA;82003;82003;82003;82003;A203;ITG;ITG1;ITG12;ITG;ITG1;ITG12
 19;282;082; 004 ;082004;Altavilla Milicia;Altavilla Milicia;;5;Isole;Sicilia;Palermo;3;0;PA;82004;82004;82004;82004;A229;ITG;ITG1;ITG12;ITG;ITG1;ITG12
 19;282;082; 005 ;082005;Altofonte;Altofonte;;5;Isole;Sicilia;Palermo;3;0;PA;82005;82005;82005;82005;A239;ITG;ITG1;ITG12;ITG;ITG1;ITG12
