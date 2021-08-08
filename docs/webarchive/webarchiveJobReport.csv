@@ -1,2 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-18487fcb,5.925,,error,error:no-access,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-4e07796b,4.807,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-836d9777,46.881,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-75d98d9d,6.538,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
