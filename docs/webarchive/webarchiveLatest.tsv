@@ -1,25 +1,25 @@
-url	job_id	message
-https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti	spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7-42c7b01d	
-https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page	spn2-fe70df1510d82235837f8cd45d6bc05609c13ffc-bfb1ca45	
-https://anagrafe.iccu.sbn.it/it/open-data	spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146-3354d488	
-https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260	spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-dd5f4734	
-https://developers.italia.it/it/api	spn2-f76f0845db24885c6c756a310826c1d9cacc52b6-8d2ed0c3	
-http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html		The same snapshot had been made 1444 minutes and 12 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.anpr.interno.it/il-progetto/strumenti-di-lavoro/tabelle-decodifica/	spn2-7165352ccf8480adc28c7111120c0f4cd739c878-0e17305a	
-https://www.cciss.it/web/cciss/database-rds-tmc		The same snapshot had been made 5764 minutes and 41 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md	spn2-053880ad259e5fee7668bb414dbff09064160b27-9bda37d1	
-https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php	spn2-f69b931f545f7d60c5cb400ad30ec5a870bc6113-f0de408f	
-https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa	spn2-9aebfc95c3157e19b5b4083b60fe956a46a714d6-ccc1f13e	
-https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni		The same snapshot had been made 5768 minutes and 49 seconds ago. We only allow new captures of the same URL every 10079 minutes.
-https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune	spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-c1d44eea	
-https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati	spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-8f3cd44d	
-https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2	spn2-1ebc3d6cc82ce04e8f3fa51576e672e30494fbe4-41416eec	
-http://www.governo.it/it/coronavirus-normativa	spn2-7ecd6c43ea27f05202e372e53092715e480452fd-327d91f7	
-https://bit.ly/2Umw1EZ	spn2-b651610b8c1eda94c7fcf81cd40dbf28abebc562-5bdf329d	
-https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1	spn2-abb5120976e72196664341e6f4b2dbe03327559c-1cf3d06a	
-https://parlamento18.camera.it/199		The same snapshot had been made 10076 minutes and 28 seconds ago. We only allow new captures of the same URL every 21600 minutes.
-https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/siope/codici_degli_enti/	spn2-935dfc14d12dca3a8c9919c6bbb5b4eb1f75561d-ec0d3ebd	
-https://www.amapspa.it/it/analisi-fontanelle-di-palermo/	spn2-0d14be492829e97d356b5dc6863700eb10785800-a68a9d18	
-https://ec.europa.eu/eurostat/web/nuts/history		The same snapshot had been made 4420 minutes and 30 seconds ago. We only allow new captures of the same URL every 43200 minutes.
-http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge	spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-12ca98d5	
-https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard	spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-80c105ed	
+url	job_id	message	status	status_ext
+https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti	spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7-315161cf			
+https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page	spn2-fe70df1510d82235837f8cd45d6bc05609c13ffc-0eccd142			
+https://anagrafe.iccu.sbn.it/it/open-data	spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146-be908401			
+https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260		The same snapshot had been made 4319 minutes and 45 seconds ago. We only allow new captures of the same URL every 10079 minutes.		
+https://developers.italia.it/it/api		The same snapshot had been made 5758 minutes and 33 seconds ago. We only allow new captures of the same URL every 10079 minutes.		
+http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html		The same snapshot had been made 7200 minutes and 44 seconds ago. We only allow new captures of the same URL every 10079 minutes.		
+https://www.anpr.interno.it/il-progetto/strumenti-di-lavoro/tabelle-decodifica/		The same snapshot had been made 4317 minutes and 32 seconds ago. We only allow new captures of the same URL every 10079 minutes.		
+https://www.cciss.it/web/cciss/database-rds-tmc	spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-33086bfb			
+https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md	spn2-053880ad259e5fee7668bb414dbff09064160b27-cd8f9b1f			
+https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php	spn2-f69b931f545f7d60c5cb400ad30ec5a870bc6113-eb2ef65c			
+https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/segnalazioni-cad/inviti-pa		The same snapshot had been made 5751 minutes and 21 seconds ago. We only allow new captures of the same URL every 10079 minutes.		
+https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni	spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec-e500bda3			
+https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune		The same snapshot had been made 7188 minutes and 58 seconds ago. We only allow new captures of the same URL every 10079 minutes.		
+https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati	spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-7dffa479			
+https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2	spn2-1ebc3d6cc82ce04e8f3fa51576e672e30494fbe4-154a383c			
+		You have already reached the limit of active sessions.	error	error:user-session-limit
+https://bit.ly/2Umw1EZ	spn2-b651610b8c1eda94c7fcf81cd40dbf28abebc562-4630dd4c			
+https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1	spn2-abb5120976e72196664341e6f4b2dbe03327559c-7b59f055			
+https://parlamento18.camera.it/199		The same snapshot had been made 15830 minutes and 31 seconds ago. We only allow new captures of the same URL every 21600 minutes.		
+https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/siope/codici_degli_enti/	spn2-935dfc14d12dca3a8c9919c6bbb5b4eb1f75561d-c9b88f77			
+https://www.amapspa.it/it/analisi-fontanelle-di-palermo/		The same snapshot had been made 4312 minutes and 42 seconds ago. We only allow new captures of the same URL every 10080 minutes.		
+https://ec.europa.eu/eurostat/web/nuts/history		The same snapshot had been made 10168 minutes and 27 seconds ago. We only allow new captures of the same URL every 43200 minutes.		
+http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge	spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-5366c7aa			
+https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard	spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-06853eab			
