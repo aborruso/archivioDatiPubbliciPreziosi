@@ -138,7 +138,7 @@ Pavia,Lombardia,Nord-Ovest,018004,,ALBUZZANO,3649,55,,,,22/10/2019
 Trapani,Sicilia,Isole,081001,,ALCAMO,45522,4199,,,,30/01/2019
 Messina,Sicilia,Isole,083001,,ALCARA LI FUSI,1820,887,,,,11/12/2019
 Trento,Trentino Alto Adige,Nord-Est,022003,,ALDENO,3185,264,,,,12/03/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021001,,ALDINO,1656,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021001,,ALDINO,1656,0,21/09/2021,21/09/2021,24/09/2021,
 Oristano,Sardegna,Isole,095004,,ALES,1372,190,,,,31/07/2019
 Alessandria,Piemonte,Nord-Ovest,006003,,ALESSANDRIA,93960,6571,,,,15/10/2018
 Cosenza,Calabria,Sud,078007,,ALESSANDRIA DEL CARRETTO,378,363,,,,11/09/2020
@@ -514,7 +514,7 @@ Bergamo,Lombardia,Nord-Ovest,016019,,BARBATA,720,0,,,,
 Firenze,Toscana,Centro,048002,,BARBERINO DI MUGELLO,11021,203,,,,26/09/2019
 Firenze,Toscana,Centro,048054,,BARBERINO TAVARNELLE,12083,285,,,,10/12/2019
 Pavia,Lombardia,Nord-Ovest,018008,,BARBIANELLO,837,40,,,,22/10/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021007,,BARBIANO,1701,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021007,,BARBIANO,1701,0,22/09/2021,22/09/2021,25/09/2021,
 Padova,Veneto,Nord-Est,028010,,BARBONA,630,82,,,,07/06/2019
 Messina,Sicilia,Isole,083005,,BARCELLONA POZZO DI GOTTO,41093,5450,,,,15/07/2019
 Pordenone,Friuli Venezia Giulia,Nord-Est,093006,,BARCIS,238,152,,,,18/06/2019
@@ -1063,7 +1063,7 @@ Bergamo,Lombardia,Nord-Ovest,016043,,CALCINATE,6077,267,,,,04/07/2019
 Brescia,Lombardia,Nord-Ovest,017032,,CALCINATO,13027,403,,,,08/10/2018
 Bergamo,Lombardia,Nord-Ovest,016044,,CALCIO,5348,115,,,,14/12/2017
 Lecco,Lombardia,Nord-Ovest,097012,,CALCO,5394,131,,,,02/10/2018
-Bolzano,Trentino Alto Adige,Nord-Est,021015,24/01/2020,CALDARO SULLA STRADA DEL VINO,8041,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021015,24/01/2020,CALDARO SULLA STRADA DEL VINO,8041,0,15/09/2021,15/09/2021,21/09/2021,
 Macerata,Marche,Centro,043006,,CALDAROLA,1709,157,,,,10/12/2020
 Bologna,Emilia Romagna,Nord-Est,037009,,CALDERARA DI RENO,13368,268,,,,17/12/2018
 Trento,Trentino Alto Adige,Nord-Est,022033,,CALDES,1089,105,,,,03/09/2019
@@ -2649,7 +2649,7 @@ Fermo,Marche,Centro,109005,,FALERONE,3266,560,,,,13/12/2019
 Chieti,Abruzzo,Sud,069104,,FALLO,119,114,,,,26/02/2020
 Como,Lombardia,Nord-Ovest,013099,,FALOPPIO,4782,579,,,,02/03/2020
 Frosinone,Lazio,Centro,060032,,FALVATERRA,535,27,,,,15/06/2021
-Bolzano,Trentino Alto Adige,Nord-Est,021030,25/05/2020,FALZES,2763,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021030,25/05/2020,FALZES,2763,0,09/09/2021,09/09/2021,18/09/2021,
 Modena,Emilia Romagna,Nord-Est,036011,,FANANO,2952,301,,,,13/12/2018
 Pordenone,Friuli Venezia Giulia,Nord-Est,093020,,FANNA,1535,676,,,,04/10/2019
 Pesaro-Urbino,Marche,Centro,041013,,FANO,60881,3634,,,,10/12/2018
@@ -3378,7 +3378,7 @@ Cuneo,Piemonte,Nord-Ovest,004104,,LAGNASCO,1415,303,,,,14/11/2018
 Cosenza,Calabria,Sud,078062,,LAGO,2426,1991,,,,17/12/2020
 Potenza,Basilicata,Sud,076039,,LAGONEGRO,5313,1259,,,,09/08/2019
 Ferrara,Emilia Romagna,Nord-Est,038011,,LAGOSANTO,4866,191,,,,06/12/2018
-Bolzano,Trentino Alto Adige,Nord-Est,021038,02/08/2021,LAGUNDO,5048,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021038,02/08/2021,LAGUNDO,5048,0,01/09/2021,01/09/2021,15/09/2021,
 Savona,Liguria,Nord-Ovest,009033,,LAIGUEGLIA,1790,253,,,,23/07/2019
 Milano,Lombardia,Nord-Ovest,015116,,LAINATE,26057,554,,,,13/02/2019
 Como,Lombardia,Nord-Ovest,013120,,LAINO,530,134,,,,22/10/2019
@@ -3396,7 +3396,7 @@ Belluno,Veneto,Nord-Est,025026,,LAMON,2812,2350,,,,08/04/2019
 Agrigento,Sicilia,Isole,084020,,LAMPEDUSA E LINOSA,6563,181,,,,01/12/2020
 Pistoia,Toscana,Centro,047005,,LAMPORECCHIO,7438,230,,,,31/10/2019
 Vercelli,Piemonte,Nord-Ovest,002067,,LAMPORO,522,27,,,,04/03/2020
-Bolzano,Trentino Alto Adige,Nord-Est,021041,,LANA,12158,0,30/09/2021,01/09/2021,30/09/2021,
+Bolzano,Trentino Alto Adige,Nord-Est,021041,,LANA,12158,0,16/09/2021,16/09/2021,30/09/2021,
 Chieti,Abruzzo,Sud,069046,,LANCIANO,34947,4950,,,,28/05/2019
 Novara,Piemonte,Nord-Ovest,003083,,LANDIONA,549,19,,,,11/09/2019
 Pavia,Lombardia,Nord-Ovest,018078,,LANDRIANO,6534,94,,,,26/08/2019
@@ -3923,7 +3923,7 @@ Benevento,Campania,Sud,062039,,MELIZZANO,1764,447,,,,19/01/2021
 Cuneo,Piemonte,Nord-Ovest,004122,,MELLE,285,51,,,,08/01/2020
 Sondrio,Lombardia,Nord-Ovest,014041,,MELLO,941,333,,,,18/12/2019
 Lecce,Puglia,Sud,075045,,MELPIGNANO,2216,698,,,,08/11/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021050,,MELTINA,1679,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021050,,MELTINA,1679,0,23/09/2021,23/09/2021,26/09/2021,
 Milano,Lombardia,Nord-Ovest,015142,,MELZO,18790,358,,,,05/10/2018
 Como,Lombardia,Nord-Ovest,013145,,MENAGGIO,3133,697,,,,12/12/2019
 Pavia,Lombardia,Nord-Ovest,018089,,MENCONICO,360,96,,,,14/12/2018
@@ -4107,7 +4107,7 @@ Alessandria,Piemonte,Nord-Ovest,006100,,MONGIARDINO LIGURE,148,274,,,,26/09/2019
 Messina,Sicilia,Isole,083055,,MONGIUFFI MELIA,570,95,,,,09/07/2019
 Biella,Piemonte,Nord-Ovest,096035,,MONGRANDO,3822,148,,,,10/10/2019
 Cosenza,Calabria,Sud,078080,,MONGRASSANO,1535,1431,,,,04/12/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021052,29/07/2021,MONGUELFO-TESIDO,2876,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021052,29/07/2021,MONGUELFO-TESIDO,2876,0,02/09/2021,02/09/2021,16/09/2021,
 Como,Lombardia,Nord-Ovest,013153,,MONGUZZO,2375,79,,,,30/07/2019
 Brescia,Lombardia,Nord-Ovest,017109,,MONIGA DEL GARDA,2619,120,,,,15/11/2019
 Alessandria,Piemonte,Nord-Ovest,006101,,MONLEALE,564,55,,,,04/06/2019
@@ -4485,10 +4485,10 @@ Agrigento,Sicilia,Isole,084026,,NARO,7375,5154,,,,15/10/2019
 Cuneo,Piemonte,Nord-Ovest,004147,,NARZOLE,3533,236,,,,23/05/2018
 Savona,Liguria,Nord-Ovest,009041,,NASINO,174,139,,,,09/11/2020
 Messina,Sicilia,Isole,083060,,NASO,3734,2046,,,,14/05/2018
-Bolzano,Trentino Alto Adige,Nord-Est,021056,,NATURNO,5807,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021056,,NATURNO,5807,0,09/09/2021,09/09/2021,18/09/2021,
 Brescia,Lombardia,Nord-Ovest,017117,,NAVE,10826,182,,,,03/12/2018
 L'Aquila,Abruzzo,Sud,066058,,NAVELLI,527,226,,,,24/06/2020
-Bolzano,Trentino Alto Adige,Nord-Est,021057,,NAZ SCIAVES,3188,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021057,,NAZ SCIAVES,3188,0,23/09/2021,23/09/2021,26/09/2021,
 Roma,Lazio,Centro,058069,,NAZZANO,1367,23,,,,15/05/2020
 Genova,Liguria,Nord-Ovest,010040,,NE,2208,721,,,,11/11/2019
 Novara,Piemonte,Nord-Ovest,003103,,NEBBIUNO,1813,100,,,,30/10/2019
@@ -5270,7 +5270,7 @@ Pistoia,Toscana,Centro,047016,,PONTE BUGGIANESE,8881,582,,,,17/12/2019
 Piacenza,Emilia Romagna,Nord-Est,033036,,PONTE DELL'OLIO,4616,414,,,,26/11/2020
 Brescia,Lombardia,Nord-Ovest,017148,,PONTE DI LEGNO,1759,214,,,,01/10/2019
 Treviso,Veneto,Nord-Est,026058,,PONTE DI PIAVE,8324,1027,,,,17/12/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021065,,PONTE GARDENA,193,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021065,,PONTE GARDENA,193,0,14/09/2021,14/09/2021,20/09/2021,
 Sondrio,Lombardia,Nord-Ovest,014052,,PONTE IN VALTELLINA,2278,480,,,,16/10/2019
 Como,Lombardia,Nord-Ovest,013188,,PONTE LAMBRO,4377,200,,,,19/11/2019
 Belluno,Veneto,Nord-Est,025040,,PONTE NELLE ALPI,8159,1402,,,,19/12/2019
@@ -5402,7 +5402,7 @@ Caserta,Campania,Sud,061063,11/05/2021,PRATA SANNITA,1462,0,,,,
 Caserta,Campania,Sud,061064,,PRATELLA,1512,0,,,,
 Torino,Piemonte,Nord-Ovest,001207,,PRATIGLIONE,513,58,,,,04/07/2018
 Prato,Toscana,Centro,100005,,PRATO,194877,4415,,,,04/12/2018
-Bolzano,Trentino Alto Adige,Nord-Est,021067,,PRATO ALLO STELVIO,3604,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021067,,PRATO ALLO STELVIO,3604,0,10/09/2021,10/09/2021,19/09/2021,
 Udine,Friuli Venezia Giulia,Nord-Est,030081,,PRATO CARNICO,884,542,,,,04/12/2019
 Novara,Piemonte,Nord-Ovest,003122,,PRATO SESIA,1869,115,,,,14/02/2019
 L'Aquila,Abruzzo,Sud,066075,,PRATOLA PELIGNA,7437,2270,,,,23/10/2019
@@ -5457,7 +5457,7 @@ Como,Lombardia,Nord-Ovest,013192,,PROSERPIO,938,23,,,,19/09/2019
 Latina,Lazio,Centro,059020,,PROSSEDI,1186,246,,,,20/11/2020
 Brescia,Lombardia,Nord-Ovest,017156,,PROVAGLIO D'ISEO,7253,211,,,,10/12/2020
 Brescia,Lombardia,Nord-Ovest,017157,,PROVAGLIO VAL SABBIA,885,51,,,,26/03/2020
-Bolzano,Trentino Alto Adige,Nord-Est,021069,,PROVES,264,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021069,,PROVES,264,0,21/09/2021,21/09/2021,24/09/2021,
 Campobasso,Molise,Sud,070056,,PROVVIDENTI,105,131,,,,03/09/2019
 Cuneo,Piemonte,Nord-Ovest,004178,,PRUNETTO,434,70,,,,01/08/2018
 Brescia,Lombardia,Nord-Ovest,017158,,PUEGNAGO SUL GARDA,3466,98,,,,18/03/2020
@@ -5752,7 +5752,7 @@ Milano,Lombardia,Nord-Ovest,015185,,RODANO,4590,174,,,,06/12/2019
 Cuneo,Piemonte,Nord-Ovest,004194,,RODDI,1652,26,,,,12/02/2018
 Cuneo,Piemonte,Nord-Ovest,004195,,RODDINO,412,85,,,,18/06/2018
 Cuneo,Piemonte,Nord-Ovest,004196,,RODELLO,971,41,,,,09/03/2020
-Bolzano,Trentino Alto Adige,Nord-Est,021075,,RODENGO,1224,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021075,,RODENGO,1224,0,30/09/2021,30/09/2021,09/10/2021,
 Brescia,Lombardia,Nord-Ovest,017163,,RODENGO-SAIANO,9877,171,,,,12/03/2020
 Como,Lombardia,Nord-Ovest,013197,,RODERO,1284,387,,,,11/02/2021
 Foggia,Puglia,Sud,071043,,RODI GARGANICO,3570,497,,,,16/11/2020
@@ -6200,7 +6200,7 @@ Benevento,Campania,Sud,062067,,SAN NICOLA MANFREDI,3661,328,,,,09/12/2019
 Oristano,Sardegna,Isole,095046,,SAN NICOLO' D'ARCIDANO,2618,173,,,,20/11/2018
 Belluno,Veneto,Nord-Est,025046,,SAN NICOLO' DI COMELICO,386,0,,,,
 ,Sardegna,,111064,,SAN NICOLO' GERREI,730,107,,,,18/10/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021084,06/03/2020,SAN PANCRAZIO,1556,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021084,06/03/2020,SAN PANCRAZIO,1556,0,28/09/2021,28/09/2021,30/09/2021,
 Brindisi,Puglia,Sud,074015,,SAN PANCRAZIO SALENTINO,9547,1125,,,,23/11/2020
 Brescia,Lombardia,Nord-Ovest,017138,,SAN PAOLO,4510,218,,,,30/10/2018
 Potenza,Basilicata,Sud,076020,,SAN PAOLO ALBANESE,225,97,,,,14/05/2020
@@ -7036,7 +7036,7 @@ Sassari,Sardegna,Isole,090086,,TERGU,605,64,,,,12/07/2019
 Bolzano,Trentino Alto Adige,Nord-Est,021097,,TERLANO,4506,291,,,,26/05/2020
 Bari,Puglia,Sud,072043,,TERLIZZI,26518,1661,,,,11/06/2020
 Messina,Sicilia,Isole,083106,,TERME VIGLIATORE,7387,1103,,,,28/11/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021098,,TERMENO SULLA STRADA DEL VINO,3410,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021098,,TERMENO SULLA STRADA DEL VINO,3410,0,16/09/2021,16/09/2021,22/09/2021,
 Palermo,Sicilia,Isole,082070,,TERMINI IMERESE,25709,2325,,,,28/04/2021
 Campobasso,Molise,Sud,070078,,TERMOLI,33575,2059,,,,09/07/2019
 Varese,Lombardia,Nord-Ovest,012126,,TERNATE,2577,213,,,,04/06/2019
@@ -7342,7 +7342,7 @@ Lecce,Puglia,Sud,075091,,UGGIANO LA CHIESA,4378,627,,,,18/12/2018
 Como,Lombardia,Nord-Ovest,013228,,UGGIATE-TREVANO,4943,617,,,,18/02/2020
 Oristano,Sardegna,Isole,095068,,ULA' TIRSO,493,151,,,,21/05/2020
 Nuoro,Sardegna,Isole,091098,,ULASSAI,1401,286,,,,22/10/2020
-Bolzano,Trentino Alto Adige,Nord-Est,021104,,ULTIMO,2870,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021104,,ULTIMO,2870,0,20/09/2021,20/09/2021,23/09/2021,
 Perugia,Umbria,Centro,054056,,UMBERTIDE,16608,686,,,,02/04/2020
 Crotone,Calabria,Sud,101026,,UMBRIATICO,765,213,,,,25/05/2021
 Brescia,Lombardia,Nord-Ovest,017192,,URAGO D'OGLIO,3733,172,,,,21/12/2020
@@ -7491,7 +7491,7 @@ Lecco,Lombardia,Nord-Ovest,097093,,VALVARRONE,526,110,,,,27/01/2020
 Pordenone,Friuli Venezia Giulia,Nord-Est,093053,,VALVASONE ARZENE,3925,1181,,,,03/02/2020
 Catania,Sicilia,Isole,087052,,VALVERDE,7961,264,,,,17/06/2020
 Brescia,Lombardia,Nord-Ovest,017194,,VALVESTINO,178,42,,,,09/07/2019
-Bolzano,Trentino Alto Adige,Nord-Est,021110,,VANDOIES,3340,0,,,,
+Bolzano,Trentino Alto Adige,Nord-Est,021110,,VANDOIES,3340,0,08/09/2021,08/09/2021,17/09/2021,
 Milano,Lombardia,Nord-Ovest,015249,,VANZAGHELLO,5341,121,,,,20/11/2018
 Milano,Lombardia,Nord-Ovest,015229,,VANZAGO,9370,165,,,,30/07/2018
 Verbania,Piemonte,Nord-Ovest,103070,,VANZONE CON SAN CARLO,387,120,,,,14/11/2019
