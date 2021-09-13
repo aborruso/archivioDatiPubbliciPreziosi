@@ -1,3 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-e86465f7,5.354,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-d4433138,47.893,,,,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-dbe6189a,6.184,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-b8e2a83f,47.571,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-3b3dccf0,5.331,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
