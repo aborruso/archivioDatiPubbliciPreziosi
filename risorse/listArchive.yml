@@ -142,3 +142,9 @@
   nome: sarsCov2DashboardISS
   dataInserimento: 2021-07-19
   if_not_archived_within: 1d
+- titolo: "Dati Sistema unico territoriale"
+  fonte: "sito Dipartimento per gli Affari Interni e Territoriali"
+  URL: "https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale"
+  nome: sut
+  dataInserimento: 2021-09-15
+  if_not_archived_within: 1d
