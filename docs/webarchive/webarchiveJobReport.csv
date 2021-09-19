@@ -1,5 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7-e5f86453,21.946,,error,error:unknown,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-21d1a386,6.827,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-25cb2b20,50.093,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-c0fdea28,6.384,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-39672704,5.193,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-501de5d8,48.182,,,,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-ad0d281b,5.833,,,,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
