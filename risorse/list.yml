@@ -126,3 +126,19 @@
   dataInserimento: 2020-09-03
   licenza: "CC BY 4.0"
   ready: true
+- titolo: "Catalogo Open Data Indice Pubblica Amministazione (IPA)"
+  fonte: "Catalogo Open Data IPA"
+  URL:
+    - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/d09adf99-dc10-4349-8c53-27b1e5aa97b6?bom=True"
+      nome: "enti.csv"
+  URLinfo: "https://indicepa.gov.it/ipa-portale/dati-statistiche/open-data"
+  nome: indiceIPACatalogo
+  tipo: multiplo
+  file:
+    formato: csv
+    encoding: "UTF-8"
+  cron: "45 9 1 * 2"
+  cronDescrizione: "Alle 9:45 di ogni martedì"
+  dataInserimento: 2021-10-08
+  licenza: "CC BY 4.0"
+  ready: false
