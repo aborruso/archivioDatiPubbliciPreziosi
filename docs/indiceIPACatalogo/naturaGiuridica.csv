@@ -1,0 +1,44 @@
+_id,Codice_natura,Descrizione_natura
+1,1310,Società per azioni
+2,1320,Società a responsabilità limitata
+3,1330,Società a responsabilità limitata con un unico socio
+4,1350,Società per azioni in house
+5,1410,Società cooperativa a mutualità prevalente
+6,1420,Società cooperativa diversa
+7,1510,Consorzio di diritto privato
+8,1520,Società consortile
+9,1610,Ente pubblico economico
+10,1620,Azienda speciale ai sensi del t.u. 267/2000
+11,1630,Azienda pubblica di servizi alle persone ai sensi del d.lgs n.207/2001 (incluse ex ipab)
+12,1710,Associazione riconosciuta
+13,1720,Fondazione (esclusa fondazione bancaria)
+14,1790,Altra forma di ente privato con personalità giuridica
+15,1810,Associazione non riconosciuta
+16,1900,Impresa costituita all'estero non altrimenti classificabile che svolge una attività economica in Italia
+17,2100,Organo costituzionale o a rilevanza costituzionale
+18,2210,Presidenza del Consiglio
+19,2220,Ministero
+20,2230,Agenzia dello Stato
+21,2300,Autorità indipendente
+22,2410,Regione
+23,2420,Provincia
+24,2430,Comune
+25,2440,Comunità montana o isolana
+26,2450,Unione di comuni
+27,2460,Città metropolitana
+28,2500,Azienda o ente del servizio sanitario nazionale
+29,2610,Istituto e scuola pubblica di ogni ordine e grado
+30,2620,Università pubblica
+31,2711,Istituto o ente pubblico di ricerca
+32,2720,Camera di commercio
+33,2740,Consorzio di diritto pubblico
+34,2751,Ente parco
+35,2752,Ente o autorità portuale
+36,2753,Ente di sviluppo agricolo regionale o di altro ente locale
+37,2754,Ente per turismo
+38,2755,Ente ambientale regionale
+39,2756,Ente per la ricerca e per l'aggiornamento educativo
+40,2757,Agenzie regionali sanità
+41,2758,Agenzie regionali lavoro
+42,2790,Altro ente pubblico non economico
+43,2791,Altro ente pubblico non economico provincie autonome
