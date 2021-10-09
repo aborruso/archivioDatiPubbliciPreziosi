@@ -135,6 +135,8 @@
       nome: naturaGiuridica.csv
     - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/84ebb2e7-0e61-427b-a1dd-ab8bb2a84f07?bom=True"
       nome: codiceCategoria.csv
+    - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/6f0f7122-3312-47ac-a292-7a647986387e?bom=True"
+      nome: codiceAteco.csv
   URLinfo: "https://indicepa.gov.it/ipa-dati/"
   nome: indiceIPACatalogo
   tipo: multiplo
