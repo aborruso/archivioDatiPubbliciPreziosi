@@ -147,4 +147,20 @@
   cronDescrizione: "Alle 9:45 di ogni martedì"
   dataInserimento: 2021-10-08
   licenza: "CC BY 4.0"
+  ready: true
+- titolo: "Dati Sistema unico territoriale"
+  fonte: "Dipartimento per gli Affari Interni e Territoriali"
+  URL:
+    - URL: "https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_codici_comuni_csv.php"
+      nome: "comuniSistemaUnicoTerritoriale.csv"
+  URLinfo: "https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale"
+  nome: sistemaUnicoTerritoriale
+  tipo: multiplo
+  file:
+    formato: csv
+    encoding: "UTF-8"
+  cron: "45 9 1 * 2"
+  cronDescrizione: "Alle 9:45 di ogni martedì"
+  dataInserimento: 2021-10-09
+  licenza: "CC BY 4.0"
   ready: false
