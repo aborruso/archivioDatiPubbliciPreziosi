@@ -159,8 +159,8 @@
   file:
     formato: csv
     encoding: "UTF-8"
-  cron: "45 9 1 * 2"
-  cronDescrizione: "Alle 9:45 di ogni martedì"
+  cron: "55 9 1 * 2"
+  cronDescrizione: "Alle 9:55 di ogni martedì"
   dataInserimento: 2021-10-09
   licenza: "CC BY 4.0"
   ready: false
