@@ -148,3 +148,9 @@
   nome: sut
   dataInserimento: 2021-09-15
   if_not_archived_within: 1d
+- titolo: "Liste dei farmaci"
+  fonte: "sito Agenzia Italiana del Farmaco"
+  URL: "https://www.aifa.gov.it/liste-dei-farmaci"
+  nome: farmaci
+  dataInserimento: 2021-09-15
+  if_not_archived_within: 10d
