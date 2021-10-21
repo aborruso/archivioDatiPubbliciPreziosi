@@ -1,3 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-52e55f4a,7.396,,error,error:gateway-timeout,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-92e76c56,5.372,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-48236283,5.188,,error,error:gateway-timeout,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-821d6bbb,6.873,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-b72ee78b,5.984,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard

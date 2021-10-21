@@ -23,3 +23,4 @@ https://ec.europa.eu/eurostat/web/nuts/history
 http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
 https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
 https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+https://www.aifa.gov.it/liste-dei-farmaci
