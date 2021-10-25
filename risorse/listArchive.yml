@@ -152,5 +152,17 @@
   fonte: "sito Agenzia Italiana del Farmaco"
   URL: "https://www.aifa.gov.it/liste-dei-farmaci"
   nome: farmaci
-  dataInserimento: 2021-09-15
+  dataInserimento: 2021-10-19
   if_not_archived_within: 10d
+- titolo: "Cruscotto statistico giornaliero migranti"
+  fonte: "sito Dipartimento per le libertà civili e l'immigrazione"
+  URL: "http://www.libertaciviliimmigrazione.dlci.interno.gov.it/it/documentazione/statistica/cruscotto-statistico-giornaliero"
+  nome: sbarchiAccoglienzaMigranti
+  dataInserimento: 2021-10-19
+  if_not_archived_within: 10d
+- titolo: "Numero dei Delitti denunciati all'autorità Giudiziaria dalle forze di Polizia"
+  fonte: "sito Ufficio Centrale di Statistica del Ministero degli Interni"
+  URL: "http://ucs.interno.gov.it/ucs/contenuti/Numero_dei_delitti_denunciati_all_autorita_giudiziaria_dalle_forze_di_polizia_int_00062-7730889.htm"
+  nome: delittiDenunciati
+  dataInserimento: 2021-10-25
+  if_not_archived_within: 30d
