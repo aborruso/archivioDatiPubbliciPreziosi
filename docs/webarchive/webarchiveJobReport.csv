@@ -1,6 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-40a861dd,7.373,,error,error:gateway-timeout,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-51563177,5.679,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-69ffe40e,4.856,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-558b6d43,6.861,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
-spn2-b30f2f05485be0be711756582807bc670d681e2f-c624172f,65.379,,error,error:unknown,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-09c4de50,5.954,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-bd5cd094,8.266,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-488b41d1,5.347,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
