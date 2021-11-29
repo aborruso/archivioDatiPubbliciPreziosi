@@ -1,4 +1,4 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-09c4de50,5.954,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-bd5cd094,8.266,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-488b41d1,5.347,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-3e3f226c,5.673,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-d7d62a59,7.889,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-42c03529,45.368,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
