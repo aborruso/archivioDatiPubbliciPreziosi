@@ -1,4 +1,5 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-3e3f226c,5.673,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-d7d62a59,7.889,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-42c03529,45.368,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-8b811e4d,6.249,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-13e84374,5.914,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-7969fd7d,6.9,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-3f0d1c022060d598b584a9e22e5c254ff9c62cdb-99495c9c,6.154,,error,error:gateway-timeout,http://ucs.interno.gov.it/ucs/contenuti/Numero_dei_delitti_denunciati_all_autorita_giudiziaria_dalle_forze_di_polizia_int_00062-7730889.htm
