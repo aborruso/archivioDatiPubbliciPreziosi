@@ -1,8 +1,6 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-fe70df1510d82235837f8cd45d6bc05609c13ffc-e8b6ea00,20.321,,error,error:unknown,https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page
-spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-30acef61,20.333,,error,error:unknown,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-53474d94,7.219,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec-1c9c108b,65.523,,error,error:unknown,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-07301fd8,5.073,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-1ebc3d6cc82ce04e8f3fa51576e672e30494fbe4-5a4a78d4,65.855,,error,error:unknown,https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-1c27c130,6.799,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-4d2bf12c8cf889efa2982f61b48b81812c37ced2-39ac771e,5.503,,error,error:gateway-timeout,https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+spn2-7165352ccf8480adc28c7111120c0f4cd739c878-9b9d3d5b,83.355,,error,error:unknown,https://www.anpr.interno.it/il-progetto/strumenti-di-lavoro/tabelle-decodifica/
+spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-13e501d3,6.239,,error,error:gateway-timeout,https://www.cciss.it/web/cciss/database-rds-tmc
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-6259524c,5.858,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-ae651156,15.853,,error,error:gateway-timeout,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
