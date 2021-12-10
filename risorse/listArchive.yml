@@ -166,3 +166,9 @@
   nome: delittiDenunciati
   dataInserimento: 2021-10-25
   if_not_archived_within: 30d
+- titolo: "Open Data OpenCUP Codice Unico di Progetto"
+  fonte: "sito OpenCUP"
+  URL: "https://opencup.gov.it/opendata"
+  nome: openCUP
+  dataInserimento: 2021-12-10
+  if_not_archived_within: 7d
