@@ -25,13 +25,13 @@ if [ -f "$folder"/webarchiveLatest.log ]; then
 fi
 
 # verifica se ci sono a carico dell'utente già elementi in processing su web archive
-statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | jq -r '.processing')
+statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
 
 # finché ci sono elementi in processing aspetta
 while [[ "$statusUser" -gt 0 ]]; do
   echo "wait"
   sleep 2
-  statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | jq -r '.processing')
+  statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
 done
 
 # salva su archive
@@ -48,11 +48,11 @@ while IFS=$'\t' read -r url time; do
   sleep 15
 
   # verifica se ci sono processi in corso a carico dell'utente, se sì non procedere
-  statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | jq -r '.processing')
+  statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
   while [[ "$statusUser" -gt 0 ]]; do
     echo "wait"
     sleep 2
-    statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | jq -r '.processing')
+    statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
   done
 
 done <"$folder"/../risorse/listArchive.tsv
