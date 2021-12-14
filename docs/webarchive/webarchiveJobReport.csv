@@ -1,4 +1,5 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-9f4bf8cd03108d58902479ea3c9ac0a97058e0d7-4dcb1f64,22.826,,error,error:unknown,https://www.cciss.it/web/cciss/database-rds-tmc
-spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec-f098c229,20.372,,error,error:unknown,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-1e2f9f8a,8.283,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-053880ad259e5fee7668bb414dbff09064160b27-d076d93a,19.946,,error,error:unknown,https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
+spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec-d5f7097c,65.403,,error,error:unknown,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
+spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-9d02924a,20.713,,error,error:unknown,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-79868cb4,20.455,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
