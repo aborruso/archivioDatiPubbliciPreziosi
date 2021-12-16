@@ -1,5 +1,5 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-053880ad259e5fee7668bb414dbff09064160b27-d076d93a,19.946,,error,error:unknown,https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
-spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec-d5f7097c,65.403,,error,error:unknown,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
-spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-9d02924a,20.713,,error,error:unknown,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-79868cb4,20.455,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-f69b931f545f7d60c5cb400ad30ec5a870bc6113-9855e608,41.4,,error,error:unknown,https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
+spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-06d7bf8b,22.093,,error,error:unknown,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+spn2-7ecd6c43ea27f05202e372e53092715e480452fd-bb8a5eff,5.486,,error,error:gateway-timeout,http://www.governo.it/it/coronavirus-normativa
+spn2-b30f2f05485be0be711756582807bc670d681e2f-2c9e8817,7.685,,error,error:gateway-timeout,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
