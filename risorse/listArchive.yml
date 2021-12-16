@@ -172,3 +172,9 @@
   nome: openCUP
   dataInserimento: 2021-12-10
   if_not_archived_within: 7d
+- titolo: "Italia Domani Documenti"
+  fonte: "sito Italia Domani"
+  URL: "https://italiadomani.gov.it/it/strumenti/documenti.html"
+  nome: italiaDomaniDocumenti
+  dataInserimento: 2021-12-16
+  if_not_archived_within: 10079m
