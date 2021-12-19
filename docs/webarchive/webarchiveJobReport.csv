@@ -1,5 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f69b931f545f7d60c5cb400ad30ec5a870bc6113-9855e608,41.4,,error,error:unknown,https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
-spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-06d7bf8b,22.093,,error,error:unknown,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
-spn2-7ecd6c43ea27f05202e372e53092715e480452fd-bb8a5eff,5.486,,error,error:gateway-timeout,http://www.governo.it/it/coronavirus-normativa
-spn2-b30f2f05485be0be711756582807bc670d681e2f-2c9e8817,7.685,,error,error:gateway-timeout,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-602dd04f,20.964,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-fdd727bb,22.343,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
