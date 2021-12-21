@@ -30,7 +30,7 @@ statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $S
 # finché ci sono elementi in processing aspetta
 while [[ "$statusUser" -gt 0 ]]; do
   echo "wait"
-  sleep 2
+  sleep 4
   statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
 done
 
@@ -51,7 +51,7 @@ while IFS=$'\t' read -r url time; do
   statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
   while [[ "$statusUser" -gt 0 ]]; do
     echo "wait"
-    sleep 2
+    sleep 4
     statusUser=$(curl -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
   done
 
