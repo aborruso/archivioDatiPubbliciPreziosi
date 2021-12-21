@@ -1,3 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53-602dd04f,20.964,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-fdd727bb,22.343,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146-03791c90,20.886,,error,error:unknown,https://anagrafe.iccu.sbn.it/it/open-data
