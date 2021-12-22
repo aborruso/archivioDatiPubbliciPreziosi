@@ -1,2 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146-03791c90,20.886,,error,error:unknown,https://anagrafe.iccu.sbn.it/it/open-data
+spn2-abb5120976e72196664341e6f4b2dbe03327559c-c6920052,24.422,,error,error:unknown,https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1
+spn2-935dfc14d12dca3a8c9919c6bbb5b4eb1f75561d-f2a159e6,21.122,,error,error:unknown,https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/siope/codici_degli_enti/
