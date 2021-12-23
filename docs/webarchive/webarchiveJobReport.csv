@@ -1,3 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-abb5120976e72196664341e6f4b2dbe03327559c-c6920052,24.422,,error,error:unknown,https://www.agenas.gov.it/covid19/web/index.php?r=site/tab1
-spn2-935dfc14d12dca3a8c9919c6bbb5b4eb1f75561d-f2a159e6,21.122,,error,error:unknown,https://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/siope/codici_degli_enti/
+spn2-f69b931f545f7d60c5cb400ad30ec5a870bc6113-e0e2f342,20.746,,error,error:unknown,https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
