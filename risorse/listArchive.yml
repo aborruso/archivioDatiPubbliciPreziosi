@@ -178,3 +178,11 @@
   nome: italiaDomaniDocumenti
   dataInserimento: 2021-12-16
   if_not_archived_within: 10079m
+- titolo: "Italia Domani Documenti - RawData"
+  fonte: "sito Italia Domani"
+  URL: "https://italiadomani.gov.it/it/strumenti/documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%2540jcr%253Acontent%252Fdate&sort=desc"
+  nome: italiaDomaniDocumentiRaw
+  dataInserimento: 2021-12-26
+  if_not_archived_within: 10079m
+
+
