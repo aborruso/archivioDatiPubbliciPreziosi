@@ -184,5 +184,11 @@
   nome: italiaDomaniDocumentiRaw
   dataInserimento: 2021-12-26
   if_not_archived_within: 10079m
+- titolo: "indice di vulnerabilità sociale e materiale "
+  fonte: "sito Istat"
+  URL: "https://www.istat.it/mappa-rischi/getReport.php?paramsSelected%5Btoken%5D=eyJhbGciOiAiSFMyNTYiLCJ0eXAiOiAiSldUIn0%3D.eyJhcHAiOiJtYXBwYVJpc2NoaSIsIm5hbWUiOiJJc3RhdCJ9.uaAgKbzg57x15GkGvBIneXLAVTk0M0jVv4yjf95MYZU%3D&paramsSelected%5Bid_regione%5D=&paramsSelected%5Bid_provincia%5D=&paramsSelected%5Bid_comune%5D=&paramsSelected%5BdateFrom%5D=01%2F01%2F2018&paramsSelected%5BGis%5D=&paramsSelected%5BfileType%5D=xlsx&paramsSelected%5BtipoFruizione%5D=0"
+  nome: IVSM
+  dataInserimento: 2021-12-31
+  if_not_archived_within: 30d
 
 
