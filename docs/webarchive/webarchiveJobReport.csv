@@ -1,0 +1,4 @@
+job_id,duration_sec,message,status,status_ext,url
+spn2-053880ad259e5fee7668bb414dbff09064160b27-c815da42,19.858,,error,error:unknown,https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
+spn2-f69b931f545f7d60c5cb400ad30ec5a870bc6113-4459ee0a,69.732,,error,error:unknown,https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open_data.php
+spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec-feed1b2e,20.409,,error,error:unknown,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
