@@ -1,2 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-a9f6e642,7.24,,error,error:gateway-timeout,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470-d9c7f307,5.731,,error,error:gateway-timeout,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
