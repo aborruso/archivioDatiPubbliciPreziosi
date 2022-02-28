@@ -196,5 +196,11 @@
   nome: monitoraggioCovidScuola
   dataInserimento: 2022-02-04
   if_not_archived_within: 5d
+- titolo: "Il Piano Nazionale per gli investimenti Complementari al PNRR"
+  fonte: "sito Italia Domani"
+  URL: "https://italiadomani.gov.it/it/il-piano/Risorse/piano-complementare/piano-nazionale-complementare.html"
+  nome: investimentiComplementariPNRR
+  dataInserimento: 2022-02-28
+  if_not_archived_within: 7d
 
 
