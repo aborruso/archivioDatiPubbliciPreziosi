@@ -1,2 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-60f5ba30,20.43,,error,error:unknown,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500-33814977,5.032,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
