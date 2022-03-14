@@ -202,5 +202,10 @@
   nome: investimentiComplementariPNRR
   dataInserimento: 2022-02-28
   if_not_archived_within: 7d
-
+- titolo: "Carburanti - Prezzi praticati e anagrafica degli impianti"
+  fonte: "sito Ministero sviluppo econoico"
+  URL: "https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti"
+  nome: carburanti-prezzi-anagrafica
+  dataInserimento: 2022-03-14
+  if_not_archived_within: 1d
 
