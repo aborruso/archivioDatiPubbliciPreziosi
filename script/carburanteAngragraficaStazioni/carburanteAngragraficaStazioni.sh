@@ -17,7 +17,8 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 if [ $code -eq 200 ]; then
 
   curl -skL "$URL" >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
-  sed -i 1d "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+  <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv tail -n +2 | grep -vP '&#' >"$folder"/../../docs/"$nome"/tmp.csv
+  mv "$folder"/../../docs/"$nome"/tmp.csv "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
   mlr -I  --csvlite --fs ";" sort -n idImpianto  "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
 fi
