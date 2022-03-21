@@ -19,7 +19,7 @@ if [ $code -eq 200 ]; then
   curl -skL "$URL" >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
   # versione cleaned
   # nota bene, vengono rimossi tutte le "
-  <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv sed -r 's/"//g' | tail -n +2 | grep -vP '&#' | mlr --csv --ifs ";" clean-whitespace then sort -f idImpianto >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi-cleaned.csv
+  <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv sed -r 's/"//g' | tail -n +2 | grep -vP '&#' | mlr --csv --ifs ";" clean-whitespace then sort -n idImpianto >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi-cleaned.csv
 
   <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv tail -n +2 | grep -vP '&#' >"$folder"/../../docs/"$nome"/tmp.csv
   mv "$folder"/../../docs/"$nome"/tmp.csv "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
