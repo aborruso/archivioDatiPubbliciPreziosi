@@ -208,4 +208,16 @@
   nome: carburanti-prezzi-anagrafica
   dataInserimento: 2022-03-14
   if_not_archived_within: 1d
+- titolo: "Cruscotto fenomeno degli sbarchi e l'accoglienza dei migranti"
+  fonte: "sito del Dipartimento per le Libertà civili e l'Immigrazione"
+  URL: "http://www.libertaciviliimmigrazione.dlci.interno.gov.it/it/documentazione/statistica/cruscotto-statistico-giornaliero"
+  nome: cruscotto-sbarchi-accoglienza
+  dataInserimento: 2022-04-01
+  if_not_archived_within: 1d
+- titolo: "Report statistici sulla presenza dei Minori Stranieri Non Accompagnati in Italia"
+  fonte: "Sito del Ministero del Lavoro e delle Politiche Sociali"
+  URL: "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Pagine/Dati-minori-stranieri-non-accompagnati.aspx"
+  nome: cruscotto-sbarchi-accoglienza
+  dataInserimento: 2022-04-01
+  if_not_archived_within: 1d
 
