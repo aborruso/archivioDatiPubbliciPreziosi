@@ -1,3 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-7ecd6c43ea27f05202e372e53092715e480452fd,1.913,,error,error:job-failed,http://www.governo.it/it/coronavirus-normativa
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb,80.416,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-7ecd6c43ea27f05202e372e53092715e480452fd,3.318,,error,error:job-failed,http://www.governo.it/it/coronavirus-normativa
