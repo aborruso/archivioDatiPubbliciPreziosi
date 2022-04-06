@@ -1,4 +1,0 @@
-job_id,duration_sec,message,status,status_ext,url
-spn2-5554c1c7d49d8bba803a3dc90afff2b97f8c4b53,55.305,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb,2.309,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
-spn2-3086988cb25211054d30b4f04a977f557fd7fff2,65.962,,error,error:job-failed,https://italiadomani.gov.it/it/strumenti/documenti.html
