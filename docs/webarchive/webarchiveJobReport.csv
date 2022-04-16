@@ -1,0 +1,4 @@
+job_id,duration_sec,message,status,status_ext,url
+spn2-fe70df1510d82235837f8cd45d6bc05609c13ffc,1.545,,error,error:job-failed,https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page
+spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,2.345,,error,error:job-failed,https://anagrafe.iccu.sbn.it/it/open-data
+spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec,1.394,,error,error:job-failed,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
