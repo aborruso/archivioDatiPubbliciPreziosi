@@ -1,3 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,22.872,,error,error:gateway-timeout,https://anagrafe.iccu.sbn.it/it/open-data
-spn2-c75afc86ed7ccf751042a70ab73a4b4e22707ec3,18.825,,error,error:gateway-timeout,https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Pagine/Dati-minori-stranieri-non-accompagnati.aspx
+spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,21.903,,error,error:gateway-timeout,https://anagrafe.iccu.sbn.it/it/open-data
