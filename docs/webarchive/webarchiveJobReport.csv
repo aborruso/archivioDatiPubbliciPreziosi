@@ -1,2 +1,2 @@
-job_id,duration_sec,message,status,status_ext,url
-spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,21.903,,error,error:gateway-timeout,https://anagrafe.iccu.sbn.it/it/open-data
+job_id,message,status,status_ext,url
+spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,,error,error:job-failed,https://anagrafe.iccu.sbn.it/it/open-data
