@@ -12,7 +12,7 @@ mkdir -p "$folder"/../docs/webarchive
 
 # se lo script è lanciato sulla mia macchina, leggi il file di config
 if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
-  source "$folder"/../.config
+  source "$folder"/../conflocale
 fi
 
 # estrai lista di URL da archiviare in formato txt e tsv

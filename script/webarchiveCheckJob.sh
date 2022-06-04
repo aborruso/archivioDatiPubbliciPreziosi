@@ -11,7 +11,7 @@ mkdir -p "$folder"/rawdata
 
 # se lo script è lanciato sulla mia macchina, leggi il file di config
 if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
-  source "$folder"/../.config
+  source "$folder"/../conflocale
 fi
 
 # estrai tutti i job che hanno un ID e che non sono in wait perché già catturati
