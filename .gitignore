@@ -4,3 +4,4 @@ docs/ANPRdatiMigrazione/ANPRdatiMigrazione.geojson
 .~lock*
 #script/webarchiveLatest.log
 script/rawdata/*
+conflocale
