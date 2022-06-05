@@ -1,2 +1,5 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,27.223,,error,error:gateway-timeout,https://anagrafe.iccu.sbn.it/it/open-data
+spn2-cb7f093fbd2e75176eb4e6cb2ebf874880bc5146,22.735,,error,error:gateway-timeout,https://anagrafe.iccu.sbn.it/it/open-data
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,21.206,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-b30f2f05485be0be711756582807bc670d681e2f,1.654,,error,error:job-failed,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+spn2-1c4e134232efb5a49789e182db0d27eba6a0287e,0.924,,error,error:job-failed,http://www.libertaciviliimmigrazione.dlci.interno.gov.it/it/documentazione/statistica/cruscotto-statistico-giornaliero
