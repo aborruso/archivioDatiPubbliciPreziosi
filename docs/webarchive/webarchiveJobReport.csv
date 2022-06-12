@@ -1,3 +1,7 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-053880ad259e5fee7668bb414dbff09064160b27,31.752,,error,error:job-failed,https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,22.267,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,24.411,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-b30f2f05485be0be711756582807bc670d681e2f,1.47,,error,error:job-failed,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+spn2-3086988cb25211054d30b4f04a977f557fd7fff2,35.027,,error,error:job-failed,https://italiadomani.gov.it/it/strumenti/documenti.html
+spn2-109ed8562b05886265314f397f73b0c8ca1143c0,98.151,,error,error:job-failed,https://italiadomani.gov.it/it/strumenti/documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%40jcr%3Acontent%2Fdate
+spn2-12e176cc1e40fa43d566e8a787e65e583cc15b28,99.41,,error,error:job-failed,https://www.istruzione.it/iotornoascuola/monitoraggi.html
+spn2-c75afc86ed7ccf751042a70ab73a4b4e22707ec3,4.059,,error,error:job-failed,https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Pagine/Dati-minori-stranieri-non-accompagnati.aspx
