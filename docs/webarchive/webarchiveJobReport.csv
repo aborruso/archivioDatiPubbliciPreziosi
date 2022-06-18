@@ -1,3 +1,7 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,22.853,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
-spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb,31.358,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,1.789,,error,error:job-failed,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,1.789,,error,error:job-failed,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec,3.02,,error,error:job-failed,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,23.392,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,1.789,,error,error:job-failed,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,1.789,,error,error:job-failed,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
