@@ -1,2 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,23.223,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-b651610b8c1eda94c7fcf81cd40dbf28abebc562,0.778,,error,error:bad-request,https://bit.ly/2Umw1EZ
+spn2-b30f2f05485be0be711756582807bc670d681e2f,33.607,,error,error:job-failed,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
