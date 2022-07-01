@@ -1,2 +1,10 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,21.71,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-fe70df1510d82235837f8cd45d6bc05609c13ffc,1.531,,error,error:job-failed,https://www.serviziocontrattipubblici.it/SPInApp/it/works_unfinished.page
+spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec,9.604,,error,error:job-failed,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
+spn2-5cb93d4b76b662a3c25fdd6917d866f77a3fa470,12.356,,error,error:job-failed,https://www.catasto-rifiuti.isprambiente.it/index.php?pg=downloadComune
+spn2-1ebc3d6cc82ce04e8f3fa51576e672e30494fbe4,15.698,,error,error:job-failed,https://www.agenas.gov.it/covid19/web/index.php?r=site/tab2
+spn2-b651610b8c1eda94c7fcf81cd40dbf28abebc562,0.79,,error,error:bad-request,https://bit.ly/2Umw1EZ
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,22.59,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb,86.29,,error,error:job-failed,https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+spn2-b30f2f05485be0be711756582807bc670d681e2f,9.039,,error,error:job-failed,https://dait.interno.gov.it/territorio-e-autonomie-locali/open-data/dati-sistema-unico-territoriale
+spn2-1c4e134232efb5a49789e182db0d27eba6a0287e,10.04,,error,error:job-failed,http://www.libertaciviliimmigrazione.dlci.interno.gov.it/it/documentazione/statistica/cruscotto-statistico-giornaliero
