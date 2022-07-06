@@ -1,2 +1,2 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,28.955,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,27.247,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
