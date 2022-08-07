@@ -1,2 +1,6 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,23.786,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,7.526,,error,error:gateway-timeout,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,7.526,,error,error:gateway-timeout,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,22.884,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,7.526,,error,error:gateway-timeout,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
+spn2-90d9cbf1877f5ee39ce9be4fcfdaa888ab29f8f7,7.526,,error,error:gateway-timeout,https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti
