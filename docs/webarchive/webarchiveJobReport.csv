@@ -1,2 +1,3 @@
 job_id,duration_sec,message,status,status_ext,url
-spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,24.572,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
+spn2-ef31e16c0a372308783db9ed4383b317a4a28b53,1.922,,error,error:job-failed,http://www.aci.it/laci/studi-e-ricerche/dati-e-statistiche/open-data.html
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,24.233,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
