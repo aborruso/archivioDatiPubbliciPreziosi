@@ -1,0 +1,3 @@
+job_id,duration_sec,message,status,status_ext,url
+spn2-ebb04a3eef9ddacbc5df5c68c27d742dab0e63ec,5.848,,error,error:gateway-timeout,https://servizi.anticorruzione.it/portal/classic/Servizi/RicercaAttestazioni
+spn2-f27caf15827afdfdc698fccfcdfc2e7f992be500,24.469,,error,error:gateway-timeout,http://www.resetpalermo.it/index.php/manutenzione-verde-e-spiagge
