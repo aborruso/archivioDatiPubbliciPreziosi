@@ -2842,8 +2842,6 @@ ambulante-facharztliche-versorgung-facharztliche-mobilitat
 ambulanti
 ambulatori-medici-open-data
 ambulatori-privati
-amministrati-per-comune-dellunita-organizzativa-dellamministrazione
-amministrati-per-comune-di-residenza
 amministrative-1997-risultati-ballottaggio
 amministrative-2000-elezioni-consiglio-circoscrizione-5
 amministrative-2001-risultati-ballottaggio
@@ -5371,7 +5369,6 @@ asl
 asse-di-nuovo-collegamento-ferroviario-ptrc-2020
 asse-potenziale-di-connessione-territoriale-ptrc-2020
 assegnazione-carburante-in-agricoltura-utenti-motori-agricoli-uma
-assegni-al-nucleo-familiare
 assegni-di-maternita-2022
 assegni-familiari_lavoratori-autonomi-numero-beneficiari-e-importo-assegno-per-gestione-cl-2014
 assegni-familiari_lavoratori-autonomi-numero-beneficiari-e-importo-assegno-per-gestione-e-2014
@@ -5398,7 +5395,6 @@ assemini-puc
 assemini-puc-ambito-ru
 assemini-puc-pin
 assemini-sezioni-censuarie
-assenze-contabilizzate-a-fini-economici
 assenze-personale
 assenze-personale-in-servizio-anno-2017
 assenze-personale-in-servizio-anno-2018
@@ -10087,6 +10083,7 @@ c_g515_dataset_suap-tempi-medi_2019
 c_g515_dataset_suap-tempi-medi_2020
 c_g515_dataset_teatri
 c_g515_dataset_uffici-postali
+c_g657_dataset_aree-sosta-camper
 c_g657_dataset_avcp_2019
 c_g657_dataset_avcp_2020
 c_g657_dataset_biblioteche
@@ -28132,7 +28129,6 @@ evidenze_segnalazioni_archeologiche
 evidenze_segnalazioni_archeologiche_app
 evoluzione-annuale-della-generazione-2006-di-nuovi-beneficiari-di-mobilit224-anni-2006-2009
 evoluzione-della-linea-di-costa-dal-1944-al-20162
-evoluzione-delle-detrazioni-per-familiari-a-carico
 evoluzione-mensile-di-due-generazioni-di-beneficiari-gennaio-2009-e-luglio-2009-di-disoccu-2010
 evoluzione-mensile-per-generazioni-di-beneficiari-di-disoccupazione-ordinaria-non-agricola-2010
 evoluzione-mensile-per-generazioni-di-beneficiari-di-disoccupazione-ordinaria-non-agricola-20101
@@ -31460,8 +31456,6 @@ innovazione
 innovazioni-realizzate-nel-psr-2007-2013
 inps
 inqctr
-inquadramenti-contrattuali-per-amministrazione
-inquadramento-degli-amministrati
 inquinamento-acustico-diurno-autostrada
 inquinamento-acustico-diurno-strade-statali-e-provinciali
 inquinamento-acustico-notturno-autostrada
@@ -34933,7 +34927,6 @@ mn9o18-popolazione-residente-per-classi-di-eta
 mn9o18-stranieri-residenti-per-cittadinanza
 mobilit224-numero-di-beneficiari-al-31-dicembre
 mobilita-attiva-per-regione
-mobilita-degli-amministrati
 mobilita-delle-merci1
 mobilita-delle-persone
 mobilita-giornaliera-bologna
@@ -34953,7 +34946,6 @@ mobilita-ospedaliera-passiva
 mobilita-rilievo-flussi-traffico
 mobilita-sanitaria
 modalita-di-accesso-al-sistema-integrato-dei-servizi
-modalita-di-accredito-degli-stipendi
 modalita-di-gestione-sistema-vegetazionale
 modalita-di-presentazione-isee-statistiche
 modalita-di-realizzazione1
@@ -39873,8 +39865,6 @@ mosaico-ortofoto-anno-19681
 mosaico-ortofoto-anno-19683
 mosaico-ortofoto-anno-20101
 motivazione-uscite-dal-progettone
-motivi-assunzione
-motivi-di-cessazione
 motocicli-anno-2018-avellino
 motocicli-anno-2018-benevento
 motocicli-anno-2018-caserta
@@ -50345,7 +50335,6 @@ redditi-da-pensione-2013
 redditi-da-pensione-2014
 redditi-da-pensione-2015
 redditi-da-pensione-2016
-redditi-di-lavoro-dipendente-e-assimilati-certificati-agli-amministrati
 redditi-distribuzione-del-reddito-complessivo-delle-persone-fisiche
 redditi-e-variabili-irpef-su-base-comunale-2001-a-i-2000
 redditi-e-variabili-irpef-su-base-comunale-2002-a-i-2001
@@ -53504,10 +53493,6 @@ risultatielezioni2020presidenteregione
 risultatielezioni2020referendumcostituzionale
 risultatireferendumabrogativi2022
 risultato-questionario-di-gradimento-scuola-musicale-anno-2016
-ritenute-fiscali
-ritenute-per-adesioni-sindacali
-ritenute-per-ricorso-al-credito
-ritenute-previdenziali
 ritirati-dal-lavoro
 rivendita-giornali-e-riviste
 rivendite-di-tabacchi
@@ -57283,6 +57268,7 @@ stranieri-residenti-a-palermo-al-31-12-2021-per-sezione-di-censimento-e-area-geo
 stranieri-residenti-a-palermo-al-31-12-2021-per-sezione-di-censimento-e-cittadinanza
 stranieri-residenti-a-palermo-al-31-12-2021-per-unita-di-primo-livello-e-area-geopolitica
 stranieri-residenti-a-palermo-al-31-12-2021-per-unita-di-primo-livello-e-cittadinanza
+stranieri-residenti-a-palermo-al-31-12-2022-per-circoscrizione-e-area-geopolitica
 stranieri-residenti-a-palermo-al-31-12-2022-per-circoscrizione-e-cittadinanza
 stranieri-residenti-a-palermo-al-31-12-2022-per-quartiere-e-area-geopolitica
 stranieri-residenti-a-palermo-al-31-12-2022-per-quartiere-e-cittadinanza
@@ -57483,7 +57469,6 @@ struttura-della-rete-di-monitoraggio-della-qualita-dell-aria-in-toscana
 struttura-demografica
 struttura-eta-sesso-stato-civile-della-popolazione-2017
 struttura-intermedia-di-eccellenza-ptrc-2020
-struttura-organizzativa-amministrazioni
 struttura-organizzativa-dei-comuni-della-federazione-dei-comuni-del-camposampierese-n-2019-2021
 struttura-ospedaliera-integrata-universita-regione-ptrc-2020
 struttura-per-et-sesso-e-stato-civile-della-popolazione-residente-in-toscana-2012
