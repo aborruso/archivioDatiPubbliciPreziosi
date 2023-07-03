@@ -3073,6 +3073,7 @@ amministrazione-comunale-bilancio-comunale-rendiconto-2017-18-e-previsioni-bilan
 amministrazione-comunale-bilancio-comunale-rendiconto-2018-19-e-previsioni-bilancio-tri-2020-22
 amministrazione-comunale-bilancio-comunale-rendiconto-2019-20-e-previsioni-bilancio-tri-2021-23
 amministrazione-comunale-bilancio-comunale-rendiconto-2020-21-e-previsioni-bilancio-tri-2022-24
+amministrazione-comunale-bilancio-comunale-rendiconto-2021-22-e-previsioni-bilancio-tri-2023-25
 amministrazione-comunale-certificati-rilasciati-per-tipologia-e-canale-della-richiesta-su-base-
 amministrazione-comunale-certificati-rilasciati-per-tipologia-e-canale-su-base-annuale
 amministrazione-comunale-localizzazione-delle-antenne-di-open-wifi-milano-outdoor
@@ -4078,6 +4079,7 @@ area-c-accessi-mensili-maggio-2019
 area-c-accessi-mensili-maggio-2020
 area-c-accessi-mensili-maggio-2021
 area-c-accessi-mensili-maggio-2022
+area-c-accessi-mensili-maggio-2023
 area-c-accessi-mensili-marzo-2017
 area-c-accessi-mensili-marzo-2018
 area-c-accessi-mensili-marzo-2019
@@ -7594,6 +7596,7 @@ bilancio-demografico-e-popolazione-residente-al-31-dicembre-anni-2008-2012
 bilancio-demografico-e-popolazione-residente-al-31-dicembre-per-comune-anni-2011-2012
 bilancio-demografico-e-popolazione-straniera-residente-per-comune-al-31-dicembre-anni-2011-2012
 bilancio-demografico-mensile-di-matera-dal-1-gennaio-2022-ad-oggi
+bilancio-demografico-mensile-di-matera-dal-1-gennaio-2023ad-oggi
 bilancio-di-esercizio-2016
 bilancio-di-esercizio-2017
 bilancio-di-genere
@@ -10646,6 +10649,7 @@ c_i661_dataset_chiese
 c_i661_dataset_concorsi_2019
 c_i661_dataset_concorsi_2021
 c_i661_dataset_concorsi_2022
+c_i661_dataset_concorsi_2023
 c_i661_dataset_delibere
 c_i661_dataset_determine
 c_i661_dataset_edifici_pubblici
@@ -20942,6 +20946,7 @@ database-topografico-tema-toponimi-e-numeri-civici
 database-topografico-tema-verde-urbano
 dataset-alimentazioni
 dataset-amministrazioni
+dataset-amministrazioni1
 dataset-anac-2017
 dataset-anac-20174
 dataset-anac-2018
@@ -20954,16 +20959,23 @@ dataset-anac-2021
 dataset-anac-20211
 dataset-anac-2022
 dataset-appalti-specifici-banditi-su-accordi-quadro
+dataset-appalti-specifici-banditi-su-accordi-quadro1
 dataset-appalti-specifici-banditi-su-sistema-dinamico-di-acquisizione
+dataset-appalti-specifici-banditi-su-sistema-dinamico-di-acquisizione1
 dataset-assistenza-ospedaliera-per-acc-e-ats
 dataset-assistenza-ospedaliera-per-ats
 dataset-assistenza-ospedaliera-per-disciplina-di-dimissione-e-ats
 dataset-assistenza-ospedaliera-per-mdc-e-ats
 dataset-bandi-e-gare
+dataset-bandi-e-gare1
 dataset-beni-e-servizi-acquistati-tramite-rdo-td-su-mepa
+dataset-beni-e-servizi-acquistati-tramite-rdo-td-su-mepa1
 dataset-beni-e-servizi-richiesti-tramite-rdo-td-bandite
+dataset-beni-e-servizi-richiesti-tramite-rdo-td-bandite1
 dataset-cataloghi
 dataset-cataloghi-copertura-territoriale
+dataset-cataloghi-copertura-territoriale1
+dataset-cataloghi1
 dataset-classe-euro
 dataset-condizioni-di-salute-per-comune-eta-e-genere
 dataset-condizioni-di-salute-per-provincia
@@ -20972,7 +20984,9 @@ dataset-condizioni-di-salute-per-provincia-genere-e-causa
 dataset-condizioni-di-salute-per-provincia-genere-e-fascia-deta
 dataset-consumi-farmaceutica-pazienti-cronici
 dataset-consumi-generati-tramite-ordini-diretti-di-acquisto-in-convenzione
+dataset-consumi-generati-tramite-ordini-diretti-di-acquisto-in-convenzione1
 dataset-contratti-stipulati-a-seguito-di-rdo-td-su-mepa
+dataset-contratti-stipulati-a-seguito-di-rdo-td-su-mepa1
 dataset-coperture-vaccinali
 dataset-degenza-media-e-accessi-medi-per-acc-e-ats
 dataset-degenza-media-e-accessi-medi-per-acc-e-struttura
@@ -20990,18 +21004,24 @@ dataset-dei-luoghi-amministrativi-e-ambientali
 dataset-della-dislocazione-delle-fontanelle-per-acqua-potabile-amap
 dataset-euring-protocol-engine-dati-dellattivita-di-inanellamento-degli-uccelli-cni-ispra
 dataset-fornitori
+dataset-fornitori1
 dataset-hotspot-pisa-wifi
 dataset-indicatori-consumo-del-suolo
 dataset-indici-popolazione-cronica
 dataset-interruzioni-gravidanza
 dataset-interruzioni-volontarie-gravidanza
 dataset-ordini-diretti-di-acquisto-in-convenzione
+dataset-ordini-diretti-di-acquisto-in-convenzione1
 dataset-ordini-diretti-di-acquisto-su-accordi-quadro
+dataset-ordini-diretti-di-acquisto-su-accordi-quadro1
 dataset-ordini-diretti-di-acquisto-sul-mepa
+dataset-ordini-diretti-di-acquisto-sul-mepa1
 dataset-partecipazioni
+dataset-partecipazioni1
 dataset-pesticidi-indicatori-sqa-e-stazioni-di-monitoraggio
 dataset-popolazione-cronica-regione-lombardia
 dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa
+dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa1
 dataset-sdo-regione-lombardia
 dataset-tasso-prestazioni-regione-lombardia-per-branca
 dataset-tasso-prestazioni-regione-lombardia-per-genere-e-fascia-di-eta
@@ -25664,6 +25684,7 @@ elenco-strutture-per-minori-autorizzate-citta-di-lecce
 elenco-strutture-residenziali-per-anziani1
 elenco-strutture-ricettive
 elenco-strutture-ricettive-20131
+elenco-strutture-ricettive-al-30-04-2023-primo-quadrimestre
 elenco-strutture-ricettive-al-31-12-2022-terzo-quadrimestre
 elenco-strutture-ricettive-comune-di-chieri-2021
 elenco-strutture-ricettive-nel-comune-di-crispiano-ta-progressivo
@@ -29029,6 +29050,7 @@ galleria-galler-020303
 gallerie-ciclabili
 gallerie-strade-principali-e-ferrovie
 gare-asp
+gare-asp1
 gare-bandite-sulla-piattaforma-e-procurement-della-direzione-regionale-centrale-acquisti
 gare-di-appalto-forniture-della-regione-basilicata
 gare-di-appalto-lavori-della-regione-basilicata
@@ -30564,6 +30586,9 @@ incidenti-morti-e-feriti-per-fascia-oraria-e-dinamica
 incidenti-morti-e-feriti-per-mese-e-giorno
 incidenti-morti-feriti-ed-indicatori-dellincidentalita-stradale-per-mese-anni-2001-2018
 incidenti-open-data
+incidenti-per-inconveniente
+incidenti-per-natura
+incidenti-per-natura-e-inconveniente
 incidenti-per-tipo-di-veicoli-coinvolti-e-regione-anni-2001-2013
 incidenti-per-tipo-di-veicoli-coinvolti-e-regione-anni-2001-2018
 incidenti-per-tipo-e-categoria-veicolo-anno-2009
@@ -32347,6 +32372,7 @@ la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2022
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-4-trimest-2020
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-4-trimest-2021
+la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-4-trimest-2022
 la-rete-distributiva-dei-comuni-rilevazione-2009
 la-ricerca-collaborativa-i-partenariati-regionali-dellinnovazione
 la-ricerca-collaborativa-la-rete-dei-laboratori-pubblici1
@@ -32669,6 +32695,7 @@ le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trimestre-2021
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-4-trim-2020
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-4-trimestre-2021
+le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-4-trimestre-2022
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-anno-2020
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-anno-2021
 le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2020
@@ -32677,6 +32704,7 @@ le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-4-trimestre-2020
+le-imprese-artigiane-della-provincia-di-lecce-4-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-anno-2020
 le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-1-trimestre-2021
 le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-1-trimestre-2022
@@ -32686,6 +32714,7 @@ le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-4-trimestre-
 le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-anno-2021
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-3-trimestre-2022
+le-imprese-dei-comuni-della-provincia-di-lecce-4-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-per-settore-di-attivita-1-trimestre-2021
 le-imprese-dei-comuni-della-provincia-di-lecce-per-settore-di-attivita-1-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-per-settore-di-attivita-2-trimestre-2021
@@ -32709,6 +32738,7 @@ le-imprese-della-provincia-di-lecce-3-trimestre-2021
 le-imprese-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-della-provincia-di-lecce-4-trimestre-2020
 le-imprese-della-provincia-di-lecce-4-trimestre-2021
+le-imprese-della-provincia-di-lecce-4-trimestre-2022
 le-imprese-della-provincia-di-lecce-anno-2020
 le-imprese-della-provincia-di-lecce-anno-2021
 le-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimestre-2022
@@ -32720,6 +32750,7 @@ le-imprese-femminili-della-provincia-di-lecce-2-trimestre-20221
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-20221
 le-imprese-femminili-della-provincia-di-lecce-4-trimestre-2020
+le-imprese-femminili-della-provincia-di-lecce-4-trimestre-2022
 le-imprese-femminili-della-provincia-di-lecce-anno-2020
 le-imprese-femminili-della-provincia-di-lecce-per-settore-di-attivita-1-trimestre-2021
 le-imprese-femminili-della-provincia-di-lecce-per-settore-di-attivita-2-trimestre-2021
@@ -34396,8 +34427,6 @@ mappa-stazioni-qualita-dellaria
 mappa-strade-agro-silvo-pastorali
 mappa-strutture-di-riabilitazione
 mappa-strutture-per-assistenza-domiciliare-integrata
-mappa-strutture-ricettive-alberghiere-e-extra-alberghiere
-mappa-strutture-ricettive-alberghiere-e-extralberghiere-per-comune
 mappa-tassa-auto
 mappa-terminal-intermodali
 mappa-unita-di-offerta-sociale-per-anziani
@@ -39999,6 +40028,7 @@ movimento-anagrafico-migratorio-saldo-anno-2010-2011
 movimento-anagrafico-per-comune-tassi-popolazione
 movimento-anagrafico-popolazione-straniera
 movimento-anagrafico-saldi
+movimento-anagrafico1
 movimento-annuale-nel-veneto-per-comprensorio-anno-2020
 movimento-annuale-nel-veneto-per-comune-arrivi-per-mese-anno-2020
 movimento-annuale-nel-veneto-per-comune-presenze-per-mese-anno-2020
@@ -47264,6 +47294,12 @@ prezzi-al-consumo-maggio-2022-indice-nic-e-variaz-per-tipologia-di-prodotto
 prezzi-al-consumo-maggio-2022-indice-nic-per-classi-di-spesa
 prezzi-al-consumo-maggio-2022-indice-nic-per-gruppi-di-spesa
 prezzi-al-consumo-maggio-2022-indice-nic-per-sottoclassi-di-spesa
+prezzi-al-consumo-maggio-2023-indice-nic-e-variaz-complessivi-e-per-divisione
+prezzi-al-consumo-maggio-2023-indice-nic-e-variaz-per-frequenza-di-acquisto
+prezzi-al-consumo-maggio-2023-indice-nic-e-variaz-per-tipologia-di-prodotto
+prezzi-al-consumo-maggio-2023-indice-nic-per-classi-di-spesa
+prezzi-al-consumo-maggio-2023-indice-nic-per-gruppi-di-spesa
+prezzi-al-consumo-maggio-2023-indice-nic-per-sottoclassi-di-spesa
 prezzi-al-consumo-marzo-2022-indice-nic-e-variaz-complessivi-e-per-divisione
 prezzi-al-consumo-marzo-2022-indice-nic-e-variaz-per-frequenza-di-acquisto
 prezzi-al-consumo-marzo-2022-indice-nic-e-variaz-per-tipologia-di-prodotto
@@ -47843,8 +47879,6 @@ provincia-autonoma-di-bolzano-collaboratori-esterni-ed-incaricati-di-consulenze
 provincia-autonoma-di-trento1
 provincia-autonoma-di-trentonew
 provincia-cremona-agriturismi-con-alloggio-o-appartamenti
-provincia-cremona-mappa-agriturismi-con-alloggio-e-strutture-ricettive-turistiche
-provincia-cremona-mappa-strutture-ricettive
 provincia-cremona-popolazione-residente-al-31-12-2015
 provincia-cremona-popolazione-straniera-31-12-2015
 provincia-di-asti
@@ -47890,7 +47924,6 @@ provincia-di-lecco-esercizi-per-celiaci
 provincia-di-lecco-gallerie-darte
 provincia-di-lecco-gare-di-appalto
 provincia-di-lecco-interventi-di-recupero-della-fauna
-provincia-di-lecco-mappa-strutture-ricettive-alberghiere-e-extra-alberghiere
 provincia-di-lecco-organizzazioni-di-volontariato-di-protezione-civile
 provincia-di-lecco-parcheggi-per-camper-e-aree-camper
 provincia-di-lecco-provvedimenti-degli-organi-di-indirizzo-politico1
@@ -49242,7 +49275,6 @@ quadro-dunione-tavole-1-25000-taglio-ed50
 quadro-economico1
 quadro-riepilogativo-delle-grandi-cause-di-morte-anno-2015-della-citta-di-matera1
 quadro-riepilogativo-delle-grandi-cause-di-morte-anno-2016-della-citta-di-matera1
-quadro-riepilogativo-delle-grandi-cause-di-morte-anno-2017-della-citta-di-matera1
 quadro-riepilogativo-delle-grandi-cause-di-morte-per-numerosita-1-semestre-20141
 quadro-riepilogativo-delle-grandi-cause-di-morte-per-numerosita-2-semestre-2014-del-comune-di-m1
 quadro-riepilogativo-delle-grandi-cause-di-morte-per-numerosita-anno-2014-del-comune-di-matera1
@@ -55520,6 +55552,7 @@ siope-spese-comune-di-milano-luglio-2022
 siope-spese-comune-di-milano-maggio-2020
 siope-spese-comune-di-milano-maggio-2021
 siope-spese-comune-di-milano-maggio-2022
+siope-spese-comune-di-milano-maggio-2023
 siope-spese-comune-di-milano-marzo-2021
 siope-spese-comune-di-milano-marzo-2022
 siope-spese-comune-di-milano-marzo-2023
@@ -59236,6 +59269,7 @@ ufficializzazione-sedimi-stradali-e-targhe-commemorative-2000-2017
 ufficio-acquedotto-report-commerciale-2013
 ufficio-acquedotto-report-commerciale-2014
 ul-comune-ateco-infocamere2017
+ul-e-addetti-per-comune
 ulteriori-captazioni-punti
 ultima-previsione-di-qualita-dell-aria
 ultimo-bollettino-giornaliero-qualita-dellaria
