@@ -18,6 +18,7 @@ yq <"$folder"/../../risorse/list.yml -r '.[] | select(.nome=="'"$nome"'").URL' |
 
 # scarica risorse
 while IFS=$'\t' read -r url file; do
+  echo "$file"
   curl -ksL "$url" >"$folder"/../../docs/"$nome"/"$file"
   mlr -I --csv cat "$folder"/../../docs/"$nome"/"$file"
 done <"$folder"/tmp.tsv

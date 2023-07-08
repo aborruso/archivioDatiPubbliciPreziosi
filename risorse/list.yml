@@ -131,12 +131,12 @@
   URL:
     - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/d09adf99-dc10-4349-8c53-27b1e5aa97b6?bom=True"
       nome: "enti.csv"
-    - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/f1764ae3-7f47-4183-84e4-4c8786cc337f?bom=True"
-      nome: naturaGiuridica.csv
+#    - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/f1764ae3-7f47-4183-84e4-4c8786cc337f?bom=True"
+#      nome: naturaGiuridica.csv
     - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/84ebb2e7-0e61-427b-a1dd-ab8bb2a84f07?bom=True"
       nome: codiceCategoria.csv
-    - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/6f0f7122-3312-47ac-a292-7a647986387e?bom=True"
-      nome: codiceAteco.csv
+#    - URL: "https://indicepa.gov.it/ipa-dati/datastore/dump/6f0f7122-3312-47ac-a292-7a647986387e?bom=True"
+#      nome: codiceAteco.csv
   URLinfo: "https://indicepa.gov.it/ipa-dati/"
   nome: indiceIPACatalogo
   tipo: multiplo
