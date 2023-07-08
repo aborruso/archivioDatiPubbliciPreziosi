@@ -8,7 +8,7 @@ mkdir -p "$folder"/rawdata
 
 nome="archivioComuniANPR"
 
-URL="https://www.anpr.interno.it/wp-content/uploads/ANPR_archivio_comuni.csv"
+URL="https://www.anagrafenazionale.interno.it/wp-content/uploads/ANPR_archivio_comuni.csv"
 
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
@@ -18,7 +18,7 @@ if [ $code -eq 200 ]; then
 
   curl -skL "$URL" >"$folder"/rawdata/tmp_ANPR_archivio_comuni.csv
 
-  checkValid=$(frictionless validate --json "$folder"/rawdata/tmp_ANPR_archivio_comuni.csv | jq -r '.valid')
+  checkValid=$(frictionless validate --sample-size 2000 --trusted --json "$folder"/rawdata/tmp_ANPR_archivio_comuni.csv | jq -r '.valid')
 
   if [[ "$checkValid" == "false" ]]; then
     echo "CSV non valido"
