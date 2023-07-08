@@ -19,6 +19,7 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
+        sudo pip install ckanapi
     - name: scarica i dati
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
