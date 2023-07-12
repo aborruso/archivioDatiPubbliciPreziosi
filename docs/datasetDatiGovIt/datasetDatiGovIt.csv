@@ -1366,6 +1366,7 @@ accessi-web-mensili-da-mobile-al-portale-istituzionale
 accessi_a_pisa_wifi_anno_2016
 accessi_principali
 accessi_ripetuti
+accessibilita-agid
 accessibilita-per-persone-con-disabilita-motorie
 accesso-al-portale-istituzionale-anno-2016
 accesso-al-portale-istituzionale-anno-2017
@@ -6772,7 +6773,6 @@ banche-dati
 banche-dati-regione-lombardia
 banche-numero-sportelli-impieghi-e-depositi-anno-2009-2010
 banche-numero-sportelli-impieghi-e-depositi-anno-2010-2011
-bancomat
 bandi-assegni-di-cura
 bandi-assistenza-indiretta-personalizzata
 bandi-di-concorso-bandi-espletati
@@ -7687,6 +7687,7 @@ bilancio-di-esercizio-2017
 bilancio-di-genere
 bilancio-di-mandato-2001-2005
 bilancio-di-mandato-2006-2010
+bilancio-di-previsione
 bilancio-di-previsione-2002
 bilancio-di-previsione-2003
 bilancio-di-previsione-2004
@@ -7757,7 +7758,6 @@ bilancio-di-previsione-previsione-uscite
 bilancio-di-previsione-quadro-generale-entrate
 bilancio-di-previsione-quadro-generale-uscite
 bilancio-di-previsione-tonco-2014
-bilancio-di-previsione1
 bilancio-di-verifica-entrata-2015
 bilancio-di-verifica-spesa-2015
 bilancio-idroclimatico-annuo-clima-1961-1990-ed-2017
@@ -12532,7 +12532,6 @@ chiese-del-territorio-comunale-di-matera1
 chiese-e-altri-luoghi-di-culto
 chiese-monasteri-e-conventi-di-lecce
 chiese-open-data
-chiese-turismo
 ciclabili-e-ciclovie-del-veneto
 cicloparcheggi-comune-di-chieri
 cicloposteggi-bike-sharing
@@ -21647,6 +21646,7 @@ dati-piezometrici-acque-sotterranee
 dati-popolazione
 dati-popolazione-residente-per-circoscrizione-anno-2010-open-data
 dati-popolazione-residente-per-circoscrizione-anno-2011-open-data
+dati-prodotti-dal-monitoraggio-automatizzato-dellaccessibilita
 dati-provincia-asti-it-dataset
 dati-provincia-asti-it-dataset-dataset
 dati-provincia-di-asti-dataset
@@ -23585,6 +23585,7 @@ dichiarazioni-dei-redditi-irpef-2015
 dichiarazioni-dei-redditi-irpef-2016
 dichiarazioni-dei-redditi-irpef-2017
 dichiarazioni-dei-redditi-irpef-2018
+dichiarazioni-di-accessibilita
 dichiarazioni-di-vendemmia-e-produzione
 dichiarazioni2019imposta2018
 difesa-spondale1
@@ -24515,9 +24516,9 @@ ecosistema-sanitario-regionale-calabrese
 ecosistema-urbano-2015-vicinanza-delle-industrie-alle-scuole-del-comune-di-treviso
 ecosistema-urbano-mobilita-comune-di-treviso-anno-2015
 ecotipi
+edicole
 edicole-votive-centro-storico1
 edicole-votive-della-citta-di-matera
-edicole1
 edicole2
 edificato
 edificato-0181
@@ -24619,7 +24620,6 @@ edifici-vincolati-l59-80
 edifici-volumetrici
 edifici0
 edifici1
-edifici12
 edifici13
 edifici14
 edifici17
@@ -25690,6 +25690,7 @@ elenco-nascite-comune-di-valli-del-pasubio
 elenco-nazionale-direttori
 elenco-nominativo-regionale-dei-medici-specialisti-in-medicina-dello-sport
 elenco-occupazione-suolo-pubblico-per-manifestazioni
+elenco-open-data-accessibilita
 elenco-operatori-biologici
 elenco-operatori-spesa-a-domicilio-comune-di-chieri
 elenco-organizzazioni-non-governative-ong
@@ -28720,14 +28721,12 @@ farmacie-pubbliche-e-private
 farmacie-territoriali-convenzionate1
 farmacie-villafranca-di-verona-2022
 farmacie1
-farmacie10
 farmacie11
 farmacie12
 farmacie13
 farmacie14
 farmacie15
 farmacie16
-farmacie2
 farmacie3
 farmacie4
 farmacie5
@@ -29587,6 +29586,7 @@ gli-accessi-al-catalogo-online-bi-g-met-biblioteche-genova-metropolitana
 gli-alberi-pi-belli-dell-umbria
 gli-allevamenti-2010
 gli-asili-nido-e-i-servizi-integrativi-o-innovativi-per-la-prima-infanzia-anno-2011-iii-4-2-2
+gli-errori-di-accessibilita-identificabili-automaticamente
 gli-eventi-di-open-design-school
 gli-impianti-per-pubbliche-affissioni-nel-territorio-di-roma-capitale
 gli-invertebrati-dei-lacioni-della-riserva-naturale-regionale-selva-del-lamone
@@ -43529,7 +43529,6 @@ parcheggi-riservati-a-hotel-culto-giornalisti-dializzati
 parcheggi-riservati-forze-di-polizia
 parcheggi-zona-blu
 parcheggi-zone-accesso-controllato
-parcheggi1
 parcheggi3
 parcheggi5
 parcheggio-protetto-per-biciclette-open-data
@@ -44959,7 +44958,6 @@ piste-ciclabili-open-data
 piste-ciclabili-per-quartiere
 piste-ciclabili-provincia-di-brescia
 piste-ciclabili1
-piste-ciclabili11
 piste-ciclabili13
 piste-ciclabili6
 piste-ciclopedonali-del-trentino
@@ -53838,7 +53836,6 @@ risorse-programmate-per-provincia-por-fesr-2007-2013
 risorse-prospezioni-1-25k-carg-dataset
 risposte-al-questionario-di-gradimento-degli-asili-nido-comunali-2017
 risposte-al-questionario-di-gradimento-degli-asili-nido-comunali-settembre-2018
-ristoranti
 ristoranti1
 ristoranti2
 ristorazione-2016-10-07
@@ -54631,7 +54628,6 @@ scuole-statali-frequentanti-per-tipo-di-scuola-anno-scolastico-2010-2011
 scuole-statali-frequentanti-per-tipo-di-scuola-e-per-anno-anno-scolastico-2009-2010
 scuole-villafranca-di-verona-2022
 scuole1
-scuole11
 scuole2
 scuole3
 scuole4
@@ -55798,7 +55794,7 @@ sezioni-elettorali-2014
 sezioni-elettorali-2015-2016
 sezioni-elettorali-con-vie-di-roncade
 sezioni-elettorali-shp
-sezioni-elettorali11
+sezioni-elettorali1
 sezioni-elettorali12
 sezioni-elettorali4
 sezioni-fluviali-del-genio-civile-sul-bacino-idrogrfico-del-lemene
@@ -56742,7 +56738,6 @@ stabilimenti-a-rischio-di-incidente-rilevante9
 stabilimenti-balneari
 stabilimenti-balneari-2016-2016-10-07
 stabilimenti-balneari1
-stabilimenti-balneari2
 stabilimenti-della-regione-emilia-romagna-soggetti-a-d-l-vo-334-99-e-s-m-agg-01-2022
 stabilimenti-della-regione-emilia-romagna-soggetti-a-d-l-vo-334-99-e-s-m-agg-01-20221
 stabilimenti-della-regione-emilia-romagna-soggetti-a-d-l-vo-334-99-e-s-m-agg-01-202211
@@ -57587,7 +57582,6 @@ stradario-sitc
 stradario-sitc1
 stradario-sitc2
 stradario-sitc3
-stradario1
 stradario2
 stradario3
 stradario4
@@ -57626,14 +57620,12 @@ strade-romane1
 strade1
 strade10
 strade11
-strade110
 strade15
 strade16
 strade17
 strade18
 strade19
 strade2
-strade20
 strade22
 strade23
 strade3
