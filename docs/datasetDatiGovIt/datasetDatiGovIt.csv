@@ -3331,6 +3331,7 @@ analisi-dipendenti-dellente-comune-di-san-giovanni-lupatoto
 analisi-dipendenti-dellente-comune-di-santurbano
 analisi-dipendenti-dellente-comune-di-sarcedo
 analisi-dipendenti-dellente-comune-di-soave-aggiornato-al-10-04-2022
+analisi-dipendenti-dellente-comune-di-torreglia
 analisi-dipendenti-dellente-comune-di-valdastico
 analisi-dipendenti-dellente-comune-di-velo-dastico
 analisi-dipendenti-dellente-comune-di-zenson-di-piave
@@ -3436,6 +3437,7 @@ andamento-competenza-entrata-per-titoli-comune-di-soave-aggiornato-al-10-04-2022
 andamento-competenza-entrata-per-titoli-comune-di-sovizzo-aggiornato-al-31-03-2022
 andamento-competenza-entrata-per-titoli-comune-di-taglio-di-po
 andamento-competenza-entrata-per-titoli-comune-di-terrazzo
+andamento-competenza-entrata-per-titoli-comune-di-torreglia
 andamento-competenza-entrata-per-titoli-comune-di-torri-di-quartesolo
 andamento-competenza-entrata-per-titoli-comune-di-trevenzuolo
 andamento-competenza-entrata-per-titoli-comune-di-val-liona
@@ -3533,6 +3535,7 @@ andamento-competenza-uscita-per-titoli-comune-di-soave-aggiornato-al-10-04-2022
 andamento-competenza-uscita-per-titoli-comune-di-sovizzo-aggiornato-al-31-03-2022
 andamento-competenza-uscita-per-titoli-comune-di-taglio-di-po
 andamento-competenza-uscita-per-titoli-comune-di-terrazzo
+andamento-competenza-uscita-per-titoli-comune-di-torreglia
 andamento-competenza-uscita-per-titoli-comune-di-torri-di-quartesolo
 andamento-competenza-uscita-per-titoli-comune-di-trevenzuolo
 andamento-competenza-uscita-per-titoli-comune-di-val-liona
@@ -3644,6 +3647,7 @@ andamento-demografico-comune-di-sovizzo-aggiornato-al-31-03-2022
 andamento-demografico-comune-di-taglio-di-po
 andamento-demografico-comune-di-terrazzo
 andamento-demografico-comune-di-tonezza-del-cimone
+andamento-demografico-comune-di-torreglia
 andamento-demografico-comune-di-torri-di-quartesolo
 andamento-demografico-comune-di-trevenzuolo
 andamento-demografico-comune-di-valdastico
@@ -3745,6 +3749,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-soave-aggiornato-a
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-sovizzo-aggiornato-al-06-03-2022
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-taglio-di-po
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-terrazzo
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-torreglia
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-torri-di-quartesolo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-trevenzuolo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-val-liona
@@ -5413,6 +5418,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-selvazzano-dentro
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sovizzo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-taglio-di-po
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-tonezza-del-cimone
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-torreglia
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-torri-di-quartesolo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-trevenzuolo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-valdastico
@@ -5839,6 +5845,7 @@ atti-amministrativi-comune-di-sovizzo-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-taglio-di-po
 atti-amministrativi-comune-di-terrazzo
 atti-amministrativi-comune-di-tonezza-del-cimone
+atti-amministrativi-comune-di-torreglia
 atti-amministrativi-comune-di-torri-di-quartesolo
 atti-amministrativi-comune-di-trevenzuolo
 atti-amministrativi-comune-di-valdastico
@@ -13374,6 +13381,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-s
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-taglio-di-po
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-terrazzo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-tonezza-del-cimo
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-torreglia
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-torri-di-quartes
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-trevenzuolo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-valdastico
@@ -18686,6 +18694,7 @@ comunita-montane-l-r-24-20081
 comunita-montane-lombarde
 comunita-montane-lombarde1
 comunita-socio-riabilitativa-dopo-di-noi-ex-art-571
+comunita-straniere-popolazione
 comvalfo_dataset_avcp_2019
 comvalfo_dataset_avcp_2020
 comvalfo_dataset_bandi-di-gara_2019
@@ -19728,6 +19737,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-sarcedo
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-soave-04-2022
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-taglio-di-po
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-torreglia
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-valdastico
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-zenson-di-piav
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-zovencedo
@@ -19786,6 +19796,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-san1
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-sar
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-tag
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-tor
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-val
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-zen
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-zov
@@ -19841,6 +19852,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale43
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale44
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale45
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale46
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale5
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale6
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale7
@@ -19907,6 +19919,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a43
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a44
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a45
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a46
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a5
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a7
@@ -19955,6 +19968,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e45
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e46
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e47
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e48
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e5
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e7
@@ -20013,6 +20027,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s45
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s46
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s47
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s48
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s5
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s7
@@ -20070,6 +20085,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu43
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu44
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu45
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu46
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu5
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu6
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
@@ -20099,6 +20115,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di19
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di2
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di20
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di21
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di3
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di4
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di5
@@ -20803,6 +20820,7 @@ costo-del-personale-comune-di-santurbano
 costo-del-personale-comune-di-sarcedo
 costo-del-personale-comune-di-soave-aggiornato-al-10-04-2022
 costo-del-personale-comune-di-taglio-di-po
+costo-del-personale-comune-di-torreglia
 costo-del-personale-comune-di-zovencedo
 costo-del-personale-magnano-in-riviera1
 costo-del-personale-non-a-tempo-indeterminato
@@ -20864,6 +20882,7 @@ crn-25000-ed19891
 crn-25000-ed20031
 crn-25000-raster-quadro-unione1
 crn-25000-vector-quadro-unione1
+crocierismo
 cronicita-per-prestazioni-amb
 cronicita-per-tassi-consumi
 cross-country-ski-routes-in-the-veneto-region
@@ -21477,6 +21496,7 @@ dati-fondazioni-e-altri-enti-di-diritto-privato-anno-2019-2020
 dati-fondazioni-e-altri-enti-di-diritto-privato-anno-2020-2021
 dati-fondazioni-e-altri-enti-di-diritto-privato-controllati-da-regione-lombardia-anno-2021-2022
 dati-formazione-eda
+dati-geografici-e-infrastrutturali
 dati-geografici-su-suolo-e-sottosuolo-nel-comune-di-vicenza
 dati-gov-it
 dati-imprese-aaep
@@ -23418,6 +23438,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-soave-aggiornato-al-10-04-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-sovizzo-aggiornato-al-31-03-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-taglio-di-po
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-terrazzo
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-torreglia
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-torri-di-quartesolo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-trevenzuolo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-val-liona
@@ -23517,6 +23538,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-soave-aggiornato-al-10-04-2022
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-sovizzo-aggiornato-al-31-03-2022
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-taglio-di-po
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-terrazzo
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-torreglia
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-torri-di-quartesolo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-trevenzuolo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-val-liona
@@ -25039,6 +25061,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-sovizzo-aggiornato-a
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-taglio-di-po
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-terrazzo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-tonezza-del-cimone
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-torreglia
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-torri-di-quartesolo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-trevenzuolo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-valdastico
@@ -25297,6 +25320,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-soave
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-taglio-di-po
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-terrazzo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-tonezza-del-cimone
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-torreglia
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-torri-di-quartesolo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-trevenzuolo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-val-liona
@@ -25442,6 +25466,7 @@ elenco-delle-pubblicazioni-comune-di-sarcedo
 elenco-delle-pubblicazioni-comune-di-selvazzano-dentro
 elenco-delle-pubblicazioni-comune-di-taglio-di-po
 elenco-delle-pubblicazioni-comune-di-tonezza-del-cimone
+elenco-delle-pubblicazioni-comune-di-torreglia
 elenco-delle-pubblicazioni-comune-di-torri-di-quartesolo
 elenco-delle-pubblicazioni-comune-di-trevenzuolo
 elenco-delle-pubblicazioni-comune-di-valdastico
@@ -28013,6 +28038,7 @@ esercizi-a-localizzazione-singola-e-in-centri-commerciali-2015
 esercizi-a-localizzazione-singola-e-in-centri-commerciali-2016
 esercizi-alberghieri
 esercizi-alberghieri-arrivi-e-presenze-nel-comune-di-firenze-per-provenienza-anni-2004-2014
+esercizi-alberghieri-ed-extra-alberghieri
 esercizi-che-accettano-i-buoni-spesa-dell-emergenza
 esercizi-che-effettuano-consegne-a-domicilio
 esercizi-commerciali
@@ -40204,6 +40230,7 @@ movimenti-intraurbani-2011
 movimenti-intraurbani-per-circoscrizione-2017
 movimenti-migratori
 movimenti-popolazione-comune-di-colceresa-anni-2019-2020
+movimenti-turistici
 movimenti-turistici-anno-2020
 movimenti-turistici-annuali-per-mese-della-provincia-di-rovigo-2018-2020
 movimenti-turistici-e-consistenza-delle-strutture-ricettive-2011-citta-metropolitana-di-firenze
@@ -42460,6 +42487,7 @@ oneri-pratiche-edilizie-comune-di-saccolongo
 oneri-pratiche-edilizie-comune-di-salgareda
 oneri-pratiche-edilizie-comune-di-soave-aggiornato-al-10-04-2022
 oneri-pratiche-edilizie-comune-di-terrazzo
+oneri-pratiche-edilizie-comune-di-torreglia
 oneri-pratiche-edilizie-comune-di-torri-di-quartesolo
 oneri-pratiche-edilizie-comune-di-trevenzuolo
 oneri-pratiche-edilizie-comune-di-valdastico
@@ -46673,6 +46701,7 @@ posti-per-cimitero-comune-di-selvazzano-dentro
 posti-per-cimitero-comune-di-soave-aggiornato-al-10-04-2022
 posti-per-cimitero-comune-di-sovizzo-aggiornato-al-06-03-2022
 posti-per-cimitero-comune-di-terrazzo
+posti-per-cimitero-comune-di-torreglia
 posti-per-cimitero-comune-di-torri-di-quartesolo
 posti-per-cimitero-comune-di-trevenzuolo
 posti-per-cimitero-comune-di-val-liona
@@ -50736,6 +50765,7 @@ redditiirpef-2015
 reddito-complessivo-annuo-pensionistico-beneficiari-pensioni-ai-superstiti-diviso-per-2012-2016
 reddito-complessivo-annuo-pensionistico-beneficiari-pensioni-ai-superstiti-diviso-per-2012-20161
 reddito-complessivo-irpef-fasce-imposta-2016
+reddito-di-cittadinanza
 reddito-imponibile-addizionali-irpef-nelle-grandi-citta-italiane-anno-imposta-2008
 reddito-imponibile-addizionali-irpef-nelle-grandi-citta-italiane-anno-imposta-2010
 reddito-imponibile-addizionali-irpef-palermo-anni-2006-2010
@@ -51941,6 +51971,7 @@ residui-finali-per-esercizio-comune-di-soave-aggiornato-al-10-04-2022
 residui-finali-per-esercizio-comune-di-sovizzo-aggiornato-al-06-03-2022
 residui-finali-per-esercizio-comune-di-taglio-di-po
 residui-finali-per-esercizio-comune-di-terrazzo
+residui-finali-per-esercizio-comune-di-torreglia
 residui-finali-per-esercizio-comune-di-torri-di-quartesolo
 residui-finali-per-esercizio-comune-di-trevenzuolo
 residui-finali-per-esercizio-comune-di-val-liona
@@ -55142,6 +55173,7 @@ servizi-cimiteriali-comune-di-soave-aggiornato-al-14-04-2022
 servizi-cimiteriali-comune-di-sovizzo-aggiornato-al-06-03-2022
 servizi-cimiteriali-comune-di-taglio-di-po
 servizi-cimiteriali-comune-di-terrazzo
+servizi-cimiteriali-comune-di-torreglia
 servizi-cimiteriali-comune-di-torri-di-quartesolo
 servizi-cimiteriali-comune-di-trevenzuolo
 servizi-cimiteriali-comune-di-val-liona
@@ -56889,6 +56921,7 @@ statistiche-interventi-in-aula-crt
 statistiche-istanze-urbanistica
 statistiche-mensili-opendata
 statistiche-mobilita-messina
+statistiche-mobilita-urbana
 statistiche-numeriche-della-popolazione-per-via-e-per-sesso
 statistiche-personale-non-dirigenziale-comune-messina
 statistiche-popolazione-anno-di-nascita
