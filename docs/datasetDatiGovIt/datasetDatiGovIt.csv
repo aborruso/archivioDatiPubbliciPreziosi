@@ -3952,7 +3952,6 @@ application-to-nop-calls-for-proposal-submitted-by-schoolsen
 applicativi-servizi-on-line-del-comune-di-trento
 approfondimento-tematico-della-carta-di-copertura-del-suolo-ccs-2007-versione-standard-plus
 approvazione-piano-dambito-2020-2045-pareremotivato
-appuntamenti-trentino-family-sul-territorio
 appuntamento_per_carta_di_identita_elettronica_gennaio_aprile_2019
 ar_ctr2k_ext
 ar_ctr2k_ext_app
@@ -8723,6 +8722,12 @@ c_c704_dataset_sedi_amministrative
 c_c704_dataset_seggi-elettorali
 c_c704_dataset_shopping
 c_c704_dataset_sport-e-tempo-libero
+c_c704_dataset_statistiche_sito_dispositivo_2022
+c_c704_dataset_statistiche_sito_download_2022
+c_c704_dataset_statistiche_sito_marca_dispositivo_2022
+c_c704_dataset_statistiche_sito_modello_dispositivo_2022
+c_c704_dataset_statistiche_sito_ricerca_2022
+c_c704_dataset_statistiche_sito_url_2022
 c_c704_dataset_strutture-medico-sanitarie
 c_c704_dataset_strutture-ricettive-alberghiere
 c_c704_dataset_strutture-ricettive-allaperto
@@ -9277,6 +9282,7 @@ c_e694_dataset_concorsi_2019
 c_e694_dataset_concorsi_2020
 c_e694_dataset_concorsi_2021
 c_e694_dataset_concorsi_2022
+c_e694_dataset_concorsi_2023
 c_e694_dataset_delibere
 c_e694_dataset_determine
 c_e694_dataset_edifici_pubblici
@@ -10325,6 +10331,7 @@ c_g919_dataset_concorsi_2019
 c_g919_dataset_concorsi_2020
 c_g919_dataset_concorsi_2021
 c_g919_dataset_concorsi_2022
+c_g919_dataset_concorsi_2023
 c_g919_dataset_cooperative-sociali
 c_g919_dataset_delibere
 c_g919_dataset_determine
@@ -21330,6 +21337,7 @@ dati-dei-pagamenti-della-pubblica-amministrazione-piemontese
 dati-del-patrimonio-immobiliare-della-regione-derivante-dalle-ex-provincie
 dati-del-trasporto-pubblico-gtfs-del-comune-di-roma
 dati-delle-classificazioni-acustiche-dei-comuni-della-lombardia
+dati-delle-validazioni
 dati-demografici-i-circoscrizione-anno-2010
 dati-demografici-ii-circoscrizione-anno-2010
 dati-demografici-iii-circoscrizione-anno-2010
@@ -27298,6 +27306,7 @@ elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-candidati-col
 elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-candidati-collegio-02-palerm
 elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-candidati-per-sezione-colleg
 elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-candidati-per-sezione-colleg1
+elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-totali-per-candidato-collegi
 elezioni-politiche-2018-senato-liste-nel-collegio-uninominale-dati-ufficiosi-risultati-di-sezio
 elezioni-politiche-2018-senato-liste-nel-collegio-uninominale-dati-ufficiosi-voti-di-lista-per-
 elezioni-politiche-2018-stradario-e-abbinamento-dei-numeri-civici-a-collegi-elettorali-e-sezion
@@ -28753,6 +28762,7 @@ farmacie13
 farmacie14
 farmacie15
 farmacie16
+farmacie2
 farmacie3
 farmacie4
 farmacie5
@@ -32417,6 +32427,7 @@ istanze-per-autorizzazione-comunicazione-relative-ai-tagli-boschivi
 istanze-polizia-amministrativa
 istanze-preliminari-depositate-e-confermate-ricostruzione-post-sisma-2012
 istanze-presentate-tramite-il-portale-della-s-i-smi-ca-i-semestre-2022
+istanze-presentate-tramite-il-portale-della-s-i-smi-ca-i-semestre-2023
 istanze-presentate-tramite-il-portale-della-s-i-smi-ca-ii-semestre-2022
 istanze-procedimenti-ambientali
 istanze-pubblica-incolumita
@@ -35276,7 +35287,6 @@ mobilita-ospedaliera-attiva
 mobilita-ospedaliera-passiva
 mobilita-rilievo-flussi-traffico
 mobilita-sanitaria
-modalita-di-accesso
 modalita-di-accesso-al-sistema-integrato-dei-servizi
 modalita-di-accredito-degli-stipendi
 modalita-di-gestione-sistema-vegetazionale
@@ -43738,6 +43748,7 @@ passaggi-proprieta-1-semestre-2016-nei-comuni-della-regione-fvg-al-netto-delle-m
 passaggi-proprieta-1-semestre-2017-nei-comuni-della-regione-fvg-al-netto-delle-minivolture
 passaggi-proprieta-2-semestre-2016-nei-comuni-della-regione-fvg-al-netto-delle-minivolture
 passaggi-proprieta-2-semestre-2017-nei-comuni-della-regione-fvg-al-netto-delle-minivolture
+passaggio-veicoli-ai-parcheggi
 passaporti-venduti-per-categoria-canale-di-vendita-e-prezzo
 passeggeri-sulla-linea-1-della-tramvia-anni-2010-2014
 passi-carrai
@@ -45837,6 +45848,7 @@ popolazione-residente-a-palermo-al-31-12-2021-per-sezione-di-censimento-e-fasce-
 popolazione-residente-a-palermo-al-31-12-2021-per-unita-di-primo-livello-e-cittadinanza
 popolazione-residente-a-palermo-al-31-12-2022-per-circoscrizione-e-cittadinanza
 popolazione-residente-a-palermo-al-31-12-2022-per-quartiere-e-cittadinanza
+popolazione-residente-a-palermo-al-31-12-2022-per-sezione-di-censimento-e-fasce-di-eta
 popolazione-residente-a-palermo-al-31-12-2022-per-unita-di-primo-livello-e-cittadinanza
 popolazione-residente-a-palermo-al-31-dicembre-2019-per-sezione-di-censimento-e-fasce-di-eta
 popolazione-residente-a-pianezze-al-31-dicembre-e-movimento-demografico-per-sesso
