@@ -3272,6 +3272,8 @@ analisi-dellacqua-2023
 analisi-dellacqua-civici-aggregati-per-zone-mm
 analisi-di-rischio-approvate-in-conferenza-dei-servizi
 analisi-di-rischio-valutate-in-conferenza-dei-servizi
+analisi-dipendenti-dellente-bagnaria-arsa
+analisi-dipendenti-dellente-bondeno
 analisi-dipendenti-dellente-cefalu
 analisi-dipendenti-dellente-comune-di-alonte
 analisi-dipendenti-dellente-comune-di-anguillara-veneta
@@ -3314,6 +3316,7 @@ analisi-dipendenti-dellente-comune-di-montecchio-precalcino
 analisi-dipendenti-dellente-comune-di-montegalda
 analisi-dipendenti-dellente-comune-di-moriago-della-battaglia
 analisi-dipendenti-dellente-comune-di-mozzecane-aggiornato-al-02-02-2022
+analisi-dipendenti-dellente-comune-di-nervesa-della-battaglia
 analisi-dipendenti-dellente-comune-di-noale-aggiornato-al-06-03-2022
 analisi-dipendenti-dellente-comune-di-nogarole-rocca
 analisi-dipendenti-dellente-comune-di-nove
@@ -3352,6 +3355,8 @@ analisi-evoluzione-linea-di-riva-tassi-di-variazione-della-linea-di-riva-dal-200
 analisi-infortuni-dipendenti-dellente-regione-calabria
 analisi-inquinante-co2-nella-citta-di-lecce
 andamento-annuale-della-percentuale-di-raccolta-differenziata-comune-di-matera1
+andamento-competenza-entrata-per-titoli-bagnaria-arsa
+andamento-competenza-entrata-per-titoli-bondeno
 andamento-competenza-entrata-per-titoli-comune-di-agugliaro-aggiornato-al-31-03-2022
 andamento-competenza-entrata-per-titoli-comune-di-alonte
 andamento-competenza-entrata-per-titoli-comune-di-anguillara-veneta
@@ -3410,6 +3415,7 @@ andamento-competenza-entrata-per-titoli-comune-di-montegalda
 andamento-competenza-entrata-per-titoli-comune-di-montegaldella
 andamento-competenza-entrata-per-titoli-comune-di-moriago-della-battaglia
 andamento-competenza-entrata-per-titoli-comune-di-mozzecane-aggiornato-al-31-03-2022
+andamento-competenza-entrata-per-titoli-comune-di-nervesa-della-battaglia
 andamento-competenza-entrata-per-titoli-comune-di-noale-aggiornato-al-31-03-2022
 andamento-competenza-entrata-per-titoli-comune-di-nogarole-rocca
 andamento-competenza-entrata-per-titoli-comune-di-nogarole-vicentino
@@ -3452,6 +3458,8 @@ andamento-competenza-entrata-per-titoli-povoletto
 andamento-competenza-entrata-per-titoli-reana-del-rojale
 andamento-competenza-entrata-per-titoli-sedilo
 andamento-competenza-entrata-per-titoli-taipana1
+andamento-competenza-uscita-per-titoli-bagnaria-arsa
+andamento-competenza-uscita-per-titoli-bondeno
 andamento-competenza-uscita-per-titoli-comune-di-agugliaro-aggiornato-al-31-03-2022
 andamento-competenza-uscita-per-titoli-comune-di-alonte
 andamento-competenza-uscita-per-titoli-comune-di-anguillara-veneta
@@ -3510,6 +3518,7 @@ andamento-competenza-uscita-per-titoli-comune-di-montegalda
 andamento-competenza-uscita-per-titoli-comune-di-montegaldella
 andamento-competenza-uscita-per-titoli-comune-di-moriago-della-battaglia
 andamento-competenza-uscita-per-titoli-comune-di-mozzecane-aggiornato-al-31-03-2022
+andamento-competenza-uscita-per-titoli-comune-di-nervesa-della-battaglia
 andamento-competenza-uscita-per-titoli-comune-di-noale-aggiornato-al-31-03-2022
 andamento-competenza-uscita-per-titoli-comune-di-nogarole-rocca
 andamento-competenza-uscita-per-titoli-comune-di-nogarole-vicentino
@@ -3562,6 +3571,8 @@ andamento-demografico-anno-2018
 andamento-demografico-anno-2019
 andamento-demografico-anno-2020
 andamento-demografico-anno-2021
+andamento-demografico-bagnaria-arsa
+andamento-demografico-bondeno
 andamento-demografico-cefalu
 andamento-demografico-comune-di-agugliaro-aggiornato-al-31-03-2022
 andamento-demografico-comune-di-alonte
@@ -3621,6 +3632,7 @@ andamento-demografico-comune-di-montegalda
 andamento-demografico-comune-di-montegaldella
 andamento-demografico-comune-di-moriago-della-battaglia
 andamento-demografico-comune-di-mozzecane-aggiornato-al-31-03-2022
+andamento-demografico-comune-di-nervesa-della-battaglia
 andamento-demografico-comune-di-noale-aggiornato-al-31-03-2022
 andamento-demografico-comune-di-nogarole-rocca
 andamento-demografico-comune-di-nogarole-vicentino
@@ -3667,6 +3679,8 @@ andamento-demografico-ferla
 andamento-demografico-magnano-in-riviera1
 andamento-demografico-reana-del-rojale
 andamento-demografico-sedilo
+andamento-entrate-e-uscite-di-competenza-negli-anni-bagnaria-arsa
+andamento-entrate-e-uscite-di-competenza-negli-anni-bondeno
 andamento-entrate-e-uscite-di-competenza-negli-anni-cefalu
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-agugliaro-aggiornato-al-0-02-2022
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-alonte
@@ -3726,6 +3740,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-montegalda
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-montegaldella
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-moriago-della-battaglia
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-mozzecane-aggiornato-al-0-02-2022
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-nervesa-della-battaglia
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-noale-aggiornato-al-06-03-2022
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-nogarole-rocca
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-nogarole-vicentino
@@ -3770,6 +3785,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-flaibano
 andamento-entrate-e-uscite-di-competenza-negli-anni-magnano-in-riviera1
 andamento-entrate-e-uscite-di-competenza-negli-anni-povoletto
 andamento-entrate-e-uscite-di-competenza-negli-anni-reana-del-rojale
+andamento-entrate-e-uscite-di-competenza-negli-anni-rive-darcano
 andamento-entrate-e-uscite-di-competenza-negli-anni-sedilo
 andamento-entrate-e-uscite-di-competenza-negli-anni-taipana
 andamento-epidemiologico-covid19-anno-2021-comune-di-galatone
@@ -5349,6 +5365,7 @@ artea-raccolta-uva-dal-2004
 artes-registro-regionale-delle-associazioni
 articolazione-copertura-finanziaria-oo-pp-triennio-2018-2020
 articolazione-degli-uffici-comune-di-martina-franca
+articolazione-degli-uffici-con-orari-al-pubblico-bagnaria-arsa
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-alonte
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-anguillara-veneta
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-arsiero
@@ -5398,6 +5415,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-monfumo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-montegalda
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-montegaldella
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-moriago-della-battaglia
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-nervesa-della-battaglia
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-nogarole-rocca
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-nogarole-vicentino
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-nove
@@ -5434,6 +5452,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-zugliano
 articolazione-degli-uffici-con-orari-al-pubblico-magnano-in-riviera1
 articolazione-degli-uffici-con-orari-al-pubblico-manzano
 articolazione-degli-uffici-con-orari-al-pubblico-povoletto
+articolazione-degli-uffici-con-orari-al-pubblico-rive-darcano
 articolazione-degli-uffici-con-orari-al-pubblico-taipana1
 artigiani
 artigiani-distribuzione-per-categoria-2010-2012
@@ -5761,6 +5780,8 @@ attestazioni-soa1
 atti
 atti-amministrativi
 atti-amministrativi-alessano
+atti-amministrativi-bagnaria-arsa
+atti-amministrativi-bondeno
 atti-amministrativi-cefalu
 atti-amministrativi-comune-di-agugliaro-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-alonte
@@ -5822,6 +5843,7 @@ atti-amministrativi-comune-di-montegalda
 atti-amministrativi-comune-di-montegaldella
 atti-amministrativi-comune-di-moriago-della-battaglia
 atti-amministrativi-comune-di-mozzecane-aggiornato-al-14-04-2022
+atti-amministrativi-comune-di-nervesa-della-battaglia
 atti-amministrativi-comune-di-noale-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-nogarole-rocca
 atti-amministrativi-comune-di-nogarole-vicentino
@@ -5871,6 +5893,7 @@ atti-amministrativi-manzano
 atti-amministrativi-per-tipo-e-servizio
 atti-amministrativi-povoletto
 atti-amministrativi-reana-del-rojale
+atti-amministrativi-rive-darcano
 atti-amministrativi-sedilo
 atti-amministrativi-taipana1
 atti-anagrafe-2017
@@ -13307,6 +13330,8 @@ composizione-delle-famiglie-censimento-1921-comune-di-treviso
 composizione-delle-variazioni-del-reddito-lordo-delle-famiglie
 composizione-delle-variazioni-del-reddito-lordo-dispon-delle-famiglie
 composizione-detrazioni-lazio-per-tipologia
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-bagnaria-arsa
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-bondeno
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-cefalu
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-agugliar-03-2022
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-alonte
@@ -13363,6 +13388,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-m
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-montegaldella
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-moriago-della-ba
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-mozzecan-03-2022
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-nervesa-della-ba
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-noale-ag-03-2022
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-nogarole-rocca
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-nogarole-vicenti
@@ -19700,6 +19726,8 @@ conto-annuale-2021-r-9813-personale-assunzioni
 conto-annuale-2021-r-9813-personale-cessato
 conto-annuale-2021-r-9813-sede-lavoro
 conto-annuale-2021-r-9813-titolo-di-studio
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-bagnaria-arsa
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-bondeno
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-alonte
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-anguillara-ven
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-arsiero
@@ -19735,6 +19763,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-montecchio-pre
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-montegalda
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-mozzec-02-2022
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-nervesa-della-
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-noale-03-2022
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-nogarole-rocca
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-nove
@@ -19759,6 +19788,8 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-magnano-i
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-povoletto
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-reana-del-rojale
 conto-annuale-del-personale-2015-2016-2017-2018
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-bagnaria-arsa
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-bondeno
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comun-01-2022
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comun-02-2022
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comun-02-20221
@@ -19799,6 +19830,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-mon
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-mon1
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-mon2
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-ner
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-nog
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-nov
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-pia
@@ -19873,7 +19905,10 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale46
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale47
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale48
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale49
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale5
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale50
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale51
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale6
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale7
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale8
@@ -19942,7 +19977,10 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a46
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a47
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a48
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a49
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a5
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a50
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a51
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a8
@@ -19994,6 +20032,9 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e49
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e5
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e50
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e51
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e52
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e53
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
@@ -20055,6 +20096,9 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s49
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s5
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s50
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s51
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s52
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s53
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
@@ -20069,6 +20113,8 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servi-04-2022
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servi-04-20221
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servi-05-2022
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bond
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cefa
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu1
@@ -20112,6 +20158,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu44
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu45
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu46
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu47
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu5
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu6
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
@@ -20120,6 +20167,8 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-magn1
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-povo
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-rean
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-bagnaria-
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-bondeno
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-c-01-2022
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-c-02-2022
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-c-02-20221
@@ -20144,6 +20193,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di2
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di20
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di21
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di22
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di3
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di4
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di5
@@ -20806,6 +20856,8 @@ costituzioni_2017_2019
 costo-complessivo-personale-non-a-tempo-indeterminato-20171
 costo-complessivo-personale-non-a-tempo-indeterminato-20182
 costo-del-personale
+costo-del-personale-bagnaria-arsa
+costo-del-personale-bondeno
 costo-del-personale-comune-di-anguillara-veneta
 costo-del-personale-comune-di-arsiero
 costo-del-personale-comune-di-badia-polesine
@@ -20839,6 +20891,7 @@ costo-del-personale-comune-di-merlara-aggiornato-al-03-05-2022
 costo-del-personale-comune-di-monfumo
 costo-del-personale-comune-di-montecchio-precalcino
 costo-del-personale-comune-di-mozzecane-aggiornato-al-31-03-2022
+costo-del-personale-comune-di-nervesa-della-battaglia
 costo-del-personale-comune-di-noale-aggiornato-al-31-03-2022
 costo-del-personale-comune-di-nogarole-rocca
 costo-del-personale-comune-di-nove
@@ -23391,6 +23444,8 @@ dettaglio-attestato-di-prestazione-energetica-ape-sezione-dati-generali
 dettaglio-attestato-di-prestazione-energetica-ape-sezione-impianti
 dettaglio-attestato-di-prestazione-energetica-ape-sezione-raccomandazioni
 dettaglio-di-servizio-di-prestito-delle-biblioteche-comunali
+dettaglio-entrate-per-capitolo-di-spesa-bagnaria-arsa
+dettaglio-entrate-per-capitolo-di-spesa-bondeno
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-agugliaro-aggiornato-al-31-03-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-alonte
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-anguillara-veneta
@@ -23449,6 +23504,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-montegalda
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-montegaldella
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-moriago-della-battaglia
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-mozzecane-aggiornato-al-31-03-2022
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-nervesa-della-battaglia
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-noale-aggiornato-al-31-03-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-nogarole-rocca
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-nogarole-vicentino
@@ -23493,6 +23549,8 @@ dettaglio-entrate-per-capitolo-di-spesa-reana-del-rojale
 dettaglio-entrate-per-capitolo-di-spesa-sedilo
 dettaglio-entrate-per-capitolo-di-spesa-taipana1
 dettaglio-spese-anno-2016
+dettaglio-uscite-per-capitolo-di-spesa-bagnaria-arsa
+dettaglio-uscite-per-capitolo-di-spesa-bondeno
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-agugliaro-aggiornato-al-31-03-2022
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-alonte
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-anguillara-veneta
@@ -23551,6 +23609,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-montegalda
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-montegaldella
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-moriago-della-battaglia
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-mozzecane-aggiornato-al-31-03-2022
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-nervesa-della-battaglia
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-noale-aggiornato-al-31-03-2022
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-nogarole-rocca
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-nogarole-vicentino
@@ -25018,6 +25077,8 @@ elenco-centri-diurni-integrati-accreditati-per-anziani
 elenco-centri-sportivi-georef
 elenco-cer-degli-impianti-rifiuti
 elenco-cisterne-comunali
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-bagnaria-arsa
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-bondeno
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-cefalu
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-agugliaro-aggiornato-al-31-03-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-alonte
@@ -25075,6 +25136,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-montegalda
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-montegaldella
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-moriago-della-battaglia
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-mozzecane-aggiornato-al-31-03-2022
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-nervesa-della-battaglia
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-noale-aggiornato-al-31-03-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-nogarole-rocca
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-nogarole-vicentino
@@ -25282,6 +25344,8 @@ elenco-dei-nodi-fermata-presenti-in-ogni-comune-della-regione-suddivisi-per-comu
 elenco-dei-parametri-di-campionamento-su-impianti-di-depurazione
 elenco-dei-progetti-e-dei-lavori-in-corso
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-alessano
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-bagnaria-arsa
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-bondeno
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-agugliaro
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-alonte
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-anguillara-veneta
@@ -25339,6 +25403,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-monfumo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-montegalda
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-montegaldella
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-moriago-della-battaglia
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-nervesa-della-battaglia
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-noale
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-nogarole-rocca
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-nogarole-vicentino
@@ -25383,6 +25448,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-magnano-in-riviera1
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-manzano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-povoletto
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-reana-del-rojale
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-rive-darcano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-sedilo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-taipana1
 elenco-dei-punti-roma-facile-punti-daccesso-assistiti-per-i-servizi-digitali
@@ -25442,6 +25508,8 @@ elenco-delle-particelle-espropriate-dal-comune-per-realizzare-il-sistema-tram
 elenco-delle-pec-attive-degli-enti
 elenco-delle-pratiche-del-servizio-ambiente
 elenco-delle-pubblicazioni-alessano
+elenco-delle-pubblicazioni-bagnaria-arsa
+elenco-delle-pubblicazioni-bondeno
 elenco-delle-pubblicazioni-comune-di-agugliaro
 elenco-delle-pubblicazioni-comune-di-alonte
 elenco-delle-pubblicazioni-comune-di-anguillara-veneta
@@ -25492,6 +25560,7 @@ elenco-delle-pubblicazioni-comune-di-monfumo
 elenco-delle-pubblicazioni-comune-di-montegalda
 elenco-delle-pubblicazioni-comune-di-montegaldella
 elenco-delle-pubblicazioni-comune-di-moriago-della-battaglia
+elenco-delle-pubblicazioni-comune-di-nervesa-della-battaglia
 elenco-delle-pubblicazioni-comune-di-nogarole-rocca
 elenco-delle-pubblicazioni-comune-di-nogarole-vicentino
 elenco-delle-pubblicazioni-comune-di-nove
@@ -25530,6 +25599,7 @@ elenco-delle-pubblicazioni-magnano-in-riviera1
 elenco-delle-pubblicazioni-manzano
 elenco-delle-pubblicazioni-povoletto
 elenco-delle-pubblicazioni-reana-del-rojale
+elenco-delle-pubblicazioni-rive-darcano
 elenco-delle-pubblicazioni-sedilo
 elenco-delle-pubblicazioni-taipana
 elenco-delle-regole-gia-presenti-o-ricostituite-ai-sensi-dellart-3-della-lr-26-96-nei-comuni-de
@@ -41146,6 +41216,7 @@ numeri-civici-2023-comune-di-zenson-di-piave
 numeri-civici-2023-comune-di-zero-branco
 numeri-civici-al-23-11-2021
 numeri-civici-ammessi-ad-aiuti-di-stato-a-finalitagrave-regionale-2007-13
+numeri-civici-bondeno
 numeri-civici-comune-di-agordo
 numeri-civici-comune-di-agugliaro
 numeri-civici-comune-di-alano-di-piave
@@ -42503,6 +42574,7 @@ ombreggiatura-ghiacciai-2016-17-dsm-05m
 omissione-contributive-e-sanzioni-distribuzione-per-gestione-attivit224-2013
 onegeology-eu-1m-eenvplus-fvg-dataset
 onegeology-europe-1-1m-dataset
+oneri-pratiche-edilizie-bondeno
 oneri-pratiche-edilizie-cefalu
 oneri-pratiche-edilizie-comune-di-alonte
 oneri-pratiche-edilizie-comune-di-anguillara-veneta
@@ -46758,6 +46830,7 @@ posti-per-cimitero-comune-di-minerbe
 posti-per-cimitero-comune-di-monfumo
 posti-per-cimitero-comune-di-montegalda
 posti-per-cimitero-comune-di-moriago-della-battaglia
+posti-per-cimitero-comune-di-nervesa-della-battaglia
 posti-per-cimitero-comune-di-noale
 posti-per-cimitero-comune-di-noventa-padovana-aggiornato-al-02-02-2022
 posti-per-cimitero-comune-di-pastrengo
@@ -47164,6 +47237,7 @@ pratiche-attivita-economico-produttive
 pratiche-chiuse-suap-2017
 pratiche-cimiteriali
 pratiche-edilizie
+pratiche-edilizie-richieste-bondeno
 pratiche-edilizie-richieste-cefalu
 pratiche-edilizie-richieste-comune-di-alonte
 pratiche-edilizie-richieste-comune-di-arsiero
@@ -47221,6 +47295,7 @@ pratiche-edilizie-richieste-comune-di-vigasio-aggiornato-al-31-03-2022
 pratiche-edilizie-richieste-comune-di-zenson-di-piave
 pratiche-edilizie-richieste-magnano-in-riviera1
 pratiche-edilizie-richieste-povoletto
+pratiche-edilizie-rilasciate-bondeno
 pratiche-edilizie-rilasciate-cefalu
 pratiche-edilizie-rilasciate-comune-di-buttapietra
 pratiche-edilizie-rilasciate-comune-di-campagna-lupia-aggiornato-al-31-03-2022
@@ -51956,6 +52031,8 @@ residenze-socio-sanitarie-assistenziali-per-anziani1
 residenze-turistico-alberghiere
 residenzialita-leggera
 residenzialita-minori-con-gravissima-disabilita
+residui-finali-per-esercizio-bagnaria-arsa
+residui-finali-per-esercizio-bondeno
 residui-finali-per-esercizio-comune-di-agugliaro-aggiornato-al-02-02-2022
 residui-finali-per-esercizio-comune-di-alonte
 residui-finali-per-esercizio-comune-di-anguillara-veneta
@@ -52014,6 +52091,7 @@ residui-finali-per-esercizio-comune-di-montegalda
 residui-finali-per-esercizio-comune-di-montegaldella
 residui-finali-per-esercizio-comune-di-moriago-della-battaglia
 residui-finali-per-esercizio-comune-di-mozzecane-aggiornato-al-02-02-2022
+residui-finali-per-esercizio-comune-di-nervesa-della-battaglia
 residui-finali-per-esercizio-comune-di-noale-aggiornato-al-06-03-2022
 residui-finali-per-esercizio-comune-di-nogarole-rocca
 residui-finali-per-esercizio-comune-di-nogarole-vicentino
@@ -52057,6 +52135,7 @@ residui-finali-per-esercizio-flaibano
 residui-finali-per-esercizio-magnano-in-riviera
 residui-finali-per-esercizio-povoletto
 residui-finali-per-esercizio-reana-del-rojale
+residui-finali-per-esercizio-rive-darcano
 residui-finali-per-esercizio-sedilo
 residui-finali-per-esercizio-taipana
 responsabili-della-transizione-al-digitale
@@ -55794,6 +55873,7 @@ servizio-iscrizione-scuola-infanzia-problemi-in-generale
 servizio-iscrizione-scuola-infanzia-supporto-per-utenti-in-difficolta
 servizio-iscrizione-scuola-infanzia-tipo-di-difficolta
 servizio-istruzione
+servizio-mensa-scolastica-bondeno
 servizio-mensa-scolastica-comune-di-arsiero
 servizio-mensa-scolastica-comune-di-castel-dazzano-aggiornato-al-12-04-2022
 servizio-mensa-scolastica-comune-di-cordignano
@@ -55824,6 +55904,7 @@ servizio-sportello-informativo-edilizia-genere-degli-utenti
 servizio-sportello-informativo-edilizia-problemi-in-generale
 servizio-sportello-informativo-edilizia-supporto-per-utenti-in-difficolta
 servizio-sportello-informativo-edilizia-tipo-di-difficolta
+servizio-trasporto-scolastico-bondeno
 servizio-trasporto-scolastico-comune-di-arsiero
 servizio-trasporto-scolastico-comune-di-borso-del-grappa
 servizio-trasporto-scolastico-comune-di-buttapietra
@@ -57578,6 +57659,7 @@ stradario-2019-citta-metropolitana-di-napoli3
 stradario-abitazioni
 stradario-capannori
 stradario-comunale
+stradario-comunale-bondeno
 stradario-comunale-cefalu
 stradario-comunale-comune-di-agugliaro
 stradario-comunale-comune-di-alonte
@@ -59346,6 +59428,7 @@ titolari-di-incarichi-dirigenziali-dirigenti-non-generali-importi-di-viaggi-di-s
 titolari-di-incarichi-dirigenziali-dirigenti-non-generali-importi-di-viaggi-di-servizio-e-20222
 titolari-di-incarichi-dirigenziali-dirigenti-non-generali-importi-di-viaggi-di-servizio-e-20223
 titolari-di-incarichi-dirigenziali-dirigenti-non-generali-importi-di-viaggi-di-servizio-e-2023
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-bondeno
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-agugliaro
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-alonte
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-arsiero
