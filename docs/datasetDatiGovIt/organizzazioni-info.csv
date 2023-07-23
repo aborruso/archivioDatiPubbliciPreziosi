@@ -40,7 +40,7 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:09:05.810447,ISPRA,b043b43f-66f8-4954-93ea-856fe8f4f4e7,ispra_rm,ispra,4,https://dati.gov.it/view-dataset?organization=ispra
 2021-02-19T18:09:04.767176,MIBACT,e8000025-82eb-42f0-afca-b266c84e14bb,m_bac,mibact,210,https://dati.gov.it/view-dataset?organization=mibact
 2021-08-04T13:54:25.920660,Ministero del Lavoro,9ac54b49-d410-4d18-85bd-18b0557e1d22,m_lps,ministero-del-lavoro,80,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
-2021-02-19T18:09:08.759705,Ministero dell'Economia e delle Finanze,77098a90-f9c3-4a04-9756-34df5a59503d,m_ef,ministero-dell-economia-e-delle-finanze,17,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
+2021-02-19T18:09:08.759705,Ministero dell'Economia e delle Finanze,77098a90-f9c3-4a04-9756-34df5a59503d,m_ef,ministero-dell-economia-e-delle-finanze,18,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2021-02-19T18:08:58.521992,Ministero dell'Interno,bdc6ec54-3df9-42a0-ae3f-58ed247c9ce3,m_it,ministero-dell-interno,22,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2021-02-19T18:09:08.478893,Ministero della salute,2f71f746-3ce4-4420-ae12-85ed852d67ce,m_sa,ministero-della-salute,50,https://dati.gov.it/view-dataset?organization=ministero-della-salute
 2021-02-19T18:08:56.730508,Ministero delle Infrastrutture e dei Trasporti,dda0fbc9-9ba1-4b79-a589-bf6149dadb98,m_inf,ministero-delle-infrastrutture-e-dei-trasporti,86,https://dati.gov.it/view-dataset?organization=ministero-delle-infrastrutture-e-dei-trasporti
@@ -64,7 +64,7 @@ created,display_name,id,identifier,name,package_count,URL
 2022-07-01T12:06:14.228347,Regione Liguria,6f79e360-1a91-48d2-82b3-30b5fc47ffdd,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
 2021-02-19T18:08:56.403482,Regione Lombardia,5821fa6d-87ee-4ab7-84e3-56ca8bb3e6f1,r_lombar,regione-lombardia,3664,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6373,https://dati.gov.it/view-dataset?organization=regione-marche
-2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,521,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,672,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,191,https://dati.gov.it/view-dataset?organization=regione-puglia
 2021-02-19T18:09:01.651866,Regione Sardegna,2673659f-08ff-4416-8260-2f4ec3cfa04d,r_sardeg,regione-sardegna,449,https://dati.gov.it/view-dataset?organization=regione-sardegna
 2021-02-19T18:09:01.899488,Regione Siciliana,2dd45e9c-4d57-428b-8287-77df7fbf1cb9,r_sicili,regione-siciliana,174,https://dati.gov.it/view-dataset?organization=regione-siciliana
