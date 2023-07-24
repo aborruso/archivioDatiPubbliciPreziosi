@@ -1723,6 +1723,7 @@ acque-superficiali-lacustri-valutazione-stato-potenziale-ecologico-e-chimico-per
 acque-superficiali-lacustri-valutazione-stato-potenziale-ecologico-e-chimico-periodo-2014-20198
 acque-superficiali-lacustri-valutazione-stato-potenziale-ecologico-e-chimico-periodo-2014-20199
 acque-superficiali-laghi-ltleco
+acque-superficiali-laghi-ltleco1
 acque-vulnerabili-nitrati
 acquedotto-storico
 acquired-dgcs
@@ -7978,8 +7979,6 @@ bolognawifi-affollamento
 bolognawifi-affollamento-storico-2021
 bolognawifi-affollamento-storico-2022
 bolognawifi-affollamento-storico-2023
-bolognawifi-affollamento-storico-ii-sem-2021
-bolognawifi-affollamento-storico-ii-sem-2022
 bolognawifi-connessioni-giornaliere
 bolognawifi-elenco-aree-segnale
 bolognawifi-elenco-hot-spot
@@ -21418,6 +21417,7 @@ dati-dei-pagamenti-della-pubblica-amministrazione-piemontese
 dati-del-patrimonio-immobiliare-della-regione-derivante-dalle-ex-provincie
 dati-del-trasporto-pubblico-gtfs-del-comune-di-roma
 dati-delle-classificazioni-acustiche-dei-comuni-della-lombardia
+dati-delle-smart-card-in-blacklist
 dati-delle-validazioni
 dati-demografici-i-circoscrizione-anno-2010
 dati-demografici-ii-circoscrizione-anno-2010
@@ -21896,9 +21896,12 @@ dati-sul-clima-di-milano-stagione-termica-estiva
 dati-sul-clima-di-milano-stagione-termica-invernale
 dati-sul-lavoro-agile-nel-comune-di-mira-nel-periodo-marzo-ottobre-2020
 dati-sulla-raccolta-differenziata-dei-rifiuti-primo-semestre-2020
+dati-tariffari-acamir
+dati-tariffari-unico
 dati-territoriali
 dati-trasporto-pubblico-urbano-atm-gtfs
 dati-utenza-sportello-lavoro-anni-2006-2010
+dati-validita-spaziali
 dati-veronacard-2014-comune-di-verona
 dati-veronacard-2015-comune-di-verona
 dati-veronacard-2016-comune-di-verona
@@ -23210,6 +23213,7 @@ deliberazioni-giunta-regionale-della-lombardia-anno-2020
 deliberazioni-giunta-regionale-della-lombardia-anno-2021
 deliberazioni-giunta-regionale-della-lombardia-anno-20221
 deliberazioni-giunta-regionale-della-lombardia-anno-2023
+deliberazioni-giunta-regionale-della-lombardia-anno-20231
 delibere-2013
 delibere-2014
 delibere-2015
@@ -48629,6 +48633,7 @@ provincia-monza-brianza-flusso-delle-iscrizioni-e-numero-delle-classi-dal-2014-a
 provincia-monza-brianza-flusso-iscrizioni-anno-scolastico-2015-2016
 provincia-monza-brianza-gruppi-comunali-e-intercomunali-di-protezione-civile
 provincia-monza-brianza-guide-turistiche
+provincia-monza-brianza-interventi-pnrr
 provincia-monza-brianza-istituti-superiori-statali
 provincia-monza-brianza-itinerari-percorribili-da-complessi-veicolari-per-il-trasporto-di-eleme
 provincia-monza-brianza-itinerari-percorribili-da-complessi-veicolari-per-il-trasporto-di-eleme1
@@ -53924,6 +53929,11 @@ rilevazione-qualita-del-servizio-giugno-2022-richieste-certificati-anagrafici
 rilevazione-qualita-del-servizio-giugno-2022-richieste-certificati-stato-civile
 rilevazione-qualita-del-servizio-giugno-2022-richieste-residenza
 rilevazione-qualita-del-servizio-giugno-2022-richieste-visure-fascicoli-edilizi
+rilevazione-qualita-del-servizio-giugno-2023-appuntamenti-on-line
+rilevazione-qualita-del-servizio-giugno-2023-presentaz-dichiarazioni-tari
+rilevazione-qualita-del-servizio-giugno-2023-richieste-certificati-stato-civile
+rilevazione-qualita-del-servizio-giugno-2023-richieste-residenza-per-persone-straniere-provenie
+rilevazione-qualita-del-servizio-giugno-2023-richieste-visure-fascicoli-edilizi
 rilevazione-qualita-del-servizio-luglio-2020-appuntamenti-on-line
 rilevazione-qualita-del-servizio-luglio-2021-appuntamenti-on-line
 rilevazione-qualita-del-servizio-luglio-2021-presentaz-dichiarazioni-tari
