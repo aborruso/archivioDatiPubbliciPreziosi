@@ -1,5 +1,5 @@
 created,display_name,id,identifier,name,package_count,URL
-2021-02-19T18:09:03.754039,ACI,b1f71fdc-fab2-441a-b309-2584a033d36c,aci,aci,23,https://dati.gov.it/view-dataset?organization=aci
+2021-02-19T18:09:03.754039,ACI,b1f71fdc-fab2-441a-b309-2584a033d36c,aci,aci,27,https://dati.gov.it/view-dataset?organization=aci
 2021-02-19T18:09:06.598929,Agenzia per l'Italia Digitale,144e7866-02df-4571-893c-bcf7b53f6751,agid,agid,36,https://dati.gov.it/view-dataset?organization=agid
 2021-09-09T11:32:59.559103,Autorità Nazionale Anticorruzione,67fde2e9-b798-472d-af39-3037627563ad,cvtiap,anac,61,https://dati.gov.it/view-dataset?organization=anac
 2022-12-14T10:24:40.884252,ANPR,40f83c97-c402-4c2c-a132-86415da19815,mint,anpr,0,https://dati.gov.it/view-dataset?organization=anpr
@@ -63,9 +63,9 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:09:00.895802,Regione Lazio,b3cb1525-8186-4665-902b-c83582b03663,r_lazio,regione-lazio,409,https://dati.gov.it/view-dataset?organization=regione-lazio
 2022-07-01T12:06:14.228347,Regione Liguria,6f79e360-1a91-48d2-82b3-30b5fc47ffdd,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
 2021-02-19T18:08:56.403482,Regione Lombardia,5821fa6d-87ee-4ab7-84e3-56ca8bb3e6f1,r_lombar,regione-lombardia,3667,https://dati.gov.it/view-dataset?organization=regione-lombardia
-2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6373,https://dati.gov.it/view-dataset?organization=regione-marche
-2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,672,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,191,https://dati.gov.it/view-dataset?organization=regione-puglia
+2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6387,https://dati.gov.it/view-dataset?organization=regione-marche
+2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,650,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,193,https://dati.gov.it/view-dataset?organization=regione-puglia
 2021-02-19T18:09:01.651866,Regione Sardegna,2673659f-08ff-4416-8260-2f4ec3cfa04d,r_sardeg,regione-sardegna,449,https://dati.gov.it/view-dataset?organization=regione-sardegna
 2021-02-19T18:09:01.899488,Regione Siciliana,2dd45e9c-4d57-428b-8287-77df7fbf1cb9,r_sicili,regione-siciliana,174,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2021-02-19T18:09:02.148546,Regione Toscana,7d1c9cdd-9a85-49db-a1a0-fad6154c89e5,r_toscan,regione-toscana,10062,https://dati.gov.it/view-dataset?organization=regione-toscana
