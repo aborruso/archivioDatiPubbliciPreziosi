@@ -21301,6 +21301,7 @@ dataset-alimentazioni
 dataset-amministrazioni
 dataset-amministrazioni1
 dataset-amministrazioni2
+dataset-amministrazioni3
 dataset-anac-2017
 dataset-anac-20174
 dataset-anac-2018
@@ -21314,8 +21315,10 @@ dataset-anac-20211
 dataset-anac-2022
 dataset-appalti-specifici-banditi-su-accordi-quadro
 dataset-appalti-specifici-banditi-su-accordi-quadro1
+dataset-appalti-specifici-banditi-su-accordi-quadro2
 dataset-appalti-specifici-banditi-su-sistema-dinamico-di-acquisizione
 dataset-appalti-specifici-banditi-su-sistema-dinamico-di-acquisizione1
+dataset-appalti-specifici-banditi-su-sistema-dinamico-di-acquisizione2
 dataset-assistenza-ospedaliera-per-acc-e-ats
 dataset-assistenza-ospedaliera-per-ats
 dataset-assistenza-ospedaliera-per-disciplina-di-dimissione-e-ats
@@ -21323,15 +21326,19 @@ dataset-assistenza-ospedaliera-per-mdc-e-ats
 dataset-bandi-e-gare
 dataset-bandi-e-gare1
 dataset-bandi-e-gare2
+dataset-bandi-e-gare3
 dataset-beni-e-servizi-acquistati-tramite-rdo-td-su-mepa
 dataset-beni-e-servizi-acquistati-tramite-rdo-td-su-mepa1
+dataset-beni-e-servizi-acquistati-tramite-rdo-td-su-mepa2
 dataset-beni-e-servizi-richiesti-tramite-rdo-td-bandite
 dataset-beni-e-servizi-richiesti-tramite-rdo-td-bandite1
+dataset-beni-e-servizi-richiesti-tramite-rdo-td-bandite2
 dataset-cataloghi
 dataset-cataloghi-copertura-territoriale
 dataset-cataloghi-copertura-territoriale1
 dataset-cataloghi-copertura-territoriale2
 dataset-cataloghi1
+dataset-cataloghi2
 dataset-classe-euro
 dataset-condizioni-di-salute-per-comune-eta-e-genere
 dataset-condizioni-di-salute-per-provincia
@@ -21341,8 +21348,10 @@ dataset-condizioni-di-salute-per-provincia-genere-e-fascia-deta
 dataset-consumi-farmaceutica-pazienti-cronici
 dataset-consumi-generati-tramite-ordini-diretti-di-acquisto-in-convenzione
 dataset-consumi-generati-tramite-ordini-diretti-di-acquisto-in-convenzione1
+dataset-consumi-generati-tramite-ordini-diretti-di-acquisto-in-convenzione2
 dataset-contratti-stipulati-a-seguito-di-rdo-td-su-mepa
 dataset-contratti-stipulati-a-seguito-di-rdo-td-su-mepa1
+dataset-contratti-stipulati-a-seguito-di-rdo-td-su-mepa2
 dataset-coperture-vaccinali
 dataset-degenza-media-e-accessi-medi-per-acc-e-ats
 dataset-degenza-media-e-accessi-medi-per-acc-e-struttura
@@ -21361,6 +21370,7 @@ dataset-della-dislocazione-delle-fontanelle-per-acqua-potabile-amap
 dataset-euring-protocol-engine-dati-dellattivita-di-inanellamento-degli-uccelli-cni-ispra
 dataset-fornitori
 dataset-fornitori1
+dataset-fornitori2
 dataset-hotspot-pisa-wifi
 dataset-indicatori-consumo-del-suolo
 dataset-indici-popolazione-cronica
@@ -21369,16 +21379,21 @@ dataset-interruzioni-volontarie-gravidanza
 dataset-ordini-diretti-di-acquisto-in-convenzione
 dataset-ordini-diretti-di-acquisto-in-convenzione1
 dataset-ordini-diretti-di-acquisto-in-convenzione2
+dataset-ordini-diretti-di-acquisto-in-convenzione3
 dataset-ordini-diretti-di-acquisto-su-accordi-quadro
 dataset-ordini-diretti-di-acquisto-su-accordi-quadro1
+dataset-ordini-diretti-di-acquisto-su-accordi-quadro2
 dataset-ordini-diretti-di-acquisto-sul-mepa
 dataset-ordini-diretti-di-acquisto-sul-mepa1
+dataset-ordini-diretti-di-acquisto-sul-mepa2
 dataset-partecipazioni
 dataset-partecipazioni1
+dataset-partecipazioni2
 dataset-pesticidi-indicatori-sqa-e-stazioni-di-monitoraggio
 dataset-popolazione-cronica-regione-lombardia
 dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa
 dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa1
+dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa2
 dataset-sdo-regione-lombardia
 dataset-tasso-prestazioni-regione-lombardia-per-branca
 dataset-tasso-prestazioni-regione-lombardia-per-genere-e-fascia-di-eta
@@ -23197,6 +23212,7 @@ decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2020
 decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2021
 decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2022
 decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2023
+decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-20231
 decreti-e-atti-dirigenziali-crt
 decreti-giunta
 decreti-sindacali
@@ -29534,6 +29550,7 @@ gallerie-ciclabili
 gallerie-strade-principali-e-ferrovie
 gare-asp
 gare-asp1
+gare-asp2
 gare-bandite-sulla-piattaforma-e-procurement-della-direzione-regionale-centrale-acquisti
 gare-di-appalto-forniture-della-regione-basilicata
 gare-di-appalto-lavori-della-regione-basilicata
@@ -42685,6 +42702,7 @@ occupazione-e-disoccupazione-anno-2018
 occupazione-e-disoccupazione-anno-2019
 occupazione-e-disoccupazione-anno-2020
 occupazione-e-disoccupazione-anno-2021
+occupazione-e-istruzione-a-bologna
 occupazione-lavoratori-disabili-anno-2015
 occupazione-lavoratori-disabili-anno-2016
 occupazione-lavoratori-disabili-anno-2017
@@ -48336,6 +48354,7 @@ procedimenti-suap-strutture-ricettive
 procedimenti-suap-strutture-sportive
 procedimenti-sue-dal-2003-al-2008
 procedure-di-gara-gestite-tramite-sintel
+procedure-di-gara-gestite-tramite-sintel-con-dettaglio-prodotti
 procedure-di-gara-sotto-soglia-delle-strutture-della-regione-lazio
 procedure-di-valutazione-impatto-ambientale-e-valutazione-strategica
 procedure-di-valutazione-impatto-ambientale-e-valutazione-strategica3
@@ -56072,6 +56091,7 @@ servizi-tecnici-attinenti-all-ingegneria-e-all-architettura-2016
 servizi-tecnici-attinenti-all-ingegneria-e-all-architettura-2017
 servizi-tecnici-attinenti-all-ingegneria-e-all-architettura-2018
 servizi-territorio-comunale
+servizi-urp-accessi
 servizi-utlili
 servizi-vari
 servizi-web-dei-comunicati-stampa
@@ -61155,7 +61175,6 @@ verbraucherpreisindex-fur-familien-der-arbeiter-und-angestellten-foi
 verbreitung-der-chronischen-krankheiten-verbreitungsraten
 verde-privato
 verde-pubblico
-verde-pubblico-bologna
 verde-pubblico-gestito-dal-comune-di-rovigo-in-mq-anno-2015
 verde-pubblico-gestito-dal-comune-di-rovigo-in-mq-anno-2016
 verde-pubblico-gestito-dal-comune-di-rovigo-in-mq-anno-2017
