@@ -783,7 +783,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 01;005;005; 053 ;005053;Ferrere;Ferrere;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5053;5053;5053;5053;D554;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 054 ;005054;Fontanile;Fontanile;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5054;5054;5054;5054;D678;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 055 ;005055;Frinco;Frinco;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5055;5055;5055;5055;D802;ITC;ITC1;ITC17;ITC;ITC1;ITC17
-01;005;005; 056 ;005056;Grana;Grana;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5056;5056;5056;5056;E134;ITC;ITC1;ITC17;ITC;ITC1;ITC17
+01;005;005; 056 ;005056;Grana Monferrato;Grana Monferrato;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5056;5056;5056;5056;E134;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 057 ;005057;Grazzano Badoglio;Grazzano Badoglio;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5057;5057;5057;5057;E159;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 058 ;005058;Incisa Scapaccino;Incisa Scapaccino;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5058;5058;5058;5058;E295;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 059 ;005059;Isola d'Asti;Isola d'Asti;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5059;5059;5059;5059;E338;ITC;ITC1;ITC17;ITC;ITC1;ITC17
@@ -805,7 +805,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 01;005;005; 075 ;005075;Montechiaro d'Asti;Montechiaro d'Asti;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5075;5075;5075;5075;F468;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 076 ;005076;Montegrosso d'Asti;Montegrosso d'Asti;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5076;5076;5076;5076;F527;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 077 ;005077;Montemagno;Montemagno;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5077;5077;5077;5077;F556;ITC;ITC1;ITC17;ITC;ITC1;ITC17
-01;005;005; 079 ;005079;Moransengo;Moransengo;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5079;5079;5079;5079;F709;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 080 ;005080;Nizza Monferrato;Nizza Monferrato;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5080;5080;5080;5080;F902;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 081 ;005081;Olmo Gentile;Olmo Gentile;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5081;5081;5081;5081;G048;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 082 ;005082;Passerano Marmorito;Passerano Marmorito;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5082;5082;5082;5082;G358;ITC;ITC1;ITC17;ITC;ITC1;ITC17
@@ -835,7 +834,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 01;005;005; 107 ;005107;Soglio;Soglio;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5107;5107;5107;5107;I781;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 108 ;005108;Tigliole;Tigliole;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5108;5108;5108;5108;L168;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 109 ;005109;Tonco;Tonco;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5109;5109;5109;5109;L203;ITC;ITC1;ITC17;ITC;ITC1;ITC17
-01;005;005; 110 ;005110;Tonengo;Tonengo;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5110;5110;5110;5110;L204;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 111 ;005111;Vaglio Serra;Vaglio Serra;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5111;5111;5111;5111;L531;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 112 ;005112;Valfenera;Valfenera;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5112;5112;5112;5112;L574;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 113 ;005113;Vesime;Vesime;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5113;5113;5113;5113;L807;ITC;ITC1;ITC17;ITC;ITC1;ITC17
@@ -847,6 +845,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 01;005;005; 119 ;005119;Villa San Secondo;Villa San Secondo;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5119;5119;5119;5119;M019;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 120 ;005120;Vinchio;Vinchio;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5120;5120;5120;5120;M058;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 121 ;005121;Montiglio Monferrato;Montiglio Monferrato;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5121;5121;5121;5121;M302;ITC;ITC1;ITC17;ITC;ITC1;ITC17
+01;005;005; 122 ;005122;Moransengo-Tonengo;Moransengo-Tonengo;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5122;5122;5122;5122;M434;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;006;006; 001 ;006001;Acqui Terme;Acqui Terme;;1;Nord-ovest;Piemonte;Alessandria;1;0;AL;6001;6001;6001;6001;A052;ITC;ITC1;ITC18;ITC;ITC1;ITC18
 01;006;006; 002 ;006002;Albera Ligure;Albera Ligure;;1;Nord-ovest;Piemonte;Alessandria;1;0;AL;6002;6002;6002;6002;A146;ITC;ITC1;ITC18;ITC;ITC1;ITC18
 01;006;006; 003 ;006003;Alessandria;Alessandria;;1;Nord-ovest;Piemonte;Alessandria;1;1;AL;6003;6003;6003;6003;A182;ITC;ITC1;ITC18;ITC;ITC1;ITC18
@@ -1264,7 +1263,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 03;012;012; 006 ;012006;Azzate;Azzate;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12006;12006;12006;12006;A531;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 007 ;012007;Azzio;Azzio;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12007;12007;12007;12007;A532;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 008 ;012008;Barasso;Barasso;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12008;12008;12008;12008;A619;ITC;ITC4;ITC41;ITC;ITC4;ITC41
-03;012;012; 009 ;012009;Bardello;Bardello;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12009;12009;12009;12009;A645;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 010 ;012010;Bedero Valcuvia;Bedero Valcuvia;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12010;12010;12010;12010;A728;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 011 ;012011;Besano;Besano;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12011;12011;12011;12011;A819;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 012 ;012012;Besnate;Besnate;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12012;12012;12012;12012;A825;ITC;ITC4;ITC41;ITC;ITC4;ITC41
@@ -1273,7 +1271,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 03;012;012; 015 ;012015;Bisuschio;Bisuschio;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12015;12015;12015;12015;A891;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 016 ;012016;Bodio Lomnago;Bodio Lomnago;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12016;12016;12016;12016;A918;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 017 ;012017;Brebbia;Brebbia;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12017;12017;12017;12017;B126;ITC;ITC4;ITC41;ITC;ITC4;ITC41
-03;012;012; 018 ;012018;Bregano;Bregano;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12018;12018;12018;12018;B131;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 019 ;012019;Brenta;Brenta;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12019;12019;12019;12019;B150;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 020 ;012020;Brezzo di Bedero;Brezzo di Bedero;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12020;12020;12020;12020;B166;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 021 ;012021;Brinzio;Brinzio;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12021;12021;12021;12021;B182;ITC;ITC4;ITC41;ITC;ITC4;ITC41
@@ -1348,7 +1345,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 03;012;012; 091 ;012091;Lozza;Lozza;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12091;12091;12091;12091;E707;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 092 ;012092;Luino;Luino;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12092;12092;12092;12092;E734;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 093 ;012093;Luvinate;Luvinate;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12093;12093;12093;12093;E769;ITC;ITC4;ITC41;ITC;ITC4;ITC41
-03;012;012; 095 ;012095;Malgesso;Malgesso;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12095;12095;12095;12095;E856;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 096 ;012096;Malnate;Malnate;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12096;12096;12096;12096;E863;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 097 ;012097;Marchirolo;Marchirolo;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12097;12097;12097;12097;E929;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 098 ;012098;Marnate;Marnate;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12098;12098;12098;12098;E965;ITC;ITC4;ITC41;ITC;ITC4;ITC41
@@ -1394,6 +1390,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 03;012;012; 141 ;012141;Sangiano;Sangiano;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12141;12141;12141;12141;H872;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 142 ;012142;Maccagno con Pino e Veddasca;Maccagno con Pino e Veddasca;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12142;12142;12142;12142;M339;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;012;012; 143 ;012143;Cadrezzate con Osmate;Cadrezzate con Osmate;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12143;12143;12143;12143;M425;ITC;ITC4;ITC41;ITC;ITC4;ITC41
+03;012;012; 144 ;012144;Bardello con Malgesso e Bregano;Bardello con Malgesso e Bregano;;1;Nord-ovest;Lombardia;Varese;1;0;VA;12144;12144;12144;12144;M433;ITC;ITC4;ITC41;ITC;ITC4;ITC41
 03;013;013; 003 ;013003;Albavilla;Albavilla;;1;Nord-ovest;Lombardia;Como;1;0;CO;13003;13003;13003;13003;A143;ITC;ITC4;ITC42;ITC;ITC4;ITC42
 03;013;013; 004 ;013004;Albese con Cassano;Albese con Cassano;;1;Nord-ovest;Lombardia;Como;1;0;CO;13004;13004;13004;13004;A153;ITC;ITC4;ITC42;ITC;ITC4;ITC42
 03;013;013; 005 ;013005;Albiolo;Albiolo;;1;Nord-ovest;Lombardia;Como;1;0;CO;13005;13005;13005;13005;A164;ITC;ITC4;ITC42;ITC;ITC4;ITC42
@@ -2814,7 +2811,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 04;021;021; 050 ;021050;Meltina/Mölten;Meltina;Mölten;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21050;21050;21050;21050;F118;ITH;ITH1;ITH10;ITH;ITH1;ITH10
 04;021;021; 051 ;021051;Merano/Meran;Merano;Meran;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21051;21051;21051;21051;F132;ITH;ITH1;ITH10;ITH;ITH1;ITH10
 04;021;021; 052 ;021052;Monguelfo-Tesido/Welsberg-Taisten;Monguelfo-Tesido;Welsberg-Taisten;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21052;21052;21052;21052;F371;ITH;ITH1;ITH10;ITH;ITH1;ITH10
-04;021;021; 053 ;021053;Montagna/Montan;Montagna;Montan;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21053;21053;21053;21053;F392;ITH;ITH1;ITH10;ITH;ITH1;ITH10
+04;021;021; 053 ;021053;Montagna sulla Strada del Vino/Montan an der Weinstraße;Montagna sulla Strada del Vino;Montan an der Weinstraße;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21053;21053;21053;21053;F392;ITH;ITH1;ITH10;ITH;ITH1;ITH10
 04;021;021; 054 ;021054;Moso in Passiria/Moos in Passeier;Moso in Passiria;Moos in Passeier;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21054;21054;21054;21054;F766;ITH;ITH1;ITH10;ITH;ITH1;ITH10
 04;021;021; 055 ;021055;Nalles/Nals;Nalles;Nals;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21055;21055;21055;21055;F836;ITH;ITH1;ITH10;ITH;ITH1;ITH10
 04;021;021; 056 ;021056;Naturno/Naturns;Naturno;Naturns;2;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen;2;0;BZ;21056;21056;21056;21056;F849;ITH;ITH1;ITH10;ITH;ITH1;ITH10
