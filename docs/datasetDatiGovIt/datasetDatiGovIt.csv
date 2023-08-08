@@ -1402,6 +1402,7 @@ accesso_interno3
 accesso_interno4
 accesso_interno5
 accesso_interno6
+accessori
 accessori-elementi-arredo
 accessori-elemento-lineare-verde-pubblico
 accessori-verde-pubblico
@@ -2093,6 +2094,7 @@ alberghi-2020
 alberghi-diffusi
 alberghi-e-residenze-turistiche-alberghiere-open-data-caratteristiche
 alberghi-e-residenze-turistiche-alberghiere-open-data-prezzi
+alberi
 alberi-da-frutto
 alberi-da-frutto1
 alberi-di-villa-manin
@@ -3977,6 +3979,8 @@ anticorruzione-20211
 anticorruzione-2022
 antignano-dati-finanziari
 antropico
+antropico-argini-con-geometria-polygonz
+antropico-argini-con-geometria-polylinez
 antropico-cassone-edilizio
 antropico-localizzazione-di-manufatto-edilizio-o-arredo-igiene-urbana
 antropico-localizzazione-di-manufatto-industriale-di-trasporto
@@ -4942,6 +4946,7 @@ aree-verdi-nel-comune-di-cartigliano
 aree-verdi-nel-comune-di-mussolente
 aree-verdi-nel-comune-di-pianezze
 aree-verdi-nel-comune-di-pove-del-grappa
+aree-verdi-sportive
 aree-verdi1
 aree-verdi2
 aree-verdi4
@@ -12532,6 +12537,7 @@ censimento-dei-siti-inquinati-cividale-del-friuli
 censimento-dei-tabaccai
 censimento-del-moscardino-muscardinus-avellanarius
 censimento-della-lepre-italica-lepus-corsicanus-nel-lazio
+censimento-della-popolazione-del-2011-dati-provvisori
 censimento-delle-barriere-architettoniche-e-urbanistiche
 censimento-delle-edicole-nella-regione-lazio
 censimento-delle-grandi-strutture-di-vendita-gsv
@@ -12636,6 +12642,7 @@ centri-assistenziali-anziani-autosufficienti
 centri-assistenziali-anziani-non-autosufficienti
 centri-assistenziali-dipendenze
 centri-assistenziali-disabili-fisici
+centri-assistenziali-disabili-psichici
 centri-assistenziali-disabili-sociali
 centri-assistenziali-minori
 centri-commerciali
@@ -12673,6 +12680,7 @@ centri-estivi-turni-frequentati-suddivisi-per-quartiere-e-annualita
 centri-estivibambini-iscritti-suddivisi-per-quartiere-e-annualita
 centri-extra-regionali-e-connessioni-linea-ptrc-2020
 centri-extra-regionali-e-connessioni-punto-ptrc-2020
+centri-inclusione-sociale-marginalita
 centri-per-anziani-open-data
 centri-per-bambini-e-genitori
 centri-per-impiego
@@ -13474,6 +13482,7 @@ collocazione-defibrillatori
 collocazioni-del-pronto-soccorso
 collocazioni-del-soccorso-alpino
 colonie-feline
+colonie-feline1
 colonnine-conta-bici
 colonnine-di-ricarica
 colonnine-di-ricarica-autovetture-elettriche-nel-comune-di-rovigo
@@ -19577,6 +19586,7 @@ consistenza-media-comune-2016
 consistenza-ricettiva-alberghiera
 consistenza-ricettiva-extra-alberghiera
 consolati
+consolati1
 consorzi-di-bonifica-del-veneto
 consorzi-turistici
 consulenti-collaboratori-2007-2012
@@ -32241,6 +32251,7 @@ informatizzazione
 informazioni-anagrafiche-scuole
 informazioni-anagrafiche-scuole-anno-scolastico-2016-17-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2016-17-scuole-statali
+informazioni-anagrafiche-scuole-anno-scolastico-2017-18-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2017-18-scuole-statali
 informazioni-anagrafiche-scuole-anno-scolastico-2018-19-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2018-19-scuole-statali
@@ -33731,6 +33742,7 @@ lidar-dtm-modello-digitale-del-terreno-campolongo-2011-mosaico-5m-x-5m
 lidar-dtm-modello-digitale-del-terreno-padergnone-2007
 lidar-dtm-modello-digitale-del-terreno-paneveggio-2007
 lidar-dtm-modello-digitale-del-terreno-pat-2006-2009
+lidar-dtm-modello-digitale-del-terreno-pat-2014-2018
 lidar-dtm-modello-digitale-del-terreno-pat-2014-2018-mosaico-10m-x-10m
 lidar-dtm-modello-digitale-del-terreno-pat-2014-2018-mosaico-5m-x-5m
 lidar-dtm-modello-digitale-del-terreno-ravina-2007
@@ -35701,6 +35713,7 @@ mercati-rionali-scoperti-per-residenti-per-posto-e-per-circoscrizione-2019
 mercati-rionali-scoperti-per-stand-e-metri-quadri-2017
 mercati-storici
 mercati-storici-siciliani
+mercati-storici1
 mercati-su-aree-pubbliche
 mercati-supermercati-ed-ipermercati-nel-comune-di-rovigo
 mercati-tematici-e-periodici
@@ -44335,6 +44348,7 @@ palmiano-edifici-comunali-ad-uso-pubblico
 pangeo-geohazard-palermo-dataset
 pangeo-geohazard-roma-dataset
 paniere-dataset-per-infografica-strategica
+pannelli-a-messaggio-variabile
 pannelli-a-messaggio-variabile-vms-sistema-5t
 pannelli-informativi
 panoramic-cycling-routes-in-the-veneto-region
@@ -44889,6 +44903,7 @@ percezione-di-sicurezza-camminando-al-buio-da-soli-femmine
 percezione-di-sicurezza-camminando-al-buio-da-soli-maschi
 percorrenza-trasporto-pubblico
 percorribilita-zona-anconella
+percorribilita-zona-gioberti
 percorribilita-zona-ss-annunziata
 percorribilita_zona_anconella
 percorribilita_zona_gioberti
@@ -45061,6 +45076,7 @@ perimetrazione-aree-carsiche
 perimetrazione-circoscrizioni-comunali
 perimetrazione-confine-comunale
 perimetrazione-dei-danni-al-patrimonio-forestale-arrecati-dalla-tempesta-vaia
+perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-dettaglio-in-scala-1-10000-pai
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1-25000-pai
 perimetrazione-delle-aree-boscate-del-veneto
 perimetrazione-delle-aree-boscate-del-veneto-con-copertura-inferiore-al-30
@@ -49399,13 +49415,17 @@ ps-mappa-1-anpil
 ps-mappa-1-aree-percorse-dal-fuoco
 ps-mappa-1-casse-di-espansione
 ps-mappa-1-cave-di-materiali-ornamentali-storici-elementi-poligonali
+ps-mappa-1-cave-di-materiali-ornamentali-storici-elementi-puntuali
 ps-mappa-1-elettrodotti
 ps-mappa-1-fiumi-torrenti-e-corsi-dacqua-di-interesse-paesaggistico
+ps-mappa-1-immobili-di-interesse-storico-architettonico
 ps-mappa-1-impianti-fissi-di-telefonia-mobile
 ps-mappa-1-metanodotti
+ps-mappa-1-vincolo-aeroportuale
 ps-mappa-1-vincolo-archeologico
 ps-mappa-1-vincolo-cimiteriale
 ps-mappa-1-vincolo-di-rispetto-sorgenti-e-punti-di-captazione
+ps-mappa-1-vincolo-idrogeologico
 ps-mappa-1-zps-sic-sir
 ps-mappa-10-argini-e-sponde
 ps-mappa-10-attraversamenti
@@ -49415,12 +49435,14 @@ ps-mappa-10-fasce-di-ambientazione
 ps-mappa-10-linea-tramviaria
 ps-mappa-10-nuova-viabilita-delle-piagge
 ps-mappa-10-parcheggi-di-servizio-alla-residenza-e-alle-attivita-economiche
+ps-mappa-10-piani-attuativi-approvati-non-realizzati-e-o-non-completati
 ps-mappa-10-principali-accessi-veicolari
 ps-mappa-10-principali-direttrici-daccesso
 ps-mappa-10-residuo-prg
 ps-mappa-10-servizi-collettivi
 ps-mappa-10-servizio-ferroviario-metropolitano
 ps-mappa-10-servizio-ferroviario-metropolitano-linea-tram-treno
+ps-mappa-10-stazioni-del-binario-metropolitano
 ps-mappa-10-verde-pubblico-esistente
 ps-mappa-10-viabilita
 ps-mappa-11-aree-ad-alta-pressione-turistica
@@ -49428,6 +49450,7 @@ ps-mappa-11-check-pont-bus-turistici
 ps-mappa-11-concentrazione-offerta-ristorativa
 ps-mappa-11-emergenze-architettoniche
 ps-mappa-11-parcheggi-di-struttura
+ps-mappa-11-parchi-urbani
 ps-mappa-11-servizi-collettivi
 ps-mappa-11-strutture-ricettive
 ps-mappa-12-centri-commerciali-naturali
@@ -49437,6 +49460,7 @@ ps-mappa-12-grandi-strutture-di-vendita
 ps-mappa-12-medie-strutture-di-vendita
 ps-mappa-12-mercati-rionali
 ps-mappa-12-minimercati-del-centro
+ps-mappa-12-servizio-del-trasporto-ferroviario-av
 ps-mappa-13-imprese-artigiane-e-manifatturiere
 ps-mappa-14-argini-e-sponde
 ps-mappa-14-attraversamenti
@@ -49445,14 +49469,17 @@ ps-mappa-14-centralita
 ps-mappa-14-fasce-di-ambientazione
 ps-mappa-14-limite-amministrativo-comunale
 ps-mappa-14-linea-tramviaria
+ps-mappa-14-nuova-viabilita-delle-piagge
 ps-mappa-14-parcheggi-di-servizio-alla-residenza-e-alle-attivita-economiche
 ps-mappa-14-parchi-urbani
+ps-mappa-14-passante-urbano-ponte-sullarno
 ps-mappa-14-piani-attuativi-approvati-non-realizzati-e-o-non-completati
 ps-mappa-14-piste-ciclabili
 ps-mappa-14-residuo-prg
 ps-mappa-14-servizio-ferroviario-metropolitano
 ps-mappa-14-servizio-ferroviario-metropolitano-linea-tram-treno
 ps-mappa-14-stazioni-del-servizio-ferroviario-metropolitano
+ps-mappa-14-utoe
 ps-mappa-14-verde-pubblico-esistente
 ps-mappa-14-viabilita
 ps-mappa-2-beni-paesaggistici
@@ -49474,6 +49501,7 @@ ps-mappa-8-corridoi-di-biodiversita
 ps-mappa-8-corridoi-ecologici
 ps-mappa-8-idrografia-base-cartografica
 ps-mappa-8-parco-della-piana-base-cartografica
+ps-mappa-8-rete-ecologica-intraurbana
 ps-mappa-8-reticolo-idrografico
 ps-mappa-8-serbatoi-di-naturalita-base-cartografica
 ps-mappa-8-zps-sic-sir
@@ -49481,6 +49509,7 @@ ps-mappa-9-centro-storico-unesco
 ps-mappa-9-check-pont-bus-turistici
 ps-mappa-9-fermate-del-servizio-tramviario
 ps-mappa-9-linea-tram-treno
+ps-mappa-9-linea-tramviaria
 ps-mappa-9-parcheggi-bus-turistici
 ps-mappa-9-parcheggi-di-struttura
 ps-mappa-9-people-mover
@@ -49488,6 +49517,7 @@ ps-mappa-9-servizio-ferroviario-metropolitano
 ps-mappa-9-stazioni-del-servizio-ferroviario-metropolitano
 ps-mappa-9-viabilita
 ps-mappe-1-2-3-4-7-8-9-10-11-12-13-limite-amministrativo-comunale
+ps-mappe-10-11-14-monumenti-areali-base-cartografica
 ps-mappe-10-14-canale-collegamento-parchi
 ps-mappe-10-14-nodi-da-riqualificare
 ps-mappe-10-14-parcheggi-di-struttura
@@ -50749,6 +50779,7 @@ quartieri-frazioni-e-borghi-di-lecce-popolazione-per-eta-e-sesso
 quartieri-statistiche-socio-demografiche
 quartieri-storici
 quartieri-storici1
+quartieri-storici2
 quartieri2
 quartieri3
 questio
@@ -52176,6 +52207,7 @@ regione-toscana-zone-di-rispetto-venatorio-art-17bis-l-r-3-94
 regione-toscana-zone-programma-di-sviluppo-rurale-feasr-2014-2022-psr
 regione-toscana-zone-soggette-a-vincoli-naturali-o-ad-altri-vincoli-specifici-ai-sens-1305-2013
 regione-toscana-zone-soggette-a-vincoli-naturali-o-ad-altri-vincoli-specifici-ai-sensi-11-2020
+regione-toscana-zone-umide-di-importanza-internazionale-ramsar
 regione-toscana-zsc-zps-zone-speciali-di-conservazione-zone-di-protezione-speciale
 regione-umbria
 regioni-deuropa
@@ -55300,9 +55332,11 @@ ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-riqualificazione-ambientale
 ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-trasformazione
 ru-disciplina-del-suolo-e-degli-insediamenti-classificazione
 ru-disciplina-del-suolo-e-degli-insediamenti-fascia-di-rispetto-cimiteriale
+ru-disciplina-del-suolo-e-degli-insediamenti-infrastrutture
 ru-disciplina-del-suolo-e-degli-insediamenti-insediamenti-unitari
 ru-disciplina-del-suolo-e-degli-insediamenti-piani-attuativi-in-itinere
 ru-disciplina-del-suolo-e-degli-insediamenti-piste-ciclabili
+ru-disciplina-del-suolo-e-degli-insediamenti-servizi-collettivi-pubblici-e-privati-di-uso-pubbl
 ru-disciplina-del-suolo-e-degli-insediamenti-simboli-dei-servizi-collettivi-pubblici-e-privati-
 ru-disciplina-del-suolo-e-degli-insediamenti-sub-sistemi-e-ambiti
 ru-disciplina-del-suolo-e-degli-insediamenti-verde-ecologico
@@ -55310,6 +55344,7 @@ ru-fasce-di-salvaguardia-delle-previsioni-dei-p-s
 ru-fattibilita-aree-di-trasformazione
 ru-fattibilita-geologica
 ru-fattibilita-infrastrutture
+ru-fattibilita-matrice-delle-fattibilita
 ru-fattibilita-sismica
 ru-insediamenti-rurali
 ru-limite-amministrativo-comunale
@@ -57112,6 +57147,7 @@ sinistri-con-velocipedi
 sinistri-con-velocipedi-2011
 sinistri-con-velocipedi-2012
 sinistri-con-velocipedi-2013
+sinistri-con-velocipedi-2014
 sinistri-per-natura-incidente-2019
 sinistri-per-velocipedi-2015
 sinistri-per-via
@@ -59418,6 +59454,7 @@ sub-seasonal-irrigation-forecasts
 sub-seasonal-irrigation-forecasts-renana
 sub-seasonal-irrigation-forecasts-romagna
 sub-sistemi
+sub-sistemi-territoriali
 sub_sistemi_territoriali
 sub_utoe
 sub_utoe_app
@@ -59929,6 +59966,7 @@ taxi-e-noleggio-con-conducente-di-matera1
 taxi-open-data
 teatri
 teatri-e-cinema
+teatri-e-luoghi-per-eventi
 teatri-privati-gennaio-dicembre-20161
 teatri-privati-gennaio-settembre-2016
 teatri-storici
@@ -62259,10 +62297,12 @@ vulnerabilita-idrogeologica
 vulnerabilita_idro
 walking-city
 walking-city-percorso-1
+walking-city-percorso-2
 walking-city-percorso-3
 walking-city-percorso-4
 walking-city-percorso-5
 walking-city-percorso-6
+walking-city-percorso-7
 water-cycle-ofanto-river-basin
 waterbodies
 wcs-web-coverage-service-per-il-trasferimento-download-di-dati-raster
@@ -62298,6 +62338,7 @@ wifi-comune-di-erba
 wifi-emilia-romagna-indoor
 wifi-emilia-romagna-outdoor
 wifi-tutti
+wifi1
 wms-service
 wms-service-inspire-pab1
 wms-service-workspace-inspire-on-server-sdi-provinz-bz-it
