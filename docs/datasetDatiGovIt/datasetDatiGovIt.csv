@@ -8045,10 +8045,9 @@ bilancio-idroclimatico-stagionale-estivo-clima-1991-2015-ed-20179
 bilancio-inps-gestione-finanziaria-di-competenza-2012
 bilancio-inps-gestione-finanziaria-di-competenza-anno-2013
 bilancio-mensile-incidenti-stradali-anno-2018-di-matera1
+bilancio-partecipativo
 bilancio-partecipativo-2017-2018
 bilancio-partecipativo-2019-2020
-bilancio-partecipativo-progetti-lineari
-bilancio-partecipativo-progetti-puntuali
 bilancio-partecipativo-votanti-per-quartiere-e-genere
 bilancio-pluriennale-degli-investimenti-2016-2018-copertura-finanziaria
 bilancio-pluriennale-degli-investimenti-2016-2018-elenco-cdr
@@ -28515,6 +28514,7 @@ eta-media-della-popolazione-residente-per-sesso-e-circoscrizione-2018
 eta-media-della-popolazione-residente-per-sesso-e-circoscrizione-2019
 eta-media-della-popolazione-residente-per-sesso-e-circoscrizione-2020
 eta-media-della-popolazione-residente-per-sesso-e-circoscrizione-2021
+eta-media-della-popolazione-residente-per-sesso-e-circoscrizione-2022
 eta-media-della-sposa-al-primo-matrimonio
 eta-media-delle-femmine
 eta-media-sposi-del-comune-di-vicenza-per-anno
@@ -28930,6 +28930,7 @@ famiglie-per-numero-componenti-e-circoscrizione-2018
 famiglie-per-numero-componenti-e-circoscrizione-2019
 famiglie-per-numero-componenti-e-circoscrizione-2020
 famiglie-per-numero-componenti-e-circoscrizione-2021
+famiglie-per-numero-componenti-e-circoscrizione-2022
 famiglie-per-numero-componenti-e-sezioni-di-censimento-al-31-12-22
 famiglie-per-numero-componenti-ed-area-territoriale-1994-2013
 famiglie-per-numero-di-componenti-e-sezione-di-censimento-al-31-12-2021
@@ -28973,6 +28974,7 @@ famiglie-per-tipologia-e-circoscrizione-2018
 famiglie-per-tipologia-e-circoscrizione-2019
 famiglie-per-tipologia-e-circoscrizione-2020
 famiglie-per-tipologia-e-circoscrizione-2021
+famiglie-per-tipologia-e-circoscrizione-2022
 famiglie-per-zone-toponomastiche
 famiglie-registrate-in-anagrafe-al-31122020-per-quartiere
 famiglie-registrate-in-anagrafe-al-31122020-per-sezione-di-censimento
@@ -31644,6 +31646,7 @@ indicatori-demografici-2018
 indicatori-demografici-2019
 indicatori-demografici-2020
 indicatori-demografici-2021
+indicatori-demografici-2022
 indicatori-demografici-dei-quartieri-di-lecce-al-31-12-2019
 indicatori-demografici-serie-storica-anni-2000
 indicatori-di-benessere-equo-e-sostenibile-bes-di-roma-capitale
@@ -35293,6 +35296,7 @@ matrimoni-per-circoscrizione-di-residenza-degli-sposi-2016
 matrimoni-per-circoscrizione-di-residenza-degli-sposi-2017
 matrimoni-per-circoscrizione-di-residenza-degli-sposi-2018
 matrimoni-per-circoscrizione-di-residenza-degli-sposi-2019
+matrimoni-per-circoscrizione-di-residenza-degli-sposi-202
 matrimoni-per-circoscrizione-di-residenza-degli-sposi-2020
 matrimoni-per-circoscrizione-di-residenza-degli-sposi-2021
 matrimoni-per-classe-di-eta-degli-sposi-2017
@@ -40577,6 +40581,7 @@ morti-per-sesso-e-circoscrizione-2018
 morti-per-sesso-e-circoscrizione-2019
 morti-per-sesso-e-circoscrizione-2020
 morti-per-sesso-e-circoscrizione-2021
+morti-per-sesso-e-circoscrizione-2022
 morti-per-sesso-e-fascia-d-eta-2017
 morti-per-sesso-e-mese-2017
 morti-per-sesso-e-per-eta-comune-di-treviso-anno-2019
@@ -41166,6 +41171,7 @@ nascite-per-sesso-e-circoscrizione-2018
 nascite-per-sesso-e-circoscrizione-2019
 nascite-per-sesso-e-circoscrizione-2020
 nascite-per-sesso-e-circoscrizione-2021
+nascite-per-sesso-e-circoscrizione-2022
 nascite-per-vitalita-2017
 natalita-caratteristiche-dei-genitori-popolazione-residente
 natalita-certificato-di-nascita-al-parto-cedap
@@ -46534,9 +46540,11 @@ popolazione-residente-di-sesso-femminile-per-eta-e-circoscrizione-2018
 popolazione-residente-di-sesso-femminile-per-eta-e-circoscrizione-2019
 popolazione-residente-di-sesso-femminile-per-eta-e-circoscrizione-2020
 popolazione-residente-di-sesso-femminile-per-eta-e-circoscrizione-2021
+popolazione-residente-di-sesso-femminile-per-eta-e-circoscrizione-2022
 popolazione-residente-di-sesso-maschile-eta-e-circoscrizione-2019
 popolazione-residente-di-sesso-maschile-eta-e-circoscrizione-2020
 popolazione-residente-di-sesso-maschile-eta-e-circoscrizione-2021
+popolazione-residente-di-sesso-maschile-eta-e-circoscrizione-2022
 popolazione-residente-di-sesso-maschile-per-eta-e-circoscrizione-2007
 popolazione-residente-di-sesso-maschile-per-eta-e-circoscrizione-2008
 popolazione-residente-di-sesso-maschile-per-eta-e-circoscrizione-2009
@@ -46682,6 +46690,7 @@ popolazione-residente-per-eta-e-circoscrizione-2018
 popolazione-residente-per-eta-e-circoscrizione-2019
 popolazione-residente-per-eta-e-circoscrizione-2020
 popolazione-residente-per-eta-e-circoscrizione-2021
+popolazione-residente-per-eta-e-circoscrizione-2022
 popolazione-residente-per-eta-e-sesso
 popolazione-residente-per-eta-sesso-cittadinanza-quartiere-e-zona-popolazione-residente-a-bolog
 popolazione-residente-per-eta-sesso-cittadinanza-quartiere-zona-area-statistica-serie-storica
@@ -46813,6 +46822,7 @@ popolazione-residente-per-sesso-ed-eta-2018
 popolazione-residente-per-sesso-ed-eta-2019
 popolazione-residente-per-sesso-ed-eta-2020
 popolazione-residente-per-sesso-ed-eta-2021
+popolazione-residente-per-sesso-ed-eta-2022
 popolazione-residente-per-sesso-stato-civile-e-eta-anno-2018
 popolazione-residente-per-sesso1
 popolazione-residente-per-sesso2
@@ -46832,6 +46842,7 @@ popolazione-residente-per-stato-civile-e-circoscrizione-2018
 popolazione-residente-per-stato-civile-e-circoscrizione-2019
 popolazione-residente-per-stato-civile-e-circoscrizione-2020
 popolazione-residente-per-stato-civile-e-circoscrizione-2021
+popolazione-residente-per-stato-civile-e-circoscrizione-2022
 popolazione-residente-per-stato-civile-e-sesso-anno-1984
 popolazione-residente-per-stato-civile-e-sesso-anno-1985
 popolazione-residente-per-stato-civile-e-sesso-anno-1986
@@ -48777,6 +48788,7 @@ proporzione-di-donne-dai-16-ai-70-anni-che-hanno-subito-violenza-fisica-o-sessua
 proporzione-di-prostatectomia-trans-uretrale-per-iperplasia-benigna-sul-totale-delle-prostatect
 proporzione-di-ptca-eseguita-per-condizione-diverse-dall-infarto-miocardico-acuto-sul-totale
 proposte-istituzione-nuovi-siti-di-interesse-comunitario-presenti-nel-p-n-del-pollino-2013
+proposte-laboratorio-di-quartiere
 proposte-percorsi-openapp
 proprieta-comunali-e-alienazioni
 proprieta-forestali-trentine
@@ -58547,6 +58559,7 @@ stranieri-ingressi-dei-richiedenti-asilo-e-rifugiati-nei-centri-comunali-di-acco
 stranieri-nati
 stranieri-nel-comune-di-carbonera-al-31-12-2019-suddivisi-per-frazione-e-per-sesso
 stranieri-per-area-di-provenienza-2020
+stranieri-per-area-di-provenienza-2022
 stranieri-per-quartiere-comune-di-treviso-anno-2019
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
 stranieri-per-quartiere-e-cittad-comune-di-gambellara
@@ -58647,6 +58660,7 @@ stranieri-residenti-per-classe-di-eta-e-sesso-2018
 stranieri-residenti-per-classe-di-eta-e-sesso-2019
 stranieri-residenti-per-classe-di-eta-e-sesso-2020
 stranieri-residenti-per-classe-di-eta-e-sesso-2021
+stranieri-residenti-per-classe-di-eta-e-sesso-2022
 stranieri-residenti-per-eta-e-circoscrizione-2007
 stranieri-residenti-per-eta-e-circoscrizione-2008
 stranieri-residenti-per-eta-e-circoscrizione-2009
@@ -58662,6 +58676,7 @@ stranieri-residenti-per-eta-e-circoscrizione-2018
 stranieri-residenti-per-eta-e-circoscrizione-2019
 stranieri-residenti-per-eta-e-circoscrizione-2020
 stranieri-residenti-per-eta-e-circoscrizione-2021
+stranieri-residenti-per-eta-e-circoscrizione-2022
 stranieri-residenti-per-nazionalita-e-circoscrizione-2007
 stranieri-residenti-per-nazionalita-e-circoscrizione-2008
 stranieri-residenti-per-nazionalita-e-circoscrizione-2009
@@ -58677,6 +58692,7 @@ stranieri-residenti-per-nazionalita-e-circoscrizione-2018
 stranieri-residenti-per-nazionalita-e-circoscrizione-2019
 stranieri-residenti-per-nazionalita-e-circoscrizione-2020
 stranieri-residenti-per-nazionalita-e-circoscrizione-2021
+stranieri-residenti-per-nazionalita-e-circoscrizione-2022
 stranieri-residenti-per-paese-di-provenienza-e-sesso-anno-2010
 stranieri-residenti-per-paese-di-provenienza-e-sesso-anno-2011
 stranieri-residenti-per-quartiere-maschi-e-femmine-anno-2015
@@ -58695,6 +58711,7 @@ stranieri-residenti-per-sesso-e-circoscrizione-2018
 stranieri-residenti-per-sesso-e-circoscrizione-2019
 stranieri-residenti-per-sesso-e-circoscrizione-2020
 stranieri-residenti-per-sesso-e-circoscrizione-2021
+stranieri-residenti-per-sesso-e-circoscrizione-2022
 stranieri-residenti-per-sesso-e-cittadinanza-2020
 stranieri-residenti-per-sesso-e-quartiere-2007
 stranieri-residenti-per-sesso-e-quartiere-2008
@@ -58710,6 +58727,7 @@ stranieri-residenti-per-sesso-e-quartiere-2017
 stranieri-residenti-per-sesso-e-quartiere-2018
 stranieri-residenti-per-sesso-e-quartiere-2020
 stranieri-residenti-per-sesso-e-quartiere-2021
+stranieri-residenti-per-sesso-e-quartiere-2022
 stranieri-residenti-per-zona-statistica-2007
 stranieri-residenti-per-zona-statistica-2008
 stranieri-residenti-per-zona-statistica-2009
@@ -58724,6 +58742,7 @@ stranieri-residenti-per-zona-statistica-2018
 stranieri-residenti-per-zona-statistica-2019
 stranieri-residenti-per-zona-statistica-2020
 stranieri-residenti-per-zona-statistica-2021
+stranieri-residenti-per-zona-statistica-2022
 stranieri-residenti-sesso-e-quartiere-2019
 stranieri-residenti-su-1-000-abitanti
 stranieri-residenti-sul-totale-della-popolazione-residente
@@ -59376,6 +59395,7 @@ tassi-di-natalita-e-mortalita-2018
 tassi-di-natalita-e-mortalita-2019
 tassi-di-natalita-e-mortalita-2020
 tassi-di-natalita-e-mortalita-2021
+tassi-di-natalita-e-mortalita-2022
 tassi-di-natalita-gennaio_ottobre-2022
 tassi-di-natalita-mortalita-e-sviluppo-delle-imprese-valori-percentuali-anno-2013
 tassi-di-natalita-mortalita-e-sviluppo-delle-imprese-valori-percentuali-anno-2014
