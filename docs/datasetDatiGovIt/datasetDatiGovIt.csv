@@ -4205,6 +4205,7 @@ area-c-accessi-mensili-luglio-2019
 area-c-accessi-mensili-luglio-2020
 area-c-accessi-mensili-luglio-2021
 area-c-accessi-mensili-luglio-2022
+area-c-accessi-mensili-luglio-2023
 area-c-accessi-mensili-maggio-2017
 area-c-accessi-mensili-maggio-2018
 area-c-accessi-mensili-maggio-2019
@@ -8221,7 +8222,7 @@ bolognawifi-affollamento-storico-2023
 bolognawifi-connessioni-giornaliere
 bolognawifi-elenco-aree-segnale
 bolognawifi-elenco-hot-spot
-bolognawifi-matrice-spostamenti
+bolognawifi-matrice-spostamenti1
 bomporto-popolazione-residente-per-eta-e-genere
 bonifica-siti-contaminati
 bonus-covid-19-aziende-agricole
@@ -14107,6 +14108,8 @@ comune-codogno-monitoraggio-procedimenti-anno-2018-ii-semestre
 comune-codogno-monitoraggio-procedimenti-anno-2019-i-semestre
 comune-codogno-monitoraggio-procedimenti-anno-2020
 comune-codogno-monitoraggio-procedimenti-anno-2021
+comune-codogno-monitoraggio-procedimenti-anno-2022-i-semestre
+comune-codogno-monitoraggio-procedimenti-anno-2022-ii-semestre
 comune-codogno-opere-pubbliche-tempi-e-costi-di-realizzazione
 comune-codogno-opere-pubbliche-tempi-e-costi-di-realizzazione-opere-minori
 comune-codogno-pratiche-sportello-unico-attivita-produttive-suap
@@ -21648,6 +21651,7 @@ dataset-partecipazioni1
 dataset-partecipazioni2
 dataset-pesticidi-indicatori-sqa-e-stazioni-di-monitoraggio
 dataset-popolazione-cronica-regione-lombardia
+dataset-pubblicati
 dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa
 dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa1
 dataset-richieste-di-offerta-e-trattative-dirette-bandite-sul-mepa2
@@ -56884,6 +56888,7 @@ siope-spese-comune-di-milano-giugno-2022
 siope-spese-comune-di-milano-luglio-2020
 siope-spese-comune-di-milano-luglio-2021
 siope-spese-comune-di-milano-luglio-2022
+siope-spese-comune-di-milano-luglio-2023
 siope-spese-comune-di-milano-maggio-2020
 siope-spese-comune-di-milano-maggio-2021
 siope-spese-comune-di-milano-maggio-2022
