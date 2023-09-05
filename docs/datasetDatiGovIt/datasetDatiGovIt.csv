@@ -2088,6 +2088,7 @@ alberi-di-villa-manin
 alberi-in-manutenzione
 alberi-messina
 alberi-monumentali
+alberi-monumentali-d-d-n-3881-2023
 alberi-monumentali-dell-emilia-romagna-ea26b324
 alberi-monumentali-della-campania
 alberi-monumentali-di-sicilia
@@ -4541,6 +4542,7 @@ aree-ex-bosco
 aree-floristiche
 aree-forestali-in-rapporto-alla-superficie-terrestre
 aree-fortemente-antropizzate-2019-arfan2019
+aree-fortemente-antropizzate-2021-arfan2021
 aree-fragili-del-territorio-aperto
 aree-giochi
 aree-gioco-bimbi
@@ -4585,6 +4587,7 @@ aree-ortive
 aree-particolarmente-vulnerabili-in-relazione-allattivita-agricola-esercitatavi
 aree-pedonali
 aree-pedonali-2014-07-30
+aree-pedonali-dbt
 aree-pedonali-e-ztl
 aree-pedonali-messina
 aree-pedonali1
@@ -4891,6 +4894,7 @@ aree-tutela-paesaggistica-interesse-regionale-soggette-competenza-enti-locali
 aree-tutela-paesaggistica-interesse-regionale-soggette-competenza-provinciale
 aree-umide-life-colli-berici-natura-2000-08-nat-it-362
 aree-urbane-di-vicenza-servite-da-connessione-wifi-gratuita-offerta-dal-comune-e-nume-2017-2021
+aree-veicolari-dbt
 aree-verdi
 aree-verdi-comune-di-rovigo
 aree-verdi-fruibili-comune-di-chieri
@@ -21155,7 +21159,9 @@ curva-batimetrica-ln_btm-050201
 curva-di-livello-cv_liv-050101
 curve-di-livello
 curve-di-livello-direttrici
+curve-di-livello-direttrici-passo-50m-per-la-ctp
 curve-di-livello-ordinarie-open-data
+curve-di-livello-ordinarie-passo-10m-per-la-ctp
 curve-di-livello-passo-100-m-lineari
 curve-di-livello-passo-100-m-poligonali
 curve-di-livello-passo-200-m-lineari
@@ -21240,6 +21246,7 @@ database-geotopografico-aggiornamento2
 database-geotopografico-aggiornamento3
 database-geotopografico-aggiornamento4
 database-geotopografico-aggiornamento5
+database-geotopografico-aggiornamento6
 database-geotopografico-alla-scala-1-10-000-dbgt10k-prodotto-nel-2019
 database-geotopografico-alla-scala-1-10-000-dbgt10k-semplificato
 database-geotopografico-alla-scala-1-10-000-dbgt10k-semplificato-2020
@@ -23865,8 +23872,6 @@ disponibilita-di-convogli-della-metropolitana-per-il-trasporto-pubblico-locale-s
 disponibilita-di-filobus-per-il-trasporto-pubblico-locale-serie-storica
 disponibilita-di-verde-urbano
 disponibilita-di-vetture-del-tram-per-il-trasporto-pubblico-locale-serie-storica
-disponibilita-parcheggi-storico
-disponibilita-parcheggi-vigente
 dispositivi-di-firma-digitale-rilasciati-dalla-camera-di-commercio-di-lecce
 dispositivi-medici
 dispositivi-medici-anno-2012
@@ -29605,7 +29610,6 @@ grotta
 grottammare-affluenza-elezioni-regionali
 grottammare-edifici-comunali-ad-uso-pubblico
 grottazzolina-edifici-comunali-ad-uso-pubblico
-grotte
 grotte-ptrc-2020
 grotte-sc-1-25000
 gruppi-consiliari-del-comune-di-ala
@@ -32515,6 +32519,7 @@ la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2020
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2021
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2022
+la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2023
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2020
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2021
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2022
@@ -32844,6 +32849,7 @@ le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trim-2020
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2021
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
+le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trim-2020
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trimestre-2021
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trimestre-2022
@@ -32857,6 +32863,7 @@ le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2022
+le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-4-trimestre-2020
@@ -32871,6 +32878,7 @@ le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-4-trimestre-
 le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-anno-2021
 le-imprese-dei-comuni-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
+le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-dei-comuni-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-4-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-anno-2022
@@ -32893,6 +32901,7 @@ le-imprese-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-della-provincia-di-lecce-2-trimestre-2021
 le-imprese-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-della-provincia-di-lecce-2-trimestre-20221
+le-imprese-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-della-provincia-di-lecce-3-trimestre-2021
 le-imprese-della-provincia-di-lecce-3-trimestre-2022
@@ -32909,6 +32918,7 @@ le-imprese-femminili-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-20221
+le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-20221
 le-imprese-femminili-della-provincia-di-lecce-4-trimestre-2020
@@ -41215,6 +41225,7 @@ numeri-civici-georiferiti
 numeri-civici-georiferiti-2012
 numeri-civici-magnano-in-riviera1
 numeri-civici-open-data
+numeri-civici-piazzola-sul-brenta-sitc
 numeri-civici-povoletto
 numeri-civici-regionali-versione-2014
 numeri-civici-sedilo
@@ -43185,8 +43196,11 @@ ortofoto-paneveggio-2007-rgb
 ortofoto-pat-1973-in-scala-di-grigi
 ortofoto-pat-1994-in-scala-di-grigi
 ortofoto-pat-2015-rgb
+ortofoto-pat-2015-rgbir
 ortofoto-pellizzano-2012-rgb
 ortofoto-ravina-2007-rgb
+ortofoto-reticolo-idrografico-fiume-reno-2021-nir
+ortofoto-reticolo-idrografico-fiume-reno-2021-rgb
 ortofoto-val-di-sella-2007-rgb
 ortofoto1954-mosaico
 ortofoto1954-mosaico1
@@ -43335,15 +43349,25 @@ p-t-a-2022-stato-chimico-delle-acque-superficiali-2014-2019
 p-t-a-2022-stato-ecologico-delle-acque-superficiali-2014-2019
 p-t-a-2022-stato-quantitativo-acque-sotterranee-2014-2019
 p-t-a-2022-tipizzazione-delle-acque-superficiali
+p-t-a-m-c-c01-batimetrie
+p-t-a-m-c-c02-habitat-marini
+p-t-a-m-c-c03-evoluzione-della-spiaggia-emersa-e-sommersa
+p-t-a-m-c-c04-sintesi-dei-processi-costieri
+p-t-a-m-c-c05-fasce-dinamiche-delle-spiagge-e-della-costa-alta
+p-t-a-m-c-c06-rischio
+p-t-a-m-c-c07-regimi-normativi
 p002_p_pup
 p003_p_pup
+p004_p_pup
 p010108-giunzione-stradale-comune-di-milano-dbt-2012-dataset
 p010203-giunzione-ferroviaria-comune-di-milano-dbt-2012-dataset
 p010205-giunzione-tranviaria-comune-di-milano-dbt-2012-dataset
 p010207-giunzione-di-metropolitana-comune-di-milano-dbt-2012-dataset
 p011_l_pup
 p012_p_pup
+p014_l_pup
 p015_n_pup
+p016_p_pup
 p017_n_pup
 p018_n_pup
 p019_n_pup
@@ -49684,6 +49708,8 @@ quadro-dunione-delle-tavolette-igm-in-scala-1-25-000
 quadro-dunione-igm-1-25-000
 quadro-dunione-igm-1-50-000
 quadro-dunione-lidar-2006-2009
+quadro-dunione-lidar-campolongo-2011
+quadro-dunione-lidar-pat-2014-2018
 quadro-dunione-mappe-scala-1-5-000-ed50
 quadro-dunione-sezioni-1-10-000-taglio-ed50
 quadro-dunione-sezioni-c-t-r-scala-1-10-000-anno-2012-2013
