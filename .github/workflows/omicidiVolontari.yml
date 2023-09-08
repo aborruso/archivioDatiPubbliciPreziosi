@@ -1,10 +1,10 @@
-name: crea archivio mimit carburanti
+name: crea archivio omicidi volontari
 
 on:
 #  push:
   repository_dispatch:
   schedule:
-    - cron:  '12 11 * * *'
+    - cron:  '12 21 * * *'
   workflow_dispatch:
 
 jobs:
