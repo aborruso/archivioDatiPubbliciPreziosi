@@ -3452,6 +3452,7 @@ andamento-competenza-entrata-per-titoli-comune-di-zovencedo
 andamento-competenza-entrata-per-titoli-magnano-in-riviera
 andamento-competenza-entrata-per-titoli-povoletto
 andamento-competenza-entrata-per-titoli-reana-del-rojale
+andamento-competenza-entrata-per-titoli-remanzacco
 andamento-competenza-entrata-per-titoli-sedilo
 andamento-competenza-entrata-per-titoli-taipana1
 andamento-competenza-uscita-per-titoli-bagnaria-arsa
@@ -3565,6 +3566,7 @@ andamento-competenza-uscita-per-titoli-comune-di-zovencedo
 andamento-competenza-uscita-per-titoli-magnano-in-riviera
 andamento-competenza-uscita-per-titoli-povoletto
 andamento-competenza-uscita-per-titoli-reana-del-rojale
+andamento-competenza-uscita-per-titoli-remanzacco
 andamento-competenza-uscita-per-titoli-sedilo
 andamento-competenza-uscita-per-titoli-taipana1
 andamento-delle-donazioni-per-l-associazione-avis-anno-2013
@@ -3692,11 +3694,13 @@ andamento-demografico-del-comune-di-castelnuovo-del-garda-aggiornato-al-30-08-20
 andamento-demografico-ferla
 andamento-demografico-magnano-in-riviera1
 andamento-demografico-reana-del-rojale
+andamento-demografico-remanzacco
 andamento-demografico-sedilo
 andamento-entrate-e-uscite-di-competenza-negli-anni-bagnaria-arsa
 andamento-entrate-e-uscite-di-competenza-negli-anni-bondeno
 andamento-entrate-e-uscite-di-competenza-negli-anni-cefalu
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-agugliaro-aggiornato-al-0-02-2022
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-albaredo-dadige
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-alonte
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-anguillara-veneta
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-arsie
@@ -3751,6 +3755,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-illasi
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-la-valle-agordina
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-lamon
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-limena
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-lugo-di-vicenza
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-lusiana-conco-aggiornato-12-2021
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-merlara-aggiornato-al-03-05-2022
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-mezzane-di-sotto
@@ -3808,6 +3813,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-flaibano
 andamento-entrate-e-uscite-di-competenza-negli-anni-magnano-in-riviera1
 andamento-entrate-e-uscite-di-competenza-negli-anni-povoletto
 andamento-entrate-e-uscite-di-competenza-negli-anni-reana-del-rojale
+andamento-entrate-e-uscite-di-competenza-negli-anni-remanzacco
 andamento-entrate-e-uscite-di-competenza-negli-anni-rive-darcano
 andamento-entrate-e-uscite-di-competenza-negli-anni-sedilo
 andamento-entrate-e-uscite-di-competenza-negli-anni-taipana
@@ -5433,6 +5439,7 @@ artes-registro-regionale-delle-associazioni
 articolazione-copertura-finanziaria-oo-pp-triennio-2018-2020
 articolazione-degli-uffici-comune-di-martina-franca
 articolazione-degli-uffici-con-orari-al-pubblico-bagnaria-arsa
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-albettone
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-alonte
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-anguillara-veneta
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-arsie
@@ -5525,6 +5532,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-zugliano
 articolazione-degli-uffici-con-orari-al-pubblico-magnano-in-riviera1
 articolazione-degli-uffici-con-orari-al-pubblico-manzano
 articolazione-degli-uffici-con-orari-al-pubblico-povoletto
+articolazione-degli-uffici-con-orari-al-pubblico-remanzacco
 articolazione-degli-uffici-con-orari-al-pubblico-rive-darcano
 articolazione-degli-uffici-con-orari-al-pubblico-taipana1
 artigiani
@@ -5975,6 +5983,7 @@ atti-amministrativi-manzano
 atti-amministrativi-per-tipo-e-servizio
 atti-amministrativi-povoletto
 atti-amministrativi-reana-del-rojale
+atti-amministrativi-remanzacco
 atti-amministrativi-rive-darcano
 atti-amministrativi-sedilo
 atti-amministrativi-taipana1
@@ -13431,6 +13440,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-z
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-zugliano
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-magnano-in-riviera
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-reana-del-rojale
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-remanzacco
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-sedilo
 composizione-nuclei-familiari-per-quartiere
 composizione-reddito-complessivo-nel-lazio-per-tipologia-di-reddito
@@ -23214,6 +23224,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-illasi
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-la-valle-agordina
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-lamon
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-limena
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-lugo-di-vicenza
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-lusiana-conco-aggiornato-al-31-03-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-merlara-aggiornato-al-03-05-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-mezzane-di-sotto
@@ -23268,12 +23279,14 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-zovencedo
 dettaglio-entrate-per-capitolo-di-spesa-magnano-in-riviera1
 dettaglio-entrate-per-capitolo-di-spesa-povoletto
 dettaglio-entrate-per-capitolo-di-spesa-reana-del-rojale
+dettaglio-entrate-per-capitolo-di-spesa-remanzacco
 dettaglio-entrate-per-capitolo-di-spesa-sedilo
 dettaglio-entrate-per-capitolo-di-spesa-taipana1
 dettaglio-spese-anno-2016
 dettaglio-uscite-per-capitolo-di-spesa-bagnaria-arsa
 dettaglio-uscite-per-capitolo-di-spesa-bondeno
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-agugliaro-aggiornato-al-31-03-2022
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-albaredo-dadige
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-alonte
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-anguillara-veneta
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-arsie
@@ -23382,6 +23395,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-zovencedo
 dettaglio-uscite-per-capitolo-di-spesa-magnano-in-riviera
 dettaglio-uscite-per-capitolo-di-spesa-povoletto
 dettaglio-uscite-per-capitolo-di-spesa-reana-del-rojale
+dettaglio-uscite-per-capitolo-di-spesa-remanzacco
 dettaglio-uscite-per-capitolo-di-spesa-sedilo
 dettaglio-uscite-per-capitolo-di-spesa-taipana1
 develop-view-vie-2016-06-27
@@ -24852,6 +24866,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-montegalda
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-montegaldella
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-moriago-della-battaglia
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-mozzecane-aggiornato-al-31-03-2022
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-musile-di-piave
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-nervesa-della-battaglia
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-noale-aggiornato-al-31-03-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-nogarole-rocca
@@ -24898,6 +24913,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-zovencedo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-zugliano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-magnano-in-riviera
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-reana-del-rojale
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-remanzacco
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-sedilo
 elenco-codici-iban-dei-conti-del-comune
 elenco-collegi-regionali-maestri-di-sci-e-delle-guide-alpine-anno-2020-2021
@@ -24994,6 +25010,7 @@ elenco-dei-distretti-del-commercio-della-lombardia-con-dettaglio-comuni-apparten
 elenco-dei-distretti-del-commercio-della-lombardia-forma-aggregata
 elenco-dei-distributori-carburante-con-turni-e-relative-date-anno-2015-del-comune-di-matera1
 elenco-dei-fascicoli-suddivisi-per-anno-alessano
+elenco-dei-fascicoli-suddivisi-per-anno-comune-di-albettone
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-alonte
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-anguillara-veneta
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-badia-polesine
@@ -25066,6 +25083,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-alessano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-bagnaria-arsa
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-bondeno
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-agugliaro
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-albettone
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-alonte
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-anguillara-veneta
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-arsie
@@ -25128,6 +25146,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-monfumo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-montegalda
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-montegaldella
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-moriago-della-battaglia
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-musile-di-piave
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-nervesa-della-battaglia
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-noale
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-nogarole-rocca
@@ -25335,6 +25354,7 @@ elenco-delle-pubblicazioni-magnano-in-riviera1
 elenco-delle-pubblicazioni-manzano
 elenco-delle-pubblicazioni-povoletto
 elenco-delle-pubblicazioni-reana-del-rojale
+elenco-delle-pubblicazioni-remanzacco
 elenco-delle-pubblicazioni-rive-darcano
 elenco-delle-pubblicazioni-sedilo
 elenco-delle-pubblicazioni-taipana
@@ -41063,6 +41083,7 @@ numeri-civici-cividale-del-friuli
 numeri-civici-comune-di-agordo
 numeri-civici-comune-di-agugliaro
 numeri-civici-comune-di-alano-di-piave
+numeri-civici-comune-di-albettone
 numeri-civici-comune-di-alleghe
 numeri-civici-comune-di-alonte
 numeri-civici-comune-di-arsie
@@ -42474,6 +42495,7 @@ oneri-pratiche-edilizie-comune-di-merlara-aggiornato-al-03-05-2022
 oneri-pratiche-edilizie-comune-di-mezzane-di-sotto
 oneri-pratiche-edilizie-comune-di-minerbe
 oneri-pratiche-edilizie-comune-di-mozzecane-aggiornato-al-31-03-2022
+oneri-pratiche-edilizie-comune-di-musile-di-piave
 oneri-pratiche-edilizie-comune-di-nogarole-rocca
 oneri-pratiche-edilizie-comune-di-nove
 oneri-pratiche-edilizie-comune-di-paese
@@ -46705,6 +46727,7 @@ posti-per-cimitero-comune-di-minerbe
 posti-per-cimitero-comune-di-monfumo
 posti-per-cimitero-comune-di-montegalda
 posti-per-cimitero-comune-di-moriago-della-battaglia
+posti-per-cimitero-comune-di-musile-di-piave
 posti-per-cimitero-comune-di-nervesa-della-battaglia
 posti-per-cimitero-comune-di-noale
 posti-per-cimitero-comune-di-noventa-padovana-aggiornato-al-02-02-2022
@@ -52085,6 +52108,7 @@ residui-finali-per-esercizio-comune-di-illasi
 residui-finali-per-esercizio-comune-di-la-valle-agordina
 residui-finali-per-esercizio-comune-di-lamon
 residui-finali-per-esercizio-comune-di-limena
+residui-finali-per-esercizio-comune-di-lugo-di-vicenza
 residui-finali-per-esercizio-comune-di-lusiana-conco-aggiornato-al-06-12-2021
 residui-finali-per-esercizio-comune-di-merlara-aggiornato-al-03-05-2022
 residui-finali-per-esercizio-comune-di-mezzane-di-sotto
@@ -52141,6 +52165,7 @@ residui-finali-per-esercizio-flaibano
 residui-finali-per-esercizio-magnano-in-riviera
 residui-finali-per-esercizio-povoletto
 residui-finali-per-esercizio-reana-del-rojale
+residui-finali-per-esercizio-remanzacco
 residui-finali-per-esercizio-rive-darcano
 residui-finali-per-esercizio-sedilo
 residui-finali-per-esercizio-taipana
@@ -55242,9 +55267,11 @@ servizi-cimiteriali-comune-di-costa-di-rovigo
 servizi-cimiteriali-comune-di-crocetta-del-montello
 servizi-cimiteriali-comune-di-erbe
 servizi-cimiteriali-comune-di-fiesso-umbertiano
+servizi-cimiteriali-comune-di-fratta-polesine
 servizi-cimiteriali-comune-di-gallio-aggiornato-al-17-02-2022
 servizi-cimiteriali-comune-di-illasi
 servizi-cimiteriali-comune-di-isola-vicentina
+servizi-cimiteriali-comune-di-lugo-di-vicenza
 servizi-cimiteriali-comune-di-lusiana-conco-aggiornato-al-06-12-2021
 servizi-cimiteriali-comune-di-mezzane-di-sotto
 servizi-cimiteriali-comune-di-minerbe
@@ -55371,6 +55398,7 @@ servizi-del-comune-di-mezzana
 servizi-del-comune-di-mezzocorona
 servizi-del-comune-di-mezzolombardo
 servizi-del-comune-di-modena
+servizi-del-comune-di-modena1
 servizi-del-comune-di-moena
 servizi-del-comune-di-molveno
 servizi-del-comune-di-mori
