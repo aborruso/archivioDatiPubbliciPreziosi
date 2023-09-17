@@ -23,7 +23,7 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:08:53.931758,Comune di Matera,837a9d99-1c2c-4cc3-ad8f-402edd2d69d7,c_f052,comune-di-matera,241,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2022-02-14T10:13:19.046044,Comune di Messina,987dd373-4a0a-4c5c-ab5f-09da5182d7a8,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
 2021-02-19T18:08:54.213955,Comune di Milano,21d86b70-5f52-4a2a-8c3b-287dfe6ff793,c_f205,comune-di-milano,2228,https://dati.gov.it/view-dataset?organization=comune-di-milano
-2021-02-19T18:09:04.515287,Comune di Palermo,9686fac6-2b2d-4b53-89ac-00e6b4411f17,c_g273,comune-di-palermo,1586,https://dati.gov.it/view-dataset?organization=comune-di-palermo
+2021-02-19T18:09:04.515287,Comune di Palermo,9686fac6-2b2d-4b53-89ac-00e6b4411f17,c_g273,comune-di-palermo,1587,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2021-02-19T18:09:07.852823,Comune di Reggio Calabria,b2c429a4-00c9-4d00-8201-e31eb53e5052,c_h224,comune-di-reggio-calabria,166,https://dati.gov.it/view-dataset?organization=comune-di-reggio-calabria
 2021-02-19T18:08:54.699760,Comune di Rimini,9c10046e-7e18-480b-ad16-8067981d537e,c_h294,comune-di-rimini,79,https://dati.gov.it/view-dataset?organization=comune-di-rimini
 2021-02-19T18:08:55.044313,Comune di Terlizzi,c204d58c-5f65-4ad6-ae38-c6a69086fcb9,c_l109,comune-di-terlizzi,48,https://dati.gov.it/view-dataset?organization=comune-di-terlizzi
@@ -57,14 +57,14 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:08:55.879753,Regione Basilicata,06a34202-bc42-4523-b465-b7ccbd6add33,r_basili,regione-basilicata,198,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2023-01-04T16:10:41.832496,Regione Calabria,94e3e3de-debe-4c2e-aa11-401b352564b2,regcal,regione-calabria,103,https://dati.gov.it/view-dataset?organization=regione-calabria
 2021-02-19T18:09:00.044590,Regione Campania,64a45b11-4252-439b-a5d8-267209acf658,r_campan,regione-campania,271,https://dati.gov.it/view-dataset?organization=regione-campania
-2022-04-22T17:43:42.691339,Regione del Veneto,963d2857-c188-4296-a4bd-473089d85608,r_veneto,regione-del-veneto,4823,https://dati.gov.it/view-dataset?organization=regione-del-veneto
+2022-04-22T17:43:42.691339,Regione del Veneto,963d2857-c188-4296-a4bd-473089d85608,r_veneto,regione-del-veneto,4835,https://dati.gov.it/view-dataset?organization=regione-del-veneto
 2022-06-10T10:06:13.370922,Regione Emilia-Romagna,5c311059-446b-475f-8d79-516c5368ecf4,r_emiro,regione-emilia-romagna,6007,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2021-02-19T18:09:00.502907,Regione Friuli Venezia Giulia,175a3d58-ebcd-488b-97a7-3fd81730a993,r_friuve,regione-friuli-venezia-giulia,561,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2021-02-19T18:09:00.895802,Regione Lazio,b3cb1525-8186-4665-902b-c83582b03663,r_lazio,regione-lazio,409,https://dati.gov.it/view-dataset?organization=regione-lazio
 2022-07-01T12:06:14.228347,Regione Liguria,6f79e360-1a91-48d2-82b3-30b5fc47ffdd,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
 2021-02-19T18:08:56.403482,Regione Lombardia,5821fa6d-87ee-4ab7-84e3-56ca8bb3e6f1,r_lombar,regione-lombardia,3675,https://dati.gov.it/view-dataset?organization=regione-lombardia
-2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6407,https://dati.gov.it/view-dataset?organization=regione-marche
-2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,683,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6408,https://dati.gov.it/view-dataset?organization=regione-marche
+2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,684,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,225,https://dati.gov.it/view-dataset?organization=regione-puglia
 2021-02-19T18:09:01.651866,Regione Sardegna,2673659f-08ff-4416-8260-2f4ec3cfa04d,r_sardeg,regione-sardegna,449,https://dati.gov.it/view-dataset?organization=regione-sardegna
 2021-02-19T18:09:01.899488,Regione Siciliana,2dd45e9c-4d57-428b-8287-77df7fbf1cb9,r_sicili,regione-siciliana,174,https://dati.gov.it/view-dataset?organization=regione-siciliana
