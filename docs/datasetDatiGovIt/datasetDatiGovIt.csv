@@ -6876,6 +6876,7 @@ bacino-toscana-nord-stato-ecologico-e-chimico-delle-acque-superficiali
 bagni-ad-uso-pubblico
 bagni-pubblici
 bagni-pubblici1
+bagni-pubblici2
 baldichieri-elenco-delle-vie
 baldichieri-statistica-stranieri-per-cittadinanza
 ballottaggio-delle-elezioni-amministrative-2014-affluenze-e-risultati-elettorali
@@ -10265,6 +10266,7 @@ c_f622_dataset_chiese
 c_f622_dataset_concorsi_2019
 c_f622_dataset_concorsi_2021
 c_f622_dataset_concorsi_2022
+c_f622_dataset_concorsi_2023
 c_f622_dataset_delibere
 c_f622_dataset_determine
 c_f622_dataset_eventi-culturali
@@ -11736,6 +11738,7 @@ carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-piom
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-rame-cu
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-vanadio-v
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-zinco-zn
+carta-del-fondo-naturale-antropico-a-scala-1-250-000-della-pianura-emiliano-romagnola-arsenico-
 carta-del-fondo-naturale-antropico-a-scala-1-250-000-della-pianura-emiliano-romagnola-as-cd-cr-
 carta-del-fondo-naturale-antropico-a-scala-1-250-000-della-pianura-emiliano-romagnola-cadmio-cd
 carta-del-fondo-naturale-antropico-a-scala-1-250-000-della-pianura-emiliano-romagnola-cromo-cr-
@@ -29573,6 +29576,9 @@ flussi-turistici-della-regione-2021
 flussi-turistici-della-regione-2022
 flussi-turistici-in-provincia-di-rovigo-per-provenienza-regioni-italiane-2018-2020
 flussi-turistici-in-provincia-di-rovigo-per-provenienza-stati-esteri-2018-2020
+flussi-turistici-nei-comuni-lombardi
+flussi-turistici-per-mese-nei-comuni-lombardi
+flussi-turistici-per-mese-nelle-province-lombarde
 flussi-turistici-per-qualifica-alberghiera-2006-2009
 flussi-turistici-per-stato-estero-di-provenienza-anno-2020
 flussi-turistici-presenze-per-regioni-anno-2020
@@ -32380,6 +32386,7 @@ interesse3
 interferometria-satellitare
 intermediari-del-commercio-per-numero-di-esercizi-anno-2015
 intermediazione-turistica
+intero-patrimonio-abitativo-esistente
 interpellanze-2013
 interpellanze-2014
 interpellanze-2015
@@ -49556,6 +49563,10 @@ prezzi-al-consumo-agosto-2022-indice-nic-e-variaz-per-tipologia-di-prodotto
 prezzi-al-consumo-agosto-2022-indice-nic-per-classi-di-spesa
 prezzi-al-consumo-agosto-2022-indice-nic-per-gruppi-di-spesa
 prezzi-al-consumo-agosto-2022-indice-nic-per-sottoclassi-di-spesa
+prezzi-al-consumo-agosto-2023-indice-nic-e-variaz-complessivi-e-per-divisione
+prezzi-al-consumo-agosto-2023-indice-nic-e-variaz-per-frequenza-di-acquisto
+prezzi-al-consumo-agosto-2023-indice-nic-e-variaz-per-tipologia-di-prodotto
+prezzi-al-consumo-agosto-2023-indice-nic-per-gruppi-di-spesa
 prezzi-al-consumo-aprile-2022-indice-nic-e-variaz-complessivi-e-per-divisione
 prezzi-al-consumo-aprile-2022-indice-nic-e-variaz-per-frequenza-di-acquisto
 prezzi-al-consumo-aprile-2022-indice-nic-e-variaz-per-tipologia-di-prodotto
@@ -50224,6 +50235,7 @@ prova_statistiche
 prove-geotecniche
 prove-geotecniche-hvsr
 prove-geotecniche-masw
+provenienza-dei-turisti-nei-comuni-lombardi
 province-fvg-2007
 province-fvg-2012
 province-fvg-2018
@@ -54044,6 +54056,7 @@ residenze-sanitarie-assistenziali-rsa-accreditate
 residenze-socio-assistenziali-per-anziani1
 residenze-socio-sanitarie-assistenziali-per-anziani1
 residenze-turistico-alberghiere
+residenze-universitarie
 residenzialita-leggera
 residenzialita-minori-con-gravissima-disabilita
 residui-finali-per-esercizio-bagnaria-arsa
@@ -55681,6 +55694,11 @@ rilevazione-qualita-del-servizio-agosto-2022-richieste-certificati-anagrafici
 rilevazione-qualita-del-servizio-agosto-2022-richieste-certificati-stato-civile
 rilevazione-qualita-del-servizio-agosto-2022-richieste-residenza
 rilevazione-qualita-del-servizio-agosto-2022-richieste-visure-fascicoli-edilizi
+rilevazione-qualita-del-servizio-agosto-2023-appuntamenti-on-line
+rilevazione-qualita-del-servizio-agosto-2023-presentaz-dichiarazioni-tari
+rilevazione-qualita-del-servizio-agosto-2023-richieste-certificati-stato-civile
+rilevazione-qualita-del-servizio-agosto-2023-richieste-residenza-per-persone-straniere-provenie
+rilevazione-qualita-del-servizio-agosto-2023-richieste-visure-fascicoli-edilizi
 rilevazione-qualita-del-servizio-anno-2020-appuntamenti-on-line
 rilevazione-qualita-del-servizio-anno-2020-richieste-certificati-anagrafici
 rilevazione-qualita-del-servizio-anno-2020-richieste-certificati-stato-civile
@@ -55793,6 +55811,11 @@ rilevazione-qualita-del-servizio-luglio-2022-richieste-certificati-anagrafici
 rilevazione-qualita-del-servizio-luglio-2022-richieste-certificati-stato-civile
 rilevazione-qualita-del-servizio-luglio-2022-richieste-residenza
 rilevazione-qualita-del-servizio-luglio-2022-richieste-visure-fascicoli-edilizi
+rilevazione-qualita-del-servizio-luglio-2023-appuntamenti-on-line
+rilevazione-qualita-del-servizio-luglio-2023-presentaz-dichiarazioni-tari
+rilevazione-qualita-del-servizio-luglio-2023-richieste-certificati-stato-civile
+rilevazione-qualita-del-servizio-luglio-2023-richieste-residenza-per-persone-straniere-provenie
+rilevazione-qualita-del-servizio-luglio-2023-richieste-visure-fascicoli-edilizi
 rilevazione-qualita-del-servizio-maggio-2021-appuntamenti-on-line
 rilevazione-qualita-del-servizio-maggio-2021-presentaz-dichiarazioni-tari
 rilevazione-qualita-del-servizio-maggio-2021-richieste-certificati-anagrafici
@@ -60345,6 +60368,7 @@ strutture-tecniche-competenti-in-materia-sismica
 strutture-termali
 strutture-termali-della-regione-umbria
 strutture-turistiche
+strutture-turistiche-nei-comuni-lombardi
 strutture0
 strutture1
 strutture2
@@ -63457,6 +63481,7 @@ z307_p_pup
 z308_p_pup
 z309_p_pup
 z310_p_pup
+z311_n_pup
 z312_p_pup
 z313_p_pup
 z316_p_pup
