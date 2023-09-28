@@ -6,6 +6,9 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 git pull
 
+git fetch
+git merge origin/master
+
 nome="carburanteAngragraficaStazioni"
 
 URL="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"
