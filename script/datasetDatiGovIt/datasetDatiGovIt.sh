@@ -4,7 +4,10 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-git pull origin master
+git pull
+
+git fetch
+git merge origin/master
 
 nome="datasetDatiGovIt"
 
