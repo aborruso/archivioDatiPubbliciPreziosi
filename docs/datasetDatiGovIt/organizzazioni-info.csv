@@ -65,10 +65,10 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:08:56.403482,Regione Lombardia,5821fa6d-87ee-4ab7-84e3-56ca8bb3e6f1,r_lombar,regione-lombardia,3680,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6410,https://dati.gov.it/view-dataset?organization=regione-marche
 2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,724,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,225,https://dati.gov.it/view-dataset?organization=regione-puglia
+2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,230,https://dati.gov.it/view-dataset?organization=regione-puglia
 2021-02-19T18:09:01.651866,Regione Sardegna,2673659f-08ff-4416-8260-2f4ec3cfa04d,r_sardeg,regione-sardegna,449,https://dati.gov.it/view-dataset?organization=regione-sardegna
 2021-02-19T18:09:01.899488,Regione Siciliana,2dd45e9c-4d57-428b-8287-77df7fbf1cb9,r_sicili,regione-siciliana,174,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2021-02-19T18:09:02.148546,Regione Toscana,7d1c9cdd-9a85-49db-a1a0-fad6154c89e5,r_toscan,regione-toscana,11178,https://dati.gov.it/view-dataset?organization=regione-toscana
+2021-02-19T18:09:02.148546,Regione Toscana,7d1c9cdd-9a85-49db-a1a0-fad6154c89e5,r_toscan,regione-toscana,11566,https://dati.gov.it/view-dataset?organization=regione-toscana
 2021-02-19T18:09:02.390869,Regione Umbria,f31e4d26-b5de-4254-a39a-36b274c4dc67,r_umbria,regione-umbria,478,https://dati.gov.it/view-dataset?organization=regione-umbria
 2021-02-19T18:08:59.514039,Roma Capitale,31826dcb-b614-4b03-86de-6768b036d0d5,c_h501,roma-capitale,346,https://dati.gov.it/view-dataset?organization=roma-capitale
 2021-02-19T18:09:02.963860,Terra delle gravine,7cb6fc88-c7d1-4f37-8c7f-587554898454,-,terra-delle-gravine,25,https://dati.gov.it/view-dataset?organization=terra-delle-gravine
