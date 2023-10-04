@@ -3,7 +3,7 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:09:06.598929,Agenzia per l'Italia Digitale,144e7866-02df-4571-893c-bcf7b53f6751,agid,agid,36,https://dati.gov.it/view-dataset?organization=agid
 2021-09-09T11:32:59.559103,Autorità Nazionale Anticorruzione,67fde2e9-b798-472d-af39-3037627563ad,cvtiap,anac,61,https://dati.gov.it/view-dataset?organization=anac
 2022-12-14T10:24:40.884252,ANPR,40f83c97-c402-4c2c-a132-86415da19815,mint,anpr,0,https://dati.gov.it/view-dataset?organization=anpr
-2021-09-09T11:17:01.862268,Arpa Puglia,ecb3f08a-7feb-4dc4-a6c5-c4b715c26fa7,ARPAP,arpa-puglia,5,https://dati.gov.it/view-dataset?organization=arpa-puglia
+2021-09-09T11:17:01.862268,Arpa Puglia,ecb3f08a-7feb-4dc4-a6c5-c4b715c26fa7,ARPAP,arpa-puglia,0,https://dati.gov.it/view-dataset?organization=arpa-puglia
 2022-12-22T11:24:21.565793,Boxxapps s.r.l.,803ea428-555a-4c72-be8d-ffd6c4bad15f,04155080270,boxxapps,216,https://dati.gov.it/view-dataset?organization=boxxapps
 2021-02-19T18:09:04.005200,Camera di Commercio delle Marche,0c4be618-c073-40ce-8527-eb9569e366ce,cciaan,camera-di-commercio-delle-marche,52,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
 2021-02-19T18:08:51.133075,Catalogo federato Salento Jonico,4077ac2b-4799-499c-b606-808a64b2251f,-,catalogo-federato-salento-jonico,0,https://dati.gov.it/view-dataset?organization=catalogo-federato-salento-jonico
@@ -29,7 +29,7 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:08:55.044313,Comune di Terlizzi,c204d58c-5f65-4ad6-ae38-c6a69086fcb9,c_l109,comune-di-terlizzi,48,https://dati.gov.it/view-dataset?organization=comune-di-terlizzi
 2021-02-19T18:08:50.861313,Comune di Torino,643ce437-dde8-46ee-9ecd-f404fb356d55,c_l219,comune-di-torino,2003,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2021-02-19T18:08:55.329767,Consiglio regionale Campania,96698656-eceb-4ec0-938c-ad34ffd16058,cr_campa,consiglio-regionale-campania,25,https://dati.gov.it/view-dataset?organization=consiglio-regionale-campania
-2021-02-19T18:08:55.589685,Consip,c59c52d1-57f0-4260-ba66-753ab905f336,consips,consip,0,https://dati.gov.it/view-dataset?organization=consip
+2021-02-19T18:08:55.589685,Consip,c59c52d1-57f0-4260-ba66-753ab905f336,consips,consip,17,https://dati.gov.it/view-dataset?organization=consip
 2022-10-28T22:32:58.227354,PCM - DTD - Dipartimento per la Trasformazione Digitale,e75b258e-95b6-47e6-8a72-cb992c3385ba,pcm,dtd,8,https://dati.gov.it/view-dataset?organization=dtd
 2022-12-22T21:38:50.480344,DYDAS,06003f6a-c675-498b-a27b-65f45a6bcb4d,10013911002,dydas,5,https://dati.gov.it/view-dataset?organization=dydas
 2021-02-19T18:08:58.259536,Fondazione Matera 2019,0719c7df-b068-4227-bb73-a4b1d5db7982,fpm,fondazione-matera-2019,15,https://dati.gov.it/view-dataset?organization=fondazione-matera-2019
