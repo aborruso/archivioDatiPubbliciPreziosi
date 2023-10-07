@@ -2582,6 +2582,7 @@ aliquote-contributive-trasporto-aereo-i
 aliquote-contributive-trasporto-aereo-ii
 aliquote-imu-2015
 aliquote-tasi-2015
+allagamenti-da-forti-piogge-in-ambito-urbano
 allestimento-cartografico-di-riferimento-bdtre-2018-b-n-1-10-000
 allestimento-cartografico-di-riferimento-bdtre-2019-b-n-1-10-000
 allestimento-cartografico-di-riferimento-bdtre-2021-b-n-1-10-000
@@ -7294,6 +7295,7 @@ beni-immobili-della-regione-calabria-fabbricati
 beni-immobili-della-regione-lombardia-2017
 beni-immobili-disponibili
 beni-immobili-indisponibili-ad-uso-istituzionale
+beni-immobili-tutelati-con-provvedimento-ministeriale
 beni-monumentali-art-10-d-lgs-42-04-comune-di-matera1
 beni-naturalistici-zoologici-bnz
 beni-paesaggistici
@@ -24592,6 +24594,7 @@ distribuzione-popolazione-2020-gdpr
 distribuzione-popolazione-2021-gdpr
 distribuzione-popolazione-2022-gdpr
 distribuzione-popolazione-gdpr-2022
+distribuzione-popolazione-gdpr-20221
 distribuzione-popolazione-straniera-per-cittadinanza-e-genere-al-31-12-2014
 distribuzione-potenziale-del-fagiano-di-monte-piano-faunistico-provinciale-2010
 distribuzione-potenziale-del-francolino-di-monte-piano-faunistico-provinciale-2010
@@ -31878,6 +31881,7 @@ indicatori-morfologici-di-criticita-dosso-costiero-2012-buffer
 indicatori-morfologici-di-criticita-quota-di-chiusura-spiaggia-emersa-2014-buffer
 indicatori-morfologici-di-criticita-quota-media-spiaggia-emersa-2014-buffer
 indicatori-per-singolo-ospedale
+indicatori-pnrr-pnc
 indicatori-produzione-rifiuti-urbani-a-livello-comunale
 indicatori-raccolta-differenziata
 indicatori-ricoveri-per-reparto
@@ -35793,6 +35797,7 @@ misure-di-salvaguardia-marine-sc-1-10000
 misure-di-temperatura-esterna-edilizia-scolastica-e-uffici-citta-metropolitana-di-torino
 misure-di-temperatura-interna-edilizia-scolastica-e-uffici-citta-metropolitana-di-torino
 misure-su-elettrodotti-e-cabine-elettriche
+misurepremiali-pnrr-pnc
 miur
 miur-ustat
 mn9o18-figli-per-famiglia
@@ -46559,6 +46564,7 @@ perimetrazioni-delle-aree-e-tipologia-dei-soprassuoli-percorsi-dal-fuoco-nellann
 perimetri-rete-natura-20001
 perimetro-aree-di-progetto
 perimetro-bando-periferie-citta-metropolitana-di-firenze
+perimetro-centro-storico-di-ferrara
 perimetro-degli-incendi-boschivi
 perimetro-dei-centri-abitati
 perimetro-dei-distretti-del-servizio-sanitario-regionale-allegato-a-della-l-r-19-2016
@@ -48898,6 +48904,7 @@ por-fse-lazio-programmazione-2014-2020-elenco-dei-beneficiari
 por-fse-regione-lazio-programmazione-2014-2020-stato-di-attuazione
 porta-delle-citta-alpine-ptrc-2020
 porta-tra-mare-e-terra-ptrc-2020
+portabici
 portacomaro-dati-anagrafici
 portacomaro-dati-finanziari
 portafoglio-spin-off-dei-principali-enti-pubblici-di-ricerca-pugliesi
@@ -57562,6 +57569,8 @@ segnalazione-tramite-app-nel-comune-di-mira-secondo-semestre-2020
 segnalazioni
 segnalazioni-aggiornate-da-terremotocentroitalia
 segnalazioni-aggiornate_covid19ita
+segnalazioni-allagamenti-2015_2019
+segnalazioni-allagamenti-2020_2022
 segnalazioni-app-materapulita1
 segnalazioni-certificate-di-inizio-attivita-2011
 segnalazioni-cittadini-wedu
@@ -58848,6 +58857,7 @@ sl3ggp-numero-di-accessi-agli-atti-per-comune
 sl3ggp-pratiche-commercio-per-ambito-di-attivita
 sl3ggp-pratiche-suap-per-modalita-di-presentazione
 smaltimento-fanghi-in-discarica-m5-dataset
+smart-hub-progetto-air-break
 smart-irrigation-e-smart-bench
 smart-irrigation-e-smart-bench-replicate
 smart-lighting
