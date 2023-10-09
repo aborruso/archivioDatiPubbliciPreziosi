@@ -5027,6 +5027,9 @@ argini_app
 argomenti-del-comune-di-trento
 aria-biossido-dazoto
 aria-biossido-di-zolfo
+aria-inquinanti-delle-reti-di-monitoraggio-della-qualita-dellaria
+aria-monitoraggio-dati-qualita-dellaria-anno-2023
+aria-monitoraggio-dati-qualita-dellaria-dati-giornalieri-di-ieri
 aria-monossido-di-carbonio
 aria-no2-168h
 aria-no2-168h1
@@ -5036,6 +5039,7 @@ aria-particelle-sospese-pm10
 aria-particelle-sospese-pm2-5
 aria-particolato-totale-sospeso
 aria-pollini
+aria-stazioni-di-monitoraggio-delle-reti-di-qualita-dellaria
 aria-stazioni-monitoraggio-qualita-aria-repertorio
 aria-stazioni-per-agrometeorologia-repertorio
 arianna-leggi-regionali-storiche-e-vigenti-regolamenti-regionali
@@ -8334,6 +8338,8 @@ buchette-del-vino
 budget-del-consiglio-comunale
 buffer-zone-dolomiti-unesco
 buone-pratiche-dell-accoglienza-in-toscana
+buoni-servizio-disabili-e-anziani
+buoni-servizio-minori
 buoni-servizio-per-minori-anno-2017
 buoni-spesa-erogati
 buttigliera-statistiche-demografiche
@@ -11469,6 +11475,7 @@ c_m078_dataset_suap-perido-eventi_2019
 c_m078_dataset_suap-perido-eventi_2020
 c_m078_dataset_suap-tempi-medi_2019
 c_m078_dataset_suap-tempi-medi_2020
+c_m078_dataset_uffici-turistici
 c_m382_dataset_delibere
 c_m382_dataset_determine
 c_m382_dataset_ordinanze
@@ -12201,6 +12208,7 @@ cataloghi-del-programma-copertura-territoriale
 catalogo-bibliografico-del-trentino
 catalogo-biblioteca-giuridica
 catalogo-buone-pratiche-culturali-della-regione-lazio
+catalogo-cargiven
 catalogo-csv-dei-dataset-di-dati-comune-milano-it
 catalogo-dataset-dati-piemonte
 catalogo-degli-indicatori-settore-agricoltura
@@ -12208,11 +12216,14 @@ catalogo-degli-stemmi-dei-comuni-e-delle-province-dell-emilia-romagna-01e145a4
 catalogo-dei-libri-della-biblioteca
 catalogo-delle-buone-pratiche-culturali-della-regione-lazio-ii
 catalogo-delle-fotografie-storiche-progetto-interreg-argento-vivo-fotografia-patrimonio-cultura
+catalogo-disabili-e-anziani
 catalogo-e-inventario-della-biblioteca-della-giunta-regionale-del-lazio-altiero-spinelli
 catalogo-federato-salento-jonico
 catalogo-fotografico-di-immagini-in-alta-risoluzione-relative-al-territorio-dell-emilia-romagna
 catalogo-generale-dei-beni-culturali
 catalogo-generale-dei-beni-culturali-schede-catalografiche-modi-altre-normative
+catalogo-minori
+catalogo-minori-zerotre
 catalogo-od-friuli-venezia-giulia-std-dcat-ap_it-formato-turtle
 catalogo-od-lombardia-std-dcat-ap_it-formato-rdf
 catalogo-opere-darte-regione-autonoma-trentino-alto-adige-sudtirol
@@ -14669,6 +14680,31 @@ comune-di-belmonte-piceno-discipline-praticate
 comune-di-belmonte-piceno-praticanti-sport
 comune-di-belmonte-piceno-punti-interesse
 comune-di-bergamo-mappa-ciclabili
+comune-di-bitonto-aire-per-nazione
+comune-di-bitonto-bandi-di-gara-e-contratti
+comune-di-bitonto-cognomi-piu-diffusi-residenti
+comune-di-bitonto-conteggio-protocolli
+comune-di-bitonto-elenco-decessi
+comune-di-bitonto-elenco-delle-aree-di-circolazione
+comune-di-bitonto-elenco-matrimoni
+comune-di-bitonto-elenco-nascite
+comune-di-bitonto-famiglie-per-numero-figli
+comune-di-bitonto-famiglie-residenti-per-via
+comune-di-bitonto-famiglie-totali
+comune-di-bitonto-matrim-celebrati-per-rito
+comune-di-bitonto-monitoraggio-pratiche
+comune-di-bitonto-movimento-anagrafico
+comune-di-bitonto-movimento-stranieri
+comune-di-bitonto-posas
+comune-di-bitonto-provvedimenti-degli-organi-di-indirizzo-politico
+comune-di-bitonto-provvedimenti-dei-dirigenti
+comune-di-bitonto-provvedimenti-dirigenti-amministrativi
+comune-di-bitonto-provvedimenti-organi-di-indirizzo-politico
+comune-di-bitonto-sovvenzioni-contributi-sussidi-vantaggi-economici
+comune-di-bitonto-stranieri-per-sesso-ed-eta
+comune-di-bitonto-stranieri-per-stato-cittad
+comune-di-bitonto-tassi-popolazione-residente
+comune-di-bitonto-trend-demografico
 comune-di-bogliasco-civici-e-toponomastica
 comune-di-bogliasco-p-r-g-d-p-g-r-n-222-2002-prov-dirg-provincia-n-4548-2009
 comune-di-bologna
@@ -19041,6 +19077,7 @@ comvalfo_dataset_concorsi_2020
 comvalfo_dataset_concorsi_2022
 comvalfo_dataset_concorsi_2023
 comvalfo_dataset_edifici_pubblici
+comvalfo_dataset_eventi-culturali
 comvalfo_dataset_guide-turistiche
 comvalfo_dataset_impianti-sportivi
 comvalfo_dataset_isola-ecologica
@@ -37403,6 +37440,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-10-04-ore-00-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-10-04-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-10-05-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-10-05-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-10-06-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-18-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-19-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-26-ore-12-u
@@ -38651,6 +38689,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f7
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f71
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f72
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f73
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f8
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-f9
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-fa
@@ -38763,6 +38802,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-851
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-87
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-871
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-88
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-8a
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-8b
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-8e
@@ -39272,6 +39312,7 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-29-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-29-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-30-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-30-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-10-01-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-10-01-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-10-02-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-10-02-ore-12-utc
@@ -39486,6 +39527,7 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-01-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-02-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-02-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-03-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-04-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-10-05-ore-00-utc
@@ -40325,6 +40367,7 @@ modello-wrf-arw-a-3km-topografia-m-2023-10-03-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-10-03-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-10-04-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-10-04-ore-12-utc
+modello-wrf-arw-a-3km-topografia-m-2023-10-05-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-10-05-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-10-06-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-18-ore-12-utc
@@ -40738,7 +40781,9 @@ modello-wrf-arw-a-3km-umidita-relativa-2023-09-30-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-30-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-10-01-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-10-01-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2023-10-02-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-10-02-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2023-10-03-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-10-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-10-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-10-04-ore-12-utc
@@ -40941,6 +40986,7 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-27-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-28-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-28-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-29-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-29-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-30-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-30-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-10-01-ore-00-utc
@@ -41152,6 +41198,7 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-28-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-29-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-29-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-30-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-30-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-10-01-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-10-01-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-10-02-ore-00-utc
@@ -41581,6 +41628,7 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2023-10-03-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-10-04-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-10-04-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-10-05-ore-00-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2023-10-05-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-10-06-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-02-18-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2021-02-19-ore-00-utc
@@ -50557,6 +50605,7 @@ principali-mete-del-turismo-religioso-ptrc-2020
 principali-musei-delle-tradizioni-rurali-ed-etnografici-ptrc-2020
 principali-strade-di-valore-storico-e-storico-ambientale
 principali-voci-di-entrata-e-spesa-del-settore-pubblico-allargato-spa
+pro-v-i-dopo-di-noi
 probabilita-di-grandine
 probabilita-di-morte-sotto-i-5-anni
 problematiche-floristico-forestali
