@@ -6931,6 +6931,7 @@ banca-dati-geologica-1-10-000-elementi-strutturali-10k
 banca-dati-geologica-1-10-000-frane-depositi-di-versante-e-depositi-alluvionali-10k
 banca-dati-geologica-1-10-000-limiti-di-unita-geologiche-10k
 banca-dati-geologica-1-10-000-processi-geologici-particolari-10k
+banca-dati-geologica-1-10-000-risorse-e-prospezioni-10k
 banca-dati-gestione-faunistica-nelle-aree-naturali-protette-del-lazio
 banca-dati-indagini-geognostiche-geofisiche
 banca-dati-lavori-pubblici-bdap-comune-di-copertino
@@ -11858,6 +11859,8 @@ carta-forestale-su-base-tipologica-della-regione-lazio
 carta-geologica
 carta-geologica-1-1m-dataset
 carta-geologica-1-25-000
+carta-geologica-1-25-000-descrizione-del-sottosuolo-tramite-isolinee-50k
+carta-geologica-1-25-000-elementi-geomorfologici-e-antropici-lineari-50k
 carta-geologica-1-25-000-elementi-geomorfologici-e-antropici-puntuali-50k
 carta-geologica-1-25-000-elementi-strutturali-50k
 carta-geologica-1-25-000-limiti-di-unita-cartografabili-geologiche-50k
@@ -15501,6 +15504,10 @@ comune-di-firenze-composizione-delle-spese-correnti-divise-per-funzioni-euro-ann
 comune-di-firenze-composizione-delle-spese-correnti-divise-per-funzioni-euro-anni-2007-2014
 comune-di-firenze-imprese-artigiane
 comune-di-firenze-imprese-registrate-attive-iscritte-cessate-per-sezione-di-attivita-economica
+comune-di-firenze-mappatura-acustica-del-rumore-aeroportuale-giornaliero-lden-2008
+comune-di-firenze-mappatura-acustica-del-rumore-ferroviario-giornaliero-lden-2008
+comune-di-firenze-mappatura-acustica-del-rumore-ferroviario-notturno-lnight-2008
+comune-di-firenze-mappatura-acustica-del-rumore-stradale-giornaliero-lden-2008
 comune-di-firenze-unita-locali-r-sezione-di-attivita-economica
 comune-di-folignano-anagrafica-associazioni-culturali
 comune-di-folignano-anagrafica-associazioni-di-volontariato
@@ -17583,6 +17590,10 @@ comune-di-pietrarubbia-suap-nazionalita-2020
 comune-di-pietrarubbia-suap-periodo-2020
 comune-di-pietrarubbia-suap-tempi-2020
 comune-di-pisa-concorsi
+comune-di-pisa-mappatura-acustica-del-rumore-aeroportuale-giornaliero-lden-2008
+comune-di-pisa-mappatura-acustica-del-rumore-ferroviario-giornaliero-lden-2008
+comune-di-pisa-mappatura-acustica-del-rumore-ferroviario-notturno-lnight-2008
+comune-di-pisa-mappatura-acustica-del-rumore-stradale-notturno-lnight-2008
 comune-di-polverigi-ambiente-qualit-dellacqua
 comune-di-polverigi-ambiente-raccolta-differenziata
 comune-di-polverigi-ambiente-randagismo-animale
@@ -17698,6 +17709,7 @@ comune-di-porto-sant-elpidio-prg
 comune-di-porto-sant-elpidio-punti-interesse
 comune-di-portofino-civici-e-toponomastica
 comune-di-portofino-p-r-g-d-p-g-r-n-107-1987
+comune-di-prato-mappatura-acustica-del-rumore-stradale-giornaliero-lden-2010
 comune-di-rapagnano-anagrafica-associazioni-culturali
 comune-di-rapagnano-anagrafica-associazioni-di-volontariato
 comune-di-rapagnano-anagrafica-impianti
@@ -19521,6 +19533,7 @@ conferma-della-dichiarazione-di-impegno-ce285a08
 confine-comunale
 confine-di-stato-lineare-di-competenza-della-regione-veneto
 confini-c80b1c1e
+confini-comunali
 confini-comunali-cmve
 confini-comune-di-lecce-aggiornati
 confini-del-comune-di-modena
@@ -21405,6 +21418,7 @@ cpisa-incarichi
 cpisa-notizie
 crdi-carta-del-rischio-di-incendio
 creazione-di-layout-con-qgis
+cresce-bologna-progetti
 crinali
 criticita-idrologiche-e-idrauliche-mensili-2007
 criticita-idrologiche-e-idrauliche-mensili-2008
@@ -22213,6 +22227,7 @@ dati-relativi-ai-premi-2014-al-personale-inps
 dati-relativi-ai-servizi-della-scuola-comunale-dellinfanzia-2018
 dati-relativi-al-costo-del-personale-provinciale-non-a-tempo-indeterminato
 dati-relativi-alla-connettivita-al-wi-fi-pubblico-di-mira-anno-2019
+dati-relativi-alla-gestione-ambiente
 dati-relativi-alla-prima-operazione-salvaguardia
 dati-relativi-alla-scuola-comunale-dellinfanzia
 dati-relativi-alla-scuola-comunale-dellinfanzia-anno-2016
@@ -23386,6 +23401,7 @@ decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2021
 decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2022
 decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-2023
 decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-20231
+decreti-dirigenti-della-giunta-regionale-della-lombardia-anno-20232
 decreti-e-atti-dirigenziali-crt
 decreti-giunta
 decreti-pubblicati-comune-di-massafra-2020
@@ -23490,6 +23506,7 @@ deliberazioni-giunta-regionale-della-lombardia-anno-2021
 deliberazioni-giunta-regionale-della-lombardia-anno-20221
 deliberazioni-giunta-regionale-della-lombardia-anno-2023
 deliberazioni-giunta-regionale-della-lombardia-anno-20231
+deliberazioni-giunta-regionale-della-lombardia-anno-20232
 delibere-2013
 delibere-2014
 delibere-2015
@@ -28942,6 +28959,7 @@ f6de3998-4119-4301-b21b-83b12e9b542e
 f7643351-a7cc-4148-b54a-329df0061779
 f78bfe50-1b61-4a2c-8352-d2ce891ac589
 f7d4f041-ab3b-4c15-a963-2da3b69626d7
+f805_n_pup
 f806_n_pup
 f9ca160d-99ca-45b5-8a78-e9b2837735fd
 fabbisogno-comunale-dati-per-anno-e-settori
@@ -30723,6 +30741,7 @@ impianti-di-distribuzione-carburanti
 impianti-di-erogazione-metano
 impianti-di-gestione-dei-rifiuti
 impianti-di-pesca-maricoltura-e-barriere-di-ripopolamento-ittico
+impianti-di-potenza-a-biocombustibile
 impianti-di-produzione-energia-da-fonti-rinnovabili
 impianti-di-radiotelecomunicazione-2000-2014
 impianti-di-radiotelecomunicazione-provinciali-2000-2018
@@ -30745,6 +30764,7 @@ impianti-semaforici
 impianti-siti-e-discariche
 impianti-siti-e-discariche3
 impianti-soggetti-ad-autorizzazione-ambientale-integrata-ippc
+impianti-soggetti-ad-autorizzazione-ambientale-integrata-ippc-aggregazione-per-unita-locale
 impianti-sportivi
 impianti-sportivi-comunali
 impianti-sportivi-comunali1
@@ -33185,6 +33205,7 @@ l078-vincolistica
 l078-zonizzazioni
 l090102-limite-comunale-comune-di-milano-dbt-2012-dataset
 l108_p_pup
+l110_n_pup
 l498-piani-comunali-e-sovracomunali
 l498-poi-punti-di-interesse
 l498-vincolistica
@@ -35256,6 +35277,7 @@ mappa-elenco-organizzazioni-non-governative
 mappa-elenco-regionale-degli-agriturismo
 mappa-elenco-regionale-dei-centri-aiuto-alla-vita
 mappa-elenco-registro-regionale-sonde-geotermiche
+mappa-elenco-strutture-di-riabilitazione
 mappa-elenco-ubicazione-tagli-boschivi
 mappa-erogazione-metano
 mappa-farmacie
@@ -35830,9 +35852,13 @@ misurazioni-orarie-di-qualita-dellaria-monossido-di-carbonio-co
 misure-a-favore-della-mobilita-anno-2015-comune-di-treviso
 misure-contrasto-alla-poverta-rei-red-ambito-di-martina-franca-crispiano-2017-2019
 misure-contrasto-alla-poverta-rei-sia-ambito-di-lecce-anno-2018
+misure-del-campo-elettro-magnetico-campagne-fub-2004-2006
+misure-del-campo-elettro-magnetico-stazioni-radio-tv-e-impianti-di-telefonia-cellulare
+misure-di-rumore-ferroviario-in-manutenzione
 misure-di-salvaguardia-marine-sc-1-10000
 misure-di-temperatura-esterna-edilizia-scolastica-e-uffici-citta-metropolitana-di-torino
 misure-di-temperatura-interna-edilizia-scolastica-e-uffici-citta-metropolitana-di-torino
+misure-lunghe-del-campo-magnetico-in-prossimita-delle-linee-elettriche-ad-alta-e-altissima-tens
 misure-su-elettrodotti-e-cabine-elettriche
 misurepremiali-pnrr-pnc
 miur
@@ -42490,6 +42516,7 @@ monitoraggio-dei-procedimenti-giudiziari-incardinati-presso-la-direzione-infrast
 monitoraggio-dei-residui-di-fitofarmaci-nelle-acque
 monitoraggio-della-qualita-dellaria
 monitoraggio-della-qualita-dellaria-nelle-aree-geotermiche-della-toscana
+monitoraggio-della-qualita-dellaria-nelle-aree-geotermiche-della-toscana-stazioni
 monitoraggio-della-qualita-delle-acque-marino-costiere
 monitoraggio-della-qualita-delle-acque-sotterranee
 monitoraggio-della-qualita-delle-acque-superficiali
@@ -42524,6 +42551,7 @@ monitoraggio-incrementi-volumetrici-l-r-8-2015-iii-quadrimestre-2018
 monitoraggio-incrementi-volumetrici-l-r-8-2015-iii-quadrimestre-20181
 monitoraggio-incrementi-volumetrici-l-r-8-2015-iii-quadrimestre-2019
 monitoraggio-incrementi-volumetrici-l-r-8-2015-iii-quadrimestre-20191
+monitoraggio-lichenico-della-qualita-dellaria-unita-di-campionamento-secondario-ucs
 monitoraggio-mensile-qualita-dellaria
 monitoraggio-mensile-qualita-dellaria1
 monitoraggio-opere-pubbliche
@@ -45817,6 +45845,7 @@ organico-polizia-municipale-2017
 organismi-associativi-partecipati-dalluniversita-degli-studi-di-bari
 organismi-nocivi-aleurodide-nero-aleurocanthus-spiniferus-d-d-n-467-2023
 organismi-nocivi-cancro-colorato-del-platano-ceratocystis-fimbriata-d-d-n-6940-2019
+organismi-nocivi-cancro-colorato-del-platano-ceratocystis-platani-d-d-n-6138-2023
 organismi-nocivi-xylella-fastidiosa-d-d-n-903-2018
 organizational-units-of-the-university-of-trento
 organizzazione-articolazione-degli-uffici
@@ -46117,10 +46146,12 @@ p-t-a-m-c-c07-regimi-normativi
 p002_p_pup
 p003_p_pup
 p004_p_pup
+p005_l_pup
 p010108-giunzione-stradale-comune-di-milano-dbt-2012-dataset
 p010203-giunzione-ferroviaria-comune-di-milano-dbt-2012-dataset
 p010205-giunzione-tranviaria-comune-di-milano-dbt-2012-dataset
 p010207-giunzione-di-metropolitana-comune-di-milano-dbt-2012-dataset
+p010_n_pup
 p011_l_pup
 p012_p_pup
 p014_l_pup
@@ -46132,6 +46163,7 @@ p019_n_pup
 p020208-palo-comune-di-milano-dbt-2012-dataset
 p020213-localizzazione-di-manufatto-di-rete-tecnologica-comune-di-milano-dbt-2012-dataset
 p020_p_pup
+p021_l_pup
 p022_n_pup
 p023_l_pup
 p024_p_pup
@@ -47575,6 +47607,7 @@ piano-degli-interventi-del-comune-di-vicenza
 piano-degli-interventi-pi
 piano-degli-interventi-pi1
 piano-degli-interventi-pi2
+piano-degli-interventi-pi3
 piano-degli-investimenti-anno-2017-2019
 piano-del-trasporto-scolastico-2017_2018
 piano-della-performance
@@ -50939,6 +50972,11 @@ progetto-area-agricola-metropolitana
 progetto-avatar-alto-vicentino-alleanza-territoriale-per-le-azioni-in-rete-palestre-digitali
 progetto-europeo-music-up-close-network
 progetto-gioconda-catalogo-dei-dataset
+progetto-gionha-livorno-1990-posidonia
+progetto-gionha-livorno-2012-posidonia-su-roccia
+progetto-gionha-piombino-1990-posidonia
+progetto-gionha-piombino-2012-posidonia-no-substrato
+progetto-gionha-piombino-2012-roccia
 progetto-iffi-inventario-dei-fenomeni-franosi-in-lombardia
 progetto-mistral
 progetto-rimozione-relitti-anni-2010-2013
@@ -52213,6 +52251,7 @@ puc-ambiti-produttivi2
 puc-distretti1
 puc-puo1
 pud-piano-di-utilizzazione-del-demanio
+pud-progetto-utilizzo-demanio-marittimo
 pug-disciplina-del-piano-imbocchi-dei-rii-e-dei-fossi-collinari-tombinati-bacini
 pug-disciplina-del-piano-imbocchi-dei-rii-e-dei-fossi-collinari-tombinati-imbocchi
 pug-disciplina-del-piano-imbocchi-dei-rii-e-dei-fossi-collinari-tombinati-inizio-tratto-tombato
@@ -55877,6 +55916,8 @@ ricoveri-ordinari-serie-storica-sistema-nervoso
 ricoveri-ordinari-serie-storica-sistema-osteomuscolare
 ricoveri-ordinari-serie-storica-traumatismi
 ricoveri-ordinari-serie-storica-tumori
+ricoveri-per-erogatore
+ricoveri-per-residenza
 ricoveri-ripetuti-allinterno-dello-stesso-ospedale
 ricoveri-ripetuti-per-la-stessa-mdc-allinterno-dello-stessa-struttura
 riduzione-numero-parlamentari-affluenze
@@ -59603,6 +59644,8 @@ specchio-acqua
 specchio-dacqua
 specchio-dacqua-sp_acq-040102-aree
 specchio-dacqua-sp_acq-040102-linee
+specialistica-per-erogatore
+specialistica-per-residenza
 specie-sparse-in-tipi-1998
 specie_natura2000
 specie_natura2000_avv
@@ -60181,7 +60224,13 @@ stato-chimico-delle-acque-marino-costiere-sedimenti
 stato-chimico-ed-ecologico-delle-acque-marino-costiere-della-toscana
 stato-dei-macroinvertebrati-bentonici-indice-mambi-delle-acque-della-laguna-di-venezi-2014-2016
 stato-del-progetto
+stato-della-qualita-delle-acque-destinate-alla-vita-dei-molluschi
 stato-della-qualita-delle-acque-destinate-alla-vita-dei-pesci
+stato-della-qualita-delle-acque-presenza-di-nitrati
+stato-della-qualita-delle-acque-sotterranee
+stato-della-qualita-delle-acque-superficiali-presenza-di-fitofarmaci
+stato-della-qualita-delle-acque-superficiali-stato-ecologico-fiumi
+stato-della-qualita-delle-acque-superficiali-stato-ecologico-laghi
 stato-di-attuazione-delle-classificazioni-acustiche-comunali
 stato-di-avanzamento-del-progetto-data-base-topografico-dbt
 stato-ecologico-ai-sensi-del-d-lgs-152-06-dei-laghi
@@ -64311,6 +64360,7 @@ z104_l_pup1
 z201_p_pup
 z307_p_pup
 z308_p_pup
+z309_p_ext
 z309_p_pup
 z310_p_pup
 z311_n_pup
