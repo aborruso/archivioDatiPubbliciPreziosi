@@ -38,7 +38,7 @@ created,display_name,id,identifier,name,package_count,URL
 2023-04-19T11:27:44.935273,INAIL,0c06e0d7-95b9-4a97-b91c-6ec889686aa8,inail,inail,107,https://dati.gov.it/view-dataset?organization=inail
 2021-02-19T18:08:57.997012,INPS,a17d47da-7e2e-4f28-828c-8bbf33786fc6,inps,inps,2268,https://dati.gov.it/view-dataset?organization=inps
 2021-02-19T18:09:05.810447,ISPRA,b043b43f-66f8-4954-93ea-856fe8f4f4e7,ispra_rm,ispra,4,https://dati.gov.it/view-dataset?organization=ispra
-2021-02-19T18:09:04.767176,MIBACT,e8000025-82eb-42f0-afca-b266c84e14bb,m_bac,mibact,210,https://dati.gov.it/view-dataset?organization=mibact
+2021-02-19T18:09:04.767176,MIBACT,e8000025-82eb-42f0-afca-b266c84e14bb,m_bac,mibact,211,https://dati.gov.it/view-dataset?organization=mibact
 2021-08-04T13:54:25.920660,Ministero del Lavoro,9ac54b49-d410-4d18-85bd-18b0557e1d22,m_lps,ministero-del-lavoro,80,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
 2021-02-19T18:09:08.759705,Ministero dell'Economia e delle Finanze,77098a90-f9c3-4a04-9756-34df5a59503d,m_ef,ministero-dell-economia-e-delle-finanze,18,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2021-02-19T18:08:58.521992,Ministero dell'Interno,bdc6ec54-3df9-42a0-ae3f-58ed247c9ce3,m_it,ministero-dell-interno,22,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
@@ -64,11 +64,11 @@ created,display_name,id,identifier,name,package_count,URL
 2022-07-01T12:06:14.228347,Regione Liguria,6f79e360-1a91-48d2-82b3-30b5fc47ffdd,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
 2021-02-19T18:08:56.403482,Regione Lombardia,5821fa6d-87ee-4ab7-84e3-56ca8bb3e6f1,r_lombar,regione-lombardia,3539,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2021-02-19T18:09:01.154694,Regione Marche,10ba73ad-87b5-4e53-9fa2-26320c54a2f4,r_marche,regione-marche,6414,https://dati.gov.it/view-dataset?organization=regione-marche
-2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,724,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2021-02-19T18:09:06.318041,Regione Piemonte,046e1bfc-7b84-4c81-b227-78a3a53bf583,r_piemon,regione-piemonte,728,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2021-02-19T18:09:01.404809,Regione Puglia,b8f6d450-e590-447f-80d4-d9b0beea6640,r_puglia,regione-puglia,272,https://dati.gov.it/view-dataset?organization=regione-puglia
 2021-02-19T18:09:01.651866,Regione Sardegna,2673659f-08ff-4416-8260-2f4ec3cfa04d,r_sardeg,regione-sardegna,449,https://dati.gov.it/view-dataset?organization=regione-sardegna
 2021-02-19T18:09:01.899488,Regione Siciliana,2dd45e9c-4d57-428b-8287-77df7fbf1cb9,r_sicili,regione-siciliana,174,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2021-02-19T18:09:02.148546,Regione Toscana,7d1c9cdd-9a85-49db-a1a0-fad6154c89e5,r_toscan,regione-toscana,12403,https://dati.gov.it/view-dataset?organization=regione-toscana
+2021-02-19T18:09:02.148546,Regione Toscana,7d1c9cdd-9a85-49db-a1a0-fad6154c89e5,r_toscan,regione-toscana,12526,https://dati.gov.it/view-dataset?organization=regione-toscana
 2021-02-19T18:09:02.390869,Regione Umbria,f31e4d26-b5de-4254-a39a-36b274c4dc67,r_umbria,regione-umbria,478,https://dati.gov.it/view-dataset?organization=regione-umbria
 2021-02-19T18:08:59.514039,Roma Capitale,31826dcb-b614-4b03-86de-6768b036d0d5,c_h501,roma-capitale,346,https://dati.gov.it/view-dataset?organization=roma-capitale
 2021-02-19T18:09:02.963860,Terra delle gravine,7cb6fc88-c7d1-4f37-8c7f-587554898454,-,terra-delle-gravine,25,https://dati.gov.it/view-dataset?organization=terra-delle-gravine
