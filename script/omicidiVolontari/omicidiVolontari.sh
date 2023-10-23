@@ -37,7 +37,7 @@ if [ $code -eq 200 ]; then
       curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$radice$link" | \
       mlrgo --csv --ifs ";" --implicit-csv-header remove-empty-columns then skip-trivial-records then clean-whitespace | \
       mlrgo --csv remove-empty-columns then skip-trivial-records then clean-whitespace | \
-      tail -n +3 | \
+      tail -n +2 | \
       mlrgo --csv label categoria then ssub -f categoria "?" "..." then ssub -f categoria "..." "" > "$folder"/tmp/tmp.csv
       cp "$folder"/tmp/tmp.csv "$folder"/../../docs/"$nome"/omicidiVolontari.csv
     # if "violenza sessuale di gruppo"
