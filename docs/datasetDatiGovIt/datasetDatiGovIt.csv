@@ -20054,6 +20054,10 @@ conto-annuale-2021-r-9813-personale-assunzioni
 conto-annuale-2021-r-9813-personale-cessato
 conto-annuale-2021-r-9813-sede-lavoro
 conto-annuale-2021-r-9813-titolo-di-studio
+conto-annuale-2022-r-9813-anzianita-di-servizio
+conto-annuale-2022-r-9813-oneri-costo-del-lavoro
+conto-annuale-2022-r-9813-oneri-voci-indennita-accessori
+conto-annuale-2022-r-9813-sede-lavoro
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-bagnaria-arsa
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-bondeno
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-alonte
@@ -22198,6 +22202,7 @@ dati-sensori-aria-2000-2009
 dati-sensori-aria-2010-2017
 dati-sensori-aria-dal-2018
 dati-sensori-aria-fino-al-1999
+dati-sensori-aria-nrt
 dati-sensori-meteo
 dati-sensori-meteo-1989-2000
 dati-sensori-meteo-2006-2008
@@ -63003,6 +63008,9 @@ tessuto-urbanizzato-ptrc-2020
 test
 test-20230814-10
 test-20230814-12
+test-20230814-16
+test-20230814-17
+test-20230814-18
 test-geo
 test-package7
 test-patrimonio
