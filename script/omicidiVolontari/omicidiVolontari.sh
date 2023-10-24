@@ -51,5 +51,10 @@ if [ $code -eq 200 ]; then
   done < "$folder"/tmp/tmp.json
 fi
 
+mlrgo --csv filter -x '$categoria=~"femm"' then cut -x -r -f "[a-zA-Z] +[0-9]"  then cat -n then reshape -r "[0-9]" -o k,v then sort -f n,k "$folder"/../../docs/"$nome"/omicidiVolontari.csv >"$folder"/tmp1.csv
+
+mlrgo --csv filter '$categoria=~"femm"' then cut -x -r -f "[a-zA-Z] +[0-9]" then label c then cat -n then reshape -r "[0-9]" -o k,v then sort -f n,k then cut -x -f c then rename v,di_sesso_femminile "$folder"/../../docs/"$nome"/omicidiVolontari.csv >"$folder"/tmp2.csv
+
+mlrgo --csv join --ul -j n,k -f "$folder"/tmp1.csv then unsparsify then rename k,anno,v,numero_vittime then cut -x -f n then sort -f anno,categoria "$folder"/tmp2.csv >"$folder"/../../docs/"$nome"/omicidiVolontari_normal.csv
 
 
