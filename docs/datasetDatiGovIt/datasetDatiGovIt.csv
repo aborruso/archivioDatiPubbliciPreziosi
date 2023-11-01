@@ -12151,9 +12151,6 @@ caselli-e-magazzini-idraulici
 casi-complicati
 casi-di-ricovero-e-accessi-di-dh-per-asl-di-residenza-del-cittadino-al-31-12-2015
 casi-di-ricovero-e-accessi-di-dh-per-ats-di-residenza-del-cittadino
-casi-di-ricovero-e-accessi-di-dh-per-drg
-casi-di-ricovero-e-accessi-di-dh-per-reparto
-casi-di-ricovero-e-accessi-di-dh-per-struttura-erogante-il-ricovero
 casi-ordinari-con-degenza-di-2-3-giorni
 casi-ordinari-con-degenza-di-4-5-giorni
 casini-del-territorio-comunale-di-matera1
@@ -18808,8 +18805,6 @@ comune-sedriano-enti-di-diritto-privato-controllato
 comune-sedriano-enti-vigilati
 comune-sedriano-incidenti-stradali
 comune-sedriano-infrazioni-codice-della-strada
-comune-sedriano-pratiche-edilizie
-comune-sedriano-pratiche-suap
 comune-sedriano-provvedimenti-ambito-commercio
 comune-sedriano-provvedimenti-degli-organi-indirizzo-amministrativo
 comune-sedriano-provvedimenti-degli-organi-indirizzo-politico
@@ -21746,17 +21741,8 @@ dataset-condizioni-di-salute-per-provincia-genere-e-fascia-deta
 dataset-consumi-farmaceutica-pazienti-cronici
 dataset-coperture-vaccinali
 dataset-degenza-media-e-accessi-medi-per-acc-e-ats
-dataset-degenza-media-e-accessi-medi-per-acc-e-struttura
-dataset-degenza-media-e-accessi-medi-per-disciplina-di-dimissione-e-ats
-dataset-degenza-media-e-accessi-medi-per-disciplina-di-dimissione-e-struttura
 dataset-degenza-media-e-accessi-medi-per-drg-e-ats
-dataset-degenza-media-e-accessi-medi-per-drg-e-struttura
 dataset-degenza-media-e-accessi-medi-per-mdc-e-ats
-dataset-degenza-media-e-accessi-medi-per-mdc-e-struttura
-dataset-degenza-media-e-accessi-medi-per-tipologia-di-assistenza-e-ats
-dataset-degenza-media-e-accessi-medi-per-tipologia-di-assistenza-e-struttura
-dataset-degenza-media-e-accessi-medi-per-tipologia-drg-e-ats
-dataset-degenza-media-e-accessi-medi-per-tipologia-drg-e-struttura
 dataset-dei-luoghi-amministrativi-e-ambientali
 dataset-della-dislocazione-delle-fontanelle-per-acqua-potabile-amap
 dataset-euring-protocol-engine-dati-dellattivita-di-inanellamento-degli-uccelli-cni-ispra
@@ -21768,11 +21754,7 @@ dataset-interruzioni-volontarie-gravidanza
 dataset-pesticidi-indicatori-sqa-e-stazioni-di-monitoraggio
 dataset-popolazione-cronica-regione-lombardia
 dataset-pubblicati
-dataset-sdo-regione-lombardia
-dataset-tasso-prestazioni-regione-lombardia-per-branca
-dataset-tasso-prestazioni-regione-lombardia-per-genere-e-fascia-di-eta
 dataset-territorio
-dataset-volumi-delle-prime-10-prestazioni-regione-lombardia-per-macrotipo
 dataset_room_76_1wto8
 dataset_room_77_wqxyg
 dataset_room_78_hekfa
@@ -22206,7 +22188,6 @@ dati-qualita-dellaria-2019-salerno
 dati-rapporti-sui-disservizi1
 dati-recenti-dei-campi-neve
 dati-recenti-delle-stazioni-meteorologiche-automatiche
-dati-regionali-ricoveri-per-drg
 dati-relativi-agli-asili-nido-comunali-anno-2016
 dati-relativi-ai-premi-2014-al-personale-inps
 dati-relativi-ai-servizi-della-scuola-comunale-dellinfanzia-2018
@@ -31600,7 +31581,6 @@ incidenza-di-occupati-sovraistruiti-femmine
 incidenza-di-occupati-sovraistruiti-maschi
 incidenza-di-stranieri-nei-comuni-capoluogo-del-veneto
 incidenza-donne-nei-consigli-comunali
-incidenza-drg
 incidenza-forze-di-lavoro-anziane
 incidenza-imprese-giovani
 incidenza-interventi-di-sostegno-al-reddito-per-circoscrizione-2016
@@ -31821,11 +31801,9 @@ indicatori-morfologici-di-criticita-ampiezza-spiaggia-emersa-libera-da-infrastru
 indicatori-morfologici-di-criticita-dosso-costiero-2012-buffer
 indicatori-morfologici-di-criticita-quota-di-chiusura-spiaggia-emersa-2014-buffer
 indicatori-morfologici-di-criticita-quota-media-spiaggia-emersa-2014-buffer
-indicatori-per-singolo-ospedale
 indicatori-pnrr-pnc
 indicatori-produzione-rifiuti-urbani-a-livello-comunale
 indicatori-raccolta-differenziata
-indicatori-ricoveri-per-reparto
 indicatori-rifiuti-anni-2018-2020
 indicatori-rifiuti-urbani
 indicatori-sintetici-di-criticita-della-costa
@@ -45421,7 +45399,6 @@ numero-di-accessi-al-pronto-soccorso-con-permanenza-entro-le-12-ore
 numero-di-accessi-al-pronto-soccorso-con-permanenza-oltre-le-48-ore
 numero-di-accessi-al-pronto-soccorso-per-durata-di-permanenza
 numero-di-accessi-al-pronto-soccorso-per-triage
-numero-di-accessi-per-day-hospital
 numero-di-addetti-del-camposampierese-per-settore-ateco-anno-2020
 numero-di-allevamenti-per-tipologia-2014
 numero-di-allevamenti-per-tipologia-2015
@@ -51458,7 +51435,6 @@ prestazioni-agli-invalidi-civili-vigenti-al-31-12-2012-distinte-per-tipo-prestaz
 prestazioni-agli-invalidi-civili-vigenti-al-31-12-2012-distinte-per-tipo-prestazione-e-zona-geo
 prestazioni-agli-invalidi-civili-vigenti-al-31-12-2013-distinte-per-tipo-prestazione-e-regione
 prestazioni-agli-invalidi-civili-vigenti-al-31-12-2013-distinte-per-tipo-prestazione-e-zona-geo
-prestazioni-ambulatoriali
 prestazioni-ambulatoriali-erogate-da-presidi-ambulatoriali-privati-anno-2012
 prestazioni-ambulatoriali-erogate-da-presidi-ambulatoriali-privati-anno-2014
 prestazioni-ambulatoriali-erogate-da-presidi-ambulatoriali-pubblici-anno-2012
@@ -51979,7 +51955,6 @@ procedure-di-gara-gestite-tramite-sintel-con-dettaglio-prodotti
 procedure-di-gara-sotto-soglia-delle-strutture-della-regione-lazio
 procedure-di-valutazione-impatto-ambientale-e-valutazione-strategica
 procedure-di-valutazione-impatto-ambientale-e-valutazione-strategica3
-procedure-effettuate-in-ambulatorio
 proceduresanzionatoriepm
 processi-geologici-particolari
 procsanzaccapplpm
@@ -57108,8 +57083,6 @@ ricoveri-ordinari-serie-storica-traumatismi
 ricoveri-ordinari-serie-storica-tumori
 ricoveri-per-erogatore
 ricoveri-per-residenza
-ricoveri-ripetuti-allinterno-dello-stesso-ospedale
-ricoveri-ripetuti-per-la-stessa-mdc-allinterno-dello-stessa-struttura
 riduzione-numero-parlamentari-affluenze
 riduzione-numero-parlamentari-risultati
 riduzioni-di-spesa-derivanti-da-provvedimenti-legislativi-nel-periodo-2012-2014
@@ -63137,7 +63110,6 @@ tasso-migratorio-con-il-resto-ditalia1
 tasso-migratorio-con-lestero
 tasso-migratorio-dei-laureati-italiani-di-25-39-anni-per-regione
 tasso-migratorio-netto-della-popolazione-residente-nel-comune-di-treviso-anni-2003-2015
-tasso-prestazioni-ambulatoriali-per-tipologia-di-esenzione
 tasso-standardizzato-di-incidenza-infortunistica-per-gli-infortuni-che-comportano-alm-2008-2010
 tasso-standardizzato-di-incidenza-infortunistica-per-gli-infortuni-mortali-a-seconda-2008-2010
 tasso-standardizzato-di-mortalita-per-demenze-e-malattie-del-sistema-nervoso-per-le-persone-di-
