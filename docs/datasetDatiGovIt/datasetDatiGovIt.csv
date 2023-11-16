@@ -752,7 +752,6 @@ id
 2006-milano-carta-tecnica-comunale-scala-1-1000-serie-2006-milano-municipal-base-map-scale-1-10
 2008-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2018
 200d1f05-7398-4d0c-8421-bb4c746340fb
-2011-coperture-vettoriali-delluso-del-suolo-edizione-2013
 2012-milano-carta-tecnica-comunale-scala-1-1000-serie-2012-milano-municipal-base-map-scale-1-10
 2012-milano-carta-tecnica-regionale-scala-1-10000-serie-2012-milano-regional-base-map-scale-1-1
 2012-milano-dwg-scala-1-1000-serie-2012-milano-dwg-scale-1-1000-series
@@ -1361,7 +1360,6 @@ accesso_interno6
 accessori
 accessori-elementi-arredo
 accessori-elemento-lineare-verde-pubblico
-accessori-verde-pubblico
 acclivita-7-classi-sc-1-10000-ed-2013
 acclivita-7-classi-sc-1-10000-edizione-dal-2017
 accompagnamento-pin-giovani
@@ -2780,6 +2778,7 @@ ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-protett
 ambiti-estrattivi-prac-calcari-per-costruzioni
 ambiti-estrattivi-prac-detriti
 ambiti-estrattivi-prac-ghiaia-e-sabbia
+ambiti-fluviali-idraulici
 ambiti-individuati-dal-p-e-b-a
 ambiti-istituzione-parchi-e-riserve-naturali-e-aree-tutela-paesaggistica-regionale
 ambiti-istituzione-parchi-e-riserve-naturali-regionali
@@ -4512,6 +4511,7 @@ aree-di-ricarica-dellacquifero-profondo-scala-1-250000
 aree-di-ricovero-protezione-civile-nel-comune-di-bassano-del-grappa
 aree-di-ricovero-protezione-civile-nel-comune-di-cartigliano
 aree-di-rilevamento
+aree-di-rispetto-delle-stazioni-sismometriche
 aree-di-schianto-censite-da-arpav
 aree-di-schianto-censite-da-arpav1
 aree-di-servizio-fipili-citta-metropolitana-di-firenze
@@ -6721,7 +6721,6 @@ bacini-di-conferimento-delle-discariche-provinciali
 bacini-di-raccolta-dei-rifiuti-e-comuni
 bacini-dutenza-per-i-singoli-depuratori
 bacini-idrografici
-bacini-idrografici-1-10-000-digitale-edizione-del-1988
 bacini-idrografici-del-distretto-delle-alpi-orientali
 bacini-idrografici-di-riferimento-come-da-dir-2000-60-ce
 bacini-idrografici-di-riferimento-come-da-dir-2000-60-ce1
@@ -6766,7 +6765,6 @@ bacini-idrografici-principali-come-da-dir-2000-60-ce-agg-pdg-20219
 bacini-idrografici-principali-dataset
 bacini-idrografici-secondari-dataset
 bacini-idrografici1
-bacini-idromorfologici-1-10-000-digitale-edizione-del-1988
 bacini-imbriferi
 bacini-interregionali-stato-ecologico-e-chimico-delle-acque-superficiali
 bacini-marecchia-conca-costa-pericolosita-alluvioni-frequenti-h-p3
@@ -11687,7 +11685,6 @@ carta-dei-tipi-forestali-reali-della-lombardia
 carta-del-carbonio-organico-nei-suoli-1-250000
 carta-del-consumo-di-suolo-del-veneto-2016
 carta-del-consumo-di-suolo-del-veneto-2017
-carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-cr-cu-ni-pb-v-zn
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-cromo-cr
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-nichel-ni
@@ -11702,6 +11699,7 @@ carta-del-fondo-naturale-antropico-a-scala-1-250-000-della-pianura-emiliano-roma
 carta-del-grado-di-vulnerabilita-degli-acquiferi-allinquinamento-citta-metropolitana-di-firenze
 carta-del-grado-di-vulnerabilita-degli-acquiferi-allinquinamento-ptcp-1998-citta-metropolitana-
 carta-del-gruppo-idrologico-usda-dei-suoli-in-scala-1-50-000
+carta-del-paesaggio-pup
 carta-del-pericolo-incendio-boschivo-e-di-interfaccia-2017
 carta-del-pericolo-incendio-boschivo-e-di-interfaccia-20171
 carta-del-pericolo-incendio-boschivo-e-di-interfaccia-20173
@@ -11764,6 +11762,7 @@ carta-delle-colture-delluso-del-suolo-2008
 carta-delle-colture-delluso-del-suolo-20083
 carta-delle-destinazioni-funzionali-prevalenti-e-carta-delle-compartimentazioni
 carta-delle-pendenze
+carta-delle-tutele-paesistiche-pup
 carta-delle-unita-di-terre
 carta-delle-unita-di-terre-generale
 carta-delle-unita-di-terre-generale1
@@ -12125,7 +12124,6 @@ cassa-integrazione-guadagni-anno-2021
 cassa-integrazione-guadagni-anno-cig-2015
 cassa-integrazione-guadagni-anno-cig-2016
 cassa-integrazione-guadagni-anno-cig-2017
-casse-di-espansione-1-10-000-digitale-edizione-del-1988
 cassonetti-amiu
 cassonetti-amiu1
 castel-catasto-localizzazione-impianti-di-telecomunicazione-e-radiotelevisione-nel-comune-di-mi
@@ -27961,7 +27959,7 @@ emergenza-covid-19-sintesi-volontari-coc
 emergenza-covid-19-triage
 emergenza-covid-distribuzione-dpi
 emergenza-covid19-regione-calabria
-emergenza-peste-suina-africana-psa-p-r-i-u-regione-liguria-provv-nn-264-2022-809-2022-1207-2022
+emergenza-peste-suina-africana-psa-regolamento-esecutivo-eu-594-2023
 emergenze-geologiche-e-geomorfologiche-1-10000-art-64-punto-h-delle-nta-del-ppar
 emergenze-naturalistiche-e-geomorfologiche
 emigrati-annuali-di-cittadinanza-straniera
@@ -28711,7 +28709,6 @@ eventi-no-geom
 eventi-ravenna-2019
 eventi-regione-marche
 eventi-rilevati
-eventi-sismici
 eventi-spettacoli-e-manifestazioni-culturali
 eventi-sportivi-empolese-valdelsa-2016
 eventi-turismo
@@ -32025,6 +32022,8 @@ informazioni-anagrafiche-scuole-anno-scolastico-2018-19-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2018-19-scuole-statali
 informazioni-anagrafiche-scuole-anno-scolastico-2022-23-scuole-paritarie
 informazioni-anagrafiche-scuole-anno-scolastico-2022-23-scuole-statali
+informazioni-anagrafiche-scuole-anno-scolastico-2023-24-scuole-paritarie
+informazioni-anagrafiche-scuole-anno-scolastico-2023-24-scuole-statali
 informazioni-anagrafiche-scuole-paritarie
 informazioni-anagrafiche-scuole-paritarie-delle-province-autonome-di-aosta-trento-e-bolzano
 informazioni-anagrafiche-scuole-statali
@@ -32142,6 +32141,7 @@ inps
 inqctr
 inquadramenti-contrattuali-per-amministrazione
 inquadramento-degli-amministrati
+inquadramento-strutturale-pup
 inquinamento-acustico-diurno-autostrada
 inquinamento-acustico-diurno-strade-statali-e-provinciali
 inquinamento-acustico-notturno-autostrada
@@ -33037,7 +33037,6 @@ laboratori-urbani-spazi-pubblici-per-i-giovani1
 laccordo-di-programma-quadro-in-materia-di-ricerca-i-progetti-esplorativi
 laccordo-di-programma-quadro-in-materia-di-ricerca-i-progetti-strategici
 laghi
-laghi-1-10-000-digitale-edizione-del-1988
 laghi-concentrazione-dei-parametri-di-base-anni-2010-2019
 laghi-concentrazione-di-altri-microinquinanti-organici-anni-2010-2019
 laghi-concentrazione-di-inquinanti-chimici-nella-matrice-biota-anni-2017-2020
@@ -33462,7 +33461,7 @@ lettura-di-libri-e-quotidiani-femmine
 lettura-di-libri-e-quotidiani-maschi
 liberi-professionisti
 libioss-habitat-rete-natura-2000-ed-2020
-libioss-specie-animali-suddivise-nei-principali-gruppi-sistematici
+libioss-specie-aliene
 libioss-specie-animali-suddivise-nei-principali-gruppi-sistematici1
 libioss-specie-e-grotte-ed-2016
 libioss-specie-raggruppate-per-regni
@@ -35445,6 +35444,7 @@ mercati-per-tipologia-e-periodicita-2015
 mercati-per-tipologia-e-periodicita-2016
 mercati-rionali-coperti-per-stand-e-metri-quadri-2018
 mercati-rionali-coperti-per-stand-e-metri-quadri-2019
+mercati-rionali-in-liguria
 mercati-rionali-scoperti-per-numero-posti-settore-2018
 mercati-rionali-scoperti-per-numero-posti-settore-2019
 mercati-rionali-scoperti-per-numero-posti-settore-e-circoscrizione-2017
@@ -48810,7 +48810,6 @@ pericolo-idraulico-rev-41-pericolo-alluvioni-pai
 pericolo-idraulico-rev-41-pericolo-alluvioni-pai1
 pericolo-idraulico-rev-41-pericolo-alluvioni-pai2
 pericolo-idraulico-rev-59
-pericolo-incendi-boschivi
 pericolo-localizzato-fotointerpretato
 pericolo-localizzato-rilevato
 pericolosit_idraulica_aree
@@ -49533,6 +49532,7 @@ piano-territoriale-regionale-darea-ptra-valtellina
 piano-triennale-opere-pubbliche
 piano-urbanistico-comunale-puc-assetto-urbanistico
 piano-urbanistico-generale-comune-di-monopoli
+piano-urbanistico-provinciale-pup-formato-vettoriale
 piano-urbanistico-territoriale-tematico-putt-p
 piano-voli-aeroporto-di-alghero
 piano-voli-aeroporto-di-alghero2
@@ -56320,6 +56320,7 @@ regolamento-urbanistico-poligoni
 regolamento-urbanistico-punti
 regolamento-urbanistico1
 regolamento-urbanistico2
+regolamento-urbanistico3
 regolamento_edilizio
 regolamento_edilizio_attuale
 regolamento_edilizio_storico
@@ -58734,7 +58735,6 @@ rischio-idraulico-psai-adb-campania-sud-ex-sinistra-sele
 rischio-idraulico-rev-41-rischio-alluvioni-pai
 rischio-idraulico-rev-41-rischio-alluvioni-pai1
 rischio-idraulico-rev-41-rischio-alluvioni-pai2
-rischio-incendi-boschivi
 rischio-incidente-rilevante
 rischio-sismico
 rischio-sismico-elenco-dei-comuni-cle-condizione-limite-di-emergenza
@@ -59453,7 +59453,6 @@ scia-2012-42c34392
 scia-segnalazioni-certificate-di-inizio-attivita-depositate
 scioperi-dei-trasporti
 sconti-bologna-welfare
-screening
 screening-di-via-regionali
 scritta-cartografica-scr_cr-080201-linee
 scrutatori_marzo_2016
@@ -61119,6 +61118,7 @@ sistema-informativo-territoriale-municipi-del-comune-di-bari1
 sistema-informativo-territoriale-particelle-catastali-di-proprieta-comunale
 sistema-informativo-territoriale-particelle-catastali-di-proprieta-comunale1
 sistema-informativo-verde-pubblico-alberature-censite-al-28-02-2022
+sistema-insediativo-e-reti-infrastrutturali-pup
 sistema-integrato-di-trattamento-e-smaltimento-rsu-di-torretta-del-comune-di-legnago-anno-2015
 sistema-metropolitano-regionale-rete-di-citta-ptrc-2020
 sistema-mobilita-livello-interregionale-ammodernamento
@@ -62482,8 +62482,8 @@ stazioni-qualita-dellaria-nrt
 stazioni-radio-base-e-antenne-messina
 stazioni-radio-tv-e-impianti-di-telefonia-cellulare
 stazioni-rilevamento-della-rete-idrometereologica-della-protezione-civile
-stazioni-rilievi-vegetazionali-edizione-2016
 stazioni-sismiche
+stazioni-sismometriche
 stazioni-treno-open-data
 sterilizzazione-d9-ster
 stich-id483978-dati-ambiente-e-territorio
@@ -64129,7 +64129,6 @@ termometri
 terra-delle-gravine
 terrazzamenti
 terrazze-panoramiche
-terrazzi-1-10-000-digitale-edizione-del-1988
 terrazzo-fluviale
 terre-basse-di-valle-vecchia-brussa-ptrc-2020
 terremoti-dal-2016-pab-zamg
@@ -65341,7 +65340,6 @@ uso-del-suolo-anno-2000
 uso-del-suolo-anno-2009-citta-metropolitana-di-firenze
 uso-del-suolo-anno-2009-citta-metropolitana-di-firenze1
 uso-del-suolo-anno-2010
-uso-del-suolo-area-costiera-spiaggia-2008
 uso-del-suolo-area-costiera-uso-del-suolo-area-costiera-1943-45
 uso-del-suolo-area-costiera-uso-del-suolo-area-costiera-1982
 uso-del-suolo-area-costiera-uso-del-suolo-area-costiera-1998
@@ -65867,7 +65865,6 @@ viabilita-area-di-circolazione-ciclabile-con-geometria-polylinez
 viabilita-area-di-circolazione-pedonale-con-geometria-polygonz
 viabilita-area-di-circolazione-pedonale-con-geometria-polylinez
 viabilita-area-di-circolazione-veicolare-con-geometria-polygonz
-viabilita-area-di-circolazione-veicolare-con-geometria-polylinez
 viabilita-di-interesse-silvo-pastorale-esistente
 viabilita-di-interesse-silvo-pastorale-proposta
 viabilita-di-progetto-dei-piani-di-gestione-forestale
@@ -66531,9 +66528,7 @@ zone-di-protezione-speciale-zps
 zone-di-rifugio
 zone-di-ripopolamento
 zone-di-ripopolamento-e-cattura
-zone-di-rispetto-area-di-rispetto-della-molluschicoltura
 zone-di-rispetto-dei-cimiteri
-zone-di-rispetto-fonda-e-allibo
 zone-di-speciale-conservazione
 zone-di-tutela-insiemi
 zone-doc
