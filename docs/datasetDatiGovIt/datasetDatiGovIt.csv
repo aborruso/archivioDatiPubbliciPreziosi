@@ -5498,6 +5498,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-cordignano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-creazzo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-crocetta-del-montello
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-fara-vicentino
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-ferrara-di-monte-baldo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-fiesso-umbertiano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-foza
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-fratta-polesine
@@ -13612,6 +13613,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-c
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-crocetta-del-mon
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-erbe
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-fara-vicentino
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-ferrara-di-monte
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-fiesso-umbertian
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-fonzaso
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-foza-agg-05-2022
@@ -20417,6 +20419,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e6
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e60
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e61
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e62
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e9
@@ -21361,6 +21364,7 @@ costo-del-personale-comune-di-colle-umberto
 costo-del-personale-comune-di-costa-di-rovigo
 costo-del-personale-comune-di-creazzo
 costo-del-personale-comune-di-crocetta-del-montello
+costo-del-personale-comune-di-ferrara-di-monte-baldo
 costo-del-personale-comune-di-foza
 costo-del-personale-comune-di-gallio-aggiornato-al-31-03-2022
 costo-del-personale-comune-di-giavera-del-montello-aggiornato-al-31-03-2022
@@ -25321,6 +25325,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-crespadoro
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-crocetta-del-montello
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-erbe
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-fara-vicentino
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-ferrara-di-monte-baldo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-fiesso-umbertiano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-fonzaso
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-foza-aggiornato-al-03-05-2022
@@ -25606,6 +25611,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-crocetta-del-mont
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-enego
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-erbe
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-fara-vicentino
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-ferrara-di-monte-baldo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-fiesso-umbertiano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-fonzaso
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-fratta-polesine
@@ -25783,6 +25789,7 @@ elenco-delle-pubblicazioni-comune-di-creazzo
 elenco-delle-pubblicazioni-comune-di-crespadoro
 elenco-delle-pubblicazioni-comune-di-enego
 elenco-delle-pubblicazioni-comune-di-erbe
+elenco-delle-pubblicazioni-comune-di-ferrara-di-monte-baldo
 elenco-delle-pubblicazioni-comune-di-fiesso-umbertiano
 elenco-delle-pubblicazioni-comune-di-fonzaso
 elenco-delle-pubblicazioni-comune-di-fratta-polesine
@@ -38895,6 +38902,7 @@ modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-11-16-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-26-ore-12-utc
@@ -39173,6 +39181,7 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-11-15-ore-12-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m-071
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m-072
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m-251
@@ -39304,6 +39313,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-6f
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-6f1
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-6f2
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-6f3
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-70
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-72
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-73
@@ -40002,6 +40012,7 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-11-15-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-26-ore-12-utc
@@ -40558,6 +40569,7 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-11-13-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-26-ore-12-utc
@@ -41667,6 +41679,7 @@ modello-wrf-arw-a-3km-topografia-m-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2023-11-13-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-26-ore-12-utc
@@ -42223,6 +42236,7 @@ modello-wrf-arw-a-3km-umidita-relativa-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2023-11-15-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-26-ore-12-utc
@@ -43057,6 +43071,7 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-11-08-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-11-09-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-11-09-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-11-10-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-11-14-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2021-02-26-ore-12-utc
@@ -44676,9 +44691,7 @@ movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-paese-regione-di
 movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-paese-regione-di-prov-2020-2022
 movimenti-turistici-annuali-per-mese-della-provincia-di-rovigo-2018-2020
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2010-2014
-movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2010-20141
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2010-20142
-movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2015-20191
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2015-20192
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2020-2022
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2020-20221
@@ -44774,7 +44787,6 @@ movimenti-turistici-mensili-per-atl-mercato-e-settore-anno-2020
 movimenti-turistici-mensili-per-atl-mercato-e-settore-anno-2021
 movimenti-turistici-mensili-per-atl-mercato-e-settore-anno-2022
 movimenti-turistici-mensili-per-atl-paese-regione-di-provenienza-e-settore-anno-2010
-movimenti-turistici-mensili-per-atl-paese-regione-di-provenienza-e-settore-anno-2011
 movimenti-turistici-mensili-per-atl-paese-regione-di-provenienza-e-settore-anno-20111
 movimenti-turistici-mensili-per-atl-paese-regione-di-provenienza-e-settore-anno-2012
 movimenti-turistici-mensili-per-atl-paese-regione-di-provenienza-e-settore-anno-2013
@@ -44814,7 +44826,6 @@ movimenti-turistici-mensili-per-atl-sotto-segmento-e-paese-regione-di-provenienz
 movimenti-turistici-mensili-per-atl-sotto-segmento-e-paese-regione-di-provenienza-anno-2021
 movimenti-turistici-mensili-per-atl-sotto-segmento-e-paese-regione-di-provenienza-anno-2022
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-mercato-anno-2010
-movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-mercato-anno-2011
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-mercato-anno-20111
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-mercato-anno-2012
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-mercato-anno-2013
@@ -44840,7 +44851,6 @@ movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-paese-regione-di
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-paese-regione-di-provenien-2020
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-paese-regione-di-provenien-2021
 movimenti-turistici-mensili-per-atl-sotto-segmento-secondario-e-paese-regione-di-provenien-2022
-movimenti-turistici-mensili-per-atl-ttp-e-provenienza-anno-20201
 movimenti-turistici-mensili-per-provincia-e-provenienza-anno-2010
 movimenti-turistici-mensili-per-provincia-e-provenienza-anno-2012
 movimenti-turistici-mensili-per-provincia-e-provenienza-anno-2013
@@ -44914,7 +44924,6 @@ movimenti-turistici-per-provincia-e-settore-anni-2010-2014
 movimenti-turistici-per-provincia-e-settore-anni-2020-2024
 movimenti_anagrafici_dal_1_gennaio_saldo_migratorio
 movimenti_anagrafici_dal_1_gennaio_saldo_naturale
-movimentituristicimensilidelleprovinceanno2013
 movimento-anagrafico
 movimento-anagrafico-cancellazioni-anno-2009-2010
 movimento-anagrafico-cancellazioni-anno-2010-2011
@@ -47114,6 +47123,7 @@ oneri-pratiche-edilizie-comune-di-cordignano
 oneri-pratiche-edilizie-comune-di-costa-di-rovigo
 oneri-pratiche-edilizie-comune-di-crespadoro
 oneri-pratiche-edilizie-comune-di-erbe
+oneri-pratiche-edilizie-comune-di-ferrara-di-monte-baldo
 oneri-pratiche-edilizie-comune-di-fiesso-umbertiano
 oneri-pratiche-edilizie-comune-di-grumolo-delle-abbadesse-aggiornato-al-20-04-2022
 oneri-pratiche-edilizie-comune-di-illasi
