@@ -39,8 +39,8 @@ if [ $code -eq 200 ]; then
       <"$folder"/tmp/tmp.csv sed ':a;N;$!ba;s/\([^\r]\)\n/\1/g' | mlrgo --csv --ifs ";" --implicit-csv-header --ragged unsparsify then remove-empty-columns then skip-trivial-records then clean-whitespace | \
       mlrgo --csv remove-empty-columns then skip-trivial-records then clean-whitespace | \
       tail -n +2 | \
-      mlrgo --csv label categoria then ssub -f categoria "?" "..." then ssub -f categoria "..." "" > "$folder"/tmp/tmp.csv
-      cp "$folder"/tmp/tmp.csv "$folder"/../../docs/"$nome"/omicidiVolontari.csv
+      mlrgo --csv label categoria then ssub -f categoria "?" "..." then ssub -f categoria "..." "" > "$folder"/tmp/tmp_1.csv
+      cp "$folder"/tmp/tmp_1.csv "$folder"/../../docs/"$nome"/omicidiVolontari.csv
     # if "violenza sessuale di gruppo"
     elif [[ "$titolo" == *"violenza sessuale di gruppo"* ]]; then
       echo "$titolo"
