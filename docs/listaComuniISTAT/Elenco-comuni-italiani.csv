@@ -804,7 +804,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 01;005;005; 074 ;005074;Montaldo Scarampi;Montaldo Scarampi;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5074;5074;5074;5074;F409;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 075 ;005075;Montechiaro d'Asti;Montechiaro d'Asti;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5075;5075;5075;5075;F468;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 076 ;005076;Montegrosso d'Asti;Montegrosso d'Asti;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5076;5076;5076;5076;F527;ITC;ITC1;ITC17;ITC;ITC1;ITC17
-01;005;005; 077 ;005077;Montemagno;Montemagno;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5077;5077;5077;5077;F556;ITC;ITC1;ITC17;ITC;ITC1;ITC17
+01;005;005; 077 ;005077;Montemagno Monferrato;Montemagno Monferrato;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5077;5077;5077;5077;F556;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 080 ;005080;Nizza Monferrato;Nizza Monferrato;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5080;5080;5080;5080;F902;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 081 ;005081;Olmo Gentile;Olmo Gentile;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5081;5081;5081;5081;G048;ITC;ITC1;ITC17;ITC;ITC1;ITC17
 01;005;005; 082 ;005082;Passerano Marmorito;Passerano Marmorito;;1;Nord-ovest;Piemonte;Asti;1;0;AT;5082;5082;5082;5082;G358;ITC;ITC1;ITC17;ITC;ITC1;ITC17
@@ -2198,7 +2198,6 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 03;017;017; 205 ;017205;Zone;Zone;;1;Nord-ovest;Lombardia;Brescia;1;0;BS;17205;17205;17205;17205;M188;ITC;ITC4;ITC47;ITC;ITC4;ITC47
 03;017;017; 206 ;017206;Piancogno;Piancogno;;1;Nord-ovest;Lombardia;Brescia;1;0;BS;17206;17206;17206;17206;G549;ITC;ITC4;ITC47;ITC;ITC4;ITC47
 03;018;018; 001 ;018001;Alagna;Alagna;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18001;18001;18001;18001;A118;ITC;ITC4;ITC48;ITC;ITC4;ITC48
-03;018;018; 002 ;018002;Albaredo Arnaboldi;Albaredo Arnaboldi;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18002;18002;18002;18002;A134;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 003 ;018003;Albonese;Albonese;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18003;18003;18003;18003;A171;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 004 ;018004;Albuzzano;Albuzzano;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18004;18004;18004;18004;A175;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 005 ;018005;Arena Po;Arena Po;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18005;18005;18005;18005;A387;ITC;ITC4;ITC48;ITC;ITC4;ITC48
@@ -2221,7 +2220,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 03;018;018; 023 ;018023;Bressana Bottarone;Bressana Bottarone;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18023;18023;18023;18023;B159;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 024 ;018024;Broni;Broni;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18024;18024;18024;18024;B201;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 025 ;018025;Calvignano;Calvignano;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18025;18025;18025;18025;B447;ITC;ITC4;ITC48;ITC;ITC4;ITC48
-03;018;018; 026 ;018026;Campospinoso;Campospinoso;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18026;18026;18026;18026;B567;ITC;ITC4;ITC48;ITC;ITC4;ITC48
+03;018;018; 026 ;018026;Campospinoso Albaredo;Campospinoso Albaredo;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18026;18026;18026;18026;B567;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 027 ;018027;Candia Lomellina;Candia Lomellina;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18027;18027;18027;18027;B587;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 029 ;018029;Canneto Pavese;Canneto Pavese;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18029;18029;18029;18029;B613;ITC;ITC4;ITC48;ITC;ITC4;ITC48
 03;018;018; 030 ;018030;Carbonara al Ticino;Carbonara al Ticino;;1;Nord-ovest;Lombardia;Pavia;1;0;PV;18030;18030;18030;18030;B741;ITC;ITC4;ITC48;ITC;ITC4;ITC48
@@ -5538,7 +5537,7 @@ Codice Regione;"Codice dell'Unità territoriale sovracomunale
 13;068;068; 030 ;068030;Pianella;Pianella;;4;Sud;Abruzzo;Pescara;1;0;PE;68030;68030;68030;68030;G555;ITF;ITF1;ITF13;ITF;ITF1;ITF13
 13;068;068; 031 ;068031;Picciano;Picciano;;4;Sud;Abruzzo;Pescara;1;0;PE;68031;68031;68031;68031;G589;ITF;ITF1;ITF13;ITF;ITF1;ITF13
 13;068;068; 032 ;068032;Pietranico;Pietranico;;4;Sud;Abruzzo;Pescara;1;0;PE;68032;68032;68032;68032;G621;ITF;ITF1;ITF13;ITF;ITF1;ITF13
-13;068;068; 033 ;068033;Popoli;Popoli;;4;Sud;Abruzzo;Pescara;1;0;PE;68033;68033;68033;68033;G878;ITF;ITF1;ITF13;ITF;ITF1;ITF13
+13;068;068; 033 ;068033;Popoli Terme;Popoli Terme;;4;Sud;Abruzzo;Pescara;1;0;PE;68033;68033;68033;68033;G878;ITF;ITF1;ITF13;ITF;ITF1;ITF13
 13;068;068; 034 ;068034;Roccamorice;Roccamorice;;4;Sud;Abruzzo;Pescara;1;0;PE;68034;68034;68034;68034;H425;ITF;ITF1;ITF13;ITF;ITF1;ITF13
 13;068;068; 035 ;068035;Rosciano;Rosciano;;4;Sud;Abruzzo;Pescara;1;0;PE;68035;68035;68035;68035;H562;ITF;ITF1;ITF13;ITF;ITF1;ITF13
 13;068;068; 036 ;068036;Salle;Salle;;4;Sud;Abruzzo;Pescara;1;0;PE;68036;68036;68036;68036;H715;ITF;ITF1;ITF13;ITF;ITF1;ITF13
