@@ -3494,6 +3494,7 @@ andamento-competenza-entrata-per-titoli-comune-di-noventa-padovana-aggiornato-al
 andamento-competenza-entrata-per-titoli-comune-di-ospitale-di-cadore
 andamento-competenza-entrata-per-titoli-comune-di-paese
 andamento-competenza-entrata-per-titoli-comune-di-pastrengo
+andamento-competenza-entrata-per-titoli-comune-di-pederobba
 andamento-competenza-entrata-per-titoli-comune-di-pescantina-aggiornato-al-31-03-2022
 andamento-competenza-entrata-per-titoli-comune-di-piacenza-dadige
 andamento-competenza-entrata-per-titoli-comune-di-pianezze
@@ -3619,6 +3620,7 @@ andamento-competenza-uscita-per-titoli-comune-di-noventa-padovana-aggiornato-al-
 andamento-competenza-uscita-per-titoli-comune-di-ospitale-di-cadore
 andamento-competenza-uscita-per-titoli-comune-di-paese
 andamento-competenza-uscita-per-titoli-comune-di-pastrengo
+andamento-competenza-uscita-per-titoli-comune-di-pederobba
 andamento-competenza-uscita-per-titoli-comune-di-pescantina-aggiornato-al-31-03-2022
 andamento-competenza-uscita-per-titoli-comune-di-piacenza-dadige
 andamento-competenza-uscita-per-titoli-comune-di-pianezze
@@ -3703,6 +3705,7 @@ andamento-demografico-comune-di-casale-sul-sile
 andamento-demografico-comune-di-casier
 andamento-demografico-comune-di-castel-dazzano-aggiornato-al-12-04-2022
 andamento-demografico-comune-di-castelcucco
+andamento-demografico-comune-di-castello-di-godego
 andamento-demografico-comune-di-castelmassa
 andamento-demografico-comune-di-castelnovo-bariano
 andamento-demografico-comune-di-castelnuovo-del-garda
@@ -3758,6 +3761,7 @@ andamento-demografico-comune-di-noventa-padovana-aggiornato-al-31-03-2022
 andamento-demografico-comune-di-ospitale-di-cadore
 andamento-demografico-comune-di-paese
 andamento-demografico-comune-di-pastrengo
+andamento-demografico-comune-di-pederobba
 andamento-demografico-comune-di-pescantina-aggiornato-al-31-03-2022
 andamento-demografico-comune-di-piacenza-dadige
 andamento-demografico-comune-di-pianezze
@@ -5664,6 +5668,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-casale-sul-sile
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-casier
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castel-dazzano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelcucco
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castello-di-godego
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelmassa
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelnovo-bariano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelnuovo-del-garda
@@ -6066,7 +6071,6 @@ atrezzature-ludico-ginniche-sportive
 ats-regione-lombardia
 att-odg-2013
 attestati-di-prestazione-energetica-degli-edifici-ape
-attestati-di-prestazione-energetica-edifici-trentino
 attestazione-pagamenti-servizi-educativi-settembre-dicembre-2019
 attestazione_pagamenti_servizi_educativi_settembre_dicembre_2019
 attestazioni-approvate-carta-esercizio
@@ -6106,6 +6110,7 @@ atti-amministrativi-comune-di-casale-sul-sile
 atti-amministrativi-comune-di-casier
 atti-amministrativi-comune-di-castel-dazzano-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-castelcucco
+atti-amministrativi-comune-di-castello-di-godego
 atti-amministrativi-comune-di-castelmassa
 atti-amministrativi-comune-di-castelnovo-bariano
 atti-amministrativi-comune-di-castelnuovo-del-garda
@@ -6162,6 +6167,7 @@ atti-amministrativi-comune-di-noventa-padovana-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-ospitale-di-cadore
 atti-amministrativi-comune-di-paese
 atti-amministrativi-comune-di-pastrengo
+atti-amministrativi-comune-di-pederobba
 atti-amministrativi-comune-di-pescantina-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-piacenza-dadige
 atti-amministrativi-comune-di-pianezze
@@ -14064,6 +14070,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-c
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-casier
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castel-d-04-2022
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelcucco
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castello-di-gode
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelmassa
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelnovo-baria
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelnuovo-del-
@@ -14117,6 +14124,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-n
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-ospitale-di-cado
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-paese
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pastrengo
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pederobba
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pescanti-03-2022
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-piacenza-dadige
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pianezze
@@ -25941,6 +25949,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-carre
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-casier
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castel-dazzano-aggiornato-a-04-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelcucco
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castello-di-godego
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelmassa
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelnovo-bariano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelnuovo-del-garda
@@ -25994,6 +26003,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-nove
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-noventa-padovana-aggiornato-03-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-ospitale-di-cadore
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pastrengo
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pederobba
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pescantina-aggiornato-al-31-03-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-piacenza-dadige
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pianezze
@@ -26232,6 +26242,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-carre
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-casier
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castel-dazzano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelcucco
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castello-di-godego
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelmassa
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelnovo-bariano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelnuovo-del-garda
@@ -26284,6 +26295,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-noventa-padovana
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-ospitale-di-cadore
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-paese
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pastrengo
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pederobba
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pescantina
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-piacenza-dadige
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pianezze
@@ -26462,6 +26474,7 @@ elenco-delle-pubblicazioni-comune-di-nove
 elenco-delle-pubblicazioni-comune-di-ospitale-di-cadore
 elenco-delle-pubblicazioni-comune-di-paese
 elenco-delle-pubblicazioni-comune-di-pastrengo
+elenco-delle-pubblicazioni-comune-di-pederobba
 elenco-delle-pubblicazioni-comune-di-pescantina
 elenco-delle-pubblicazioni-comune-di-piacenza-dadige
 elenco-delle-pubblicazioni-comune-di-pianezze

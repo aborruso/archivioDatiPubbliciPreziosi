@@ -52,12 +52,12 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:09:08.208339,Progetto MISTRAL,968364f2-d03c-4d0a-bf33-d7ac88d3aed1,-,progetto-mistral,18,https://dati.gov.it/view-dataset?organization=progetto-mistral
 2021-02-22T10:09:48.246913,ProvaOrg,cb6a7a37-1b43-4aee-b89b-d35877529b0c,1234567890,provaorg,0,https://dati.gov.it/view-dataset?organization=provaorg
 2021-02-19T18:08:59.082963,Provincia Autonoma di Bolzano,8569b0a2-8f58-4721-b81c-fe573ecfa2b5,p_bz,provincia-autonoma-di-bolzano,616,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
-2021-10-25T03:04:46.147923,Provincia Autonoma di Trento,eab884a3-b982-42a6-b43d-dfab477b355c,r_trenti,provincia-autonoma-di-trentonew,6562,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trentonew
+2021-10-25T03:04:46.147923,Provincia Autonoma di Trento,eab884a3-b982-42a6-b43d-dfab477b355c,r_trenti,provincia-autonoma-di-trentonew,6561,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trentonew
 2021-02-19T18:08:59.766868,Provincia di Asti,743b7dd1-2d11-490d-a365-e9c67c9b14a4,p_at,provincia-di-asti,243,https://dati.gov.it/view-dataset?organization=provincia-di-asti
 2021-02-19T18:08:55.879753,Regione Basilicata,06a34202-bc42-4523-b465-b7ccbd6add33,r_basili,regione-basilicata,198,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2023-01-04T16:10:41.832496,Regione Calabria,94e3e3de-debe-4c2e-aa11-401b352564b2,regcal,regione-calabria,175,https://dati.gov.it/view-dataset?organization=regione-calabria
 2021-02-19T18:09:00.044590,Regione Campania,64a45b11-4252-439b-a5d8-267209acf658,r_campan,regione-campania,275,https://dati.gov.it/view-dataset?organization=regione-campania
-2022-04-22T17:43:42.691339,Regione del Veneto,963d2857-c188-4296-a4bd-473089d85608,r_veneto,regione-del-veneto,4953,https://dati.gov.it/view-dataset?organization=regione-del-veneto
+2022-04-22T17:43:42.691339,Regione del Veneto,963d2857-c188-4296-a4bd-473089d85608,r_veneto,regione-del-veneto,4967,https://dati.gov.it/view-dataset?organization=regione-del-veneto
 2022-06-10T10:06:13.370922,Regione Emilia-Romagna,5c311059-446b-475f-8d79-516c5368ecf4,r_emiro,regione-emilia-romagna,6038,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2021-02-19T18:09:00.502907,Regione Friuli Venezia Giulia,175a3d58-ebcd-488b-97a7-3fd81730a993,r_friuve,regione-friuli-venezia-giulia,587,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2021-02-19T18:09:00.895802,Regione Lazio,b3cb1525-8186-4665-902b-c83582b03663,r_lazio,regione-lazio,409,https://dati.gov.it/view-dataset?organization=regione-lazio
