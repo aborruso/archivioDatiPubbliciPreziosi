@@ -36,10 +36,11 @@ if [ $code -eq 200 ]; then
       echo "$link"
       curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$radice$link" > "$folder"/tmp/tmp.csv
       dos2unix "$folder"/tmp/tmp.csv
+      cp "$folder"/tmp/tmp.csv "$folder"/tmp/tmp_raw.csv
       #<"$folder"/tmp/tmp.csv sed ':a;N;$!ba;s/\([^\r]\)\n/\1/g'
       <"$folder"/tmp/tmp.csv mlrgo --csv --ifs ";" --implicit-csv-header --ragged unsparsify then remove-empty-columns then skip-trivial-records then clean-whitespace | \
       mlrgo --csv remove-empty-columns then skip-trivial-records then clean-whitespace | \
-      tail -n +2 | \
+      awk '/2022/,EOF' | \
       mlrgo --csv label categoria then ssub -f categoria "?" "..." then ssub -f categoria "..." "" > "$folder"/tmp/tmp_1.csv
       cp "$folder"/tmp/tmp_1.csv "$folder"/../../docs/"$nome"/omicidiVolontari.csv
     # if "violenza sessuale di gruppo"
