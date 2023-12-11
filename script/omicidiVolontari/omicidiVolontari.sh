@@ -29,7 +29,7 @@ if [ $code -eq 200 ]; then
   # estrai i link ai file csv
   while read line; do
     link=$(echo "$line" | jq -r '."@href"')
-    titolo=$(echo "$line" | jq -r '."#text"')
+    titolo=$(echo "$line" | jq -r '."@title"')
     # if "omicidi volontari"
     if [[ "$titolo" == *"settimana"* ]]; then
       echo "$titolo"
@@ -47,7 +47,7 @@ if [ $code -eq 200 ]; then
     elif [[ "$titolo" == *"violenza sessuale di gruppo"* ]]; then
       echo "$titolo"
       file="violenzaSessualeDiGruppo"
-      curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$radice$link" > "$folder"/tmp/"$file".csv
+      curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$link" > "$folder"/tmp/"$file".csv
       mlrgo -N --csv --ifs ";" --implicit-csv-header remove-empty-columns then skip-trivial-records then clean-whitespace then filter -x 'is_null($3)' "$folder"/tmp/"$file".csv | mlrgo --csv -S label "Descrizione reato" then put 'for (k in $*) {$[k] = gsub($[k], "\.", "")}' >"$folder"/tmp/tmp.csv
       cp "$folder"/tmp/tmp.csv "$folder"/../../docs/"$nome"/"$file".csv
     fi
