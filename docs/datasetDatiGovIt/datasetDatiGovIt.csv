@@ -6223,6 +6223,7 @@ atti-amministrativi-comune-di-villafranca-padovana-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-zenson-di-piave
 atti-amministrativi-comune-di-zovencedo
 atti-amministrativi-comune-di-zugliano
+atti-amministrativi-cons-di-bacino-laguna-di-ve
 atti-amministrativi-del-comune-di-san-pietro-in-cariano-dal-2000-al-2020
 atti-amministrativi-emessi-dalla-regione-lazio-pubblicati-sul-bollettino-ufficiale-bur
 atti-amministrativi-flaibano
@@ -21018,6 +21019,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s61
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s62
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s63
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s64
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
@@ -21092,6 +21094,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu8
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu9
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cons
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-magn1
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-povo
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-rean
@@ -22306,16 +22309,12 @@ dataset-degenza-media-e-accessi-medi-per-acc-e-ats
 dataset-degenza-media-e-accessi-medi-per-acc-e-struttura
 dataset-degenza-media-e-accessi-medi-per-drg-e-ats
 dataset-degenza-media-e-accessi-medi-per-mdc-e-ats
-dataset-dei-luoghi-amministrativi-e-ambientali
 dataset-della-dislocazione-delle-fontanelle-per-acqua-potabile-amap
-dataset-euring-protocol-engine-dati-dellattivita-di-inanellamento-degli-uccelli-cni-ispra
 dataset-hotspot-pisa-wifi
-dataset-indicatori-consumo-del-suolo
 dataset-indici-popolazione-cronica
 dataset-interruzioni-gravidanza
 dataset-interruzioni-volontarie-gravidanza
 dataset-personale-audit2023
-dataset-pesticidi-indicatori-sqa-e-stazioni-di-monitoraggio
 dataset-popolazione-cronica-regione-lombardia
 dataset-pubblicati
 dataset-territorio
@@ -24371,6 +24370,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-vigasio-aggiornato-al-31-03-20
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-villafranca-padovana-aggiornato-al-31-03-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-zenson-di-piave
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-zovencedo
+dettaglio-entrate-per-capitolo-di-spesa-cons-di-bacino-laguna-di-ve
 dettaglio-entrate-per-capitolo-di-spesa-goro
 dettaglio-entrate-per-capitolo-di-spesa-magnano-in-riviera1
 dettaglio-entrate-per-capitolo-di-spesa-povoletto
@@ -38124,6 +38124,7 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-12-11-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2021-02-26-ore-12-utc
@@ -38453,6 +38454,7 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-12-12-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2021-02-26-ore-12-utc
@@ -38785,6 +38787,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-12-06-ore-12-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-12-09-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-12-14-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2021-02-26-ore-12-utc
@@ -39116,6 +39120,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-12-06-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-12-15-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2021-02-26-ore-12-utc
@@ -39448,6 +39453,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-12-06-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-12-13-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-18-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-19-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2021-02-26-ore-12-u
@@ -39779,6 +39785,7 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-1
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-12-07-ore-00-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-12-07-ore-12-u
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-12-08-ore-00-u
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-12-13-ore-00-u
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2021-02-26-ore-12-utc
@@ -40441,6 +40448,8 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2023-12-09-ore-12-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2023-12-14-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2020-02-04-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2021-02-19-ore-00-utc
@@ -40773,6 +40782,7 @@ modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-12-11-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2021-02-26-ore-12-utc
@@ -41105,6 +41115,7 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-12-10-ore-00-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m-001
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m-021
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m-061
@@ -41365,6 +41376,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-cd
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-cd1
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-cf
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-cf1
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-d0
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-d01
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-d02
@@ -42096,6 +42108,7 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2023-12-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2021-02-26-ore-12-utc
@@ -42760,6 +42773,8 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-12-13-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-12-14-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2021-02-26-ore-12-utc
@@ -43090,6 +43105,8 @@ modello-wrf-arw-a-3km-temperatura-c-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2023-12-12-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2023-12-14-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2021-02-26-ore-12-utc
@@ -43421,6 +43438,8 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-12-11-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-12-14-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2021-02-26-ore-12-utc
@@ -43753,6 +43772,8 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-12-10-ore-12-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-12-12-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2021-02-26-ore-12-utc
@@ -44085,6 +44106,7 @@ modello-wrf-arw-a-3km-topografia-m-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2023-12-09-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2021-02-26-ore-12-utc
@@ -44417,6 +44439,7 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-12-14-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2021-02-26-ore-12-utc
@@ -44749,6 +44772,8 @@ modello-wrf-arw-a-3km-umidita-relativa-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2023-12-09-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2023-12-13-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2021-02-26-ore-12-utc
@@ -45081,6 +45106,9 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-06-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-07-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-08-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-12-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-12-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-12-14-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-02-18-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-02-19-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2021-02-26-ore-12-utc
@@ -46749,6 +46777,8 @@ modello-ww3-a-10km-average-wave-period-sec-2023-12-06-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-12-07-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-12-07-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-12-08-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2023-12-13-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2023-12-14-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-02-18-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-02-19-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2021-02-26-ore-12-utc
@@ -47085,6 +47115,7 @@ modello-ww3-a-10km-significant-wave-height-m-2023-12-06-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-12-07-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-12-07-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-12-08-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2023-12-15-ore-00-utc
 moduli-del-comun-general-de-fascia
 moduli-del-comune-di-ala
 moduli-del-comune-di-albiano
