@@ -26,6 +26,8 @@ if [ $code -eq 200 ]; then
   curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$URL" --compressed | \
   scrape -be '//a[contains(@href, ".csv")]' | xq '.html.body.a' | mlr --json unsparsify > "$folder"/tmp/tmp.json
 
+  sed -i 's|wrportal.dippp.interno.it/sites/default/files|www.interno.gov.it/sites/default/files|g' "$folder"/tmp/tmp.json
+
   # estrai i link ai file csv
   while read line; do
     link=$(echo "$line" | jq -r '."@href"')
@@ -34,7 +36,12 @@ if [ $code -eq 200 ]; then
     if [[ "$titolo" == *"settimana"* ]]; then
       echo "$titolo"
       echo "$link"
-      curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$radice$link" > "$folder"/tmp/tmp.csv
+
+      if [[ "$link" == *"http"* ]]; then
+        curl -kL -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$link" > "$folder"/tmp/tmp.csv
+      else
+        curl -kL -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$radice$link" > "$folder"/tmp/tmp.csv
+      fi
       dos2unix "$folder"/tmp/tmp.csv
       cp "$folder"/tmp/tmp.csv "$folder"/tmp/tmp_raw.csv
       #<"$folder"/tmp/tmp.csv sed ':a;N;$!ba;s/\([^\r]\)\n/\1/g'
@@ -47,7 +54,7 @@ if [ $code -eq 200 ]; then
     elif [[ "$titolo" == *"violenza sessuale di gruppo"* ]]; then
       echo "$titolo"
       file="violenzaSessualeDiGruppo"
-      curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$link" > "$folder"/tmp/"$file".csv
+      curl -kL -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$link" > "$folder"/tmp/"$file".csv
       mlrgo -N --csv --ifs ";" --implicit-csv-header remove-empty-columns then skip-trivial-records then clean-whitespace then filter -x 'is_null($3)' "$folder"/tmp/"$file".csv | mlrgo --csv -S label "Descrizione reato" then put 'for (k in $*) {$[k] = gsub($[k], "\.", "")}' >"$folder"/tmp/tmp.csv
       cp "$folder"/tmp/tmp.csv "$folder"/../../docs/"$nome"/"$file".csv
     fi
