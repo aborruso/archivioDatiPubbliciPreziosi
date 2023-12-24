@@ -3355,6 +3355,7 @@ analisi-dipendenti-dellente-comune-di-cerea
 analisi-dipendenti-dellente-comune-di-chiuppano
 analisi-dipendenti-dellente-comune-di-cogollo-del-cengio
 analisi-dipendenti-dellente-comune-di-colle-umberto
+analisi-dipendenti-dellente-comune-di-concamarise
 analisi-dipendenti-dellente-comune-di-cordignano
 analisi-dipendenti-dellente-comune-di-costa-di-rovigo
 analisi-dipendenti-dellente-comune-di-creazzo
@@ -3463,6 +3464,7 @@ andamento-competenza-entrata-per-titoli-comune-di-codogne
 andamento-competenza-entrata-per-titoli-comune-di-cogollo-del-cengio
 andamento-competenza-entrata-per-titoli-comune-di-colle-umberto
 andamento-competenza-entrata-per-titoli-comune-di-colognola-ai-colli
+andamento-competenza-entrata-per-titoli-comune-di-concamarise
 andamento-competenza-entrata-per-titoli-comune-di-cordignano
 andamento-competenza-entrata-per-titoli-comune-di-costa-di-rovigo
 andamento-competenza-entrata-per-titoli-comune-di-creazzo
@@ -3528,6 +3530,7 @@ andamento-competenza-entrata-per-titoli-comune-di-saccolongo
 andamento-competenza-entrata-per-titoli-comune-di-salgareda
 andamento-competenza-entrata-per-titoli-comune-di-salizzole
 andamento-competenza-entrata-per-titoli-comune-di-san-pietro-di-morubio
+andamento-competenza-entrata-per-titoli-comune-di-saonara
 andamento-competenza-entrata-per-titoli-comune-di-selvazzano-dentro
 andamento-competenza-entrata-per-titoli-comune-di-soave-aggiornato-al-10-04-2022
 andamento-competenza-entrata-per-titoli-comune-di-sovizzo-aggiornato-al-31-03-2022
@@ -3592,6 +3595,7 @@ andamento-competenza-uscita-per-titoli-comune-di-codogne
 andamento-competenza-uscita-per-titoli-comune-di-cogollo-del-cengio
 andamento-competenza-uscita-per-titoli-comune-di-colle-umberto
 andamento-competenza-uscita-per-titoli-comune-di-colognola-ai-colli
+andamento-competenza-uscita-per-titoli-comune-di-concamarise
 andamento-competenza-uscita-per-titoli-comune-di-cordignano
 andamento-competenza-uscita-per-titoli-comune-di-costa-di-rovigo
 andamento-competenza-uscita-per-titoli-comune-di-creazzo
@@ -3657,6 +3661,7 @@ andamento-competenza-uscita-per-titoli-comune-di-saccolongo
 andamento-competenza-uscita-per-titoli-comune-di-salgareda
 andamento-competenza-uscita-per-titoli-comune-di-salizzole
 andamento-competenza-uscita-per-titoli-comune-di-san-pietro-di-morubio
+andamento-competenza-uscita-per-titoli-comune-di-saonara
 andamento-competenza-uscita-per-titoli-comune-di-selvazzano-dentro
 andamento-competenza-uscita-per-titoli-comune-di-soave-aggiornato-al-10-04-2022
 andamento-competenza-uscita-per-titoli-comune-di-sovizzo-aggiornato-al-31-03-2022
@@ -3736,6 +3741,7 @@ andamento-demografico-comune-di-codogne
 andamento-demografico-comune-di-cogollo-del-cengio
 andamento-demografico-comune-di-colle-umberto
 andamento-demografico-comune-di-colognola-ai-colli
+andamento-demografico-comune-di-concamarise
 andamento-demografico-comune-di-cordignano
 andamento-demografico-comune-di-costa-di-rovigo
 andamento-demografico-comune-di-crespadoro
@@ -3802,6 +3808,7 @@ andamento-demografico-comune-di-salgareda
 andamento-demografico-comune-di-salizzole
 andamento-demografico-comune-di-san-pietro-di-morubio
 andamento-demografico-comune-di-santurbano
+andamento-demografico-comune-di-saonara
 andamento-demografico-comune-di-sarcedo
 andamento-demografico-comune-di-selvazzano-dentro
 andamento-demografico-comune-di-soave-aggiornato-al-10-04-2022
@@ -3868,6 +3875,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-codogne
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cogollo-del-cengio
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-colle-umberto
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-colognola-ai-colli
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-concamarise
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cordignano
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-costa-di-rovigo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-creazzo
@@ -3932,6 +3940,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-salgareda
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-salizzole
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-pietro-di-morubio
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-santurbano
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-saonara
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-selvazzano-dentro
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-soave-aggiornato-al-10-04-2022
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-sovizzo-aggiornato-al-06-03-2022
@@ -5752,6 +5761,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-saccolongo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salgareda
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salizzole
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-santurbano
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-saonara
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sarcedo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-selvazzano-dentro
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sovizzo
@@ -6149,6 +6159,7 @@ atti-amministrativi-comune-di-codogne
 atti-amministrativi-comune-di-cogollo-del-cengio
 atti-amministrativi-comune-di-colle-umberto
 atti-amministrativi-comune-di-colognola-ai-colli
+atti-amministrativi-comune-di-concamarise
 atti-amministrativi-comune-di-cordignano
 atti-amministrativi-comune-di-costa-di-rovigo
 atti-amministrativi-comune-di-creazzo
@@ -6218,6 +6229,7 @@ atti-amministrativi-comune-di-salgareda
 atti-amministrativi-comune-di-salizzole
 atti-amministrativi-comune-di-san-pietro-di-morubio
 atti-amministrativi-comune-di-santurbano
+atti-amministrativi-comune-di-saonara
 atti-amministrativi-comune-di-sarcedo
 atti-amministrativi-comune-di-selvazzano-dentro
 atti-amministrativi-comune-di-soave-aggiornato-al-14-04-2022
@@ -14125,6 +14137,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-c
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cogollo-del-ceng
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-colle-umberto
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-colognola-ai-col
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-concamarise
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cordignano
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-costa-di-rovigo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-crespadoro
@@ -14191,6 +14204,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-s
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-salizzole
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-san-pietro-di-mo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-santurbano
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-saonara
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-sarcedo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-selvazzano-dentr
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-soave-ag-04-2022
@@ -20627,6 +20641,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cavaso-del-tom
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cerea
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-colle-umberto
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-concamarise
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cordignano
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-costa-di-rovig
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-creazzo
@@ -20709,6 +20724,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cer
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-chi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-col
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-con
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cor
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cos
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cre
@@ -20819,6 +20835,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale60
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale61
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale62
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale63
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale7
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale8
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale9
@@ -20902,6 +20919,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a60
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a61
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a62
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a63
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a9
@@ -20967,6 +20985,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e62
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e63
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e64
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e9
@@ -21042,6 +21061,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s62
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s63
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s64
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
@@ -21112,6 +21132,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu55
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu56
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu57
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu58
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu6
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu8
@@ -21151,6 +21172,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di24
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di25
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di26
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di27
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di3
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di4
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di5
@@ -21958,6 +21980,7 @@ costo-del-personale-comune-di-cavaso-del-tomba
 costo-del-personale-comune-di-cerea
 costo-del-personale-comune-di-cogollo-del-cengio
 costo-del-personale-comune-di-colle-umberto
+costo-del-personale-comune-di-concamarise
 costo-del-personale-comune-di-costa-di-rovigo
 costo-del-personale-comune-di-creazzo
 costo-del-personale-comune-di-crocetta-del-montello
@@ -24329,6 +24352,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-codogne
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cogollo-del-cengio
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-colle-umberto
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-colognola-ai-colli
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-concamarise
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cordignano
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-costa-di-rovigo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-creazzo
@@ -24393,6 +24417,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-salgareda
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-salizzole
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-pietro-di-morubio
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-santurbano
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-saonara
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-selvazzano-dentro
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-soave-aggiornato-al-10-04-2022
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-sovizzo-aggiornato-al-31-03-2022
@@ -24457,6 +24482,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-codogne
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cogollo-del-cengio
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-colle-umberto
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-colognola-ai-colli
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-concamarise
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cordignano
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-costa-di-rovigo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-creazzo
@@ -24521,6 +24547,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-salgareda
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-salizzole
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-pietro-di-morubio
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-santurbano
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-saonara
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-selvazzano-dentro
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-soave-aggiornato-al-10-04-2022
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-sovizzo-aggiornato-al-31-03-2022
@@ -25934,6 +25961,7 @@ elenco-attivita-produttive-comune-di-badia-polesine
 elenco-attivita-produttive-comune-di-brendola
 elenco-attivita-produttive-comune-di-casale-sul-sile
 elenco-attivita-produttive-comune-di-cogollo-del-cengio
+elenco-attivita-produttive-comune-di-concamarise
 elenco-attivita-produttive-comune-di-ferrara-di-monte-baldo
 elenco-attivita-produttive-comune-di-isola-vicentina
 elenco-attivita-produttive-comune-di-negrar-di-valpolicella
@@ -26056,6 +26084,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-codogne
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cogollo-del-cengio
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-colle-umberto
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-colognola-ai-colli
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-concamarise
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cordignano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-costa-di-rovigo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-crespadoro
@@ -26121,6 +26150,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-salgareda
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-salizzole
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-san-pietro-di-morubio
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-santurbano
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-saonara
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-sarcedo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-selvazzano-dentro
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-soave-aggiornato-al-10-04-2022
@@ -26414,6 +26444,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-salgareda
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-salizzole
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-san-pietro-di-morubio
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-santurbano
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-saonara
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-sarcedo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-selvazzano-dentro
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-soave
@@ -26542,6 +26573,7 @@ elenco-delle-pubblicazioni-comune-di-codogne
 elenco-delle-pubblicazioni-comune-di-cogollo-del-cengio
 elenco-delle-pubblicazioni-comune-di-colle-umberto
 elenco-delle-pubblicazioni-comune-di-colognola-ai-colli
+elenco-delle-pubblicazioni-comune-di-concamarise
 elenco-delle-pubblicazioni-comune-di-cordignano
 elenco-delle-pubblicazioni-comune-di-costa-di-rovigo
 elenco-delle-pubblicazioni-comune-di-creazzo
@@ -26599,6 +26631,7 @@ elenco-delle-pubblicazioni-comune-di-salgareda
 elenco-delle-pubblicazioni-comune-di-salizzole
 elenco-delle-pubblicazioni-comune-di-san-pietro-di-morubio
 elenco-delle-pubblicazioni-comune-di-santurbano
+elenco-delle-pubblicazioni-comune-di-saonara
 elenco-delle-pubblicazioni-comune-di-sarcedo
 elenco-delle-pubblicazioni-comune-di-selvazzano-dentro
 elenco-delle-pubblicazioni-comune-di-taglio-di-po
@@ -49207,6 +49240,7 @@ numeri-civici-comune-di-chiuppano
 numeri-civici-comune-di-cogollo-del-cengio
 numeri-civici-comune-di-colle-umberto
 numeri-civici-comune-di-colognola-ai-colli
+numeri-civici-comune-di-concamarise
 numeri-civici-comune-di-cordignano
 numeri-civici-comune-di-costa-di-rovigo
 numeri-civici-comune-di-crespadoro
@@ -49283,6 +49317,7 @@ numeri-civici-comune-di-san-tomaso-agordino
 numeri-civici-comune-di-san-vito-di-cadore
 numeri-civici-comune-di-santa-giustina
 numeri-civici-comune-di-santo-stefano-di-cadore
+numeri-civici-comune-di-saonara
 numeri-civici-comune-di-sappada
 numeri-civici-comune-di-sarcedo
 numeri-civici-comune-di-sedico
@@ -50672,6 +50707,7 @@ oneri-pratiche-edilizie-comune-di-rovere-veronese
 oneri-pratiche-edilizie-comune-di-saccolongo
 oneri-pratiche-edilizie-comune-di-salgareda
 oneri-pratiche-edilizie-comune-di-san-pietro-di-morubio
+oneri-pratiche-edilizie-comune-di-saonara
 oneri-pratiche-edilizie-comune-di-soave-aggiornato-al-10-04-2022
 oneri-pratiche-edilizie-comune-di-terrazzo
 oneri-pratiche-edilizie-comune-di-torreglia
@@ -55082,6 +55118,7 @@ posti-per-cimitero-comune-di-recoaro-terme
 posti-per-cimitero-comune-di-saccolongo
 posti-per-cimitero-comune-di-salizzole
 posti-per-cimitero-comune-di-san-pietro-di-morubio
+posti-per-cimitero-comune-di-saonara
 posti-per-cimitero-comune-di-sarcedo
 posti-per-cimitero-comune-di-selvazzano-dentro
 posti-per-cimitero-comune-di-soave-aggiornato-al-10-04-2022
@@ -55535,6 +55572,7 @@ pratiche-edilizie-richieste-comune-di-rovere-veronese
 pratiche-edilizie-richieste-comune-di-saccolongo
 pratiche-edilizie-richieste-comune-di-salgareda
 pratiche-edilizie-richieste-comune-di-san-pietro-di-morubio
+pratiche-edilizie-richieste-comune-di-saonara
 pratiche-edilizie-richieste-comune-di-soave-aggiornato-al-10-04-2022
 pratiche-edilizie-richieste-comune-di-terrazzo
 pratiche-edilizie-richieste-comune-di-torri-di-quartesolo
@@ -60802,6 +60840,7 @@ residui-finali-per-esercizio-comune-di-codogne
 residui-finali-per-esercizio-comune-di-cogollo-del-cengio
 residui-finali-per-esercizio-comune-di-colle-umberto
 residui-finali-per-esercizio-comune-di-colognola-ai-colli
+residui-finali-per-esercizio-comune-di-concamarise
 residui-finali-per-esercizio-comune-di-cordignano
 residui-finali-per-esercizio-comune-di-costa-di-rovigo
 residui-finali-per-esercizio-comune-di-creazzo
@@ -60867,6 +60906,7 @@ residui-finali-per-esercizio-comune-di-salgareda
 residui-finali-per-esercizio-comune-di-salizzole
 residui-finali-per-esercizio-comune-di-san-pietro-di-morubio
 residui-finali-per-esercizio-comune-di-santurbano
+residui-finali-per-esercizio-comune-di-saonara
 residui-finali-per-esercizio-comune-di-selvazzano-dentro
 residui-finali-per-esercizio-comune-di-soave-aggiornato-al-10-04-2022
 residui-finali-per-esercizio-comune-di-sovizzo-aggiornato-al-06-03-2022
@@ -64450,6 +64490,7 @@ servizi-cimiteriali-comune-di-recoaro-terme
 servizi-cimiteriali-comune-di-saccolongo
 servizi-cimiteriali-comune-di-salizzole
 servizi-cimiteriali-comune-di-san-pietro-di-morubio
+servizi-cimiteriali-comune-di-saonara
 servizi-cimiteriali-comune-di-sarcedo
 servizi-cimiteriali-comune-di-selvazzano-dentro
 servizi-cimiteriali-comune-di-soave-aggiornato-al-14-04-2022
@@ -67000,6 +67041,7 @@ stradario-comunale-comune-di-chiuppano
 stradario-comunale-comune-di-cogollo-del-cengio
 stradario-comunale-comune-di-colle-umberto
 stradario-comunale-comune-di-colognola-ai-colli
+stradario-comunale-comune-di-concamarise
 stradario-comunale-comune-di-cordignano
 stradario-comunale-comune-di-costa-di-rovigo
 stradario-comunale-comune-di-crespadoro
@@ -67054,6 +67096,7 @@ stradario-comunale-comune-di-saccolongo
 stradario-comunale-comune-di-salgareda
 stradario-comunale-comune-di-salizzole
 stradario-comunale-comune-di-san-pietro-di-morubio
+stradario-comunale-comune-di-saonara
 stradario-comunale-comune-di-sarcedo
 stradario-comunale-comune-di-selvazzano-dentro
 stradario-comunale-comune-di-terrazzo
