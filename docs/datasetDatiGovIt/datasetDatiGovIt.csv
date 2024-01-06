@@ -4535,7 +4535,6 @@ aree-a-potenziale-archeologico-punti
 aree-a-rischio-di-incendio-boschivo-anno-2015
 aree-a-rischio-idraulico-psai-adb-campania-sud-ex-interregionale-sele
 aree-a-rischio-incendi-boschivi
-aree-a-rischio-incendio
 aree-a-scolo-meccanico
 aree-a-valenza-ambientale
 aree-a-velocita-limitata
@@ -4789,7 +4788,6 @@ aree-pedonali2
 aree-pedonali3
 aree-pedonali4
 aree-per-la-cantieristica-ptrc-2020
-aree-percorse-da-fuoco-anno-2022
 aree-percorse-da-incendio-anno-2014-citta-metropolitana-di-firenze
 aree-percorse-da-incendio-citta-metropolitana-di-firenze
 aree-percorse-dal-fuoco
@@ -12361,6 +12359,7 @@ carta-tecnica-regionale-numerica-ctrn-1-10-000
 carta-tecnica-regionale-numerica-ctrn-1-5-000
 carta-tecnica-regionale-numerica-ctrn-aggiornamento
 carta-tecnica-regionale-numerica-ctrn-scala-1-10-000-in-formato-raster
+carta-tecnica-regionale-numerica-ctrn1
 carta-tecnica-regionale-numerica-edizione-2004-scala-1-25-000
 carta-tecnica-regionale-numerica-edizione-2005-scala-1-10-000
 carta-tecnica-regionale-numerica-edizione-2005-scala-1-5-000
@@ -31408,6 +31407,7 @@ impianti-con-a-i-a-statali-marzo-202111
 impianti-con-a-i-a-statali-marzo-20212
 impianti-con-a-i-a-statali-marzo-20217
 impianti-con-a-i-a-statali-marzo-20219
+impianti-da-fonti-rinnovabili-sul-territorio-regionale
 impianti-depurazione-2023
 impianti-destinazione-rifiuti-urbani-messina
 impianti-di-depurazione
@@ -33870,7 +33870,6 @@ istanze-idoneita-alloggiativa
 istanze-impianti-telecomunicazione-carburanti-ascensori-montacarichi
 istanze-laboratori
 istanze-manifestazioni
-istanze-per-autorizzazione-comunicazione-relative-ai-movimenti-terra-ex-l-r-45-2021
 istanze-per-autorizzazione-comunicazione-relative-ai-movimenti-terra-ex-l-r-45_2021
 istanze-per-autorizzazione-comunicazione-relative-ai-tagli-boschivi
 istanze-per-autorizzazione-comunicazione-relative-ai-tagli-boschivi-ex-l-r-45-2021
@@ -49190,9 +49189,11 @@ mutagenesi-ambientale9
 mv_cob_avvii_settore_y
 my-data
 mycotoxins-on-cereals
+n-incendi-gestiti-dal-contingente-regionale-aib-per-provincia
 n-medio-componenti
 n-medio-di-stanze-per-abitazione
 n-medio-stanze-per-abitante
+n-segnalazioni-potenziali-trasgressori-alle-autorita-competenti
 narni_europee_2014_affluenza
 narni_europee_2014_voti
 narni_trivellazioni_marine_2016_affluenza
@@ -50271,9 +50272,8 @@ numero-di-incidenti-stradali-per-tipologia-anni-2003-20151
 numero-di-interventi-di-spegnimento-incendi-attuati-dal-contingente-aib-regionale-a-terra
 numero-di-interventi-di-spegnimento-incendi-attuati-dal-contingente-aib-regionale-a-terra1
 numero-di-interventi-di-spegnimento-incendi-attuati-dal-contingente-aib-regionale-con-lausilio-
-numero-di-interventi-di-spegnimento-incendi-attuati-dal-contingente-aib-regionale-con-lausilio-1
-numero-di-interventi-di-spegnimento-incendi-attuati-dal-contingente-aib-regionale-con-lausilio-2
-numero-di-interventi-di-spegnimento-incendi-boschivi-attuati-dal-contingente-aib-regionale-a-te
+numero-di-interventi-di-spegnimento-incendi-attuati-dal-contingente-aib-regionale-con-lausilio-3
+numero-di-interventi-di-spegnimento-incendi-boschivi-attuati-dal-contingente-aib-regionale-a-te1
 numero-di-iscritti-alle-biblioteche-comunali-di-firenze-anni-2008-2014
 numero-di-iscritti-alle-biblioteche-comunali-di-firenze-anni-2008-20141
 numero-di-iscritti-alle-scuole-infanzia-statali-per-quartiere-anno-scolastico-2012-2013
@@ -50771,7 +50771,7 @@ numero-persone-nel-nucleo-e-importo-annuale-reddito-di-cittadinanza-diviso-per-a
 numero-persone-nel-nucleo-e-importo-annuale-reddito-di-cittadinanza-diviso-per-anno-diviso-2019
 numero-persone-nel-nucleo-e-importo-annuale-reddito-di-cittadinanza-diviso-per-anno-diviso-20191
 numero-persone-nel-nucleo-e-importo-annuale-reddito-di-cittadinanza-diviso-per-anno-diviso-20192
-numero-piani-di-gestione-forestale-pervenuti-nellanno-suddivisi-per-provincia
+numero-piani-di-gestione-forestale-pervenuti-nellanno-suddivisi-per-provincia1
 numero-piantine-forestali-prodotte-nei-vivai
 numero-popolazione-registrata-ai-censimenti-serie-storica-1871-2011
 numero-posizioni-lavorative-per-classe-dimensionale-e-regione-2013-2014
@@ -50792,7 +50792,7 @@ numero-prestazioni-ai-pensionati-extracomunitari-e-importo-medio-annuo-divisi-pe
 numero-prestazioni-ai-pensionati-extracomunitari-e-importo-medio-annuo-divisi-per-ann-2010-20161
 numero-prestazioni-assistenziali-al-31-dicembre-2012-per-tipologia-pensione-e-sesso
 numero-produzioni-doc-dop-igp-per-comune-ptrc-2020
-numero-progetti-presentati-dagli-enti-attuatori-in-attuazione-al-piano-attuativo-di-forest-2022
+numero-progetti-presentati-dagli-enti-attuatori-in-attuazione-al-piano-attuativo-di-forest-20221
 numero-rapporti-di-lavoro-dirigenti-ed-impiegati-nelle-aziende-agricole-divisi-per-an-2010-2016
 numero-rapporti-di-lavoro-nelle-aziende-agricole-attive-divisi-per-anno-e-categoria-d-2007-2016
 numero-rapporti-di-lavoro-nelle-aziende-agricole-attive-divisi-per-anno-regione-class-2010-2016
@@ -52903,6 +52903,7 @@ percorsi-escursionistici
 percorsi-istruzione-formazione-tecnica-superiore-ifts-esiti-annualita-2018
 percorsi-jogging
 percorsi-jogging1
+percorsi-linee-trasporto-pubblico
 percorsi-loges
 percorsi-mountain-bike-nel-veneto
 percorsi-naturali
@@ -52915,6 +52916,7 @@ percorsi-sci-freeride-nel-veneto
 percorsi-turistico-naturalistici-life-colli-berici-natura-2000-08-nat-it-362
 percorsi0
 percorsi00
+percorsi1
 percorsi_ciclo_pedonali
 percorsi_ciclo_pedonali_app
 percorsi_fondativi_50k
@@ -67091,6 +67093,7 @@ stato-avanzamento-piano-triennale-comune-di-villafranca-padovana
 stato-avanzamento-piano-triennale-comune-di-zenson-di-piave
 stato-avanzamento-piano-triennale-comune-di-zugliano
 stato-avanzamento-piano-triennale-sedilo
+stato-avanzamento-spesa-comuni-beneficiari-avviso-pubblico-per-il-sostegno-di-progetti-di-valor
 stato-chimico-corpi-idrici-fluviali-dlgs-152-06
 stato-chimico-delle-acque-marino-costiere-colonna-d-acqua
 stato-chimico-delle-acque-marino-costiere-sedimenti
@@ -67110,6 +67113,7 @@ stato-della-qualita-delle-acque-superficiali-stato-ecologico-fiumi
 stato-della-qualita-delle-acque-superficiali-stato-ecologico-laghi
 stato-di-attuazione-delle-classificazioni-acustiche-comunali
 stato-di-attuazione-piano-degli-interventi-ordinanza-capo-dipartimento-protezione-civi-289-2015
+stato-di-attuazione-piano-degli-interventi-ordinanza-capo-dipartimento-protezione-civi-330-2016
 stato-di-attuazione-piano-degli-interventi-ordinanza-capo-dipartimento-protezione-civi-545-2018
 stato-di-attuazione-piano-degli-interventi-pnrr
 stato-di-attuazione-piano-degli-interventi-urgenti-ordinanza-capo-dipartimento-protezi-558-2018
@@ -69536,6 +69540,8 @@ tossicodipendenti-in-carico-ai-sert-per-genere-anno-2013
 tossicodipendenti-in-carico-ai-sert-per-genere-anno-20131
 totale-arrivi-e-presenze-nel-comune-di-firenze-per-provenienza-anni-2004-2014
 totale-arrivi-e-presenze-nel-comune-di-firenze-per-provenienza-anni-2004-20141
+totale-atti-del-dipartimento-transizione-digitale-ed-attivita-strategiche-con-specifica-del-set
+totale-atti-del-dipartimento-transizione-digitale-ed-attivita-strategiche-per-settore-proponent
 totale-bambini-iscritti-ai-centri-estivi-suddivisi-per-annualita
 totale-bambini-iscritti-ai-centri-estivi-suddivisi-per-annualita1
 totale-cancellati-allanagrafe
