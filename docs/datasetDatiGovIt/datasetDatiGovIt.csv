@@ -851,6 +851,7 @@ id
 2022_voti_liste_elezioni_politiche_camera
 2022_voti_liste_elezioni_politiche_senato
 2022_voti_sindaci
+2023-contribuzione-e-interventi-afam
 20a04153-3146-4c32-9dce-42672d2e0922
 22196e24-83ef-4285-a1b0-11aadaedfee9
 22f7c514-2ee4-41f1-8eb9-026a2bfa8395
@@ -2439,9 +2440,12 @@ albo-regionale-delle-associazioni-e-societa-sportive-20171
 albo-regionale-delle-associazioni-e-societa-sportive-20175
 albo-regionale-delle-bande-musicali-e-dei-gruppi-corali-coreutici-e-teatrali-amatoriali
 albo-regionale-delle-concessioni-demaniali-marittime-per-finalita-turistico-ricreative
+albo-regionale-delle-cooperative-di-comunita-al-31-12-2023
 albo-regionale-delle-cooperative-sociali
+albo-regionale-delle-cooperative-sociali-al-31-12-2023
 albo-regionale-delle-cooperative-sociali1
 albo-regionale-delle-proloco
+albo-regionale-delle-proloco-2023
 alcune-organizzazioni-del-sistema-pubblico-trentino-test-odhb2018
 alcuni-esemplari-della-collezione-botanica-del-roseto-comunale
 alcuni-procedimenti-amministrativi-pat-test-odhb2018
@@ -7717,6 +7721,8 @@ biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2020
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2021
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2022
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2023
+biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2024
+biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-20241
 biblioteche-di-roma-dettaglio-completo-di-tutte-le-tessere-dei-lettori-delle-biblioteche-d-2018
 biblioteche-di-roma-dettaglio-completo-di-tutte-le-tessere-dei-lettori-delle-biblioteche-d-2019
 biblioteche-di-roma-dettaglio-completo-di-tutte-le-tessere-dei-lettori-delle-biblioteche-d-2020
@@ -7794,6 +7800,7 @@ biblioteche-di-roma-numero-di-utenti-muniti-di-goldcard-nel-2020
 biblioteche-di-roma-numero-di-utenti-muniti-di-goldcard-nel-2021
 biblioteche-di-roma-numero-di-utenti-muniti-di-goldcard-nel-2022
 biblioteche-di-roma-numero-di-utenti-muniti-di-goldcard-nel-2023
+biblioteche-di-roma-numero-di-utenti-muniti-di-goldcard-nel-2024
 biblioteche-di-roma-numero-di-utenti-muniti-di-goldcard-periodo-luglio-dicembre-2017
 biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2018
 biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2019
@@ -7801,6 +7808,7 @@ biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2020
 biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2021
 biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2022
 biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2023
+biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-nel-2024
 biblioteche-di-roma-numero-di-utenti-muniti-di-gratiscard-periodo-luglio-dicembre-2017
 biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2018
 biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2019
@@ -7808,6 +7816,7 @@ biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2020
 biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2021
 biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2022
 biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2023
+biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-nel-2024
 biblioteche-di-roma-numero-di-utenti-muniti-di-grayyoucard-periodo-luglio-dicembre-2017
 biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2018
 biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2019
@@ -7815,6 +7824,7 @@ biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2020
 biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2021
 biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2022
 biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2023
+biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-nel-2024
 biblioteche-di-roma-numero-di-utenti-muniti-di-passcard-periodo-luglio-dicembre-2017
 biblioteche-di-roma-numero-di-utenti-muniti-di-socialcard-nel-2018
 biblioteche-di-roma-numero-di-utenti-muniti-di-socialcard-nel-2019
@@ -7830,6 +7840,7 @@ biblioteche-di-roma-numero-di-utenti-muniti-di-youngcard-nel-2020
 biblioteche-di-roma-numero-di-utenti-muniti-di-youngcard-nel-2021
 biblioteche-di-roma-numero-di-utenti-muniti-di-youngcard-nel-2022
 biblioteche-di-roma-numero-di-utenti-muniti-di-youngcard-nel-2023
+biblioteche-di-roma-numero-di-utenti-muniti-di-youngcard-nel-2024
 biblioteche-di-roma-numero-di-utenti-muniti-di-youngcard-periodo-luglio-dicembre-2017
 biblioteche-di-roma-prestiti-prenotazioni-e-consultazione-di-materiale-digitale-anno-2018
 biblioteche-di-roma-prestiti-prenotazioni-e-consultazione-di-materiale-digitale-anno-2019
@@ -9029,6 +9040,7 @@ c_a739_dataset_chiese
 c_a739_dataset_concorsi_2019
 c_a739_dataset_concorsi_2022
 c_a739_dataset_concorsi_2023
+c_a739_dataset_concorsi_2024
 c_a739_dataset_delibere_2021
 c_a739_dataset_delibere_2022
 c_a739_dataset_determine_2021
@@ -9470,6 +9482,7 @@ c_c704_dataset_concorsi_2020
 c_c704_dataset_concorsi_2021
 c_c704_dataset_concorsi_2022
 c_c704_dataset_concorsi_2023
+c_c704_dataset_concorsi_2024
 c_c704_dataset_delibere
 c_c704_dataset_determine
 c_c704_dataset_edifici_pubblici
@@ -9672,6 +9685,7 @@ c_c886_dataset_concorsi_2020
 c_c886_dataset_concorsi_2021
 c_c886_dataset_concorsi_2022
 c_c886_dataset_concorsi_2023
+c_c886_dataset_concorsi_2024
 c_c886_dataset_delibere
 c_c886_dataset_determine
 c_c886_dataset_edifici_pubblici
@@ -11022,6 +11036,7 @@ c_g657_dataset_concorsi_2020
 c_g657_dataset_concorsi_2021
 c_g657_dataset_concorsi_2022
 c_g657_dataset_concorsi_2023
+c_g657_dataset_concorsi_2024
 c_g657_dataset_delibere
 c_g657_dataset_determine
 c_g657_dataset_edifici_pubblici
@@ -25924,6 +25939,7 @@ elenchi-incarichi-medici-convenzionati
 elenchi-incarichi-medici-nominati-in-rappresentanza-dalle-associazioni-di-categoria
 elenchi-organismi-di-formazione-accreditati
 elenco
+elenco-accompagnatori-turistici
 elenco-aderenti-euregiofamilypass
 elenco-affidamenti-beni-e-servizi-2014
 elenco-affidamenti-beni-e-servizi-2015
@@ -26911,6 +26927,8 @@ elenco-gestori-tpl-formato-gtfs1
 elenco-giudici-di-pace-regione-autonoma-trentino-alto-adige-sudtirol
 elenco-gruppo-di-raccolta-embrioni
 elenco-guardie-mediche
+elenco-guide-alpine-e-vulcanologiche
+elenco-guide-turistiche
 elenco-guide-turistiche-accompagnatori-turistici-e-guide-alpine-e-vulcanologiche
 elenco-hardware-dismesso-dalla-regione-basilicata
 elenco-hospice-accreditati
@@ -31015,6 +31033,7 @@ gettiti-da-recupero-di-evasione-fiscale-anno-2019
 gettiti-da-recupero-di-evasione-fiscale-anno-2020
 gettiti-da-recupero-di-evasione-fiscale-anno-2021
 gettiti-da-recupero-di-evasione-fiscale-anno-2022
+gettiti-da-recupero-di-evasione-fiscale-anno-2023
 gettito-ici-imu-2010-2014
 gettoni-2016
 gettoni-di-presenza-2011
@@ -32327,6 +32346,7 @@ incarichi-amministrativi-di-vertice-al-31-12-2019
 incarichi-amministrativi-di-vertice-al-31-12-2020
 incarichi-amministrativi-di-vertice-al-31-12-2021
 incarichi-amministrativi-di-vertice-al-31-12-2022
+incarichi-amministrativi-di-vertice-al-31-12-2023
 incarichi-amministrativi-dirigenziali-al-30-09-2023
 incarichi-autorizzati
 incarichi-conferiti
@@ -36546,6 +36566,7 @@ manuale-organizzativo-al-31-12-2019
 manuale-organizzativo-al-31-12-2020
 manuale-organizzativo-al-31-12-2021
 manuale-organizzativo-al-31-12-2022
+manuale-organizzativo-al-31-12-2023
 manuale-utente-open-data-sardegna1
 manufatti-stradali-nel-territorio-comunale-di-vicenza
 manufatto-d-infrastruttura-di-trasporto-man_tr-020205-aree
@@ -62403,7 +62424,6 @@ rendiconto-entrate-comune-di-villa-santina
 rendiconto-entrate-comuni-della-comunita-di-montagna-della-carnia
 rendiconto-entrate-comunita-collinare-del-friuli-di-colloredo-di-m-albano
 rendiconto-entrate-comunita-della-riviera-friulana
-rendiconto-entrate-comunita-di-montagna-del-gemonese
 rendiconto-entrate-gonars
 rendiconto-entrate-magnifica-comunita-di-montagna-dolomiti-friulane-cavallo-e-cansiglio
 rendiconto-finanziario-2016
@@ -67057,6 +67077,7 @@ sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-ca
 sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2021
 sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2022
 sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2023
+sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2024
 sessioni-di-accesso-al-servizio-wifi-pubblico-comune-di-cento
 sesto-censimento-generale-agricoltura-sardegna
 sesto-censimento-generale-agricoltura-sardegna2
