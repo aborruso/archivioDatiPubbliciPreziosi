@@ -3484,6 +3484,8 @@ andamento-competenza-entrata-per-titoli-comune-di-arsiero
 andamento-competenza-entrata-per-titoli-comune-di-badia-polesine
 andamento-competenza-entrata-per-titoli-comune-di-barbona
 andamento-competenza-entrata-per-titoli-comune-di-belfiore
+andamento-competenza-entrata-per-titoli-comune-di-bergantino
+andamento-competenza-entrata-per-titoli-comune-di-bevilacqua
 andamento-competenza-entrata-per-titoli-comune-di-bolzano-vicentino
 andamento-competenza-entrata-per-titoli-comune-di-borgo-veneto
 andamento-competenza-entrata-per-titoli-comune-di-borso-del-grappa
@@ -3580,6 +3582,7 @@ andamento-competenza-entrata-per-titoli-comune-di-saccolongo
 andamento-competenza-entrata-per-titoli-comune-di-salgareda
 andamento-competenza-entrata-per-titoli-comune-di-salizzole
 andamento-competenza-entrata-per-titoli-comune-di-san-pietro-di-morubio
+andamento-competenza-entrata-per-titoli-comune-di-sandrigo
 andamento-competenza-entrata-per-titoli-comune-di-saonara
 andamento-competenza-entrata-per-titoli-comune-di-selvazzano-dentro
 andamento-competenza-entrata-per-titoli-comune-di-soave-aggiornato-al-10-04-2022
@@ -3616,6 +3619,8 @@ andamento-competenza-uscita-per-titoli-comune-di-arsiero
 andamento-competenza-uscita-per-titoli-comune-di-badia-polesine
 andamento-competenza-uscita-per-titoli-comune-di-barbona
 andamento-competenza-uscita-per-titoli-comune-di-belfiore
+andamento-competenza-uscita-per-titoli-comune-di-bergantino
+andamento-competenza-uscita-per-titoli-comune-di-bevilacqua
 andamento-competenza-uscita-per-titoli-comune-di-bolzano-vicentino
 andamento-competenza-uscita-per-titoli-comune-di-borgo-veneto
 andamento-competenza-uscita-per-titoli-comune-di-borso-del-grappa
@@ -3712,6 +3717,7 @@ andamento-competenza-uscita-per-titoli-comune-di-saccolongo
 andamento-competenza-uscita-per-titoli-comune-di-salgareda
 andamento-competenza-uscita-per-titoli-comune-di-salizzole
 andamento-competenza-uscita-per-titoli-comune-di-san-pietro-di-morubio
+andamento-competenza-uscita-per-titoli-comune-di-sandrigo
 andamento-competenza-uscita-per-titoli-comune-di-saonara
 andamento-competenza-uscita-per-titoli-comune-di-selvazzano-dentro
 andamento-competenza-uscita-per-titoli-comune-di-soave-aggiornato-al-10-04-2022
@@ -3762,6 +3768,7 @@ andamento-demografico-comune-di-arsie
 andamento-demografico-comune-di-badia-polesine
 andamento-demografico-comune-di-barbona
 andamento-demografico-comune-di-belfiore
+andamento-demografico-comune-di-bergantino
 andamento-demografico-comune-di-bolzano-vicentino
 andamento-demografico-comune-di-borgo-veneto
 andamento-demografico-comune-di-borso-del-grappa
@@ -3860,6 +3867,7 @@ andamento-demografico-comune-di-saccolongo
 andamento-demografico-comune-di-salgareda
 andamento-demografico-comune-di-salizzole
 andamento-demografico-comune-di-san-pietro-di-morubio
+andamento-demografico-comune-di-sandrigo
 andamento-demografico-comune-di-santurbano
 andamento-demografico-comune-di-saonara
 andamento-demografico-comune-di-sarcedo
@@ -3899,6 +3907,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-arsiero
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-badia-polesine
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-barbona
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-belfiore
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-bergantino
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-bolzano-vicentino
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-borgo-veneto
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-borso-del-grappa
@@ -3993,6 +4002,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-saccolongo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-salgareda
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-salizzole
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-pietro-di-morubio
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-sandrigo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-santurbano
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-saonara
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-selvazzano-dentro
@@ -5739,6 +5749,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-arsie
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-arsiero
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-badia-polesine
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-belfiore
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-bevilacqua
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-bolzano-vicentino
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-borso-del-grappa
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-brendola
@@ -6132,6 +6143,7 @@ assunzioni_in_provincia_di_lucca_nel_2_trimestre_2014_per_sezioni_ateco
 aste-di-vendita-immobili-pubblici
 aste-di-vendita-immobili-pubblici-nel-comune-di-milano
 aste-principali-dei-corsi-d-acqua
+aste-stradali
 ata-supplenti-tipo-supplenza-genere-e-fascia-di-eta-scuola-statale
 ata-titolari-per-genere-e-fascia-di-eta-scuola-statale
 ataf
@@ -6193,6 +6205,7 @@ atti-amministrativi-comune-di-arsie
 atti-amministrativi-comune-di-arsiero
 atti-amministrativi-comune-di-badia-polesine
 atti-amministrativi-comune-di-belfiore
+atti-amministrativi-comune-di-bergantino
 atti-amministrativi-comune-di-bolzano-vicentino
 atti-amministrativi-comune-di-borgo-veneto
 atti-amministrativi-comune-di-borso-del-grappa
@@ -12075,6 +12088,7 @@ candidature-presentate-dagli-enti-localiit
 candidature-presentate-dai-beneficiari-del-programma-operativo-nazionale-diversi-dalle-istituzi
 cani-affidati-nel-corso-del-2019
 cani-residenti-in-veneto-per-comune-2012
+cannocchiali-visivi
 canoni-di-affitto-passivi
 canoni-di-locazione-attivi
 canoni-di-locazione-attivi-2022
@@ -12799,7 +12813,6 @@ catasto_incendi_anno2018_estrazione_del_20190522_134239_app
 catasto_pozzi_ptcp
 catasto_pozzi_ptcp_app
 catchments
-categorie-di-erogatori
 categorie-di-intervento-rione-sassi1
 categorie-dpcm-aggregazione1
 categorie-enti
@@ -13701,6 +13714,7 @@ civici0
 civici1
 civici2
 civici3
+civici4
 civici_cb
 civici_cp
 civici_cu
@@ -14205,6 +14219,8 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-a
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-arsiero
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-badia-polesine
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-belfiore
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-bergantino
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-bevilacqua
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-bolzano-vicentin
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-borgo-veneto
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-borso-del-grappa
@@ -20163,6 +20179,7 @@ conferimenti-di-rifiuto-eer-200301-rifiuti-urbani-non-differenziati3
 conferimento-dei-rifiuti-urbani-in-discarica
 conferma-della-dichiarazione-di-impegno-ce285a08
 confine-comunale
+confine-comunale1
 confine-del-centro-storico-puc
 confine-di-stato-lineare-di-competenza-della-regione-veneto
 confini-c80b1c1e
@@ -20967,6 +20984,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale62
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale63
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale64
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale65
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale7
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale8
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale9
@@ -21052,6 +21070,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a62
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a63
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a64
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a9
@@ -21119,6 +21138,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e64
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e66
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e67
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e9
@@ -21269,6 +21289,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu58
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu59
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu6
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu60
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu8
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu9
@@ -22104,6 +22125,7 @@ costo-del-personale-comune-di-anguillara-veneta
 costo-del-personale-comune-di-arsiero
 costo-del-personale-comune-di-badia-polesine
 costo-del-personale-comune-di-belfiore
+costo-del-personale-comune-di-bevilacqua
 costo-del-personale-comune-di-borgo-veneto
 costo-del-personale-comune-di-borso-del-grappa
 costo-del-personale-comune-di-brogliano
@@ -24395,6 +24417,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-arsiero
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-badia-polesine
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-barbona
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-belfiore
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-bevilacqua
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-bolzano-vicentino
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-borgo-veneto
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-borso-del-grappa
@@ -24489,6 +24512,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-saccolongo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-salgareda
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-salizzole
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-pietro-di-morubio
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-sandrigo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-santurbano
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-saonara
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-selvazzano-dentro
@@ -24526,6 +24550,8 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-arsiero
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-badia-polesine
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-barbona
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-belfiore
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-bergantino
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-bevilacqua
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-bolzano-vicentino
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-borgo-veneto
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-borso-del-grappa
@@ -25592,9 +25618,6 @@ dydas-energy-use-case-solar-panels-instance-segmentation
 dydas-mobility-use-case-person-reidentification
 dydas-mobility-use-case-potholes-and-cracks
 dydas-use-case-maritime-mediterranean-sea-forecast
-e-service-piu-richiesti-dallinizio-del-servizio
-e-service-piu-richiesti-ultimi-dodici-mesi
-e-service-piu-richiesti-ultimi-sei-mesi
 e-service-pubblicati
 e103_p_pup
 e104_p_pup
@@ -26134,6 +26157,8 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-arsie
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-arsiero
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-badia-polesine
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-belfiore
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-bergantino
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-bevilacqua
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-bolzano-vicentino
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-borgo-veneto
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-borso-del-grappa
@@ -26641,6 +26666,7 @@ elenco-delle-pubblicazioni-comune-di-anguillara-veneta
 elenco-delle-pubblicazioni-comune-di-arsie
 elenco-delle-pubblicazioni-comune-di-arsiero
 elenco-delle-pubblicazioni-comune-di-belfiore
+elenco-delle-pubblicazioni-comune-di-bergantino
 elenco-delle-pubblicazioni-comune-di-bolzano-vicentino
 elenco-delle-pubblicazioni-comune-di-borgo-veneto
 elenco-delle-pubblicazioni-comune-di-borso-del-grappa
@@ -26723,11 +26749,13 @@ elenco-delle-pubblicazioni-comune-di-quinto-di-treviso
 elenco-delle-pubblicazioni-comune-di-recoaro-terme
 elenco-delle-pubblicazioni-comune-di-roana
 elenco-delle-pubblicazioni-comune-di-rossano-veneto
+elenco-delle-pubblicazioni-comune-di-rotzo
 elenco-delle-pubblicazioni-comune-di-rovere-veronese
 elenco-delle-pubblicazioni-comune-di-saccolongo
 elenco-delle-pubblicazioni-comune-di-salgareda
 elenco-delle-pubblicazioni-comune-di-salizzole
 elenco-delle-pubblicazioni-comune-di-san-pietro-di-morubio
+elenco-delle-pubblicazioni-comune-di-sandrigo
 elenco-delle-pubblicazioni-comune-di-santurbano
 elenco-delle-pubblicazioni-comune-di-saonara
 elenco-delle-pubblicazioni-comune-di-sarcedo
@@ -29297,6 +29325,9 @@ erg5-dataset-meteo-orario-e-giornaliero-dal-20016
 erg5-dataset-meteo-orario-e-giornaliero-dal-20017
 erg5-dataset-meteo-orario-e-giornaliero-dal-20018
 erg5-dataset-meteo-orario-e-giornaliero-dal-20019
+erg5-eraclito
+erg5-eraclito-91
+erg5-interpolazione-su-griglia-di-dati-meteo
 erg5_eraclito-dataset-climatico-dal-1961
 erg5_eraclito-dataset-climatico-dal-19611
 erg5_eraclito-dataset-climatico-dal-196111
@@ -30310,6 +30341,7 @@ fiere-e-mercati-comune-di-noventa-padovana-aggiornato-al-02-02-2022
 fiere-e-mercati-comune-di-ponte-san-nicolo
 fiere-e-mercati-comune-di-povegliano-veronese-aggiornato-al-02-02-2022
 fiere-e-mercati-comune-di-rovere-veronese
+fiere-e-mercati-comune-di-sandrigo
 fiere-e-mercati-comune-di-soave-aggiornato-al-10-04-2022
 fiere-e-mercati-comune-di-torri-di-quartesolo
 fiere-internazionali-nazionali-e-regionali
@@ -33074,6 +33106,10 @@ indice-di-espulsione-per-lavoro
 indice-di-frammentazione-del-territorio
 indice-di-grande-difficolta-economica
 indice-di-grave-deprivazione-materiale
+indice-di-impermeabilita-wim
+indice-di-impermeabilita-wim-zone-pug
+indice-di-infiltrazione-acqua-piovana-irw
+indice-di-infiltrazione-acqua-piovana-irw-zone-pug
 indice-di-parita-di-genere-f-m-competenza-alfabetica-classi-ii-scuola-di-secondo-grado
 indice-di-parita-di-genere-f-m-competenza-alfabetica-classi-iii-scuola-di-primo-grado
 indice-di-parita-di-genere-f-m-competenza-numerica-classi-ii-scuola-di-secondo-grado
@@ -33082,6 +33118,8 @@ indice-di-parita-di-genere-f-m-comprensione-alla-lettura-reading-della-lingua-in
 indice-di-parita-di-genere-f-m-comprensione-allascolto-listening-della-lingua-inglese-classi-ii
 indice-di-pendolarismo
 indice-di-qualita-degli-esercizi-alberghieri
+indice-di-regolazione-climatica-clr
+indice-di-regolazione-climatica-clr-zone-pug
 indice-di-ricambio
 indice-di-ricambio-degli-iscritti-allapia
 indice-di-ricambio-della-popolazione-potenzialmente-attiva
@@ -33090,6 +33128,8 @@ indice-di-ricambio-della-popolazione-veneta-in-eta-attiva-1995-2017
 indice-di-ricambio1
 indice-di-rischio-di-poverta-relativa
 indice-di-ruscellamento-superficiale
+indice-di-ruscellamento-superficiale-roc
+indice-di-ruscellamento-superficiale-roc-zone-pug
 indice-di-salute-del-verde-comune-di-adria
 indice-di-salute-del-verde-comune-di-rovigo
 indice-di-salute-del-verde-comune-di-villadose
@@ -33100,6 +33140,7 @@ indice-di-sovraffollamento-degli-istituti-di-pena
 indice-di-sovraffollamento-degli-istituti-di-pena-femmine
 indice-di-sovraffollamento-degli-istituti-di-pena-maschi
 indice-di-stress-idrico-msi
+indice-di-stress-idrico-msi1
 indice-di-struttura
 indice-di-tempestivita-dei-pagamenti-2014
 indice-di-tempestivita-dei-pagamenti-2015
@@ -33170,6 +33211,7 @@ indice-di-vecchiaia-nei-paesi-delluevalore
 indice-di-vecchiaia1
 indice-di-vecchiaia2
 indice-ecologico-integrato-iev
+indice-ecologico-integrato-iev-zone-pug
 indice-gini
 indice-idrico-ndwi
 indice-ndvi-air-break
@@ -51404,6 +51446,8 @@ numeri-civici-comune-di-badia-polesine
 numeri-civici-comune-di-barbona
 numeri-civici-comune-di-belfiore
 numeri-civici-comune-di-belluno
+numeri-civici-comune-di-bergantino
+numeri-civici-comune-di-bevilacqua
 numeri-civici-comune-di-borca-di-cadore
 numeri-civici-comune-di-borso-del-grappa
 numeri-civici-comune-di-brendola
@@ -51510,6 +51554,7 @@ numeri-civici-comune-di-san-pietro-di-cadore
 numeri-civici-comune-di-san-pietro-di-morubio
 numeri-civici-comune-di-san-tomaso-agordino
 numeri-civici-comune-di-san-vito-di-cadore
+numeri-civici-comune-di-sandrigo
 numeri-civici-comune-di-santa-giustina
 numeri-civici-comune-di-santo-stefano-di-cadore
 numeri-civici-comune-di-saonara
@@ -54357,6 +54402,10 @@ pcm-dipartimento-della-protezione-civile
 pcm-open-coesione
 pcm-ukr
 pcs
+pdnd-categorie-di-erogatori
+pdnd-e-service-con-piu-enti-abilitati-inizio-del-servizio
+pdnd-e-service-piu-richiesti-ultimi-12-mesi
+pdnd-e-service-piu-richiesti-ultimi-6-mesi
 pec-attivate-da-regione-basilicata
 pedaso-edifici-comunali-ad-uso-pubblico
 pediatri-libera-scelta
@@ -57263,6 +57312,7 @@ posteggi-mercati-e-fiere-comune-di-noventa-padovana-aggiornato-al-31-03-2022
 posteggi-mercati-e-fiere-comune-di-ponte-san-nicolo
 posteggi-mercati-e-fiere-comune-di-povegliano-veronese-aggiornato-al-31-03-2022
 posteggi-mercati-e-fiere-comune-di-rovere-veronese
+posteggi-mercati-e-fiere-comune-di-sandrigo
 posteggi-mercati-e-fiere-comune-di-soave-aggiornato-al-10-04-2022
 posteggi-mercati-e-fiere-comune-di-torri-di-quartesolo
 posti-alloggio-per-studenti-universitari-del-lazio
@@ -57304,6 +57354,7 @@ posti-per-cimitero-comune-di-anguillara-veneta
 posti-per-cimitero-comune-di-arsiero
 posti-per-cimitero-comune-di-badia-polesine
 posti-per-cimitero-comune-di-belfiore
+posti-per-cimitero-comune-di-bergantino
 posti-per-cimitero-comune-di-caldiero
 posti-per-cimitero-comune-di-camisano-vicentino
 posti-per-cimitero-comune-di-campagna-lupia
@@ -58466,6 +58517,7 @@ prime-iscrizioni-veicoli-nuovi-nel-2022-autovetture-per-ente-territoriale-e-alim
 primi-10-nomi-femminili-dei-nati-suddivisi-per-circoscrizione-serie-storica-dal-2015
 primi-10-nomi-maschili-dei-nati-suddivisi-per-circoscrizione-serie-storica-dal-2015
 primi-accessi-agli-eventi-di-matera-2019
+primo-test
 principale-sistema-di-mobilita-livello-regionale
 principale-sito-archeologico-visitabile-ptrc-2020
 principali-ambiti-sciistici-funiviari-ambiti-ptrc-2020
@@ -63154,6 +63206,8 @@ residui-finali-per-esercizio-comune-di-arsiero
 residui-finali-per-esercizio-comune-di-badia-polesine
 residui-finali-per-esercizio-comune-di-barbona
 residui-finali-per-esercizio-comune-di-belfiore
+residui-finali-per-esercizio-comune-di-bergantino
+residui-finali-per-esercizio-comune-di-bevilacqua
 residui-finali-per-esercizio-comune-di-bolzano-vicentino
 residui-finali-per-esercizio-comune-di-borgo-veneto
 residui-finali-per-esercizio-comune-di-borso-del-grappa
@@ -66794,6 +66848,7 @@ servizi-cimiteriali-comune-di-anguillara-veneta
 servizi-cimiteriali-comune-di-arsiero
 servizi-cimiteriali-comune-di-badia-polesine
 servizi-cimiteriali-comune-di-belfiore
+servizi-cimiteriali-comune-di-bergantino
 servizi-cimiteriali-comune-di-caldiero
 servizi-cimiteriali-comune-di-camisano-vicentino
 servizi-cimiteriali-comune-di-campagna-lupia
@@ -69419,6 +69474,7 @@ stradario-comunale-comune-di-arsiero
 stradario-comunale-comune-di-badia-polesine
 stradario-comunale-comune-di-barbona
 stradario-comunale-comune-di-belfiore
+stradario-comunale-comune-di-bergantino
 stradario-comunale-comune-di-borso-del-grappa
 stradario-comunale-comune-di-brendola
 stradario-comunale-comune-di-brogliano
@@ -69552,6 +69608,7 @@ stradario-sitc4
 stradario-storico
 stradario-storico1
 stradario1
+stradario11
 stradario2
 stradario3
 stradario4
