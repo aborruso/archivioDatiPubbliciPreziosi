@@ -3769,6 +3769,7 @@ andamento-demografico-comune-di-badia-polesine
 andamento-demografico-comune-di-barbona
 andamento-demografico-comune-di-belfiore
 andamento-demografico-comune-di-bergantino
+andamento-demografico-comune-di-bevilacqua
 andamento-demografico-comune-di-bolzano-vicentino
 andamento-demografico-comune-di-borgo-veneto
 andamento-demografico-comune-di-borso-del-grappa
@@ -3862,6 +3863,7 @@ andamento-demografico-comune-di-recoaro-terme
 andamento-demografico-comune-di-rivoli-veronese
 andamento-demografico-comune-di-roana
 andamento-demografico-comune-di-rossano-veneto
+andamento-demografico-comune-di-rotzo
 andamento-demografico-comune-di-rovere-veronese
 andamento-demografico-comune-di-saccolongo
 andamento-demografico-comune-di-salgareda
@@ -3908,6 +3910,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-badia-polesine
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-barbona
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-belfiore
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-bergantino
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-bevilacqua
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-bolzano-vicentino
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-borgo-veneto
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-borso-del-grappa
@@ -5749,6 +5752,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-arsie
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-arsiero
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-badia-polesine
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-belfiore
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-bergantino
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-bevilacqua
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-bolzano-vicentino
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-borso-del-grappa
@@ -5828,6 +5832,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-rovere-veronese
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-saccolongo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salgareda
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salizzole
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sandrigo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-santurbano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-saonara
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sarcedo
@@ -6206,6 +6211,7 @@ atti-amministrativi-comune-di-arsiero
 atti-amministrativi-comune-di-badia-polesine
 atti-amministrativi-comune-di-belfiore
 atti-amministrativi-comune-di-bergantino
+atti-amministrativi-comune-di-bevilacqua
 atti-amministrativi-comune-di-bolzano-vicentino
 atti-amministrativi-comune-di-borgo-veneto
 atti-amministrativi-comune-di-borso-del-grappa
@@ -6301,11 +6307,13 @@ atti-amministrativi-comune-di-rivoli-veronese
 atti-amministrativi-comune-di-roana
 atti-amministrativi-comune-di-roncade-anni-2011-2021
 atti-amministrativi-comune-di-rossano-veneto
+atti-amministrativi-comune-di-rotzo
 atti-amministrativi-comune-di-rovere-veronese
 atti-amministrativi-comune-di-saccolongo
 atti-amministrativi-comune-di-salgareda
 atti-amministrativi-comune-di-salizzole
 atti-amministrativi-comune-di-san-pietro-di-morubio
+atti-amministrativi-comune-di-sandrigo
 atti-amministrativi-comune-di-santurbano
 atti-amministrativi-comune-di-saonara
 atti-amministrativi-comune-di-sarcedo
@@ -14311,11 +14319,13 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-r
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-rivoli-veronese
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-roana
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-rossano-veneto
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-rotzo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-rovere-veronese
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-saccolongo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-salgareda
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-salizzole
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-san-pietro-di-mo
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-sandrigo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-santurbano
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-saonara
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-sarcedo
@@ -20853,6 +20863,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-ars
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-bad
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-bel
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-bev
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-bor
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-bor1
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-bre
@@ -21216,6 +21227,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s64
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s66
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s67
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
@@ -21329,6 +21341,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di25
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di26
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di27
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di28
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di3
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di4
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di5
@@ -24417,6 +24430,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-arsiero
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-badia-polesine
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-barbona
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-belfiore
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-bergantino
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-bevilacqua
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-bolzano-vicentino
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-borgo-veneto
@@ -24646,6 +24660,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-saccolongo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-salgareda
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-salizzole
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-pietro-di-morubio
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-sandrigo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-santurbano
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-saonara
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-selvazzano-dentro
@@ -26068,6 +26083,7 @@ elenco-attivita-produttive-comune-di-nogara
 elenco-attivita-produttive-comune-di-nogarole-rocca
 elenco-attivita-produttive-comune-di-ponte-san-nicolo
 elenco-attivita-produttive-comune-di-rovere-veronese
+elenco-attivita-produttive-comune-di-sandrigo
 elenco-attivita-produttive-comune-di-torri-di-quartesolo
 elenco-attivita-storiche-e-di-tradizione-nel-comune-di-milano
 elenco-autorita-di-bacino-di-regione-lombardia-anno-2018-2019
@@ -26249,11 +26265,13 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-recoaro-terme
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-rivoli-veronese
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-roana
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-rossano-veneto
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-rotzo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-rovere-veronese
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-saccolongo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-salgareda
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-salizzole
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-san-pietro-di-morubio
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-sandrigo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-santurbano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-saonara
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-sarcedo
@@ -26667,6 +26685,7 @@ elenco-delle-pubblicazioni-comune-di-arsie
 elenco-delle-pubblicazioni-comune-di-arsiero
 elenco-delle-pubblicazioni-comune-di-belfiore
 elenco-delle-pubblicazioni-comune-di-bergantino
+elenco-delle-pubblicazioni-comune-di-bevilacqua
 elenco-delle-pubblicazioni-comune-di-bolzano-vicentino
 elenco-delle-pubblicazioni-comune-di-borgo-veneto
 elenco-delle-pubblicazioni-comune-di-borso-del-grappa
@@ -57401,6 +57420,7 @@ posti-per-cimitero-comune-di-recoaro-terme
 posti-per-cimitero-comune-di-saccolongo
 posti-per-cimitero-comune-di-salizzole
 posti-per-cimitero-comune-di-san-pietro-di-morubio
+posti-per-cimitero-comune-di-sandrigo
 posti-per-cimitero-comune-di-saonara
 posti-per-cimitero-comune-di-sarcedo
 posti-per-cimitero-comune-di-selvazzano-dentro
@@ -63303,6 +63323,7 @@ residui-finali-per-esercizio-comune-di-saccolongo
 residui-finali-per-esercizio-comune-di-salgareda
 residui-finali-per-esercizio-comune-di-salizzole
 residui-finali-per-esercizio-comune-di-san-pietro-di-morubio
+residui-finali-per-esercizio-comune-di-sandrigo
 residui-finali-per-esercizio-comune-di-santurbano
 residui-finali-per-esercizio-comune-di-saonara
 residui-finali-per-esercizio-comune-di-selvazzano-dentro
@@ -66894,6 +66915,7 @@ servizi-cimiteriali-comune-di-recoaro-terme
 servizi-cimiteriali-comune-di-saccolongo
 servizi-cimiteriali-comune-di-salizzole
 servizi-cimiteriali-comune-di-san-pietro-di-morubio
+servizi-cimiteriali-comune-di-sandrigo
 servizi-cimiteriali-comune-di-saonara
 servizi-cimiteriali-comune-di-sarcedo
 servizi-cimiteriali-comune-di-selvazzano-dentro
@@ -67519,6 +67541,7 @@ servizio-iscrizione-scuola-infanzia-tipo-di-difficolta1
 servizio-istruzione
 servizio-mensa-scolastica-bondeno
 servizio-mensa-scolastica-comune-di-arsiero
+servizio-mensa-scolastica-comune-di-bergantino
 servizio-mensa-scolastica-comune-di-castel-dazzano-aggiornato-al-12-04-2022
 servizio-mensa-scolastica-comune-di-cordignano
 servizio-mensa-scolastica-comune-di-crespadoro
@@ -69475,6 +69498,7 @@ stradario-comunale-comune-di-badia-polesine
 stradario-comunale-comune-di-barbona
 stradario-comunale-comune-di-belfiore
 stradario-comunale-comune-di-bergantino
+stradario-comunale-comune-di-bevilacqua
 stradario-comunale-comune-di-borso-del-grappa
 stradario-comunale-comune-di-brendola
 stradario-comunale-comune-di-brogliano
@@ -69555,6 +69579,7 @@ stradario-comunale-comune-di-saccolongo
 stradario-comunale-comune-di-salgareda
 stradario-comunale-comune-di-salizzole
 stradario-comunale-comune-di-san-pietro-di-morubio
+stradario-comunale-comune-di-sandrigo
 stradario-comunale-comune-di-saonara
 stradario-comunale-comune-di-sarcedo
 stradario-comunale-comune-di-selvazzano-dentro
