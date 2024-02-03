@@ -4530,6 +4530,7 @@ area-di-tutela-biologica-delle-acque-marino-costiere3
 area-di-tutela-biologica-delle-acque-marino-costiere7
 area-di-tutela-biologica-delle-acque-marino-costiere9
 area-drenata
+area-edificato-continuo
 area-estrattiva-cv_aes-100302
 area-golenale
 area-in-trasformazione-o-non-strutturata-a_tras-050304
@@ -4638,12 +4639,14 @@ aree-cani1
 aree-cani2
 aree-cantiere
 aree-cantiere1
+aree-carsiche
 aree-con-acque-nel-sottosuolo-non-inquinate
 aree-con-diminuzione-di-biomassa-vegetale-dal-2016-al-2019
 aree-con-fenomeni-carsici
 aree-con-presenza-naturale-di-amianto-pietre-verdi-categoria-3-d-m-ambiente-n-101-del-18-m-2003
 aree-con-terreni-non-inquinati
 aree-contese
+aree-critiche-della-rete-ecologica-comunale
 aree-critiche-riscontrate-per-meteo-avverso-maggio-2023
 aree-degradate
 aree-del-demanio-statale-anno-2014
@@ -4677,6 +4680,7 @@ aree-di-balneazione-classificazioni
 aree-di-balneazione-controlli-e-superamenti-dei-limiti
 aree-di-balneazione1
 aree-di-bonifica-a-scolo-meccanico
+aree-di-bonifica-idraulica
 aree-di-cava
 aree-di-cava-colmate-comune-di-milano-dataset
 aree-di-cava-puntuale
@@ -4768,6 +4772,7 @@ aree-di-ricovero-protezione-civile-nel-comune-di-bassano-del-grappa
 aree-di-ricovero-protezione-civile-nel-comune-di-cartigliano
 aree-di-rilevamento
 aree-di-rispetto-delle-stazioni-sismometriche
+aree-di-rispetto-militare
 aree-di-salvaguardia-dei-pozzi-per-le-acque-minerali-areale
 aree-di-schianto-censite-da-arpav
 aree-di-schianto-censite-da-arpav1
@@ -7428,6 +7433,7 @@ barriere-artificiali-sommerse-di-ripopolamento-ittico7
 barriere-artificiali-sommerse-di-ripopolamento-ittico71
 barriere-artificiali-sommerse-di-ripopolamento-ittico8
 barriere-artificiali-sommerse-di-ripopolamento-ittico9
+barriere-della-rete-ecologica-comunale
 barriere-firenze-ovest-transiti
 barriere-firenze-ovest-transiti1
 base-dellacquifero-a2
@@ -12865,6 +12871,7 @@ cave-dismesse
 cave-dismesse-e-areali-di-cava-non-disciplinati-dal-piano-territoriale-delle-attivita-549-2022
 cave-dismesse1
 cave-dismesse2
+cave-e-giacimenti
 cave-e-miniere-2005
 cave-e-miniere-2006
 cave-e-miniere-2007
@@ -12881,6 +12888,7 @@ cave-e-torbiere-aree1
 cave-e-torbiere-punti1
 cave-estinte
 cave-in-parco-naturale-variante-pup-2000
+cave-inattive
 cave-perimetri-autorizzati
 cavita-sotterranee-artificiali-dataset
 cbe09dac-090d-42cb-8d4e-dd0220a64e30
@@ -13185,10 +13193,12 @@ centralina-monitoraggio-progetto-toolsmart-scuola-primaria-tempesta
 centraline-qualita-dellaria-misurazioni-giornaliere
 centraline-qualita-dellaria-storico-dal-20171
 centri-abitati
+centri-abitati-ai-sensi-degli-strumenti-pre-vigenti
 centri-abitati-ai-sensi-del-codice-della-strada
 centri-abitati-ex-codice-strada
 centri-abitati-presenti-nel-territorio-escluso-il-centro-principale
 centri-abitati1
+centri-abitati2
 centri-adozioni-della-regione-toscana-valori-assoluti-anni-2008-2012
 centri-all-in-della-regione-sardegna
 centri-antiviolenza
@@ -13442,6 +13452,7 @@ chiese-e-altri-luoghi-di-culto
 chiese-monasteri-e-conventi-di-lecce
 chiese-open-data
 chirurgia-robotica-distribuzione-tecnologie-dei-sistemi-robotizzati-per-la-chirurgia-endoscopic
+ciclabili
 ciclabili-e-ciclovie-del-veneto
 cicloparcheggi-comune-di-chieri
 cicloposteggi-bike-sharing
@@ -21682,6 +21693,7 @@ copertura-wireless-antea
 copertura-wireless-bb44
 copertura-wireless-ngi
 coperture-ctr-sui-comuni-fvg
+copianificazione
 core-zone-dolomiti-unesco
 corine-land-cover-1990-dataset
 corine-land-cover-2000-dataset
@@ -21964,6 +21976,7 @@ corpopm2015
 corpopm2016
 corpopm2017
 correlation-between-forage-availability-in-pastures-and-climate
+corridoi-ecologici-della-rete-ecologica-comunale
 corridoi-ecologici-lineari-della-rete-dei-boschi-citta-metropolitana-di-firenze
 corridoi-ecologici-lineari-della-rete-delle-aree-aperte-citta-metropolitana-di-firenze
 corridoi-ecologici-lineari-della-rete-delle-aree-aperte-citta-metropolitana-di-firenze1
@@ -23073,6 +23086,16 @@ dati-statistici-dell-attivita-consiliare-2015
 dati-statistici-dell-attivita-consiliare-2016
 dati-statistici-dell-attivita-consiliare-2017
 dati-statistici-dell-attivita-consiliare-2018
+dati-statistici-sinistri-stradali-anno-2013
+dati-statistici-sinistri-stradali-anno-2014
+dati-statistici-sinistri-stradali-anno-2015
+dati-statistici-sinistri-stradali-anno-2016
+dati-statistici-sinistri-stradali-anno-2017
+dati-statistici-sinistri-stradali-anno-2018
+dati-statistici-sinistri-stradali-anno-2019
+dati-statistici-sinistri-stradali-anno-2020
+dati-statistici-sinistri-stradali-anno-2021
+dati-statistici-sinistri-stradali-anno-2022
 dati-stime-comunali
 dati-stime-comunali-2011-2016
 dati-stime-comunali-2017
@@ -25034,6 +25057,8 @@ discarica-per-rifiuti-non-pericolosi-d1-dinp
 discarica-per-rifiuti-pericolosi-d1-dip
 discariche-autorizzate
 discariche-in-attivita-anno-2018
+disciplina-del-territorio
+disciplina-del-territorio-urbanizzato-e-rurale
 disciplina-di-tutela-per-aree-a-pericolosita-idraulica-e-geomorfologica-da-frana-sui-b-428-2021
 disciplinari-codici
 disciplinari-del-comune-di-ala
@@ -25738,6 +25763,7 @@ edificato-131
 edificato-1311
 edificato-del-comune-di-vaiano
 edificato-prato
+edificato-storico
 edificato1
 edificato10
 edificato11
@@ -25768,6 +25794,7 @@ edifici-e-aree-in-degrado
 edifici-e-complessi-di-valore-monumentale-testimoniale
 edifici-e-fabbricati-con-altezze-e-materiali-copertura
 edifici-e-manufatti-c-t-r-sc-1-5000-2007-2013-ii-edizione-3d-db-topografico
+edifici-invariante-iii-pit-ppr
 edifici-istituti-scolastici-cmna
 edifici-istituti-scolastici-cmna4
 edifici-nel-territorio-comunale-di-vicenza
@@ -25894,6 +25921,7 @@ elementi-chimico-fisici-di-base-fiumi
 elementi-chimico-fisici-di-base-fiumi1
 elementi-del-patrimonio-insediativo-storico-sparso
 elementi-della-retedi-trasporto
+elementi-della-struttura-insediativa
 elementi-di-sintesi-delle-attivita-svolte-dalla-direzione-urbanistica-2013-2015
 elementi-di-sintesi-delle-attivita-svolte-dalla-direzione-urbanistica-anno-2018
 elementi-emergenti-del-centro-storico-individuati-dal-p-e-b-a
@@ -25903,6 +25931,9 @@ elementi-geomorfologici-ed-antropici-lineari
 elementi-geomorfologici-lineari
 elementi-individuati-dal-p-e-b-a-con-indicazione-del-accessibilita-motoria-e-sensoriale
 elementi-lineari
+elementi-lineari-di-connessione-ecologica-alla-scala-locale
+elementi-puntuali-della-rete-ecologica-comunale-st_02
+elementi-puntuali-di-connessione-ecologica-alla-scala-locale
 elementi-strutturali
 elementi-territoriali-di-riferimento-ambito-regionale-ptrc-2020
 elementi-territoriali-di-riferimento-area-montana-ptrc-2020
@@ -28974,6 +29005,8 @@ emergenza-covid19-regione-calabria
 emergenza-peste-suina-africana-psa-regolamento-esecutivo-eu-594-2023
 emergenze-geologiche-e-geomorfologiche-1-10000-art-64-punto-h-delle-nta-del-ppar
 emergenze-naturalistiche-e-geomorfologiche
+emergenze-riconosciute-dagli-strumenti-di-tutela-poligoni
+emergenze-riconosciute-dagli-strumenti-di-tutela-punti
 emigrati-annuali-di-cittadinanza-straniera
 emigrati-dal-comune-di-treviso-divisi-per-quartiere-anno-2018
 emigrati-per-quartiere-anno-2019-comune-di-treviso
@@ -29359,6 +29392,7 @@ erg5_eraclito_91-dataset-climatico-dal-19918
 erg5_eraclito_91-dataset-climatico-dal-19919
 erogazioni-economiche-servizi-sociali-comune-di-mondolfo
 erogazioni-economiche-servizi-sociali-comune-di-mondolfo-divisi-per-fornitore
+erosione-costiera
 erosione-dello-spazio-rurale-da-abbandono
 erp
 erwerbstatige-und-arbeitsuchende
@@ -30172,6 +30206,11 @@ fasce-di-eta-in-ordine-di-stato-civile-comune-di-villadose-aggiornamento-al-31-1
 fasce-di-eta-in-ordine-di-stato-civile-comune-di-villadose-aggiornamento-al-31-12-2020
 fasce-di-interconnessione-sistema-storico-ambientale
 fasce-di-rispetto
+fasce-di-rispetto-cimiteriali
+fasce-di-rispetto-degli-impianti-rischio-incidente-rilevante
+fasce-di-rispetto-ferroviarie
+fasce-di-rispetto-strade-classificazione-b
+fasce-di-rispetto-strade-classificazione-c
 fasce-fluviali-psai-adb-campania-sud-ex-destra-sele
 fasce-fluviali-psai-adb-campania-sud-ex-sinistra-sele
 fasce-pertinenza-acustica
@@ -30189,10 +30228,12 @@ fascia-della-profondita-di-300-m-dalla-linea-di-battigia
 fascia-delle-risorgive-ptrc-2020
 fascia-di-prossimita-edifici-1-e-2-elenco-ex-l-59-80
 fascia-di-ricarica-degli-acquiferi
+fascia-di-rispetto-dagli-impianti-di-discarica
 fascia-di-rispetto-degli-impianti-comune-di-matera1
 fascia-di-rispetto-dei-3000-m
 fascia-di-rispetto-dei-3000-m1
 fascia-di-rispetto-dei-3000-m2
+fascia-di-rispetto-dei-depuratori
 fascia-di-rispetto-stradale-dentro-centro-abitato
 fascia-eta-per-gravita-2019-lecce
 fascia-rispetto-cimiteriale
@@ -30907,6 +30948,10 @@ georadar
 georeferenziazione-strutture
 georisorse-lapidee
 geositi
+geositi-di-interesse-locale-poligonale
+geositi-di-interesse-locali-puntuali
+geositi-di-interesse-regionale-poligonale
+geositi-pit-ppr-puntuali
 geositi1
 geositi2
 geositi_poligonali
@@ -31419,6 +31464,7 @@ guilcier-punti-di-interesse
 guilcier-punti-di-interesse1
 gw_zodias
 gw_zodias_app
+habitat-di-interesse-comunitario-indicati-come-elementi-puntuali
 habitat-natura-2000
 habitat-natura-20001
 habitat-siti-rete-natura-2000
@@ -33415,6 +33461,7 @@ infortuni-mortali-sul-lavoro-eventi-assicurati-denunciati-all39inail-per-regione
 infortuni-strumenti
 infortuni-sul-lavoro-denunciati-all39inail-per-regione-dell39evento-e-sesso-e-cittadi-2008-2012
 infortuni-tabelle-di-decodifica
+infrastruttura-viaria
 infrastrutture-1-1000
 infrastrutture-1-5000
 infrastrutture-ciclabili
@@ -33822,6 +33869,7 @@ intrattenimento-nel-comune-di-firenze-numero-di-presenze-gratuite-2006-2012
 introduzione-a-qgis
 introiti-dei-musei-dellamministrazione-comunale-valori-espressi-in-e
 introiti-dei-musei-dellamministrazione-comunale-valori-espressi-in-e-anno-2010
+intrusione-salina
 invariante_territoriale_ferrovia_dismessa_arezzo_fossato_app
 invarianti-di-natura-agricolo-produttiva-aree
 invarianti-di-natura-ambientale-aree
@@ -33835,6 +33883,7 @@ invarianti-di-natura-storico-munumentale-punti
 invarianti-strutturali
 invarianti-strutturali1
 invarianti_strutturali
+invasi-e-laghi
 invaso-artificiale-invaso-040103-aree
 invaso-artificiale-invaso-040103-linee
 inventari-archivistorici-schede-descrittive-di-livello-alto
@@ -50456,6 +50505,7 @@ molise-progetti-con-tracciato-ciclo-esteso-del-2014-2020
 molise-progetti-con-tracciato-esteso-ciclo-2007-2013-e-ciclo-2014-2020
 molluschi-bivalvi-venericoltura-e-mitilicoltura
 molluschi-bivalvi-venericoltura-e-mitilicoltura-aree-di-divieto-di-raccolta-di-molluschi-bivalv
+molluschi-bivalvi-venericoltura-e-mitilicoltura-concessioni_2023
 molo-guardiano
 molto-soddisfatti-per-le-relazioni-amicali
 molto-soddisfatti-per-le-relazioni-amicali-femmine
@@ -50604,7 +50654,9 @@ monumenti2
 moransengo
 moransengo-bilanci
 moresco-edifici-comunali-ad-uso-pubblico
+morfologie-del-limite-del-territorio-urbanizzato
 morfotipi
+morfotipi-genetici
 morfotipi_elementi_strutturali_avv
 morfotipi_rurali
 morosita-incolpevole-anno-2018_2019
@@ -51536,6 +51588,7 @@ nodi-di-accelerazione-sismica-per-la-regione-del-veneto
 nodi-di-teleriscaldamento
 nodi-e-parametri-dellazione-sismica-d-m-14-1-2008
 nodi-idraulici
+nodi-infrastrutturali
 nodi-pubblici-della-rete-delle-nano-tecnologie-ptrc-2020
 nodi-smistamento-ordini
 nodi-stradali
@@ -56123,6 +56176,7 @@ poli-urbani-locali-di-quinto-rango
 poli-urbani-locali-di-terzo-rango
 poligonazione-degli-elementi-cartografici-delle-zone-vulnerabili-da-prodotti-fitosanitari
 poligoni-di-oggetti-territoriali-che-producono-vincolo-o-fascia-di-rispetto
+poligoni-tavole-qc-e-st-componenti-ecosistemiche-e-agroforestali
 poligono-del-perimetro-del-centro-storico-vigente
 polimi
 polimi-catalogo-corsi-di-laurea
@@ -57865,6 +57919,7 @@ potenza-installata-produzione-comunale2
 potenza-installata-produzione-comunale7
 potenza-media-per-impianto-delle-installazioni-fotovoltaiche-serie-storica
 potenza-totale-dei-pannelli-solari-fotovoltaici-per-1000-abitanti-serie-storica
+potenziale-archeologico
 potenziali-aree-di-collegamento-lineare-della-rete-dei-corsi-dacqua-citta-metropolitana-di-fire
 potenziali-aree-di-collegamento-lineare-della-rete-dei-corsi-dacqua-citta-metropolitana-di-fire1
 potenzialita-connettive-ptrc-2020
@@ -57875,6 +57930,7 @@ pozzi
 pozzi-acque-minerali-e-termali-puntuale
 pozzi-acque-pubbliche
 pozzi-acquedotto
+pozzi-e-sorgenti-vincoli-geomorfologici-e-idraulici
 pozzi-geotermici
 pozzi-geotermici-pul
 pozzi-per-la-ricerca-di-acque-minerali-e-termali
@@ -59274,6 +59330,7 @@ profondita-m-tetto-falda-h-basso
 profondita-m-tetto-falda-i
 profondita-m-tetto-falda-l
 progetti-cantieri-di-cittadinanza
+progetti-citta-30
 progetti-con-tracciato-esteso-ciclo-2007-2013-e-ciclo-2014-2020
 progetti-con-tracciato-esteso-del-ciclo-2007-2013
 progetti-con-tracciato-esteso-del-ciclo-2014-2020
@@ -62904,6 +62961,7 @@ registro_pratiche_edilizie_n_7
 registro_pratiche_edilizie_n_8
 registro_pratiche_edilizie_n_9
 registry-of-authorized-projectsen
+regolamentazione-del-traffico-marittimo-schema-di-separazione-del-traffico-e-aree-regol-32-2022
 regolamenti-del-comun-general-de-fascia
 regolamenti-del-comune-di-ala
 regolamenti-del-comune-di-albiano
@@ -65734,6 +65792,7 @@ ripresa-aerea-ice-2009-2011-mappa-delle-esposizioni
 ripresa-aerea-ice-2009-2011-mappa-delle-pendenze
 ripresa-aerea-ice-2009-2011-rilievo-ombreggiato
 riprese-aeree-7cm-e-18cm-monitoraggio-territorio-agricolo
+rischio-archeologico
 rischio-chimico-industriale
 rischio-da-colata-psai-adb-campania-sud-ex-destra-sele
 rischio-da-fenomeni-valanghivi-aree-di-potenziale-distacco-delle-valanghe-pra-potential-release
@@ -65815,6 +65874,7 @@ risoluzioni-anno-2024
 risoluzioni-vecchia-versione
 risoluzioni-vecchia-versione-fino-al-22-9-2014
 risorgive
+risorsa-idrotermale
 risorse-create-mensilmente-sul-portale-opendata
 risorse-digitali-del-patrimonio-culturale-andalas-de-cultura
 risorse-disponibili-oo-pp-triennio-2017-2019
@@ -68327,6 +68387,7 @@ sinistri-stradali-rilevati-dalla-polizia-municipale-di-palermo-anno-2018
 sinistri-stradali-rilevati-nel-territorio-comunale-di-palermo-nellanno-2016-dalla-polizia-munic
 sinistri-stradali-rilevati-nel-territorio-comunale-di-palermo-nellanno-2017-dalla-polizia-munic
 sinkhole
+sinkhole1
 sinkholes-dataset
 sintesi_vegetazionale
 sintesi_vegetazionale_app
@@ -68402,6 +68463,7 @@ sistema-delle-aree-agricole-pup
 sistema-di-allertamento
 sistema-di-allertamento-fiumi-per-i-quali-viene-definita-la-criticita-idraulica
 sistema-di-allertamento-tratti-fluviali-dei-corsi-dacqua-maggiori-oggetto-di-monitoraggio-in-co
+sistema-dunale
 sistema-economico-locale-area-fiorentina-quadrante-centrale
 sistema-economico-locale-area-fiorentina-quadrante-centrale-conto-risorse-e-impieghi-milioni-di
 sistema-economico-locale-area-fiorentina-quadrante-centrale-conto-risorse-e-impieghi-milioni-di1
@@ -68431,6 +68493,8 @@ sistema-informativo-territoriale-municipi-del-comune-di-bari1
 sistema-informativo-territoriale-particelle-catastali-di-proprieta-comunale
 sistema-informativo-territoriale-particelle-catastali-di-proprieta-comunale1
 sistema-informativo-verde-pubblico-alberature-censite-al-28-02-2022
+sistema-infrastrutturale-carrabile-grande-scala
+sistema-infrastrutturale-ferroviario
 sistema-insediativo-e-reti-infrastrutturali-pup
 sistema-integrato-di-trattamento-e-smaltimento-rsu-di-torretta-del-comune-di-legnago-anno-2015
 sistema-metropolitano-regionale-rete-di-citta-ptrc-2020
@@ -68505,6 +68569,7 @@ siti-archeologici-ptrc-2020
 siti-archeologici-si-a-rappresentazione-areale
 siti-archeologici-si-a-rappresentazione-lineare
 siti-archeologici-si-a-rappresentazione-puntiforme
+siti-archeologici1
 siti-con-procedimento-di-bonifica-in-corso-art-51-d-lgs-152-06
 siti-contaminati-censiti-2003-2019
 siti-contaminati-con-iter-di-bonifica-concluso-2003-2019
@@ -68528,10 +68593,12 @@ siti-di-interesse-comunitario-sic-2013
 siti-di-interesse-nazionale-sin
 siti-di-interesse-regionale
 siti-di-monitoraggio-pta-2022
+siti-di-probabile-reperimento-materiale-ornamentale-storico
 siti-dimostrativi-del-progetto-life-aquor-life10-env-000380
 siti-inseriti-nella-lista-del-patrimonio-mondiale-unesco-i-paesaggi-vitivinicoli-del-piemonte-l
 siti-inseriti-nella-lista-del-patrimonio-mondiale-unesco-i-paesaggi-vitivinicoli-del-piemonte-l1
 siti-inseriti-nella-lista-del-patrimonio-mondiale-unesco-i-paesaggi-vitivinicoli-del-piemonte-l2
+siti-interessati-da-bonifica
 siti-interesse-nazionale-della-sardegna-sin-porto-torres1
 siti-italiani-unesco-copertura-poligonale
 siti-logistici-di-tracciabilita-del-farmaco
@@ -68713,6 +68780,7 @@ sorgenti-acque-minerali-e-termali
 sorgenti-acque-pubbliche
 sorgenti-buona-acqua
 sorgenti-captate
+sorgenti-idrotermali
 sorgenti-tutelate
 sorgenti1
 sorgenti2
@@ -68995,6 +69063,8 @@ sportelli-di-servizio-di-segretariato-sociale-professionale1
 sportelli-dimmi
 sportelli-informativi
 sportelli-informativi-periferici-della-provincia-autonoma-di-trento
+sportelli-sociali
+sportelli-sociali-contatti-per-tipo-di-servizio
 sportelli-sociali-utenti-annuali
 sportelli-territoriali1
 sportelli-tributi
@@ -69776,6 +69846,7 @@ stazioni-bike-sharing
 stazioni-bikemi
 stazioni-bikesharing-trentino
 stazioni-car-sharing-ioguido
+stazioni-censuarie-istat
 stazioni-contatraffico
 stazioni-del-sistema-ferroviario-metropolitano-della-regione-veneto
 stazioni-di-inseminazione-artificiale-della-regione-lazio
@@ -70387,6 +70458,7 @@ strasa-comune-di-santorso
 strasa-comune-di-schio
 strasa-comune-di-torrebelvicino
 strasa-comune-di-valli-del-pasubio
+strategie-della-copianificazione
 strategie_sviluppo_territoriale
 stratistica-stato-civile
 strato-01-viabilita-mobilita-e-trasporti-comune-di-milano-dbt-2012-serie
@@ -71258,6 +71330,7 @@ taxi-open-data
 taxi1
 teatri
 teatri-e-cinema
+teatri-e-cinema1
 teatri-e-luoghi-per-eventi
 teatri-e-luoghi-per-eventi1
 teatri-privati-gennaio-dicembre-20161
@@ -71572,6 +71645,7 @@ territorio-superficie-dei-municipi
 territorio-superficie-delle-ex-20-zone-di-decentramento
 territorio-urbanizzato
 territorio-urbanizzato1
+territorio-urbanizzato2
 territorioacccontrpm
 territorioacccontrpm2013
 territorioacccontrpm2014
@@ -72980,6 +73054,7 @@ utilizzo-servizi-in-rete-del-comune-di-torino-2016
 utoe
 utoe1
 utoe2
+utoe3
 utoe_ado
 utoe_app
 utoe_patrimonio_abitativo
@@ -73072,6 +73147,7 @@ valutazioni-annuali-delle-concentrazioni-di-fondo8
 varchi-area-c
 varchi-areab
 varchi-bologna
+varchi-della-rete-ecologica-comunale
 varco-arginale
 varco-n-1-s-isaia-direzione-centro
 varco-n-10-san-felice-direzione-centro
@@ -73350,6 +73426,7 @@ velocita-media-annua-del-vento-2006-2018
 velocita-media-di-deformazione-del-terreno-orbita-est-ascendente-aggiornamento-aprile-2021
 velocita-media-di-deformazione-del-terreno-orbita-ovest-ascendente-aggiornamento-aprile-2021
 velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-aprile-2021
+velocitacitta-30
 venarotta-edifici-comunali-ad-uso-pubblico
 vendita-di-prodotti-petroliferi-2005
 vendita-di-prodotti-petroliferi-2006
@@ -73598,6 +73675,7 @@ vincolistica-f467
 vincolistica-i287
 vincolistica-l500
 vincolo
+vincolo-aeroportuale
 vincolo-archeologico
 vincolo-architettonico
 vincolo-area-protetta
@@ -74218,6 +74296,7 @@ zone-pericolose-rilevate
 zone-prg-raster
 zone-prg-vettoriale
 zone-protette
+zone-protezione-acque-termo-minerali
 zone-protezione-speciale
 zone-ramsar
 zone-rilevanti-per-la-salvaguardia-dei-siti-di-interesse-comunitario-della-rete-natura-2000-e-m

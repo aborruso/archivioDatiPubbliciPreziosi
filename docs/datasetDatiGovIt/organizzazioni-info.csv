@@ -9,7 +9,7 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:08:51.133075,Catalogo federato Salento Jonico,4077ac2b-4799-499c-b606-808a64b2251f,-,catalogo-federato-salento-jonico,0,https://dati.gov.it/view-dataset?organization=catalogo-federato-salento-jonico
 2021-02-19T18:08:51.393040,Città Metropolitana di Napoli,a8a6d03a-ebee-499d-b6a4-4ef9974395ec,cmna,citta-metropolitana-di-napoli,85,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-napoli
 2021-02-19T18:08:51.672766,Comune di Bari,a2777a16-48a2-4ede-b14b-d9f6bcc7536c,c_a662,comune-di-bari,226,https://dati.gov.it/view-dataset?organization=comune-di-bari
-2021-02-19T18:08:51.949122,Comune di Bologna,b6a36802-bc8d-41a9-ac11-f3417086b162,c_a944,comune-di-bologna,641,https://dati.gov.it/view-dataset?organization=comune-di-bologna
+2021-02-19T18:08:51.949122,Comune di Bologna,b6a36802-bc8d-41a9-ac11-f3417086b162,c_a944,comune-di-bologna,646,https://dati.gov.it/view-dataset?organization=comune-di-bologna
 2021-02-19T18:09:04.263087,Comune di Catania,e1000261-3729-45cc-b75e-0e1f41b25ab7,c_c351,comune-di-catania,61,https://dati.gov.it/view-dataset?organization=comune-di-catania
 2021-02-19T18:08:52.222285,Comune di Civitavecchia,4458c7ef-6bec-47b2-8194-82fe87d05b6c,c_c773,comune-di-civitavecchia,43,https://dati.gov.it/view-dataset?organization=comune-di-civitavecchia
 2022-05-04T17:17:22.616238,Comune di Copertino,d22eebb9-89a6-4cc0-8071-56cec53f4430,c_c978,comune-di-copertino,16,https://dati.gov.it/view-dataset?organization=comune-di-copertino
@@ -17,7 +17,7 @@ created,display_name,id,identifier,name,package_count,URL
 2021-02-19T18:08:52.530914,Comune di Francavilla Fontana,01458874-31f6-46b5-88f3-36e41593d39b,c_d761,comune-di-francavilla-fontana,124,https://dati.gov.it/view-dataset?organization=comune-di-francavilla-fontana
 2021-02-19T18:08:52.794408,Comune di Genova ,0a443da2-4298-44ea-aba8-0897abb0d2be,c_d969,comune-di-genova-,145,https://dati.gov.it/view-dataset?organization=comune-di-genova-
 2021-02-19T18:08:53.054226,Comune di Latiano,27a07868-990f-43af-90ae-6e5b4551cbba,c_e471,comune-di-latiano,14,https://dati.gov.it/view-dataset?organization=comune-di-latiano
-2021-02-19T18:08:53.383058,Comune di Lecce,925131c0-dce2-4678-b24b-c1cfe3554f84,c_e506,comune-di-lecce,864,https://dati.gov.it/view-dataset?organization=comune-di-lecce
+2021-02-19T18:08:53.383058,Comune di Lecce,925131c0-dce2-4678-b24b-c1cfe3554f84,c_e506,comune-di-lecce,874,https://dati.gov.it/view-dataset?organization=comune-di-lecce
 2021-02-19T18:08:53.657986,Comune di Martina Franca,026f89d2-94c7-4ed7-9b98-ef96f18e4568,c_e986,comune-di-martina-franca,42,https://dati.gov.it/view-dataset?organization=comune-di-martina-franca
 2021-02-19T18:08:53.931758,Comune di Matera,837a9d99-1c2c-4cc3-ad8f-402edd2d69d7,c_f052,comune-di-matera,241,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2022-02-14T10:13:19.046044,Comune di Messina,987dd373-4a0a-4c5c-ab5f-09da5182d7a8,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
@@ -32,7 +32,7 @@ created,display_name,id,identifier,name,package_count,URL
 2022-10-28T22:32:58.227354,PCM - DTD - Dipartimento per la Trasformazione Digitale,e75b258e-95b6-47e6-8a72-cb992c3385ba,pcm,dtd,25,https://dati.gov.it/view-dataset?organization=dtd
 2022-12-22T21:38:50.480344,DYDAS,06003f6a-c675-498b-a27b-65f45a6bcb4d,10013911002,dydas,5,https://dati.gov.it/view-dataset?organization=dydas
 2021-02-19T18:08:58.259536,Fondazione Matera 2019,0719c7df-b068-4227-bb73-a4b1d5db7982,fpm,fondazione-matera-2019,15,https://dati.gov.it/view-dataset?organization=fondazione-matera-2019
-2021-02-19T18:08:50.543699,GeoDati.gov.it (RNDT),69e6f3d1-3d75-44b2-961a-7b4fa84e5d3b,agid,geodati-gov-it-rndt,6913,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2021-02-19T18:08:50.543699,GeoDati.gov.it (RNDT),69e6f3d1-3d75-44b2-961a-7b4fa84e5d3b,agid,geodati-gov-it-rndt,6977,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2022-12-06T11:28:27.862453,Highlander Project,de464647-214d-4322-af88-23211ac5c423,cci,highlanderproject,29,https://dati.gov.it/view-dataset?organization=highlanderproject
 2023-04-19T11:27:44.935273,INAIL,0c06e0d7-95b9-4a97-b91c-6ec889686aa8,inail,inail,107,https://dati.gov.it/view-dataset?organization=inail
 2021-02-19T18:08:57.997012,INPS,a17d47da-7e2e-4f28-828c-8bbf33786fc6,inps,inps,2281,https://dati.gov.it/view-dataset?organization=inps
