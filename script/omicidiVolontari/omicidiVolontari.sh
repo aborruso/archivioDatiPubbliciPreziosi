@@ -33,7 +33,7 @@ if [ $code -eq 200 ]; then
     link=$(echo "$line" | jq -r '."@href"')
     titolo=$(echo "$line" | jq -r '."@title"')
     # if "omicidi volontari"
-    if [[ "$link" == *"settimana"* ]]; then
+    if [[ "$titolo" == *"settimana"* ]]; then
       echo "$titolo"
       echo "$link"
 
