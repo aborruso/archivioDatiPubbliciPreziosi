@@ -704,6 +704,7 @@ id
 16684
 166841
 16685
+16724
 17
 17a4466a-5128-4fc3-b865-dc16aa316acc
 18-aree-verdi-comune-di-berlingo
@@ -3443,6 +3444,7 @@ analisi-dipendenti-dellente-regione-calabria
 analisi-dipendenti-dellente-regione-calabria-cessati-dal-servizio-a-qualsiasi-titolo-e-per-cate
 analisi-dipendenti-dellente-regione-calabria-eta-media
 analisi-dipendenti-dellente-regione-calabria-rapporto-di-lavoro-a-tempo-determinato-indetermina
+analisi-dipendenti-dellente-sesto-al-reghena
 analisi-dipendenti-regione-calabria
 analisi-evoluzione-linea-di-riva-evoluzione-linea-di-riva-dal-1943-44-al-1954-55
 analisi-evoluzione-linea-di-riva-evoluzione-linea-di-riva-dal-1954-55-al-1976-78
@@ -3610,6 +3612,7 @@ andamento-competenza-entrata-per-titoli-reana-del-rojale
 andamento-competenza-entrata-per-titoli-remanzacco
 andamento-competenza-entrata-per-titoli-san-leonardo
 andamento-competenza-entrata-per-titoli-sedilo
+andamento-competenza-entrata-per-titoli-sesto-al-reghena
 andamento-competenza-entrata-per-titoli-taipana1
 andamento-competenza-uscita-per-titoli-bagnaria-arsa
 andamento-competenza-uscita-per-titoli-bondeno
@@ -3746,6 +3749,7 @@ andamento-competenza-uscita-per-titoli-reana-del-rojale
 andamento-competenza-uscita-per-titoli-remanzacco
 andamento-competenza-uscita-per-titoli-san-leonardo
 andamento-competenza-uscita-per-titoli-sedilo
+andamento-competenza-uscita-per-titoli-sesto-al-reghena
 andamento-competenza-uscita-per-titoli-taipana1
 andamento-delle-adesioni
 andamento-delle-donazioni-per-l-associazione-avis-anno-2013
@@ -4036,6 +4040,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-reana-del-rojale
 andamento-entrate-e-uscite-di-competenza-negli-anni-remanzacco
 andamento-entrate-e-uscite-di-competenza-negli-anni-rive-darcano
 andamento-entrate-e-uscite-di-competenza-negli-anni-sedilo
+andamento-entrate-e-uscite-di-competenza-negli-anni-sesto-al-reghena
 andamento-entrate-e-uscite-di-competenza-negli-anni-taipana
 andamento-entrate-tributarie
 andamento-epidemiologico-covid19-anno-2021-comune-di-galatone
@@ -5441,9 +5446,12 @@ arpa-qualita-dellaria-2020
 arpa-qualita-dellaria-anagrafica
 arpa_acq_reflue_depurate_depurat_tutti_20_e21
 arpa_acq_reflue_urbane_depurate_aggl_urb_tutti_21
+arpa_acq_reflue_urbane_depurate_aggl_urb_tutti_23
 arpa_acq_reflue_urbane_depurate_depurat_tutti_20_e21
+arpa_acq_reflue_urbane_depurate_depurat_tutti_22_e23
 arpa_acq_sott_basea2
 arpa_acq_sotterranee_base_acquifero_a2
+arpa_acq_sotterranee_class_qualitativa_02_09
 arpa_acq_sotterranee_gwb_chiusuramontefreatico_dq60
 arpa_acq_sotterranee_gwb_confinf_dq60_e13
 arpa_acq_sotterranee_gwb_confinf_dq60_pdg_15
@@ -5596,9 +5604,11 @@ arpa_rif_comuni_17_3
 arpa_rif_comuni_17_4
 arpa_rif_impianti_compostaggio
 arpa_rif_impianti_compostaggio_20
+arpa_rif_impianti_compostaggio_201
 arpa_rif_impianti_compostaggio_21
 arpa_rif_impianti_discariche_urbani
 arpa_rif_impianti_discariche_urbani_20
+arpa_rif_impianti_discariche_urbani_201
 arpa_rif_impianti_discariche_urbani_21
 arpa_rif_impianti_incenerimento_urbani
 arpa_rif_impianti_incenerimento_urbani_16
@@ -5606,17 +5616,23 @@ arpa_rif_impianti_incenerimento_urbani_17
 arpa_rif_impianti_incenerimento_urbani_18
 arpa_rif_impianti_incenerimento_urbani_19
 arpa_rif_impianti_incenerimento_urbani_20
+arpa_rif_impianti_incenerimento_urbani_201
 arpa_rif_impianti_incenerimento_urbani_21
+arpa_rif_impianti_incenerimento_urbani_211
 arpa_rif_impianti_stazioni_eco
 arpa_rif_impianti_stazioni_eco_16
 arpa_rif_impianti_stazioni_eco_17
 arpa_rif_impianti_stazioni_eco_18
 arpa_rif_impianti_stazioni_eco_19
 arpa_rif_impianti_stazioni_eco_20
+arpa_rif_impianti_stazioni_eco_201
 arpa_rif_impianti_stazioni_eco_21
+arpa_rif_impianti_stazioni_eco_211
 arpa_rif_impianti_trattamento
 arpa_rif_impianti_trattamento_20
+arpa_rif_impianti_trattamento_201
 arpa_rif_impianti_trattamento_21
+arpa_rif_impianti_trattamento_211
 arpa_rir_impianti_alto_rischio_rer
 arpa_rir_impianti_alto_rischio_rer_point
 arpa_suo_att_estrattive_centrali_raccolta_trattamento_poly_e23
@@ -5860,6 +5876,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-zugliano
 articolazione-degli-uffici-con-orari-al-pubblico-cons-di-bacino-laguna-di-ve
 articolazione-degli-uffici-con-orari-al-pubblico-goro
 articolazione-degli-uffici-con-orari-al-pubblico-jolanda-di-savoia
+articolazione-degli-uffici-con-orari-al-pubblico-lagosanto
 articolazione-degli-uffici-con-orari-al-pubblico-lusevera
 articolazione-degli-uffici-con-orari-al-pubblico-magnano-in-riviera1
 articolazione-degli-uffici-con-orari-al-pubblico-manzano
@@ -5867,6 +5884,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-nimis
 articolazione-degli-uffici-con-orari-al-pubblico-povoletto
 articolazione-degli-uffici-con-orari-al-pubblico-remanzacco
 articolazione-degli-uffici-con-orari-al-pubblico-rive-darcano
+articolazione-degli-uffici-con-orari-al-pubblico-sesto-al-reghena
 articolazione-degli-uffici-con-orari-al-pubblico-taipana1
 artigiani
 artigiani-distribuzione-per-categoria-2010-2012
@@ -6359,6 +6377,7 @@ atti-amministrativi-remanzacco
 atti-amministrativi-rive-darcano
 atti-amministrativi-san-leonardo
 atti-amministrativi-sedilo
+atti-amministrativi-sesto-al-reghena
 atti-amministrativi-taipana1
 atti-anagrafe-2017
 atti-anagrafe-2018
@@ -20850,6 +20869,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-cons-di-b
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-magnano-in-riviera1
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-povoletto
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-reana-del-rojale
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-sesto-al-reghena
 conto-annuale-del-personale-2015-2016-2017-2018
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-bagnaria-arsa
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-bondeno
@@ -20928,6 +20948,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-magnano-in-ri1
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-povoletto
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-reana-del-roj
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-sesto-al-regh
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-p-01-2022
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-p-02-2022
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-p-02-20221
@@ -21001,6 +21022,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale63
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale64
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale65
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale66
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale7
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale8
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale9
@@ -21087,6 +21109,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a63
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a64
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a65
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a66
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a9
@@ -21155,6 +21178,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e66
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e67
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e68
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e9
@@ -21233,6 +21257,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s65
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s66
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s67
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s68
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s7
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
@@ -21314,6 +21339,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-magn1
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-povo
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-rean
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-sest
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-bagnaria-
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-bondeno
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-c-01-2022
@@ -21354,6 +21380,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di7
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di8
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di9
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-sesto-al-
 conto-consuntivo-20121
 conto-del-bilancio-comune-di-cormons-2016-composizione-del-risultato-di-amministrazione
 conto-del-bilancio-comune-di-cormons-2016-gestione-delle-entrate
@@ -22208,6 +22235,7 @@ costo-del-personale-magnano-in-riviera1
 costo-del-personale-non-a-tempo-indeterminato
 costo-del-personale-povoletto
 costo-del-personale-reana-del-rojale
+costo-del-personale-sesto-al-reghena
 costo-di-gestione-dei-rifiuti-per-chilogrammo
 costruzioni-a-scala-1-1000
 costruzioni-a-scala-1-5000
@@ -24565,6 +24593,7 @@ dettaglio-entrate-per-capitolo-di-spesa-povoletto
 dettaglio-entrate-per-capitolo-di-spesa-reana-del-rojale
 dettaglio-entrate-per-capitolo-di-spesa-remanzacco
 dettaglio-entrate-per-capitolo-di-spesa-sedilo
+dettaglio-entrate-per-capitolo-di-spesa-sesto-al-reghena
 dettaglio-entrate-per-capitolo-di-spesa-taipana1
 dettaglio-spese-anno-2016
 dettaglio-uscite-per-capitolo-di-spesa-bagnaria-arsa
@@ -24701,6 +24730,7 @@ dettaglio-uscite-per-capitolo-di-spesa-reana-del-rojale
 dettaglio-uscite-per-capitolo-di-spesa-remanzacco
 dettaglio-uscite-per-capitolo-di-spesa-san-leonardo
 dettaglio-uscite-per-capitolo-di-spesa-sedilo
+dettaglio-uscite-per-capitolo-di-spesa-sesto-al-reghena
 dettaglio-uscite-per-capitolo-di-spesa-taipana1
 develop-view-vie-2016-06-27
 devicestatus
@@ -26827,6 +26857,7 @@ elenco-delle-pubblicazioni-remanzacco
 elenco-delle-pubblicazioni-rive-darcano
 elenco-delle-pubblicazioni-san-leonardo
 elenco-delle-pubblicazioni-sedilo
+elenco-delle-pubblicazioni-sesto-al-reghena
 elenco-delle-pubblicazioni-taipana
 elenco-delle-regole-gia-presenti-o-ricostituite-ai-sensi-dellart-3-della-lr-26-96-nei-comuni-de
 elenco-delle-regole-gia-presenti-o-ricostituite-ai-sensi-dellart-3-della-lr-26-96-nei-comuni-de1
@@ -33174,6 +33205,7 @@ indice-di-grande-difficolta-economica
 indice-di-grave-deprivazione-materiale
 indice-di-impermeabilita-wim
 indice-di-impermeabilita-wim-zone-pug
+indice-di-impermeabilita-wim-zone-pug1
 indice-di-infiltrazione-acqua-piovana-irw
 indice-di-infiltrazione-acqua-piovana-irw-zone-pug
 indice-di-parita-di-genere-f-m-competenza-alfabetica-classi-ii-scuola-di-secondo-grado
@@ -33362,6 +33394,7 @@ industrie-a-rischio-di-incidente-rilevante
 industrie-a-rischio-di-incidente-rilevante1
 inertizzazione-d9-ined
 inertizzazione-r12-iner
+infanzia
 infermieri-e-ostetriche
 inflazione-mensile-nazionale-e-nella-citta-di-bologna
 influenza-stagionale
@@ -51559,6 +51592,7 @@ nidi-dinfanzia
 nidi-e-spazi-bambini
 nidi-infanzia
 nidi1
+nido
 nido_iscritti_2012_2013
 nido_iscritti_2013_2014
 nido_iscritti_2014_2015
@@ -61875,8 +61909,11 @@ r_emiro_2022-12-20t092941
 r_emiro_2022-12-20t115654
 r_emiro_2022-12-20t120843
 r_emiro_2022-12-20t122901
+r_emiro_2023-04-20t114435
 r_emiro_2023-04-27t171224
 r_emiro_2023-06-13t135705
+r_emiro_2023-06-13t172201
+r_emiro_2023-06-14t082931
 r_emiro_2023-06-22t141618
 r_emiro_2023-08-02t144815
 r_emiro_2023-08-09t153155
@@ -63858,6 +63895,7 @@ residui-finali-per-esercizio-reana-del-rojale
 residui-finali-per-esercizio-remanzacco
 residui-finali-per-esercizio-rive-darcano
 residui-finali-per-esercizio-sedilo
+residui-finali-per-esercizio-sesto-al-reghena
 residui-finali-per-esercizio-taipana
 responsabili-della-transizione-al-digitale
 restituzioni-di-derivazioni-idriche-attive
@@ -67295,6 +67333,7 @@ separazioni-e-divorzi-per-rito-d-unione-e-modalita-2017
 separazioni-sul-totale-delle-famiglie
 sepolti
 serd-servizi-per-le-dipendenze-patologiche-nel-comune-di-milano
+serie-giornaliera-di-eventi-estremi-di-precipitazione-sul-centro-nord-italia
 serie-storica-2000-popolazione-residente-distribuita-per-sesso-eta-di-riferimento-e-fasce-di-et
 serie-storica-addizionale-regionale-allirpef-dal-2015-al-2019
 serie-storica-agrometeo
@@ -69553,6 +69592,7 @@ stato-avanzamento-piano-triennale-enna
 stato-avanzamento-piano-triennale-ferla
 stato-avanzamento-piano-triennale-remanzacco
 stato-avanzamento-piano-triennale-sedilo
+stato-avanzamento-piano-triennale-sesto-al-reghena
 stato-avanzamento-spesa-comuni-beneficiari-avviso-pubblico-per-il-sostegno-di-progetti-di-valor
 stato-chimico-corpi-idrici-fluviali-dlgs-152-06
 stato-chimico-corpi-idrici-fluviali-dlgs-152-061
@@ -70564,6 +70604,7 @@ struttura-per-eta-della-popolazione-residente-in-famiglie-unipersonali
 struttura-per-eta-sesso-e-stato-civile-della-popolazione-residente-in-toscana-anno-2021
 struttura-per-eta-sesso-e-stato-civiledella-popolazione-residente-in-toscana-anno-2016
 struttura-popolazione-2002-2021
+struttura-popolazione-2002-20211
 struttura-produttiva
 struttura-produttiva-imprese-e-unita-locali-istat-2011-2015
 struttura-produttiva-movimprese-2010-2016
