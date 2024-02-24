@@ -10,6 +10,8 @@ nome="listaComuniISTAT"
 
 URL="https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"
 
+# URL="https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xlsx"
+
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
