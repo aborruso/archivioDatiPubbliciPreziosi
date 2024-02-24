@@ -3893,6 +3893,7 @@ andamento-demografico-comune-di-valdastico
 andamento-demografico-comune-di-velo-dastico
 andamento-demografico-comune-di-vigasio-aggiornato-al-31-03-2022
 andamento-demografico-comune-di-villafranca-padovana-aggiornato-al-31-03-2022
+andamento-demografico-comune-di-villanova-marchesana
 andamento-demografico-comune-di-zenson-di-piave
 andamento-demografico-comune-di-zovencedo
 andamento-demografico-comune-di-zugliano
@@ -5870,6 +5871,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-torri-di-quartesolo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-trevenzuolo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-valdastico
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-villafranca-padovana
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-villanova-marchesana
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-zenson-di-piave
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-zovencedo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-zugliano
@@ -6359,6 +6361,7 @@ atti-amministrativi-comune-di-valdastico
 atti-amministrativi-comune-di-velo-dastico
 atti-amministrativi-comune-di-vigasio-aggiornato-al-14-04-2022
 atti-amministrativi-comune-di-villafranca-padovana-aggiornato-al-14-04-2022
+atti-amministrativi-comune-di-villanova-marchesana
 atti-amministrativi-comune-di-zenson-di-piave
 atti-amministrativi-comune-di-zovencedo
 atti-amministrativi-comune-di-zugliano
@@ -13487,6 +13490,7 @@ ciclovia-del-sole-percorso
 ciclovia-tirrenica
 ciclovie
 ciclovie-turistiche-nazionali
+cig-aggiornamenti-delta
 cig-anno-2007
 cig-anno-2008
 cig-anno-2009
@@ -14386,6 +14390,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-v
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-vicenza
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-vigasio-03-2022
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-villafra-03-2022
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-villanova-marche
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-zenson-di-piave
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-zovencedo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-zugliano
@@ -26341,6 +26346,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-valdastico
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-velo-dastico
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-vigasio-aggiornato-al-31-03-2022
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-villafranca-padovana-aggior-03-2022
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-villanova-marchesana
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-zenson-di-piave
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-zovencedo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-zugliano
@@ -26840,6 +26846,7 @@ elenco-delle-pubblicazioni-comune-di-trevenzuolo
 elenco-delle-pubblicazioni-comune-di-valdastico
 elenco-delle-pubblicazioni-comune-di-velo-dastico
 elenco-delle-pubblicazioni-comune-di-vigasio
+elenco-delle-pubblicazioni-comune-di-villanova-marchesana
 elenco-delle-pubblicazioni-comune-di-zenson-di-piave
 elenco-delle-pubblicazioni-comune-di-zovencedo
 elenco-delle-pubblicazioni-cons-di-bacino-laguna-di-ve
@@ -27101,6 +27108,7 @@ elenco-open-data-accessibilita
 elenco-operatori-biologici
 elenco-operatori-fattorie-didattiche-regione-umbria
 elenco-operatori-spesa-a-domicilio-comune-di-chieri
+elenco-organizzazioni-certificate-family-audit
 elenco-organizzazioni-non-governative-ong
 elenco-organizzazioni-non-governative-ong1
 elenco-organizzazioni-registrate-per-laddestramento-al-volo
@@ -52112,6 +52120,7 @@ numeri-civici-comune-di-vas
 numeri-civici-comune-di-velo-dastico
 numeri-civici-comune-di-vigasio
 numeri-civici-comune-di-vigo-di-cadore
+numeri-civici-comune-di-villanova-marchesana
 numeri-civici-comune-di-zenson-di-piave
 numeri-civici-comune-di-zovencedo
 numeri-civici-comune-di-zugliano
@@ -53319,6 +53328,7 @@ ocds-appalti-ordinari-anno-2020
 ocds-appalti-ordinari-anno-2021
 ocds-appalti-ordinari-anno-2022
 ocds-appalti-ordinari-anno-2023
+ocds-appalti-ordinari-anno-2024
 ocm-vino-progetti-approvati
 offerta-energetica-impianti-a-biomasse
 offerta-energetica-impianti-a-biomasse1
@@ -54760,6 +54770,7 @@ parrucchieri
 part-time-involontario
 part-time-involontario-femmine
 part-time-involontario-maschi
+partecipanti
 partecipanti-ai-progetti-di-lavoro-per-circoscrizione-2018
 partecipazione-al-sistema-scolastico-dei-bambini-di-4-5-anni
 partecipazione-alla-formazione-continua
@@ -67480,6 +67491,7 @@ servizi-cimiteriali-comune-di-torri-di-quartesolo
 servizi-cimiteriali-comune-di-trevenzuolo
 servizi-cimiteriali-comune-di-val-liona
 servizi-cimiteriali-comune-di-villafranca-padovana-aggiornato-al-06-03-2022
+servizi-cimiteriali-comune-di-villanova-marchesana
 servizi-cimiteriali-comune-di-zugliano
 servizi-cimiteriali-enna
 servizi-cimiteriali-magnano-in-riviera1
@@ -68708,6 +68720,7 @@ smart-lighting
 smart-lighting1
 smart-working-aress-puglia-2023
 smart_irrigation_e_smart_bench
+smartcig-aggiornamenti-delta
 smartcig-anno-2011
 smartcig-anno-2012
 smartcig-anno-2013
@@ -69586,6 +69599,7 @@ stato-avanzamento-piano-triennale-comune-di-torri-di-quartesolo
 stato-avanzamento-piano-triennale-comune-di-val-liona
 stato-avanzamento-piano-triennale-comune-di-valdastico
 stato-avanzamento-piano-triennale-comune-di-villafranca-padovana
+stato-avanzamento-piano-triennale-comune-di-villanova-marchesana
 stato-avanzamento-piano-triennale-comune-di-zenson-di-piave
 stato-avanzamento-piano-triennale-comune-di-zugliano
 stato-avanzamento-piano-triennale-enna
@@ -70158,6 +70172,7 @@ stradario-comunale-comune-di-trevenzuolo
 stradario-comunale-comune-di-valdastico
 stradario-comunale-comune-di-velo-dastico
 stradario-comunale-comune-di-vigasio
+stradario-comunale-comune-di-villanova-marchesana
 stradario-comunale-comune-di-zenson-di-piave
 stradario-comunale-comune-di-zovencedo
 stradario-comunale-comune-di-zugliano
