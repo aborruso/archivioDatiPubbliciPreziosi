@@ -17,14 +17,18 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 if [ $code -eq 200 ]; then
 
   cd "$folder"/../../docs/"$nome"
-  curl -skL -O "$URL"
+  curl -skL "$URL" >Elenco-comuni-italiani.csv
+
+  iconv -f Windows-1252 -t utf-8 Elenco-comuni-italiani.csv >tmp.csv
+
+  mv tmp.csv Elenco-comuni-italiani.csv
 
   # se ci sono novità sul repo, avvisami
   if [ $(git status --porcelain | wc -l) -eq "0" ]; then
     echo "  🟢 nulla di nuovo."
   else
     echo "  🔴 occhio, ci sono degli aggiornamenti"
-    curl -X POST -H "Content-Type: application/json" -d '{"value1":"novità sul dataset dei comuni"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
+    #curl -X POST -H "Content-Type: application/json" -d '{"value1":"novità sul dataset dei comuni"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
   fi
 
 fi
