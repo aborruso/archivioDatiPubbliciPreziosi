@@ -855,6 +855,7 @@ id
 2022_voti_liste_elezioni_politiche_camera
 2022_voti_liste_elezioni_politiche_senato
 2022_voti_sindaci
+2023-collegi-universitari
 2023-contribuzione-e-interventi-afam
 20a04153-3146-4c32-9dce-42672d2e0922
 22196e24-83ef-4285-a1b0-11aadaedfee9
@@ -7781,7 +7782,6 @@ biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2020
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2021
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2022
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2023
-biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-2024
 biblioteche-di-roma-card-scadute-e-non-rinnovate-anno-20241
 biblioteche-di-roma-dettaglio-completo-di-tutte-le-tessere-dei-lettori-delle-biblioteche-d-2018
 biblioteche-di-roma-dettaglio-completo-di-tutte-le-tessere-dei-lettori-delle-biblioteche-d-2019
@@ -9639,6 +9639,7 @@ c_c770_dataset_concorsi_2020
 c_c770_dataset_concorsi_2021
 c_c770_dataset_concorsi_2022
 c_c770_dataset_concorsi_2023
+c_c770_dataset_concorsi_2024
 c_c770_dataset_cooperative-sociali
 c_c770_dataset_delibere
 c_c770_dataset_determine
@@ -22015,6 +22016,7 @@ corpo-elettorale-comune-di-codroipo
 corpo-elettorale-comune-di-cormons
 corpo-elettorale-comune-di-fagagna
 corpo-elettorale-comune-di-gonars
+corpo-elettorale-comune-di-montenars
 corpo-elettorale-comune-di-pulfero
 corpo-elettorale-comune-di-ragogna
 corpo-elettorale-comune-di-san-daniele-del-friuli
@@ -22435,6 +22437,7 @@ cut-2019-vs03-aree-per-la-realizzazione-di-interventi-idraulici-strutturali
 czrm-di-roma-capitale-dati-delle-segnalazioni-anno-2021
 czrm-di-roma-capitale-dati-delle-segnalazioni-anno-2022
 czrm-di-roma-capitale-dati-delle-segnalazioni-anno-2023
+czrm-di-roma-capitale-dati-delle-segnalazioni-anno-2024
 d-lgs-105-2015-stabilimenti-in-basilicata
 d058cb57-9d82-4d08-bfeb-10cc94af3bda
 d0ffa579-e002-4dc3-94b4-d69207cae114
@@ -25469,6 +25472,8 @@ distribuzione-reale-invernale-del-camoscio-piano-faunistico-provinciale-2010
 distribuzione-reale-invernale-del-capriolo-piano-faunistico-provinciale-2010
 distribuzione-reale-invernale-del-cervo-piano-faunistico-provinciale-2010
 distribuzione-spaziale-ozono-aot40-2007-2015
+distribuzione-targhe-prova-per-attivita-e-provincia-in-campania-persone-fisiche-anno-2023
+distribuzione-targhe-prova-per-attivita-tipo-di-societa-e-provincia-in-campania-persone-gi-2023
 distribuzione-tra-le-categorie-per-genere-anno-2020
 distribuzione-tra-le-categorie-per-genere-anno-2021
 distribuzione_segnalazioni_ricevute_per_tipologia_2015_
@@ -37133,6 +37138,7 @@ medici-di-medicina-generale-con-un-numero-di-assistiti-oltre-soglia
 medici-medicina-generale
 medici-medicina-generale1
 medici-medicina-generale2
+medici-medicina-generale3
 medici-praticanti
 medie-annue-dell-indice-dei-prezzi-al-consumo-per-lintera-collettivita-nic-e-dellindice-dei-pre
 medie-concentrazioni-annuali-e-numero-annuo-superamenti-dei-limiti-di-legge-biossido-2002-2020
@@ -56597,6 +56603,7 @@ pedaso-edifici-comunali-ad-uso-pubblico
 pediatri-libera-scelta
 pediatri-libera-scelta1
 pediatri-libera-scelta2
+pediatri-libera-scelta3
 pegaso-anni-2005-2013
 pegaso-importi-diffidati-accertati-2008-2012
 penalita-crolli
@@ -60480,6 +60487,9 @@ prezzario-dei-lavori-pubblici-della-regione
 prezzario-dei-lavori-pubblici-della-regione-campania-anno-2023-analisi
 prezzario-dei-lavori-pubblici-della-regione-campania-anno-2023-articoli
 prezzario-dei-lavori-pubblici-della-regione-campania-anno-2023-prodotti
+prezzario-dei-lavori-pubblici-della-regione-campania-anno-2024-analisi
+prezzario-dei-lavori-pubblici-della-regione-campania-anno-2024-articoli
+prezzario-dei-lavori-pubblici-della-regione-campania-anno-2024-prodotti
 prezzario-lavori-pubblici
 prezzario-lavori-pubblici-2018-regione-sardegna1
 prezzario-lavori-pubblici-2019-regione-sardegna
@@ -73478,6 +73488,7 @@ test-231218_2
 test-geo
 test-package7
 test-patrimonio
+test-test-11
 test1
 test2-rete-gps-per-il-controllo-della-subsidenza
 test2-rete-gps-per-il-controllo-della-subsidenza1
