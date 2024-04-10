@@ -1548,6 +1548,7 @@ air-break-index-centraline-ultime-24-ore
 air-break-index-medio-ultima-ora
 air-data
 air_quality_prediction_coverage_date
+aire-per-nazione
 aire-per-nazione-2022-comune-di-vicenza
 aire-per-nazione-2023-comune-di-vicenza
 aire-per-nazione-comune-di-creazzo
@@ -5660,8 +5661,6 @@ atti-del-consiglio-comunale-anno-2016
 atti-del-consiglio-comunale-anno-2017
 atti-del-consiglio-comunale-anno-2018
 atti-del-consiglio-comunale-anno-2019
-atti-deliberativi-del-consiglio-comunale-di-crispiano
-atti-deliberativi-della-giunta-comunale-di-crispiano
 atti-dellufficio-geologia
 atti-di-concessione
 atti-di-concessione-2016
@@ -7856,6 +7855,7 @@ bonus-covid-19-aziende-florovivaistiche
 boreholes-dataset
 borghi-storici
 borgo-icona-ptrc-2020
+borse-di-studio-2020-21-studenti-idonei-e-beneficiari-distinti-per-tipologia-e-corso-di-studi
 borse-di-studio-concesse-a-studenti-meritevoli-e-privi-di-mezzi-iscritti-presso-atene-2021-2022
 borse-di-studio-per-rimborso-spese
 borse-di-studio-per-studenti-universitari-del-lazio-annualita-2013-2014-e-2014-2015
@@ -12768,6 +12768,7 @@ cognomi-di-tutti-i-residenti-di-matera-aggiornati-al-31-08-2013
 cognomi-piu-diffusi-fra-i-residenti-2021-comune-di-vicenza
 cognomi-piu-diffusi-fra-i-residenti-2022-comune-di-vicenza
 cognomi-piu-diffusi-fra-i-residenti-2023-comune-di-vicenza
+cognomi-piu-diffusi-residenti
 cognomi-residenti
 cognomi-residenti-anno-2012
 cognomi-residenti-anno-2013
@@ -13961,22 +13962,12 @@ comune-di-belforte-all-isauro-sue-periodo-2020
 comune-di-belmonte-piceno-anagrafica-impianti
 comune-di-belmonte-piceno-punti-interesse
 comune-di-bergamo-mappa-ciclabili
-comune-di-bitonto-aire-per-nazione
 comune-di-bitonto-bandi-di-gara-e-contratti
-comune-di-bitonto-cognomi-piu-diffusi-residenti
 comune-di-bitonto-conteggio-protocolli
-comune-di-bitonto-elenco-decessi
 comune-di-bitonto-elenco-delle-aree-di-circolazione
-comune-di-bitonto-elenco-matrimoni
-comune-di-bitonto-elenco-nascite
 comune-di-bitonto-elenco-residenti
-comune-di-bitonto-famiglie-per-numero-figli
 comune-di-bitonto-famiglie-residenti-per-via
-comune-di-bitonto-famiglie-totali
-comune-di-bitonto-matrim-celebrati-per-rito
 comune-di-bitonto-monitoraggio-pratiche
-comune-di-bitonto-movimento-anagrafico
-comune-di-bitonto-movimento-stranieri
 comune-di-bitonto-posas
 comune-di-bitonto-provvedimenti-degli-organi-di-indirizzo-politico
 comune-di-bitonto-provvedimenti-dei-dirigenti
@@ -13985,8 +13976,6 @@ comune-di-bitonto-provvedimenti-organi-di-indirizzo-politico
 comune-di-bitonto-sovvenzioni-contributi-sussidi-vantaggi-economici
 comune-di-bitonto-stranieri-per-sesso-ed-eta
 comune-di-bitonto-stranieri-per-stato-cittad
-comune-di-bitonto-tassi-popolazione-residente
-comune-di-bitonto-trend-demografico
 comune-di-bogliasco-civici-e-toponomastica
 comune-di-bogliasco-p-r-g-d-p-g-r-n-222-2002-prov-dirg-provincia-n-4548-2009
 comune-di-bologna
@@ -18180,6 +18169,7 @@ condizione-lavorativa-degli-utenti-che-hanno-usufruito-dellarea-servizi-online
 condizioni-di-salute-per-va
 condizioni-di-utilizzo-dei-servizi-di-rete-cartografici-del-geoportale-alto-adige
 condizioni-duso
+condizioni-lavorative
 condizioni-lavorative-comune-di-creazzo
 condizioni-lavorative-comune-di-gambellara
 condizioni-lavorative-comune-di-malo
@@ -23239,6 +23229,7 @@ elenco-ambiti-territoriali-di-caccia-atc-di-regione-lombardia-anno-2020-2021
 elenco-ambiti-territoriali-di-caccia-atc-di-regione-lombardia-anno-2021-2022
 elenco-ambiti-territoriali-di-caccia-atc-di-regione-lombardia-anno-2022-2023-smaf
 elenco-anagrafiche-manutentori-attivi
+elenco-anagrafico-decessi-giornalieri
 elenco-anagrafico-decessi-giornalieri-comune-di-creazzo
 elenco-anagrafico-decessi-giornalieri-comune-di-gambellara
 elenco-anagrafico-decessi-giornalieri-comune-di-malo
@@ -23384,6 +23375,7 @@ elenco-cancellati-comune-di-santorso
 elenco-cancellati-comune-di-schio
 elenco-cancellati-comune-di-torrebelvicino
 elenco-cancellati-comune-di-valli-del-pasubio
+elenco-cancellati1
 elenco-canili-regione-veneto-2012
 elenco-centri-diurni-disabili-cdd
 elenco-centri-diurni-integrati-accreditati-per-anziani-cdi
@@ -23575,6 +23567,7 @@ elenco-cuu-codici-ipa-del-comune-di-bari
 elenco-dataset
 elenco-dataset-open-data-umbria
 elenco-dati-oict
+elenco-decessi
 elenco-decessi-comune-di-creazzo
 elenco-decessi-comune-di-gambellara
 elenco-decessi-comune-di-malo
@@ -23847,6 +23840,8 @@ elenco-dei-tecnici-degustatori-di-vini-do-doc-e-docg-dellumbria
 elenco-dei-tecnici-in-acustica-ambientale
 elenco-dei-vini-di-qualita-docg-doc-e-igt-dellumbria
 elenco-del-personale-dipartimento-seac-e-riferimenti
+elenco-delibere-di-consiglio-anno-2023
+elenco-delibere-di-giunta-del-comune-di-crispiano-anno-2023
 elenco-delibere-giunta-comunale
 elenco-delle-amministrazioni-pubbliche-in-umbria
 elenco-delle-aree-di-circolazione-comune-di-bassano-del-grappa
@@ -24081,6 +24076,7 @@ elenco-distributori-di-carburanti
 elenco-distributori-di-latte-crudo-della-regione-veneto-2012
 elenco-distributori-di-latte-crudo-nel-veneto
 elenco-ditte-noleggio-autobus-con-conducente
+elenco-divorzi
 elenco-divorzi-comune-di-creazzo
 elenco-divorzi-comune-di-gambellara
 elenco-divorzi-comune-di-malo
@@ -24204,6 +24200,7 @@ elenco-incidenti-2020
 elenco-incidenti-nell-anno-2019-nella-citta-di-torino
 elenco-iniziative-promozione-cinema-e-audiovisivo-2013
 elenco-interventi-per-investimenti-gestiti-all-interno-del-sistema-inframob
+elenco-iscritti
 elenco-iscritti-comune-di-gambellara
 elenco-iscritti-comune-di-malo
 elenco-iscritti-comune-di-monte-di-malo
@@ -24224,6 +24221,7 @@ elenco-laboratori-di-analisi-autorizzati-al-tampone-covid191
 elenco-le-strade-delle-donne-a-chieri
 elenco-locali-negozi-botteghe-darte-e-antichi-mestieri-a-rilevanza-storica
 elenco-locazioni-passive
+elenco-matrimoni
 elenco-matrimoni-comune-di-creazzo
 elenco-matrimoni-comune-di-gambellara
 elenco-matrimoni-comune-di-malo
@@ -24244,6 +24242,7 @@ elenco-matrimoni-unioni-civiliseparazioni-divorzi-ed-annullamenti-anno-2019-su-b
 elenco-missioni-amministratori
 elenco-monumenti-di-lecce-che-possono-essere-fotografati
 elenco-monumenti-dinteresse-comune-di-chieri
+elenco-nascite
 elenco-nascite-comune-di-creazzo
 elenco-nascite-comune-di-gambellara
 elenco-nascite-comune-di-malo
@@ -24373,6 +24372,7 @@ elenco-regionale-interpreti-turistici
 elenco-regionale-operatori-biologici
 elenco-regionale-ser-d
 elenco-registro-regionale-sonde-geotermiche
+elenco-residenti-allestero
 elenco-residenti-comune-di-creazzo
 elenco-residenti-comune-di-gambellara
 elenco-residenti-comune-di-malo
@@ -26953,6 +26953,7 @@ famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2018
 famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2019
 famiglie-per-numero-di-componenti-e-sezioni-di-censimento-al-31-12-2020
 famiglie-per-numero-di-componenti-e-unita-urbanistica
+famiglie-per-numero-figli
 famiglie-per-numero-figli-comune-di-creazzo
 famiglie-per-numero-figli-comune-di-gambellara
 famiglie-per-numero-figli-comune-di-malo
@@ -27053,6 +27054,7 @@ famiglie-totali-comune-di-schio
 famiglie-totali-comune-di-torrebelvicino
 famiglie-totali-comune-di-valli-del-pasubio
 famiglie-totali-comune-di-vicenza
+famiglie-totali1
 famiglie-unipersonali-italiane-e-straniere
 famiglie-unipersonali-per-sesso-e-classi-deta
 famiglie_anagrafiche_residenti_per_numero_di_componenti_2016
@@ -28058,6 +28060,9 @@ grandi-impianti-sportivi-gestiti-direttamente-dal-servizio-sport
 grandi-strutture-di-vendita
 grandi-strutture-di-vendita-nel-comune-di-milano
 gravita-incidenti-2019-lecce
+gravita-incidenti-2023
+gravita-sinistri-2019
+gravita-sinistri-2020
 green-mobility-2020-mobilita-del-futuro-alto-adige
 grid-statistico-umbria
 grigliati-5-000-ed-igm-50-000
@@ -32883,6 +32888,7 @@ matrice-od2030-passeggeri-file-compresso-per-download-rapido
 matrice-od2030-veicoli-commerciali-e-pesanti
 matrice-od2030-veicoli-commerciali-e-pesanti-file-compresso-per-download-rapido
 matrici-dei-viaggi-origine-destinazione
+matrim-celebrati-per-rito
 matrim-celebrati-per-rito-comune-di-creazzo
 matrim-celebrati-per-rito-comune-di-gambellara
 matrim-celebrati-per-rito-comune-di-malo
@@ -46450,6 +46456,7 @@ movimento-anagrafico-migratorio-saldo-anno-2010-2011
 movimento-anagrafico-per-comune-tassi-popolazione
 movimento-anagrafico-popolazione-straniera
 movimento-anagrafico-saldi
+movimento-anagrafico1
 movimento-annuale-nel-veneto-per-comprensorio-anno-2021
 movimento-annuale-nel-veneto-per-comune-arrivi-per-mese-anno-2021
 movimento-annuale-nel-veneto-per-comune-presenze-per-mese-anno-2021
@@ -46508,6 +46515,7 @@ movimento-naturale-delle-cittadine-straniere-iscritte-in-anagrafe-anni-2004-2014
 movimento-naturale-delle-cittadine-straniere-iscritti-in-anagrafe-2002-2010
 movimento-naturale-morti-della-popolazione-femminile-residente-2002-2010
 movimento-naturale-nati-vivi-della-popolazione-femminile-residente-2002-2010
+movimento-stranieri
 movimento-stranieri-comune-di-creazzo
 movimento-stranieri-comune-di-gambellara
 movimento-stranieri-comune-di-malo
@@ -46890,6 +46898,7 @@ nomi-geografici-fvg-inspire
 nomi-geografici-linee
 nomi-geografici-poligoni
 nomi-geografici-punti
+nomi-iscritti-per-nascita
 nomi-iscritti-per-nascita-comune-di-creazzo
 nomi-iscritti-per-nascita-comune-di-gambellara
 nomi-iscritti-per-nascita-comune-di-malo
@@ -46924,6 +46933,7 @@ nomi-quartiere-4-anno-2013
 nomi-quartiere-5
 nomi-quartiere-5-anno-2009
 nomi-quartiere-5-anno-2013
+nomi-resid-per-eta-e-sesso
 nomi-residenti-per-eta-e-sesso-comune-di-vicenza
 nomi_femminili_residenti_pi__usati__2001_
 nomi_femminili_residenti_pi__usati__2002_
@@ -50516,6 +50526,7 @@ persone-di-6-anni-e-piu-che-usano-il-cellulare-almeno-qualche-volta-lanno
 persone-di-6-anni-e-piu-che-usano-il-cellulare-tutti-i-giorni
 persone-di-6-anni-e-piu-che-usano-il-cellulare-tutti-i-giorni-femmine
 persone-di-6-anni-e-piu-che-usano-il-cellulare-tutti-i-giorni-maschi
+persone-giuridiche
 persone-giuridiche-comune-di-creazzo
 persone-giuridiche-comune-di-gambellara
 persone-giuridiche-comune-di-malo
@@ -52285,6 +52296,7 @@ popolazione-residente-suddivisa-per-stato-civile-comune-di-treviso-2017
 popolazione-residente1
 popolazione-residente2
 popolazione-residente3
+popolazione-residente4
 popolazione-residenti-da-0-a-17-anni-per-singolo-anno-di-eta-e-unita-urbanistica
 popolazione-residenti-per-cittadinanza-e-municipio-ex-zona-di-decentramento-1999-2023
 popolazione-residenti-per-cittadinanza-e-quartiere-1999-2023
@@ -58240,6 +58252,7 @@ requisito-anagrafico-accesso-pensionamento-vecchiaia-ordinario-lavoratori-pubbli
 requisito-anagrafico-per-l39accesso-al-pensionamento-di-vecchiaia-ordinario
 requisito-anagrafico-per-l39accesso-al-pensionamento-di-vecchiaia-ordinario1
 requisito-anagrafico-per-l39accesso-al-pensionamento-di-vecchiaia-ordinario2
+resid-per-quartiere-e-figli-in-fam
 resid-per-quartiere-e-figli-in-fam-comune-di-creazzo
 resid-per-quartiere-e-figli-in-fam-comune-di-gambellara
 resid-per-quartiere-e-figli-in-fam-comune-di-monte-di-malo
@@ -58294,6 +58307,7 @@ residenti-per-principali-classi-di-eta-comune-di-treviso-anno-2019
 residenti-per-quartiere-comune-di-treviso-anno-2019
 residenti-per-quartiere-ed-area-geografica-di-appartenenza-al-31-12-2016
 residenti-per-quartiere-ed-area-geografica-di-appartenenza-al-31-12-2017
+residenti-per-quartiere-ed-eta
 residenti-per-quartiere-eta
 residenti-per-quartieri-ed-eta-comune-di-vicenza
 residenti-per-via-e-cittadinanza
@@ -58302,6 +58316,7 @@ residenti-per-vie-e-sesso
 residenti-secondo-le-professioni-e-condizioni-esercitate-1961
 residenti-secondo-le-professioni-e-condizioni-esercitate-censimento-1921-treviso
 residenti-suddivisi-per-quartiere-comune-di-treviso-anno-2020
+residenti-titoli-di-studio
 residenti-titoli-di-studio-comune-di-creazzo
 residenti-titoli-di-studio-comune-di-malo
 residenti-titoli-di-studio-comune-di-montecchio-precalcino
@@ -60143,6 +60158,7 @@ sabbio-chiese-societa-partecipate
 sabbio-chiese-toponimi-stradali
 sagre-e-fiere-su-area-pubblica
 saldi-migratori-della-popolazione-285039ad
+saldi-movimento-anagrafico
 saldi-movimento-anagrafico-comune-di-creazzo
 saldi-movimento-anagrafico-comune-di-gambellara
 saldi-movimento-anagrafico-comune-di-malo
@@ -61379,7 +61395,7 @@ servizio-agevolazione-tariffaria-scuola-asili-nido-centri-estivi-problemi-in-gen
 servizio-agevolazione-tariffaria-scuola-asili-nido-centri-estivi-supporto-per-utenti-in-diffico
 servizio-agevolazione-tariffaria-scuola-asili-nido-centri-estivi-tipo-di-difficolta
 servizio-agrometereologico-lucano-la-rete-delle-stazioni-di-rilevamento
-servizio-appalti-2019-2020-2021-2022
+servizio-appalti-2019-2020-2021-2022-2023
 servizio-di-contrasto-dellabusivismo-commerciale-anno-2012
 servizio-di-contrasto-dellabusivismo-commerciale-sequestri-amministrativi-anno-2012
 servizio-di-contrasto-dellabusivismo-commerciale-sequestri-amministrativi-anno-2013
@@ -61698,6 +61714,7 @@ sinistri-con-velocipedi-20121
 sinistri-con-velocipedi-20131
 sinistri-con-velocipedi-20141
 sinistri-con-velocipedi1
+sinistri-per-condizioni-atmosferiche-2022
 sinistri-per-natura-incidente-2019
 sinistri-per-velocipedi-20151
 sinistri-per-via
@@ -61710,6 +61727,8 @@ sinistri-per-via-e-persone-coinvolte-anno-2017
 sinistri-per-via-e-persone-coinvolte-dal-2010-al-2016
 sinistri-per-via-e-tipo-di-veicoli-coinvolti-anno-2017
 sinistri-per-via-e-tipo-di-veicoli-coinvolti-dal-2010-al-2016
+sinistri-stradali-2020-per-incroci-semaforizzati
+sinistri-stradali-2022-per-fasce-deta-dei-coinvolti
 sinistri-stradali-anno-2019
 sinistri-stradali-anno-2020
 sinistri-stradali-anno-2021
@@ -63526,6 +63545,7 @@ stranieri-nel-comune-di-carbonera-al-31-12-2019-suddivisi-per-frazione-e-per-ses
 stranieri-per-area-di-provenienza-2020
 stranieri-per-area-di-provenienza-2022
 stranieri-per-quartiere-comune-di-treviso-anno-2019
+stranieri-per-quartiere-e-cittad
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
 stranieri-per-quartiere-e-cittad-comune-di-gambellara
 stranieri-per-quartiere-e-cittad-comune-di-monte-di-malo
@@ -64312,6 +64332,7 @@ tassi-di-natalita-gennaio_ottobre-2022
 tassi-di-natalita-mortalita-migratorio-di-crescita-e-di-nuzialita-anni-2008-2012
 tassi-di-occupazione-disoccupazione-e-inattivit224-della-popolazione-straniera-per-sesso-e-ripa
 tassi-natalita-mortalita-immigratorieta-emigratorieta
+tassi-popolazione-residente
 tassi-popolazione-residente-comune-di-creazzo
 tassi-popolazione-residente-comune-di-gambellara
 tassi-popolazione-residente-comune-di-malo
@@ -64664,6 +64685,7 @@ terremoti-strumentali-localizzati-in-veneto-periodo-considerato-1977-2010
 terremoto
 terremoto-schede-aedes
 terreni
+terreni-2023_comune-di-lecce
 terreni-attivi-comune-di-gambellara
 terreni-attivi-comune-di-montecchio-precalcino
 terreni-posseduti-dalla-citta-di-torino
@@ -64801,6 +64823,8 @@ tipi-forestali-della-regione-liguria-sc-1-25000-ed-2013
 tipi-forestali1
 tipi-strutturali-pfa
 tipo-di-sinisitro-per-via-2019
+tipo-di-veicoli-coinvolti-in-sinistri-stradali-2021
+tipo-di-veicoli-coinvolti-in-sinistri-stradali-2023
 tipo-scelta-contraente
 tipologia-cambi-di-residenza
 tipologia-dei-corsi-dacqua-ai-fini-dmv
@@ -65143,6 +65167,7 @@ trend-della-popolazione-straniera-della-citta-di-matera-al-31-12-2014
 trend-della-popolazione-straniera-di-matera-al-31-12-2012
 trend-della-popolazione-straniera-di-matera-al-31-12-2013
 trend-della-popolazione-straniera-residente-della-citta-di-matera-al-31-12-2016
+trend-demografico
 trend-demografico-comune-di-creazzo
 trend-demografico-comune-di-gambellara
 trend-demografico-comune-di-malo
