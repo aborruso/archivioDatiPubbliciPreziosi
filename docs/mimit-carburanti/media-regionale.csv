@@ -1,84 +1,84 @@
 REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
-Abruzzo,Gasolio,SELF,1.800
-Abruzzo,Benzina,SELF,1.917
+Abruzzo,Gasolio,SELF,1.796
+Abruzzo,Benzina,SELF,1.916
 Abruzzo,GPL,SERVITO,0.719
 Abruzzo,Metano,SERVITO,1.282
-Basilicata,Gasolio,SELF,1.820
+Basilicata,Gasolio,SELF,1.816
 Basilicata,Benzina,SELF,1.946
 Basilicata,GPL,SERVITO,0.712
 Basilicata,Metano,SERVITO,1.417
-Bolzano,Gasolio,SELF,1.834
-Bolzano,Benzina,SELF,1.959
-Bolzano,GPL,SERVITO,0.788
+Bolzano,Gasolio,SELF,1.829
+Bolzano,Benzina,SELF,1.957
+Bolzano,GPL,SERVITO,0.792
 Bolzano,Metano,SERVITO,1.507
-Calabria,Gasolio,SELF,1.802
-Calabria,Benzina,SELF,1.940
-Calabria,GPL,SERVITO,0.763
-Calabria,Metano,SERVITO,1.438
-Campania,Gasolio,SELF,1.769
+Calabria,Gasolio,SELF,1.799
+Calabria,Benzina,SELF,1.939
+Calabria,GPL,SERVITO,0.762
+Calabria,Metano,SERVITO,1.430
+Campania,Gasolio,SELF,1.767
 Campania,Benzina,SELF,1.913
 Campania,GPL,SERVITO,0.675
-Campania,Metano,SERVITO,1.302
-Emilia Romagna,Gasolio,SELF,1.781
-Emilia Romagna,Benzina,SELF,1.916
-Emilia Romagna,GPL,SERVITO,0.694
-Emilia Romagna,Metano,SERVITO,1.249
-Friuli Venezia Giulia,Gasolio,SELF,1.795
-Friuli Venezia Giulia,Benzina,SELF,1.920
+Campania,Metano,SERVITO,1.304
+Emilia Romagna,Gasolio,SELF,1.778
+Emilia Romagna,Benzina,SELF,1.915
+Emilia Romagna,GPL,SERVITO,0.693
+Emilia Romagna,Metano,SERVITO,1.250
+Friuli Venezia Giulia,Gasolio,SELF,1.791
+Friuli Venezia Giulia,Benzina,SELF,1.919
 Friuli Venezia Giulia,GPL,SERVITO,0.699
 Friuli Venezia Giulia,Metano,SERVITO,1.294
-Lazio,Gasolio,SELF,1.778
-Lazio,Benzina,SELF,1.906
+Lazio,Gasolio,SELF,1.774
+Lazio,Benzina,SELF,1.905
 Lazio,GPL,SERVITO,0.695
-Lazio,Metano,SERVITO,1.412
-Liguria,Gasolio,SELF,1.815
+Lazio,Metano,SERVITO,1.411
+Liguria,Gasolio,SELF,1.812
 Liguria,Benzina,SELF,1.932
 Liguria,GPL,SERVITO,0.776
 Liguria,Metano,SERVITO,1.332
-Lombardia,Gasolio,SELF,1.783
-Lombardia,Benzina,SELF,1.907
+Lombardia,Gasolio,SELF,1.778
+Lombardia,Benzina,SELF,1.905
 Lombardia,GPL,SERVITO,0.690
 Lombardia,Metano,SERVITO,1.298
-Marche,Gasolio,SELF,1.773
-Marche,Benzina,SELF,1.895
+Marche,Gasolio,SELF,1.769
+Marche,Benzina,SELF,1.894
 Marche,GPL,SERVITO,0.735
-Marche,Metano,SERVITO,1.217
-Molise,Gasolio,SELF,1.793
-Molise,Benzina,SELF,1.918
-Molise,GPL,SERVITO,0.732
-Molise,Metano,SERVITO,1.349
-Piemonte,Gasolio,SELF,1.775
-Piemonte,Benzina,SELF,1.909
+Marche,Metano,SERVITO,1.237
+Molise,Gasolio,SELF,1.789
+Molise,Benzina,SELF,1.916
+Molise,GPL,SERVITO,0.734
+Molise,Metano,SERVITO,1.389
+Piemonte,Gasolio,SELF,1.771
+Piemonte,Benzina,SELF,1.908
 Piemonte,GPL,SERVITO,0.692
-Piemonte,Metano,SERVITO,1.331
-Puglia,Gasolio,SELF,1.774
-Puglia,Benzina,SELF,1.921
+Piemonte,Metano,SERVITO,1.333
+Puglia,Gasolio,SELF,1.770
+Puglia,Benzina,SELF,1.920
 Puglia,GPL,SERVITO,0.678
 Puglia,Metano,SERVITO,1.330
-Sardegna,Gasolio,SELF,1.809
-Sardegna,Benzina,SELF,1.936
-Sardegna,GPL,SERVITO,0.828
-Sicilia,Gasolio,SELF,1.790
-Sicilia,Benzina,SELF,1.922
+Sardegna,Gasolio,SELF,1.805
+Sardegna,Benzina,SELF,1.935
+Sardegna,GPL,SERVITO,0.827
+Sicilia,Gasolio,SELF,1.787
+Sicilia,Benzina,SELF,1.921
 Sicilia,GPL,SERVITO,0.774
-Sicilia,Metano,SERVITO,1.680
-Toscana,Gasolio,SELF,1.788
-Toscana,Benzina,SELF,1.920
+Sicilia,Metano,SERVITO,1.673
+Toscana,Gasolio,SELF,1.784
+Toscana,Benzina,SELF,1.919
 Toscana,GPL,SERVITO,0.713
-Toscana,Metano,SERVITO,1.338
-Trento,Gasolio,SELF,1.814
-Trento,Benzina,SELF,1.926
+Toscana,Metano,SERVITO,1.337
+Trento,Gasolio,SELF,1.810
+Trento,Benzina,SELF,1.925
 Trento,GPL,SERVITO,0.737
 Trento,Metano,SERVITO,1.290
-Umbria,Gasolio,SELF,1.786
-Umbria,Benzina,SELF,1.918
+Umbria,Gasolio,SELF,1.782
+Umbria,Benzina,SELF,1.916
 Umbria,GPL,SERVITO,0.720
 Umbria,Metano,SERVITO,1.190
-Valle d'Aosta,Gasolio,SELF,1.836
-Valle d'Aosta,Benzina,SELF,1.946
+Valle d'Aosta,Gasolio,SELF,1.831
+Valle d'Aosta,Benzina,SELF,1.945
 Valle d'Aosta,GPL,SERVITO,0.826
 Valle d'Aosta,Metano,SERVITO,1.149
-Veneto,Gasolio,SELF,1.771
-Veneto,Benzina,SELF,1.905
+Veneto,Gasolio,SELF,1.768
+Veneto,Benzina,SELF,1.903
 Veneto,GPL,SERVITO,0.690
-Veneto,Metano,SERVITO,1.255
+Veneto,Metano,SERVITO,1.256
