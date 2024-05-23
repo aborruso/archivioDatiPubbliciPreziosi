@@ -36,6 +36,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:24:58.710779,Progetto MISTRAL,6d977765-a0cc-4cfa-8ac5-29e202cc7318,Mistral,progetto-mistral,0,https://dati.gov.it/view-dataset?organization=progetto-mistral
 2024-03-08T21:26:19.519194,Provincia autonoma di Bolzano,4188f7ff-0b05-4dbf-982e-9a6d99da7bc6,p_bz,provincia-autonoma-di-bolzano,617,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
 2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,6565,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
+2024-05-22T14:26:56.234855,Provincia di Biella,8722baa5-6824-4009-86e3-57075b943c5e,p_bi,provincia-di-biella,5,https://dati.gov.it/view-dataset?organization=provincia-di-biella
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,197,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,325,https://dati.gov.it/view-dataset?organization=regione-calabria
 2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,299,https://dati.gov.it/view-dataset?organization=regione-campania
