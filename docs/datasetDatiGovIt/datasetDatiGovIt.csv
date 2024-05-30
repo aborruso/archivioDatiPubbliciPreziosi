@@ -5805,7 +5805,6 @@ attivita-commerciali-edicole-2015
 attivita-commerciali-edicole-2016
 attivita-commerciali-esercizi-a-localizzazione-singola-e-centri-commerciali
 attivita-commerciali-esercizi-di-vicinato-in-sede-fissa
-attivita-commerciali-localizzazione-delle-edicole
 attivita-commerciali-media-e-grande-distribuzione
 attivita-commerciali-mercati-comunali-coperti
 attivita-commerciali-mercati-settimanali-scoperti
@@ -11711,6 +11710,7 @@ carte-delle-proprieta-chimico-fisiche-tessitura-dei-suoli-regionali-strato-0-30-
 carte-delle-proprieta-chimico-fisiche-valori-di-ph-nei-suoli-della-pianura-emiliano-romagnola-t
 carte-delle-proprieta-chimico-fisiche-valori-di-ph-nei-suoli-regionali-strato-0-30-cm
 carte-di-localizzazione-probabile-delle-valanghe-del-territorio-montano-veneto
+carte-forestali-cmbo-carta-forestale-2003-e-successivi-aggiornamenti-estensione-provincia-di-bo
 cartelloni-pubblicitari
 cartiera-di-vivaro-museo-della-carta-ptrc-2020
 carto_ambiti_provv_infr
@@ -13640,8 +13640,12 @@ comune-codogno-monitoraggio-procedimenti-anno-2019-i-semestre
 comune-codogno-monitoraggio-procedimenti-anno-2020
 comune-codogno-monitoraggio-procedimenti-anno-2021
 comune-codogno-monitoraggio-procedimenti-anno-2022-i-semestre
+comune-codogno-monitoraggio-procedimenti-anno-2022-i-semestre1
 comune-codogno-monitoraggio-procedimenti-anno-2022-ii-semestre
+comune-codogno-monitoraggio-procedimenti-anno-2022-ii-semestre1
 comune-codogno-monitoraggio-procedimenti-anno-2023-i-semestre
+comune-codogno-monitoraggio-procedimenti-anno-2023-i-semestre1
+comune-codogno-monitoraggio-procedimenti-anno-2023-ii-semestre
 comune-codogno-opere-pubbliche-tempi-e-costi-di-realizzazione
 comune-codogno-opere-pubbliche-tempi-e-costi-di-realizzazione-opere-minori
 comune-codogno-pratiche-sportello-unico-attivita-produttive-suap
@@ -13664,6 +13668,11 @@ comune-codogno-tempi-medi-erogazione-servizi-2018-i-semestre
 comune-codogno-tempi-medi-erogazione-servizi-2018-ii-semestre
 comune-codogno-tempi-medi-erogazione-servizi-2019-i-semestre
 comune-codogno-tempi-medi-erogazione-servizi-2020
+comune-codogno-tempi-medi-erogazione-servizi-2021
+comune-codogno-tempi-medi-erogazione-servizi-2022-i-semestre
+comune-codogno-tempi-medi-erogazione-servizi-2022-ii-semestre
+comune-codogno-tempi-medi-erogazione-servizi-2023-i-semestre
+comune-codogno-tempi-medi-erogazione-servizi-2023-ii-semestre
 comune-com_gpg-edizione-del-2021-100k
 comune-com_gpg-edizione-del-2021-250k
 comune-com_gpg-edizione-del-2021-25k
@@ -25599,6 +25608,8 @@ elezioni-europee-2019-voti-assegnati-ai-candidati-per-sezione-lista-9
 elezioni-europee-2019-voti-complessivi-assegnati-ai-candidati
 elezioni-europee-2019-voti-complessivi-assegnati-alle-liste
 elezioni-europee-20191
+elezioni-europee-2024-corrispondenza-civici-e-sezioni-elettorali
+elezioni-europee-2024-seggi-elettorali-e-sezioni-corrispondenti
 elezioni-europee-26-05-2014-liste
 elezioni-europee-26-05-2014-preferenze
 elezioni-europee-26-05-2014-votanti
@@ -30032,6 +30043,7 @@ infrastruttura-viaria1
 infrastrutture-1-1000
 infrastrutture-1-5000
 infrastrutture-ciclabili
+infrastrutture-cmbo
 infrastrutture-cmbo-tracciato-strade-provinciali-cmbo
 infrastrutture-di-trasporto-stradali
 infrastrutture-di-trasporto-stradali1
@@ -31356,7 +31368,6 @@ libioss-specie-animali-suddivise-nei-principali-gruppi-sistematici
 libioss-specie-e-grotte
 libioss-specie-raggruppate-per-regni
 libioss-zone-umide-ed-2016
-librerie
 librerie-indipendenti
 librerie-indipendenti1
 librerie1
@@ -34220,7 +34231,6 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-08-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-09-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-09-ore-12-utc
-modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-11-ore-12-utc
@@ -36892,6 +36902,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20201
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20202
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20203
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20204
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20205
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20206
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20207
@@ -37703,6 +37714,7 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-03-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-04-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-05-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-05-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-06-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-02-06-ore-12-utc
@@ -41387,6 +41399,7 @@ modello-ww3-a-10km-average-wave-period-sec-2024-02-07-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-02-07-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-02-08-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-02-08-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2024-02-09-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-02-09-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-02-10-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-02-10-ore-12-utc
@@ -42862,6 +42875,7 @@ nodi-di-teleriscaldamento
 nodi-e-parametri-dellazione-sismica-d-m-14-1-2008
 nodi-idraulici
 nodi-infrastrutturali
+nodi-infrastrutturali1
 nodi-pubblici-della-rete-delle-nano-tecnologie-ptrc-2020
 nodi-smistamento-ordini
 nodi-stradali
@@ -46866,7 +46880,9 @@ piani-zone-di-pericolo-delimitazione-delle-zone-a-rischio-idrogeologico-secondo-
 piani-zone-di-pericolo-frane
 piani-zone-di-pericolo-pericoli-idraulici
 piani-zone-di-pericolo-valanghe
+pianificazione-cmbo
 pianificazione-cmbo-mosaico-prg-cmbo
+pianificazione-cmbo-mosaico-psc-cmbo
 pianificazione-faunistico-venatoria-dcr-n-7-2021
 pianificazione-territoriale
 pianificazione-territoriale1
@@ -47241,6 +47257,7 @@ polis-lombardia-titolari-di-incarichi-amministrativi-di-vertice-anno-2020
 polis-lombardia-titolari-di-incarichi-amministrativi-di-vertice-anno-2021
 polis-lombardia-titolari-di-incarichi-amministrativi-di-vertice-anno-2022
 polis-lombardia-titolari-di-incarichi-amministrativi-di-vertice-anno-2023
+polis-lombardia-titolari-di-incarichi-amministrativi-di-vertice-anno-2024
 polis-lombardia-titolari-di-incarichi-dirigenziali-amministrativi-di-vertice-dirigenti-non-2018
 polis-lombardia-titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-govern-2018
 polis-lombardia-titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-govern-2019
@@ -51345,12 +51362,7 @@ ptc-2-strutture-di-ricovero
 ptc-2-strutture-ospedaliere-in-progetto
 ptc-2-suoli-agricoli-capacita-duso-dei-suoli
 ptc-2-tenimenti-mauriziano
-ptc-ambiti-di-localizzazione-di-nuove-previsioni-ferroviarie-ipotesi-progettuali-ferrovia-arezz
-ptc-attrezzature-e-servizi-culturali-espositivi-e-ambientali
-ptc-attrezzature-e-servizi-di-gestione-dei-rifiuti
-ptc-attrezzature-e-servizi-di-gestione-della-rete-infrastrutturale
-ptc-attrezzature-servizi-dotazioni-parchi-e-verde-attrezzato
-ptc-insediamenti-di-impianto-recente-a-prevalente-funzione-residenziale-o-mista
+ptc-antiche-percorrenze-ed-itinerari-di-interesse-storico-documentale-corridoi-di-salvaguardia
 ptc-poli-universitari-e-di-alta-formazione-superiore
 ptc-proposta-ampliamenti-parchi
 ptc-proposta-di-tram-provinciale
@@ -51358,8 +51370,11 @@ ptc-proposta-indicazione-corridoi-ecologici
 ptc-proposta-nodi-intermodali
 ptc-proposta-rete-di-progetto-per-la-mobilita
 ptc-proposta-rete-piste-ciclabili
-ptc-sedi-istituzionali-e-di-rappresentanza
 ptc-sistemi-territoriali
+ptc-struttura-agricola-invariante-iv-colture-tradizionali-a-maglia-fitta-iv-c
+ptc-struttura-insediativa-invariante-iii-centri-antichi-iii-a
+ptc-struttura-insediativa-invariante-iii-edifici-specialistici-di-interesse-storico-aree-di-per
+ptc-unita-di-paesaggio
 ptcp-1998-art-10-ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-prote
 ptcp-1998-art-10-ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-prote1
 ptcp-1998-art-11-aree-fragili-da-sottoporre-a-programma-di-paesaggio-citta-metropolitana-di-fir
@@ -52114,7 +52129,6 @@ quadro-riepilogativo-delle-intersezioni-areali-in-tra-ambito-di-trasformazione-p
 qualifiche-rilasciate-dalla-regione-lazio
 qualita-acque-di-balneazione-dlgs-116-08
 qualita-acque-sotterranee
-qualita-aria-zonizzazione-e-classificazione-delle-zone-per-la-valutazione-della-qualit-155-2010
 qualita-dei-corsi-dacqua
 qualita-dei-corsi-di-studio
 qualita-dei-laghi
@@ -52221,7 +52235,6 @@ quartieri
 quartieri-di-bologna
 quartieri-frazioni-e-borghi-di-lecce-popolazione-per-eta-e-sesso
 quartieri-statistiche-socio-demografiche
-quartieri-storici
 quartieri-storici1
 quartieri1
 questio
@@ -52706,6 +52719,7 @@ r_emiro_2023-06-14t082931
 r_emiro_2023-06-22t141618
 r_emiro_2023-07-24t104253
 r_emiro_2023-07-24t115525
+r_emiro_2023-08-02t140310
 r_emiro_2023-08-02t144815
 r_emiro_2023-08-09t153155
 r_emiro_2023-08-09t160758
@@ -52713,6 +52727,7 @@ r_emiro_2023-08-09t162508
 r_emiro_2024-02-27t112109
 r_emiro_2024-03-26t095445
 r_emiro_2024-04-22t100431
+r_emiro_2024-04-22t161652
 r_emiro_2024-05-14t155951
 r_emiro_dbtr2008_com_gpgsa
 r_emiro_dbtr2013_com_gpgsa
@@ -62402,6 +62417,7 @@ variazioni-vetture-pubbliche-anni-2009-2011
 variazioni-vetture-pubbliche-anno-2012
 vcave
 vecchi-quartieri
+vecchi-quartieri1
 vecchia-carta-tecnica-regionale-scala-1-10-000-in-formato-raster
 vecchia-carta-tecnica-regionale-scala-1-5-000-in-formato-raster
 vedovelle-fontanelle-nel-comune-di-milano
