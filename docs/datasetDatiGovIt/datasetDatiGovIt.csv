@@ -1495,6 +1495,7 @@ agro-centuriato-area
 agro-centuriato-area1
 agro-centuriato-linee
 agro-centuriato-linee1
+aineva-altezza-manto-nevoso
 air-break-index-centraline-ultime-24-ore
 air-break-index-medio-ultima-ora
 air-data-odala
@@ -1769,6 +1770,7 @@ albo-pretorio
 albo-pretorio-ultime-pubblicazioni-in-corso-comune-di-lecce
 albo-regionale-cooperative-sociali
 albo-regionale-cooperative-sociali-al-30-04-2022
+albo-regionale-cooperative-sociali-al-30-04-2024
 albo-regionale-cooperative-sociali-al-31-01-2022
 albo-regionale-cooperative-sociali-al-31-01-2023
 albo-regionale-cooperative-sociali-al-31-07-2022
@@ -2689,6 +2691,7 @@ analisi-dipendenti-dellente-comune-di-rovere-veronese
 analisi-dipendenti-dellente-comune-di-salgareda
 analisi-dipendenti-dellente-comune-di-san-biagio-di-callalta
 analisi-dipendenti-dellente-comune-di-san-giovanni-lupatoto
+analisi-dipendenti-dellente-comune-di-san-martino-di-lupari
 analisi-dipendenti-dellente-comune-di-santelena
 analisi-dipendenti-dellente-comune-di-santurbano
 analisi-dipendenti-dellente-comune-di-sarcedo
@@ -2854,6 +2857,7 @@ andamento-competenza-entrata-per-titoli-comune-di-saccolongo
 andamento-competenza-entrata-per-titoli-comune-di-salgareda
 andamento-competenza-entrata-per-titoli-comune-di-salizzole
 andamento-competenza-entrata-per-titoli-comune-di-san-biagio-di-callalta
+andamento-competenza-entrata-per-titoli-comune-di-san-martino-di-lupari
 andamento-competenza-entrata-per-titoli-comune-di-san-mauro-di-saline
 andamento-competenza-entrata-per-titoli-comune-di-san-pietro-di-morubio
 andamento-competenza-entrata-per-titoli-comune-di-san-pietro-in-cariano
@@ -3000,6 +3004,7 @@ andamento-competenza-uscita-per-titoli-comune-di-saccolongo
 andamento-competenza-uscita-per-titoli-comune-di-salgareda
 andamento-competenza-uscita-per-titoli-comune-di-salizzole
 andamento-competenza-uscita-per-titoli-comune-di-san-biagio-di-callalta
+andamento-competenza-uscita-per-titoli-comune-di-san-martino-di-lupari
 andamento-competenza-uscita-per-titoli-comune-di-san-mauro-di-saline
 andamento-competenza-uscita-per-titoli-comune-di-san-pietro-di-morubio
 andamento-competenza-uscita-per-titoli-comune-di-san-pietro-in-cariano
@@ -3305,6 +3310,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-saccolongo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-salgareda
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-salizzole
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-biagio-di-callalta
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-martino-di-lupari
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-mauro-di-saline
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-pietro-di-morubio
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-san-pietro-in-cariano
@@ -4477,6 +4483,7 @@ arpa-piemonte-campi-elettromagnetici-a-bassa-frequenza
 arpa-piemonte-campi-elettromagnetici-ad-alta-frequenza
 arpa-piemonte-campi-elettromagnetici-ad-alta-frequenza-dati-storici
 arpa-piemonte-carta-litologico-giacimentologica
+arpa-piemonte-censimenti-istat-della-popolazione-dal-1991-al-2021-comuni-e-sezioni
 arpa-piemonte-citta-di-torino-rete-piezometrica-metropolitana
 arpa-piemonte-conoidi-alluvionali-in-piemonte
 arpa-piemonte-discariche-attive-e-in-post-gestione
@@ -5131,6 +5138,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-saccolongo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salcedo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salgareda
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-salizzole
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-san-martino-di-lupari
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-san-pietro-in-cariano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sandrigo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sanguinetto
@@ -5140,7 +5148,6 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-saonara
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sarcedo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-selvazzano-dentro
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sona
-articolazione-degli-uffici-con-orari-al-pubblico-comune-di-sovizzo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-taglio-di-po
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-tonezza-del-cimone
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-torreglia
@@ -5610,6 +5617,7 @@ atti-amministrativi-comune-di-saccolongo
 atti-amministrativi-comune-di-salgareda
 atti-amministrativi-comune-di-salizzole
 atti-amministrativi-comune-di-san-biagio-di-callalta
+atti-amministrativi-comune-di-san-martino-di-lupari
 atti-amministrativi-comune-di-san-pietro-di-morubio
 atti-amministrativi-comune-di-san-pietro-in-cariano
 atti-amministrativi-comune-di-sandrigo
@@ -11458,6 +11466,7 @@ carta-di-sintesi-aree
 carta-di-sintesi-della-pericolosita
 carta-di-sintesi-geologica-2018
 carta-di-suscettibilita-per-frane-di-tipo-scorrimento
+carta-di-uso-del-suolo-2022-dataset
 carta-fisico-politica-dellemilia-romagna-1-250-000-colori-edizione-del-2021
 carta-fisico-politica-dellemilia-romagna-1-250-000-monocromatica-edizione-del-2021
 carta-forestale-del-distretto-arci-grighine
@@ -11484,7 +11493,6 @@ carta-geologica-1-25-000-risorse-e-prospezioni-50k
 carta-geologica-1-25-000-tracciati-geologici-e-geofisici-50k
 carta-geologica-1-25-000-unita-cartografabili-geologiche-50k
 carta-geologica-1-25k-dataset
-carta-geologica-1-25k-foglio-204-portomaggiore-dataset
 carta-geologica-500k-dataset
 carta-geologica-delle-unita-liguridi-dellarea-del-pollino
 carta-geologica-dellumbria
@@ -11492,6 +11500,8 @@ carta-geologica-depositi-di-frana
 carta-geologica-depositi-quaternari
 carta-geologica-dgpv
 carta-geologica-ditalia-in-scala-1-100-000-dataset
+carta-geologica-ditalia-in-scala-1-100-000-elementigeomorfologici-dataset
+carta-geologica-ditalia-in-scala-1-100-000-elementitettonici-dataset
 carta-geologica-elementi-areali
 carta-geologica-elementi-lineari
 carta-geologica-elementi-puntuali
@@ -11588,8 +11598,6 @@ carta-tecnica-comunale-unita-volumetriche
 carta-tecnica-comunale-unita-volumetriche1
 carta-tecnica-linee-open-data
 carta-tecnica-numerica-scala-1-2-000-numeri-civici
-carta-tecnica-numerica-scala-1-2000-lotto-1-edizione-2005
-carta-tecnica-numerica-scala-1-2000-regione-siciliana-cart2000
 carta-tecnica-poligoni-open-data
 carta-tecnica-provinciale-ctp-2013
 carta-tecnica-provinciale-ctp-2015
@@ -11701,6 +11709,8 @@ carte-applicative-sostanza-organica-dei-suoli-della-pianura-emiliano-romagnola-s
 carte-d-identita-emesse-2017
 carte-d-identita-emesse-per-tipologia-e-sede-2018
 carte-del-rischio-di-incendio
+carte-delle-proprieta-chimico-fisiche-contenuto-k-scambiabile-nei-suoli-regionali-tra-0-30-cm-s
+carte-delle-proprieta-chimico-fisiche-contenuto-p-assimilabile-nei-suoli-regionali-tra-0-30-cm-
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell1
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell2
@@ -11710,7 +11720,6 @@ carte-delle-proprieta-chimico-fisiche-tessitura-dei-suoli-regionali-strato-0-30-
 carte-delle-proprieta-chimico-fisiche-valori-di-ph-nei-suoli-della-pianura-emiliano-romagnola-t
 carte-delle-proprieta-chimico-fisiche-valori-di-ph-nei-suoli-regionali-strato-0-30-cm
 carte-di-localizzazione-probabile-delle-valanghe-del-territorio-montano-veneto
-carte-forestali-cmbo-carta-forestale-2003-e-successivi-aggiornamenti-estensione-provincia-di-bo
 cartelloni-pubblicitari
 cartiera-di-vivaro-museo-della-carta-ptrc-2020
 carto_ambiti_provv_infr
@@ -11810,7 +11819,6 @@ cassa-integrazione-guadagni-anno-cig-2016
 cassa-integrazione-guadagni-anno-cig-2017
 cassonetti-amiu
 castel-catasto-localizzazione-impianti-di-telecomunicazione-e-radiotelevisione-nel-comune-di-mi
-castel-catasto-potenze-impianti-di-telecomunicazione-e-radiotelevisione-nel-comune-di-milano
 castel-di-lama-edifici-comunali-ad-uso-pubblico
 castelbellino_prg_edtut
 castelbellino_vinc_idrogeo
@@ -11953,6 +11961,7 @@ cave-inattive1
 cave-perimetri-autorizzati
 cavita-sotterranee-artificiali-dataset
 cdda-report-2020-italia-dataaset
+cdda-report-2024-italia-dataaset
 cds-sanzioni-agosto-2013-per-serie-articolo
 cds-sanzioni-agosto-2013-per-via-articolo
 cds-sanzioni-agosto-2014-per-serie-articolo
@@ -12352,6 +12361,7 @@ certificazioni-di-malattia-per-i-dipendenti-pubblici-e-privati1
 certificazioni-e-documenti-relativi-alla-sicurezza
 certificazioni-e-documenti-relativi-alla-sicurezza-dalla-s-2020-2021
 certificazioni-formazione-professionale
+cesi-fulminazioni
 cessazioni-al-lavoro
 cessazioni-dal-lavoro-anno-2015
 cessazioni-dal-lavoro-anno-2016
@@ -12556,6 +12566,8 @@ citta-metropolitana-milano-confini-zone-omogenee
 citta-metropolitana-milano-consiglio-metropolitano-per-fascia-demografica-dal-2014
 citta-metropolitana-milano-consiglio-metropolitano-preferenze-dal-2014
 citta-metropolitana-milano-consiglio-metropolitano-voti-e-seggi-dal-2014
+citta-metropolitana-milano-dati-pozzi-piezometri-e-punti-di-presa
+citta-metropolitana-milano-dati-pozzi-piezometri-e-punti-di-presa1
 citta-metropolitana-milano-dirigenti-accordi-stipulati
 citta-metropolitana-milano-dirigenti-autorizzazioni-o-concessioni
 citta-metropolitana-milano-dirigenti-scelta-del-contraente
@@ -12585,7 +12597,7 @@ citta-metropolitana-milano-isopieze-i-falda-settembre-2013
 citta-metropolitana-milano-istituti-scolastici-superiori-2017-2018
 citta-metropolitana-milano-mappa-autoscuole
 citta-metropolitana-milano-mappa-bonifiche-ambientali
-citta-metropolitana-milano-mappa-pozzi-piezometrici
+citta-metropolitana-milano-mappa-dati-pozzi-piezometri-e-punti-di-presa
 citta-metropolitana-milano-mappa-scuole-nautiche
 citta-metropolitana-milano-organi-di-indirizzo-politico-accordi-stipulati
 citta-metropolitana-milano-organi-di-indirizzo-politico-scelta-del-contraente
@@ -12618,7 +12630,6 @@ citta-metropolitana-milano-popolazione-residente-straniera-al-01-01-2017-per-eta
 citta-metropolitana-milano-popolazione-residente-straniera-al-01-01-2018-per-eta-per-comune
 citta-metropolitana-milano-popolazione-residente-straniera-al-31-12-2017-per-eta-per-comune
 citta-metropolitana-milano-popolazione-residente-straniera-al-31-12-2018-per-eta-per-comune
-citta-metropolitana-milano-pozzi-piezometrici
 citta-metropolitana-milano-progressive-chilometriche-strade-provinciali
 citta-metropolitana-milano-punti-parco-agricolo-sud-milano
 citta-metropolitana-milano-punti-wi-fi
@@ -17943,6 +17954,7 @@ concentrazione-media-annuale-di-biossido-di-azoto-no2-nei-comuni-capoluogo-di-pr
 concentrazione-media-annuale-di-pm10-nei-comuni-capoluogo-di-provincia
 concentrazione-media-annuale-di-pm2-5-nei-comuni-capoluogo-di-provincia
 concentrazione-media-di-radon-indoor-1989-2006
+concentrazioni-pollini-spore-pollnet-dataset
 concessioni-avviso-architettura-rurale-pnrr
 concessioni-dei-beni-confiscati-alla-criminalita-organizzata
 concessioni-del-comune-di-ala
@@ -18099,7 +18111,6 @@ concorsi-comune-di-santurbano
 concorsi-comune-di-sarcedo
 concorsi-comune-di-selvazzano-dentro
 concorsi-comune-di-soave
-concorsi-comune-di-sovizzo
 concorsi-comune-di-taglio-di-po
 concorsi-comune-di-tonezza-del-cimone
 concorsi-comune-di-val-liona
@@ -18668,6 +18679,7 @@ consumo-di-suolo-2018-dataset
 consumo-di-suolo-2019-dataset
 consumo-di-suolo-2020-dataset
 consumo-di-suolo-2021-dataset
+consumo-di-suolo-2022-dataset
 consumo-di-suolo-cambiamento-2017-2018-dataset
 consumo-di-suolo-della-regione-emilia-romagna-consumo-di-suolo-della-regione-emilia-romagn-2022
 consumo-di-suolo-della-regione-emilia-romagna-consumo-di-suolo-della-regione-emilia-romagn-20221
@@ -18892,6 +18904,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-rovere-verones
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-salgareda
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-san-giovanni-l
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-san-martino-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-santurbano
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-sarcedo
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-soave
@@ -18972,6 +18985,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-sal
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-san
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-san1
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-san2
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-sar
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-soa
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-tag
@@ -19059,6 +19073,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale74
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale75
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale76
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale77
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale8
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a
@@ -19136,6 +19151,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a74
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a75
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a76
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a77
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e
@@ -19215,6 +19231,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e76
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e77
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e78
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e79
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s
@@ -19294,6 +19311,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s76
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s77
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s78
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s79
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
@@ -19368,6 +19386,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu69
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu70
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu71
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu8
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cons
@@ -20033,6 +20052,7 @@ costo-del-personale-comune-di-quinto-di-treviso
 costo-del-personale-comune-di-recoaro-terme
 costo-del-personale-comune-di-rossano-veneto
 costo-del-personale-comune-di-rovere-veronese
+costo-del-personale-comune-di-san-martino-di-lupari
 costo-del-personale-comune-di-santelena
 costo-del-personale-comune-di-santurbano
 costo-del-personale-comune-di-sarcedo
@@ -20124,6 +20144,7 @@ cultura-localizzazione-dei-centri-congressi
 cultura-localizzazione-delle-associazioni-culturali
 cultura-localizzazione-delle-biblioteche-ed-archivi
 cultura-milano-musei-card
+cumulate-di-precipitazione-srt
 cunettone
 cup
 cupra-marittima-edifici-comunali-ad-uso-pubblico
@@ -21803,6 +21824,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-saccolongo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-salgareda
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-salizzole
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-biagio-di-callalta
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-martino-di-lupari
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-mauro-di-saline
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-pietro-di-morubio
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-san-pietro-in-cariano
@@ -21946,6 +21968,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-saccolongo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-salgareda
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-salizzole
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-biagio-di-callalta
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-martino-di-lupari
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-mauro-di-saline
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-pietro-di-morubio
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-san-pietro-in-cariano
@@ -23176,7 +23199,6 @@ elenco-associazioni-comune-di-sanguinetto
 elenco-associazioni-comune-di-sarcedo
 elenco-associazioni-comune-di-selvazzano-dentro
 elenco-associazioni-comune-di-soave
-elenco-associazioni-comune-di-sovizzo
 elenco-associazioni-comune-di-torri-di-quartesolo
 elenco-associazioni-comune-di-valdastico
 elenco-associazioni-comune-di-zenson-di-piave
@@ -23579,6 +23601,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-comune-di-povegliano-veronese
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-rovere-veronese
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-saccolongo
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-salizzole
+elenco-dei-fascicoli-suddivisi-per-anno-comune-di-san-martino-di-lupari
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-san-pietro-di-morubio
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-san-pietro-in-cariano
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-sanguinetto
@@ -23712,6 +23735,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-saccolongo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-salgareda
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-salizzole
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-san-biagio-di-callalta
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-san-martino-di-lupari
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-san-pietro-di-morubio
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-san-pietro-in-cariano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-sanguinetto
@@ -23926,6 +23950,7 @@ elenco-delle-pubblicazioni-comune-di-saccolongo
 elenco-delle-pubblicazioni-comune-di-salgareda
 elenco-delle-pubblicazioni-comune-di-salizzole
 elenco-delle-pubblicazioni-comune-di-san-biagio-di-callalta
+elenco-delle-pubblicazioni-comune-di-san-martino-di-lupari
 elenco-delle-pubblicazioni-comune-di-san-mauro-di-saline
 elenco-delle-pubblicazioni-comune-di-san-pietro-di-morubio
 elenco-delle-pubblicazioni-comune-di-san-pietro-in-cariano
@@ -25608,8 +25633,11 @@ elezioni-europee-2019-voti-assegnati-ai-candidati-per-sezione-lista-9
 elezioni-europee-2019-voti-complessivi-assegnati-ai-candidati
 elezioni-europee-2019-voti-complessivi-assegnati-alle-liste
 elezioni-europee-20191
+elezioni-europee-2024-abbinamenti-dei-civici-alle-sezioni-elettorali
 elezioni-europee-2024-corrispondenza-civici-e-sezioni-elettorali
+elezioni-europee-2024-indirizzi-e-plessi-elettorali
 elezioni-europee-2024-seggi-elettorali-e-sezioni-corrispondenti
+elezioni-europee-2024-sezioni-e-sedi-elettorali
 elezioni-europee-26-05-2014-liste
 elezioni-europee-26-05-2014-preferenze
 elezioni-europee-26-05-2014-votanti
@@ -30043,8 +30071,6 @@ infrastruttura-viaria1
 infrastrutture-1-1000
 infrastrutture-1-5000
 infrastrutture-ciclabili
-infrastrutture-cmbo
-infrastrutture-cmbo-tracciato-strade-provinciali-cmbo
 infrastrutture-di-trasporto-stradali
 infrastrutture-di-trasporto-stradali1
 infrastrutture-energetiche-regionali
@@ -30828,6 +30854,7 @@ it-ostelli1
 it-rifugi-montagna
 it-rifugi-montagna1
 italian-tsunami-effects-database-ited
+italy-flash-flood
 ithaca-italy-hazards-from-capable-faulting-dataset
 itinera_romanica_tracciato
 itinerari-ciclabili
@@ -30952,6 +30979,7 @@ lago-moo
 laguna-di-grado-e-marano
 lampeggiatori
 lampeggiatori1
+lampinet-fulminazioni
 land-cover
 land-cover-habitat-mapping-dataset
 land-cover-surfaces
@@ -31368,6 +31396,7 @@ libioss-specie-animali-suddivise-nei-principali-gruppi-sistematici
 libioss-specie-e-grotte
 libioss-specie-raggruppate-per-regni
 libioss-zone-umide-ed-2016
+librerie
 librerie-indipendenti
 librerie-indipendenti1
 librerie1
@@ -31594,6 +31623,7 @@ linee-servizio-trasporto-scuolabus
 linee-strutturali
 linee-tram
 linee-tram1
+linet-fulminazioni
 linguaggio-utilizzato-dagli-utenti-digitroma-wi-fi
 link-utili
 linnovazione-aiuti-alle-piccole-imprese-innovative-operative-e-di-nuova-costituzione
@@ -32799,6 +32829,8 @@ mappa-ostelli-della-gioventu
 mappa-percorsi-di-formazione-superiore-its
 mappa-piste-da-sci
 mappa-qualita-acque-sotterranee
+mappa-regionale-fisica-sc-1-200000
+mappa-regionale-tematica-sc-1-200000
 mappa-residenze-sanitarie-assistenziali
 mappa-residenze-sanitarie-assistenziali1
 mappa-residenze-socio_sanitarie-per-disabili
@@ -32846,6 +32878,7 @@ mappatura-dei-punti-di-entrata-e-uscita-nella-rete-di-raccolta-dei-deflussi-urba
 mappatura-dei-punti-di-entrata-ed-uscita-nella-rete-di-raccolta-dei-deflussi-urbani-nel-comune-
 mappatura-della-rete-di-raccolta-dei-deflussi-urbani-comune-di-adria-2021
 mappatura-della-rete-di-raccolta-dei-deflussi-urbani-comune-di-villadose-2021
+mappatura-dellamianto-ai-sensi-del-d-m-101-del-18-marzo-2003
 mappatura-punti-acqua-di-ricarica-comune-di-villadose
 mappe-storiche-dimpianto
 marchi-e-brevetti-depositati-anno-2018
@@ -33174,6 +33207,7 @@ metalli-acque-sotterranee
 metalli-fiumi
 metalli-laghi
 metalli-pesanti-nel-pm10-anni-2018-2022
+metar-meteo-wmo-e-synop-dati-meteo-convenzionali-a-terra
 meteo
 meteo-data
 meteo-dati-delle-stazioni-regionali
@@ -33201,6 +33235,8 @@ meteo-temperature-2017
 meteo-umidita-relativa-per-mese
 meteo-velocita-del-vento-per-mese
 meteo1
+meteomont-altezza-manto-nevoso
+meteonetwork
 methods-for-crediting-salaries
 metodo-carlit-per-lo-stato-ecologico-dei-corpi-idrici-marini-anno-2009
 metodo-carlit-per-lo-stato-ecologico-dei-corpi-idrici-marini-anno-2010
@@ -34231,6 +34267,7 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-08-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-09-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-09-ore-12-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-10-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-11-ore-12-utc
@@ -34865,7 +34902,6 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-19-ore-00-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-19-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-20-ore-12-utc
-modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-22-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-22-ore-12-utc
@@ -39369,7 +39405,6 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-15-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-16-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-16-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-17-ore-00-utc
-modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-17-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-18-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-19-ore-00-utc
@@ -39416,7 +39451,6 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-08-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-09-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-09-ore-12-utc
-modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-10-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-11-ore-12-utc
@@ -41375,7 +41409,6 @@ modello-ww3-a-10km-average-wave-period-sec-2024-01-26-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-26-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-27-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-27-ore-12-utc
-modello-ww3-a-10km-average-wave-period-sec-2024-01-28-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-28-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-29-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-29-ore-12-utc
@@ -42598,6 +42631,7 @@ msfd-sub-regioni-italiane-dataset
 mtb-divieti
 mtb-rete-dei-percorsi-in-mountainbike
 multicronicita-e-limitazioni-gravi-75-anni-e-piu
+multimodel-forecasts
 multiservizi-mappa-degli-esercizi-commerciali
 municipi
 municipio-x-elenco-sezioni-elettorali
@@ -45397,6 +45431,7 @@ osservazioni-giornaliere-di-qualita-dell-aria-ozono-o3
 osservazioni-giornaliere-di-qualita-dell-aria-per-biossido-di-azoto-no2
 osservazioni-giornaliere-di-qualita-dell-aria-per-ozono-o3
 osservazioni-grezze-storiche-del-sensore-di-qualita-dell-aria
+osservazioni-idro-meteo-stazioni-al-suolo
 osservazioni-metereologiche-anno-2010
 osservazioni-metereologiche-anno-2010-2011
 osservazioni-orarie-in-tempo-reale-della-qualita-dell-aria
@@ -46880,9 +46915,7 @@ piani-zone-di-pericolo-delimitazione-delle-zone-a-rischio-idrogeologico-secondo-
 piani-zone-di-pericolo-frane
 piani-zone-di-pericolo-pericoli-idraulici
 piani-zone-di-pericolo-valanghe
-pianificazione-cmbo
 pianificazione-cmbo-mosaico-prg-cmbo
-pianificazione-cmbo-mosaico-psc-cmbo
 pianificazione-faunistico-venatoria-dcr-n-7-2021
 pianificazione-territoriale
 pianificazione-territoriale1
@@ -47265,6 +47298,7 @@ polis-lombardia-titolari-di-incarichi-politici-di-amministrazione-di-direzione-o
 polis-lombardia-titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-govern-2021
 polis-lombardia-titolari-di-posizioni-organizzative
 polis-lombardia-titolari-di-posizioni-organizzative-anno-2019-2021
+polis-lombardia-titolari-di-posizioni-organizzative-anno-2024-2025
 polis-lombardia_provvedimenti-dirigenti-amministrativi_2019
 polis-lombardia_provvedimenti-dirigenti-amministrativi_2020
 polis-lombardia_provvedimenti-dirigenti-amministrativi_2021
@@ -47532,6 +47566,7 @@ polizie-locali
 polizie-locali-indirizzi-telefoni-e-attivita-delle-polizie-locali
 pollini-ad-uso-interno
 pollini-dati-osservati-e-previsti-in-regione
+pollini-e-spore-fungine-pollnet-dataset
 polo-del-turismo-congressuale-e-convention-bureau-ptrc-2020
 polo-di-ricerca-per-le-tecnologie-a-campagna-ptrc-2020
 polo-di-turismo-termale-ptrc-2020
@@ -49162,6 +49197,7 @@ precipitazione-climatologica
 precipitazione-cumulata-1981-2010
 precipitazione-cumulata-negli-ultimi-30-min-mm
 precipitazione-cumulata-nelle-ultime-3-ore-mm
+precipitazione-istantanea-stima-della-intensita-sri
 precipitazioni-annuali-2012-2017
 precipitazioni-annue-clima-1961-1990-ed-2010
 precipitazioni-annue-clima-1961-1990-ed-2017
@@ -49385,6 +49421,8 @@ previsioni-di-assunzione-anno-2021
 previsioni-mare
 previsioni-meteo-per-la-costa-toscana
 previsioni-meteorologiche-emilia-romagna-elaborazione-per-app-meteo
+previsioni-meteorologiche-modello-cosmo-2i-accordo-lami
+previsioni-meteorologiche-modello-cosmo-5m-accordo-lami
 previsioni-meteorologiche-numeriche-emilia-romagna
 previsioni-nascite-decessi-e-tassi-di-natalita-periodo-2020-2021-comune-di-rovigo
 previsioni-per-le-localita-toscane
@@ -50805,6 +50843,8 @@ provincia-monza-brianza-comuni-della-provincia-di-monza-e-della-brianza-aderenti
 provincia-monza-brianza-direttori-tecnici-di-agenzie-di-viaggi
 provincia-monza-brianza-elenco-comuni-provincia-di-monza-e-della-brianza
 provincia-monza-brianza-elenco-comuni-provincia-di-monza-e-della-brianza1
+provincia-monza-brianza-enti-che-hanno-aderito-alla-centrale-unica-dei-concorsi-di-monza-e-dell
+provincia-monza-brianza-enti-che-hanno-aderito-alla-centrale-unica-dei-concorsi-di-monza-e-dell1
 provincia-monza-brianza-enti-vigilati
 provincia-monza-brianza-flussi-turistici-2016-arrivi-italiani-e-stranieri
 provincia-monza-brianza-flussi-turistici-2016-presenze-italiani-e-stranieri
@@ -51362,19 +51402,21 @@ ptc-2-strutture-di-ricovero
 ptc-2-strutture-ospedaliere-in-progetto
 ptc-2-suoli-agricoli-capacita-duso-dei-suoli
 ptc-2-tenimenti-mauriziano
-ptc-antiche-percorrenze-ed-itinerari-di-interesse-storico-documentale-corridoi-di-salvaguardia
-ptc-poli-universitari-e-di-alta-formazione-superiore
+ptc-attrezzature-servizi-dotazioni-parchi-e-verde-attrezzato
+ptc-elementi-funzionali-e-di-azione-strategica-varchi-e-corridoi
+ptc-insediamenti-recenti-a-prevalente-destinazione-produttiva
+ptc-ippovie-di-interesse-regionale-e-provinciale
 ptc-proposta-ampliamenti-parchi
 ptc-proposta-di-tram-provinciale
 ptc-proposta-indicazione-corridoi-ecologici
 ptc-proposta-nodi-intermodali
 ptc-proposta-rete-di-progetto-per-la-mobilita
 ptc-proposta-rete-piste-ciclabili
+ptc-rete-della-mobilita-lenta-di-fruizione-del-paesaggio-rete-ciclabile-di-interesse-regionale-
+ptc-sedi-istituzionali-e-di-rappresentanza
 ptc-sistemi-territoriali
-ptc-struttura-agricola-invariante-iv-colture-tradizionali-a-maglia-fitta-iv-c
-ptc-struttura-insediativa-invariante-iii-centri-antichi-iii-a
-ptc-struttura-insediativa-invariante-iii-edifici-specialistici-di-interesse-storico-aree-di-per
-ptc-unita-di-paesaggio
+ptc-struttura-ecosistemica-invariante-ii-ecosistemi-ofiolitici-con-garighe-praterie-aride-e-bos
+ptc-struttura-insediativa-invariante-iii-edilizia-rurale-di-antica-formazione-iii-e
 ptcp-1998-art-10-ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-prote
 ptcp-1998-art-10-ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-prote1
 ptcp-1998-art-11-aree-fragili-da-sottoporre-a-programma-di-paesaggio-citta-metropolitana-di-fir
@@ -51528,12 +51570,6 @@ ptcp-unita-di-paesaggio-approvato
 ptcp-ville-ed-edifici-specialistici
 ptcp-ville-ed-edifici-specialistici-approvato
 ptcp_fascia_terrazzi_alti
-ptm-cmbo
-ptm-cmbo-tavola-1-carta-della-struttura
-ptm-cmbo-tavola-2-carta-degli-ecosistemi
-ptm-cmbo-tavola-3-carta-di-area-vasta-del-rischio-idraulico-rischio-da-frana-e-dellassetto-dei-
-ptm-cmbo-tavola-4-carta-di-area-vasta-delle-aree-suscettibili-di-effetti-locali
-ptm-cmbo-tavola-5-carta-delle-reti-ecologiche-della-fruizione-del-turismo
 ptp
 ptp-abitazioni
 ptp-agglomerati-storici
@@ -52114,7 +52150,6 @@ quadro-dunione-lidar-campolongo-2011
 quadro-dunione-lidar-pat-2014-2018
 quadro-dunione-mappe-scala-1-5-000-ed50
 quadro-dunione-sezioni-1-10-000-taglio-ed50
-quadro-dunione-sezioni-c-t-r-scala-1-10-000-anno-2012-2013
 quadro-dunione-sezioni-ctr-a-scala-1-10-000
 quadro-dunione-tavole-1-25000-taglio-ed50
 quadro-economico
@@ -52129,6 +52164,7 @@ quadro-riepilogativo-delle-intersezioni-areali-in-tra-ambito-di-trasformazione-p
 qualifiche-rilasciate-dalla-regione-lazio
 qualita-acque-di-balneazione-dlgs-116-08
 qualita-acque-sotterranee
+qualita-aria-zonizzazione-e-classificazione-per-la-valutazione-della-qualita-dellaria-441-2024
 qualita-dei-corsi-dacqua
 qualita-dei-corsi-di-studio
 qualita-dei-laghi
@@ -52235,6 +52271,7 @@ quartieri
 quartieri-di-bologna
 quartieri-frazioni-e-borghi-di-lecce-popolazione-per-eta-e-sesso
 quartieri-statistiche-socio-demografiche
+quartieri-storici
 quartieri-storici1
 quartieri1
 questio
@@ -53032,7 +53069,9 @@ radioattivita-nei-fanghi-e-nei-reflui-dei-depuratori-urbani-anni-2013-2017
 radioattivita-nel-latte-cesio-137-anni-1999-2020
 radioattivita-nel-particolato-atmosferico-cesio-137-aggiornamento-2020
 radiotrasmettitori
+radon-comuni-2021-con-alta-radioattivita-naturale-potenziale-dataset
 radon-radioattivita-naturale-potenziale-dataset
+radon-regioni-province-autonome-2021-interessate-da-alta-radioattivita-naturale-potenziale-data
 radon-schema-litologico-nazionale-dataset
 rae2012-monitoraggio-finanziario
 rae2012-monitoraggio-fisico
@@ -53938,6 +53977,7 @@ regione-toscana-zsc-zps-zone-speciali-di-conservazione-zone-di-protezione-specia
 regione-umbria
 regione-veneto
 regioni-deuropa
+regioni-pollnet-dataset
 registrazioni-a-pisa-wifi-anno-2016
 registrazioni-audio-sedute-consiglio-comunale-anno-2014
 registrazioni-audio-sedute-consiglio-comunale-anno-2015
@@ -54834,6 +54874,7 @@ residui-finali-per-esercizio-comune-di-saccolongo
 residui-finali-per-esercizio-comune-di-salgareda
 residui-finali-per-esercizio-comune-di-salizzole
 residui-finali-per-esercizio-comune-di-san-biagio-di-callalta
+residui-finali-per-esercizio-comune-di-san-martino-di-lupari
 residui-finali-per-esercizio-comune-di-san-mauro-di-saline
 residui-finali-per-esercizio-comune-di-san-pietro-di-morubio
 residui-finali-per-esercizio-comune-di-san-pietro-in-cariano
@@ -54973,16 +55014,7 @@ rete-ecologica-regionale-del-lazio
 rete-ecologica-regione-umbria-reru
 rete-ecologica1
 rete-elettrica
-rete-escursionistica-agriturismo
-rete-escursionistica-attrezzatura-alberghiera
-rete-escursionistica-campeggio
-rete-escursionistica-centro-visita
-rete-escursionistica-emergenza-antropico-ambientale
-rete-escursionistica-farmacia
-rete-escursionistica-fermata-bus
-rete-escursionistica-limitazione-al-transito
 rete-escursionistica-museo
-rete-escursionistica-ostello
 rete-escursionistica-parcheggio
 rete-escursionistica-percorso-escursionistico
 rete-escursionistica-pericolo-valanghe
@@ -55665,6 +55697,7 @@ rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2020
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2021-febbraio
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2021-gennaio
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2021-marzo
+rilevazione-di-pioggia-intensa-hrd
 rilevazione-direzione-del-vento-anno-2018
 rilevazione-direzione-del-vento-anno-2019
 rilevazione-direzione-del-vento-anno-2020
@@ -56268,6 +56301,7 @@ riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossio
 rivestimento-in-alveo
 riviera-berica-ptrc-2020
 riviera-del-bacchiglione-da-padova-a-vicenza-ptrc-2020
+rmn-rete-mareografica-nazionale
 rnc-rilevazione-numeri-civici-ed-edifici
 road-area
 road-biking-trails-in-the-veneto-region
@@ -56354,6 +56388,7 @@ roma-capitale-elezioni-politiche-4-marzo-2018-collegio-iv-senato-della-repubblic
 roma-capitale-elezioni-regionali-4-marzo-2018-voti-presidente
 roma-capitale-lelenco-dei-seggi-elettorali-nei-municipi-iii-e-viii
 roma-capitale-scuole-arti-e-mestieri
+ron-rete-ondametrica-nazionale
 rosora_censimento
 rosora_risorse
 rosora_vincoli
@@ -57793,8 +57828,8 @@ servizio-trasporto-scolastico-comune-di-minerbe
 servizio-trasporto-scolastico-comune-di-noventa-padovana
 servizio-trasporto-scolastico-comune-di-rovere-veronese
 servizio-trasporto-scolastico-comune-di-salgareda
+servizio-trasporto-scolastico-comune-di-san-martino-di-lupari
 servizio-trasporto-scolastico-comune-di-soave
-servizio-trasporto-scolastico-comune-di-sovizzo
 servizio-trasporto-scolastico-magnano-in-riviera
 servizio-vigili-nonni
 servizio-web-dei-musei-in-alto-adige
@@ -58089,7 +58124,9 @@ sistema-delle-aree-agricole-pup
 sistema-di-allertamento
 sistema-di-allertamento-fiumi-per-i-quali-viene-definita-la-criticita-idraulica
 sistema-di-allertamento-tratti-fluviali-dei-corsi-dacqua-maggiori-oggetto-di-monitoraggio-in-co
+sistema-di-allertamento-tratti-servizio-di-piena-gestiti-dallagenzia-regionale-per-la-sicurezza
 sistema-di-allertamento-zone-di-allerta
+sistema-di-allertamento-zone-di-allerta-valanghe
 sistema-dunale
 sistema-dunale1
 sistema-economico-locale-area-fiorentina-quadrante-centrale
@@ -58975,6 +59012,7 @@ stato-avanzamento-piano-triennale-comune-di-casale-sul-sile
 stato-avanzamento-piano-triennale-comune-di-castelnovo-bariano
 stato-avanzamento-piano-triennale-comune-di-castelnuovo-del-garda
 stato-avanzamento-piano-triennale-comune-di-cordignano
+stato-avanzamento-piano-triennale-comune-di-cornedo-vicentino
 stato-avanzamento-piano-triennale-comune-di-creazzo
 stato-avanzamento-piano-triennale-comune-di-crespadoro
 stato-avanzamento-piano-triennale-comune-di-fara-vicentino
@@ -59407,6 +59445,7 @@ stazioni-monitoraggio-superficiali-pesticidi-2020-dataset
 stazioni-piezometriche
 stazioni-pluviometriche
 stazioni-pluviometriche1
+stazioni-pollnet-dataset
 stazioni-qualita-dellaria
 stazioni-qualita-dellaria-nrt
 stazioni-radio-base
@@ -60797,6 +60836,7 @@ tema-0801-localita-significative-comune-di-milano-dbt-2012-serie
 tema-0901-ambiti-amministrativi-enti-locali-comune-di-milano-dbt-2012-serie
 tema-1001-servizi-per-il-trasporto-comune-di-milano-dbt-2012-serie
 tema-1003-cave-discariche-comune-di-milano-dbt-2012-serie
+temp-dati-meteo-convenzionali-in-quota
 temperatura-bulbo-asciutto-ottobre-2014-aprile-2017
 temperatura-dal-2011-al-2020
 temperatura-dal-2021
@@ -61133,6 +61173,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-rossano-v
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-rovere-ve
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-salgareda
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-san-marti
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-san-pietr
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-sanguinet
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-santelena
@@ -62417,7 +62458,6 @@ variazioni-vetture-pubbliche-anni-2009-2011
 variazioni-vetture-pubbliche-anno-2012
 vcave
 vecchi-quartieri
-vecchi-quartieri1
 vecchia-carta-tecnica-regionale-scala-1-10-000-in-formato-raster
 vecchia-carta-tecnica-regionale-scala-1-5-000-in-formato-raster
 vedovelle-fontanelle-nel-comune-di-milano
