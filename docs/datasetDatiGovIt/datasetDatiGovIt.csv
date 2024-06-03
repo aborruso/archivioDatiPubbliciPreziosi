@@ -11493,6 +11493,7 @@ carta-geologica-1-25-000-risorse-e-prospezioni-50k
 carta-geologica-1-25-000-tracciati-geologici-e-geofisici-50k
 carta-geologica-1-25-000-unita-cartografabili-geologiche-50k
 carta-geologica-1-25k-dataset
+carta-geologica-1-25k-foglio-204-portomaggiore-dataset1
 carta-geologica-500k-dataset
 carta-geologica-delle-unita-liguridi-dellarea-del-pollino
 carta-geologica-dellumbria
@@ -34902,6 +34903,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-19-ore-00-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-19-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-20-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-21-ore-00-utc1
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-22-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-01-22-ore-12-utc
@@ -39405,6 +39407,7 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-15-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-16-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-16-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-17-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-17-ore-12-utc1
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-18-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-01-19-ore-00-utc
@@ -39451,6 +39454,7 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-08-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-09-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-09-ore-12-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-10-ore-00-utc1
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-10-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-11-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-02-11-ore-12-utc
@@ -41409,6 +41413,7 @@ modello-ww3-a-10km-average-wave-period-sec-2024-01-26-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-26-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-27-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-27-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2024-01-28-ore-00-utc1
 modello-ww3-a-10km-average-wave-period-sec-2024-01-28-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-29-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-01-29-ore-12-utc
@@ -55015,6 +55020,7 @@ rete-ecologica-regione-umbria-reru
 rete-ecologica1
 rete-elettrica
 rete-escursionistica-museo
+rete-escursionistica-ostello1
 rete-escursionistica-parcheggio
 rete-escursionistica-percorso-escursionistico
 rete-escursionistica-pericolo-valanghe
@@ -62866,7 +62872,6 @@ walking-city-percorso-4
 walking-city-percorso-41
 walking-city-percorso-5
 walking-city-percorso-51
-walking-city-percorso-6
 walking-city-percorso-61
 walking-city-percorso-7
 walking-city-percorso-71
