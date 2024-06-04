@@ -1,84 +1,84 @@
 REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
-Abruzzo,Gasolio,SELF,1.728
-Abruzzo,Benzina,SELF,1.868
+Abruzzo,Gasolio,SELF,1.726
+Abruzzo,Benzina,SELF,1.867
 Abruzzo,GPL,SERVITO,0.715
-Abruzzo,Metano,SERVITO,1.280
+Abruzzo,Metano,SERVITO,1.282
 Basilicata,Gasolio,SELF,1.730
-Basilicata,Benzina,SELF,1.891
+Basilicata,Benzina,SELF,1.890
 Basilicata,GPL,SERVITO,0.707
 Basilicata,Metano,SERVITO,1.417
-Bolzano,Gasolio,SELF,1.764
-Bolzano,Benzina,SELF,1.904
+Bolzano,Gasolio,SELF,1.761
+Bolzano,Benzina,SELF,1.899
 Bolzano,GPL,SERVITO,0.788
 Bolzano,Metano,SERVITO,1.464
-Calabria,Gasolio,SELF,1.729
-Calabria,Benzina,SELF,1.885
+Calabria,Gasolio,SELF,1.727
+Calabria,Benzina,SELF,1.883
 Calabria,GPL,SERVITO,0.762
 Calabria,Metano,SERVITO,1.430
-Campania,Gasolio,SELF,1.702
-Campania,Benzina,SELF,1.868
-Campania,GPL,SERVITO,0.668
-Campania,Metano,SERVITO,1.300
-Emilia Romagna,Gasolio,SELF,1.709
-Emilia Romagna,Benzina,SELF,1.858
+Campania,Gasolio,SELF,1.700
+Campania,Benzina,SELF,1.866
+Campania,GPL,SERVITO,0.669
+Campania,Metano,SERVITO,1.302
+Emilia Romagna,Gasolio,SELF,1.707
+Emilia Romagna,Benzina,SELF,1.856
 Emilia Romagna,GPL,SERVITO,0.685
 Emilia Romagna,Metano,SERVITO,1.254
-Friuli Venezia Giulia,Gasolio,SELF,1.725
-Friuli Venezia Giulia,Benzina,SELF,1.869
-Friuli Venezia Giulia,GPL,SERVITO,0.690
+Friuli Venezia Giulia,Gasolio,SELF,1.723
+Friuli Venezia Giulia,Benzina,SELF,1.866
+Friuli Venezia Giulia,GPL,SERVITO,0.691
 Friuli Venezia Giulia,Metano,SERVITO,1.298
-Lazio,Gasolio,SELF,1.702
-Lazio,Benzina,SELF,1.855
+Lazio,Gasolio,SELF,1.700
+Lazio,Benzina,SELF,1.853
 Lazio,GPL,SERVITO,0.691
-Lazio,Metano,SERVITO,1.411
-Liguria,Gasolio,SELF,1.747
-Liguria,Benzina,SELF,1.879
+Lazio,Metano,SERVITO,1.410
+Liguria,Gasolio,SELF,1.744
+Liguria,Benzina,SELF,1.876
 Liguria,GPL,SERVITO,0.779
 Liguria,Metano,SERVITO,1.346
-Lombardia,Gasolio,SELF,1.710
-Lombardia,Benzina,SELF,1.851
+Lombardia,Gasolio,SELF,1.707
+Lombardia,Benzina,SELF,1.849
 Lombardia,GPL,SERVITO,0.684
 Lombardia,Metano,SERVITO,1.296
-Marche,Gasolio,SELF,1.692
-Marche,Benzina,SELF,1.838
+Marche,Gasolio,SELF,1.690
+Marche,Benzina,SELF,1.837
 Marche,GPL,SERVITO,0.731
 Marche,Metano,SERVITO,1.252
-Molise,Gasolio,SELF,1.720
-Molise,Benzina,SELF,1.875
+Molise,Gasolio,SELF,1.718
+Molise,Benzina,SELF,1.873
 Molise,GPL,SERVITO,0.733
 Molise,Metano,SERVITO,1.349
-Piemonte,Gasolio,SELF,1.707
-Piemonte,Benzina,SELF,1.853
+Piemonte,Gasolio,SELF,1.705
+Piemonte,Benzina,SELF,1.851
 Piemonte,GPL,SERVITO,0.686
-Piemonte,Metano,SERVITO,1.343
-Puglia,Gasolio,SELF,1.701
-Puglia,Benzina,SELF,1.876
-Puglia,GPL,SERVITO,0.674
-Puglia,Metano,SERVITO,1.332
-Sardegna,Gasolio,SELF,1.736
-Sardegna,Benzina,SELF,1.885
+Piemonte,Metano,SERVITO,1.342
+Puglia,Gasolio,SELF,1.698
+Puglia,Benzina,SELF,1.875
+Puglia,GPL,SERVITO,0.673
+Puglia,Metano,SERVITO,1.333
+Sardegna,Gasolio,SELF,1.734
+Sardegna,Benzina,SELF,1.883
 Sardegna,GPL,SERVITO,0.822
-Sicilia,Gasolio,SELF,1.727
-Sicilia,Benzina,SELF,1.880
-Sicilia,GPL,SERVITO,0.772
-Sicilia,Metano,SERVITO,1.665
-Toscana,Gasolio,SELF,1.711
-Toscana,Benzina,SELF,1.866
-Toscana,GPL,SERVITO,0.711
+Sicilia,Gasolio,SELF,1.723
+Sicilia,Benzina,SELF,1.876
+Sicilia,GPL,SERVITO,0.771
+Sicilia,Metano,SERVITO,1.675
+Toscana,Gasolio,SELF,1.708
+Toscana,Benzina,SELF,1.862
+Toscana,GPL,SERVITO,0.710
 Toscana,Metano,SERVITO,1.351
-Trento,Gasolio,SELF,1.749
-Trento,Benzina,SELF,1.883
+Trento,Gasolio,SELF,1.746
+Trento,Benzina,SELF,1.881
 Trento,GPL,SERVITO,0.726
 Trento,Metano,SERVITO,1.290
-Umbria,Gasolio,SELF,1.710
-Umbria,Benzina,SELF,1.864
+Umbria,Gasolio,SELF,1.708
+Umbria,Benzina,SELF,1.861
 Umbria,GPL,SERVITO,0.719
-Umbria,Metano,SERVITO,1.193
-Valle d'Aosta,Gasolio,SELF,1.762
-Valle d'Aosta,Benzina,SELF,1.886
+Umbria,Metano,SERVITO,1.191
+Valle d'Aosta,Gasolio,SELF,1.759
+Valle d'Aosta,Benzina,SELF,1.883
 Valle d'Aosta,GPL,SERVITO,0.809
 Valle d'Aosta,Metano,SERVITO,1.139
-Veneto,Gasolio,SELF,1.698
-Veneto,Benzina,SELF,1.851
+Veneto,Gasolio,SELF,1.695
+Veneto,Benzina,SELF,1.849
 Veneto,GPL,SERVITO,0.685
-Veneto,Metano,SERVITO,1.253
+Veneto,Metano,SERVITO,1.254
