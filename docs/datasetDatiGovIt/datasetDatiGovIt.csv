@@ -1424,7 +1424,7 @@ affluenze-senato-elezioni-politiche-04-03-2018-per-sezione
 afflussi-mensili-per-bacino
 afflussi-settimanali-per-bacino
 agbicce-cittadini-aire
-agcom
+agcm
 agcom-registro-impianti-provincia-di-matera
 agenti-inquinanti-arpat
 agenti-inquinanti-arpat1
@@ -2678,6 +2678,7 @@ analisi-dipendenti-dellente-comune-di-noale
 analisi-dipendenti-dellente-comune-di-nogarole-rocca
 analisi-dipendenti-dellente-comune-di-nove
 analisi-dipendenti-dellente-comune-di-ospitale-di-cadore
+analisi-dipendenti-dellente-comune-di-pettorazza-grimani
 analisi-dipendenti-dellente-comune-di-piacenza-dadige
 analisi-dipendenti-dellente-comune-di-pianezze
 analisi-dipendenti-dellente-comune-di-pieve-del-grappa
@@ -3144,6 +3145,7 @@ andamento-demografico-comune-di-paese
 andamento-demografico-comune-di-pastrengo
 andamento-demografico-comune-di-pederobba
 andamento-demografico-comune-di-pescantina
+andamento-demografico-comune-di-pettorazza-grimani
 andamento-demografico-comune-di-piacenza-dadige
 andamento-demografico-comune-di-pianezze
 andamento-demografico-comune-di-pieve-del-grappa
@@ -3291,6 +3293,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-ospitale-di-cadore
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-paese
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-pastrengo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-pescantina
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-pettorazza-grimani
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-piacenza-dadige
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-pianezze
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-pieve-del-grappa
@@ -5124,6 +5127,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-noventa-padovana
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-paese
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-pastrengo
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-pescantina
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-pettorazza-grimani
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-piacenza-dadige
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-pianezze
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-pieve-del-grappa
@@ -5597,6 +5601,7 @@ atti-amministrativi-comune-di-paese
 atti-amministrativi-comune-di-pastrengo
 atti-amministrativi-comune-di-pederobba
 atti-amministrativi-comune-di-pescantina
+atti-amministrativi-comune-di-pettorazza-grimani
 atti-amministrativi-comune-di-piacenza-dadige
 atti-amministrativi-comune-di-pianezze
 atti-amministrativi-comune-di-pieve-del-grappa
@@ -8503,6 +8508,7 @@ c_c251_dataset_concorsi_2020
 c_c251_dataset_concorsi_2021
 c_c251_dataset_concorsi_2022
 c_c251_dataset_concorsi_2023
+c_c251_dataset_concorsi_2024
 c_c251_dataset_delibere
 c_c251_dataset_determine
 c_c251_dataset_edifici_pubblici
@@ -9059,6 +9065,7 @@ c_d564_dataset_concorsi_2019
 c_d564_dataset_concorsi_2021
 c_d564_dataset_concorsi_2022
 c_d564_dataset_concorsi_2023
+c_d564_dataset_concorsi_2024
 c_d564_dataset_delibere
 c_d564_dataset_determine
 c_d564_dataset_edifici_pubblici
@@ -9889,6 +9896,7 @@ c_f621_dataset_concorsi_2020
 c_f621_dataset_concorsi_2021
 c_f621_dataset_concorsi_2022
 c_f621_dataset_concorsi_2023
+c_f621_dataset_concorsi_2024
 c_f621_dataset_delibere
 c_f621_dataset_determine
 c_f621_dataset_edifici_pubblici
@@ -10552,9 +10560,11 @@ c_i158_dataset_concorsi_2020
 c_i158_dataset_concorsi_2021
 c_i158_dataset_concorsi_2022
 c_i158_dataset_concorsi_2023
+c_i158_dataset_concorsi_2024
 c_i158_dataset_cooperative-sociali
 c_i158_dataset_edifici_pubblici
 c_i158_dataset_eventi-culturali
+c_i158_dataset_ferrovia-dello-stato
 c_i158_dataset_folklore-tradizioni-mestieri
 c_i158_dataset_impianti-sportivi
 c_i158_dataset_isola-ecologica
@@ -10835,6 +10845,7 @@ c_l191_dataset_concorsi_2020
 c_l191_dataset_concorsi_2021
 c_l191_dataset_concorsi_2022
 c_l191_dataset_concorsi_2023
+c_l191_dataset_concorsi_2024
 c_l191_dataset_cooperative-sociali
 c_l191_dataset_delibere
 c_l191_dataset_determine
@@ -13164,6 +13175,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-p
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pastrengo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pederobba
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pescantina
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pettorazza-grima
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-piacenza-dadige
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pianezze
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-pieve-del-grappa
@@ -14365,7 +14377,9 @@ comune-di-castelleone-di-suasa-suap-eventi
 comune-di-castelleone-di-suasa-suap-eventi-2018
 comune-di-castelleone-di-suasa-suap-eventi-2020
 comune-di-castelleone-di-suasa-suap-eventi-2021
+comune-di-castelleone-di-suasa-suap-nazionalita
 comune-di-castelleone-di-suasa-suap-nazionalita-2018
+comune-di-castelleone-di-suasa-suap-nazionalita-2020
 comune-di-castelleone-di-suasa-suap-nazionalita-2021
 comune-di-castelleone-di-suasa-suap-tempi
 comune-di-castelleone-di-suasa-suap-tempi-2018
@@ -14507,6 +14521,7 @@ comune-di-colli-al-metauro-suap-tempi-2021
 comune-di-colli-del-tronto-anagrafica-impianti
 comune-di-colli-del-tronto-anagrafica-societa
 comune-di-colli-del-tronto-discipline-praticate
+comune-di-colli-del-tronto-praticanti-sport
 comune-di-colli-del-tronto-punti-interesse
 comune-di-comunanza-anagrafica-impianti
 comune-di-comunanza-anagrafica-societa
@@ -18898,6 +18913,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-nogarole-rocca
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-nove
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-ospitale-di-ca
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-pettorazza-gri
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-piacenza-dadig
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-pianezze
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-pieve-del-grap
@@ -18978,6 +18994,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-nog
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-nov
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-osp
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-pet
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-pia
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-pia1
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-pie
@@ -19080,6 +19097,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale75
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale76
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale77
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale78
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale8
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a
@@ -19158,6 +19176,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a75
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a76
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a77
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a78
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e
@@ -19239,6 +19258,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e78
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e79
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e8
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e80
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s1
@@ -19319,6 +19339,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s78
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s79
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s8
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s80
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bond
@@ -19393,6 +19414,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu7
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu70
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu71
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu72
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu8
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cons
@@ -19434,6 +19456,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di34
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di35
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di36
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di37
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di4
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di5
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di6
@@ -20048,6 +20071,7 @@ costo-del-personale-comune-di-noale
 costo-del-personale-comune-di-nogarole-rocca
 costo-del-personale-comune-di-nove
 costo-del-personale-comune-di-ospitale-di-cadore
+costo-del-personale-comune-di-pettorazza-grimani
 costo-del-personale-comune-di-piacenza-dadige
 costo-del-personale-comune-di-pieve-del-grappa
 costo-del-personale-comune-di-porto-tolle
@@ -21810,6 +21834,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-noventa-padovana
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-ospitale-di-cadore
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-pastrengo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-pescantina
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-pettorazza-grimani
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-piacenza-dadige
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-pianezze
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-pieve-del-grappa
@@ -21954,6 +21979,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-noventa-padovana
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-ospitale-di-cadore
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-pastrengo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-pescantina
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-pettorazza-grimani
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-piacenza-dadige
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-pianezze
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-pieve-del-grappa
@@ -23393,6 +23419,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-ospitale-di-cadore
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pastrengo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pederobba
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pescantina
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pettorazza-grimani
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-piacenza-dadige
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pianezze
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-pieve-del-grappa
@@ -23724,6 +23751,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-paese
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pastrengo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pederobba
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pescantina
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pettorazza-grimani
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-piacenza-dadige
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pianezze
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-pieve-del-grappa
@@ -23936,6 +23964,7 @@ elenco-delle-pubblicazioni-comune-di-paese
 elenco-delle-pubblicazioni-comune-di-pastrengo
 elenco-delle-pubblicazioni-comune-di-pederobba
 elenco-delle-pubblicazioni-comune-di-pescantina
+elenco-delle-pubblicazioni-comune-di-pettorazza-grimani
 elenco-delle-pubblicazioni-comune-di-piacenza-dadige
 elenco-delle-pubblicazioni-comune-di-pianezze
 elenco-delle-pubblicazioni-comune-di-pieve-del-grappa
@@ -43306,6 +43335,7 @@ numeri-civici-comune-di-pastrengo
 numeri-civici-comune-di-pedavena
 numeri-civici-comune-di-perarolo-di-cadore
 numeri-civici-comune-di-pescantina
+numeri-civici-comune-di-pettorazza-grimani
 numeri-civici-comune-di-piacenza-dadige
 numeri-civici-comune-di-pianezze
 numeri-civici-comune-di-pieve-dalpago
@@ -59605,6 +59635,7 @@ stradario-comunale-comune-di-ospitale-di-cadore
 stradario-comunale-comune-di-paese
 stradario-comunale-comune-di-pastrengo
 stradario-comunale-comune-di-pescantina
+stradario-comunale-comune-di-pettorazza-grimani
 stradario-comunale-comune-di-piacenza-dadige
 stradario-comunale-comune-di-pianezze
 stradario-comunale-comune-di-pieve-del-grappa
@@ -60992,11 +61023,14 @@ tessuti-ed-aree-interne-al-perimetro-del-territorio-urbanizzato
 tessuto-urbanizzato-ptrc-2020
 test-20240208_2
 test-23-12-14
+test-23-12-141
 test-23-12-15
 test-23-12-16
 test-23-12-17
 test-23-12-18
 test-23-12-18-test
+test-5555555555555999
+test-paolo
 test-test-11
 test2-rete-gps-per-il-controllo-della-subsidenza
 testa-di-fontanile-ptrc-2020
@@ -61177,6 +61211,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-nogarole-
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-noventa-p
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-paese
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-pettorazz
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-piacenza-
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-pianezze
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-poveglian
@@ -61695,6 +61730,7 @@ umavp_dataset_concorsi_2020
 umavp_dataset_concorsi_2021
 umavp_dataset_concorsi_2022
 umavp_dataset_concorsi_2023
+umavp_dataset_concorsi_2024
 umavp_dataset_delibere
 umavp_dataset_determine
 umavp_dataset_edifici_pubblici
