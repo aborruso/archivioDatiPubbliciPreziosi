@@ -3923,7 +3923,6 @@ aree-di-bonifica-a-scolo-meccanico
 aree-di-bonifica-idraulica
 aree-di-bonifica-idraulica1
 aree-di-cava
-aree-di-cava-colmate-comune-di-milano-dataset
 aree-di-cava-puntuale
 aree-di-circolazione
 aree-di-circolazione-ciclabili-sul-territorio-del-comune-di-siena
@@ -24521,6 +24520,10 @@ elezioni-2019-affluenza-finale
 elezioni-2019-affluenza-ore-12
 elezioni-2019-affluenza-ore-19
 elezioni-2019-sezioni-elettorali-e-plessi-georeferenziati-consistenza-elettorale-per-sezioni
+elezioni-2024-affluenza-domenica-ore-12
+elezioni-2024-affluenza-domenica-ore-19
+elezioni-2024-affluenza-finale
+elezioni-2024-affluenza-sabato-ore-23
 elezioni-amministrative-11-giugno-2017
 elezioni-amministrative-1995-affluenza-consiglio-comunale
 elezioni-amministrative-1995-affluenza-sindaco
@@ -25683,6 +25686,7 @@ elezioni-europee-anno-2019
 elezioni-europee-comunali-2009
 elezioni-europee-e-amministrative-2019
 elezioni-europee-e-amministrative-2019-affluenze-risultati
+elezioni-europee-e-amministrative-2024
 elezioni-europee-preferenze_per_sezione
 elezioni-municipali-2016-consiglio-risultati-di-sezione
 elezioni-municipali-2016-consiglio-voti-di-lista-per-sezione
@@ -33328,7 +33332,6 @@ milan-observatory-vocations-art-culture-and-design
 milan-observatory-vocations-finance
 milan-observatory-vocations-life-sciences
 milan-observatory-vocations-manufacturing-4-0
-milano-edifici-e-aree-in-degrado
 milano-summer-school-2021
 milano-summer-school-sedi-centri-estivi-scuole-primarie
 military-grid-reference-system-mgrs-unita-di-rilevamento-10x10-km-utm-ed50-fuso-33
@@ -33754,6 +33757,7 @@ modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-04-ore-12-utc
@@ -34036,6 +34040,7 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-04-ore-12-utc
@@ -34318,6 +34323,7 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-09-04-ore-12-utc
@@ -34600,6 +34606,7 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-09-04-ore-12-utc
@@ -34882,6 +34889,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-05-18-ore-12-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-09-04-ore-12-utc
@@ -35164,6 +35172,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-05-18-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-09-04-ore-12-utc
@@ -35446,6 +35455,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-05-18-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-09-04-ore-12-utc
@@ -35728,6 +35738,7 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2023-09-04-ore-12-utc
@@ -36010,6 +36021,7 @@ modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-09-04-ore-12-utc
@@ -36292,6 +36304,7 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-09-05-ore-00-utc
@@ -36573,6 +36586,7 @@ modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-09-04-ore-12-utc
@@ -36855,6 +36869,7 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-201
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2010
@@ -37059,6 +37074,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2028
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20280
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20281
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20282
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2029
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-203
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2030
@@ -37341,6 +37357,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2028
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20280
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20281
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20282
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2029
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-203
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2030
@@ -37701,6 +37718,7 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-04-ore-12-utc
@@ -37983,6 +38001,7 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-09-04-ore-12-utc
@@ -38265,6 +38284,7 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-09-04-ore-12-utc
@@ -38547,6 +38567,7 @@ modello-wrf-arw-a-3km-temperatura-c-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-09-04-ore-12-utc
@@ -38829,6 +38850,7 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-09-04-ore-12-utc
@@ -39111,6 +39133,7 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-09-04-ore-12-utc
@@ -39393,6 +39416,7 @@ modello-wrf-arw-a-3km-topografia-m-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-09-04-ore-12-utc
@@ -39675,6 +39699,7 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-04-ore-12-utc
@@ -39957,6 +39982,7 @@ modello-wrf-arw-a-3km-umidita-relativa-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-04-ore-12-utc
@@ -40239,6 +40265,7 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-04-ore-12-utc
@@ -40521,6 +40548,7 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-05-18-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-09-04-ore-12-utc
@@ -40803,6 +40831,7 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-06-08-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-09-04-ore-12-utc
@@ -41085,6 +41114,7 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2024-05-18-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-05-19-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-05-19-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-05-20-ore-00-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-08-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2023-09-03-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2023-09-04-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2023-09-04-ore-12-utc
@@ -41378,6 +41408,8 @@ modello-ww3-a-10km-average-wave-direction-deg-2024-05-18-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-05-19-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-05-19-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-05-20-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2024-06-07-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2024-06-08-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-09-03-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-09-04-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-09-04-ore-12-utc
@@ -41671,6 +41703,8 @@ modello-ww3-a-10km-average-wave-period-sec-2024-05-18-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-05-19-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-05-19-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-05-20-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2024-06-07-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2024-06-08-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-09-03-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-09-04-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-09-04-ore-12-utc
@@ -41964,6 +41998,8 @@ modello-ww3-a-10km-significant-wave-height-m-2024-05-18-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-05-19-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-05-19-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-05-20-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2024-06-07-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2024-06-08-ore-00-utc
 moduli-del-comun-general-de-fascia
 moduli-del-comune-di-ala
 moduli-del-comune-di-albiano
@@ -42146,7 +42182,6 @@ moduli-del-comunita-valsugana-e-tesino
 moduli-del-magnifica-comunita-degli-altipiani-cimbri
 molluschi-bivalvi-venericoltura-e-mitilicoltura
 molluschi-bivalvi-venericoltura-e-mitilicoltura-aree-di-divieto-di-raccolta-di-molluschi-bivalv
-molluschi-bivalvi-venericoltura-e-mitilicoltura-concessioni_2023
 molo-guardiano
 molto-soddisfatti-per-le-relazioni-amicali
 molto-soddisfatti-per-le-relazioni-amicali-femmine
@@ -51443,20 +51478,21 @@ ptc-2-strutture-di-ricovero
 ptc-2-strutture-ospedaliere-in-progetto
 ptc-2-suoli-agricoli-capacita-duso-dei-suoli
 ptc-2-tenimenti-mauriziano
-ptc-ambiti-di-localizzazione-di-nuove-previsioni-ferroviarie-collegamento-arezzo-valtiberina-co
-ptc-elementi-strutturali-degli-ecosistemi-fluviali-nodi-ed-ecosistemi
-ptc-elementi-strutturali-delle-aree-umide
+ptc-altri-nodi-di-servizio-alla-mobilita
+ptc-ambiti-di-localizzazione-di-nuove-previsioni-ferroviarie-ipotesi-progettuali-ferrovia-arezz
+ptc-antiche-percorrenze-ed-itinerari-di-interesse-storico-documentale-corridoi-di-salvaguardia
+ptc-attrezzature-e-servizi-culturali-espositivi-e-ambientali
+ptc-attrezzature-e-servizi-scolastici-e-per-la-formazione-e-relative-previsioni
+ptc-elementi-funzionali-e-di-azione-strategica-elementi-ad-alta-artificialita-e-o-grado-di-urba
+ptc-elementi-strutturali-degli-ecosistemi-fluviali-aree-con-processi-di-ricolonizzazione-arbust
 ptc-proposta-ampliamenti-parchi
 ptc-proposta-di-tram-provinciale
 ptc-proposta-indicazione-corridoi-ecologici
 ptc-proposta-nodi-intermodali
 ptc-proposta-rete-di-progetto-per-la-mobilita
 ptc-proposta-rete-piste-ciclabili
-ptc-rete-escursionistica-regionale-ed-itinerari-pedonali
 ptc-sistemi-territoriali
-ptc-struttura-insediativa-invariante-iii-aggregati-storici-aree-di-pertinenza-iii-b
 ptc-struttura-insediativa-invariante-iii-centri-antichi-aree-di-pertinenza-strutture-urbane-iii
-ptc-struttura-insediativa-invariante-iii-ville-e-giardini-di-non-comune-bellezza-aree-di-pertin
 ptcp-1998-art-10-ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-prote
 ptcp-1998-art-10-ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-prote1
 ptcp-1998-art-11-aree-fragili-da-sottoporre-a-programma-di-paesaggio-citta-metropolitana-di-fir
@@ -55053,6 +55089,8 @@ rete-ecologica-regionale-del-lazio
 rete-ecologica-regione-umbria-reru
 rete-ecologica1
 rete-elettrica
+rete-escursionistica-emergenza-antropico-ambientale
+rete-escursionistica-farmacia
 rete-escursionistica-fermata-bus
 rete-escursionistica-limitazione-al-transito
 rete-escursionistica-museo
@@ -56214,6 +56252,9 @@ risultati-elezioni-2014-elezioni-consiglio
 risultati-elezioni-2014-europee
 risultati-elezioni-2014-sindaco
 risultati-elezioni-2019-europee
+risultati-elezioni-amministrative-2024-circoscrizioni
+risultati-elezioni-amministrative-2024-consiglio-comunale
+risultati-elezioni-amministrative-2024-sindaco
 risultati-elezioni-amministrative-circoscrizioni-2019
 risultati-elezioni-amministrative-consiglio-comunale-2019
 risultati-elezioni-amministrative-sindaco-2019
@@ -56243,6 +56284,7 @@ risultati-elezioni-europee-2009
 risultati-elezioni-europee-20091
 risultati-elezioni-europee-2014
 risultati-elezioni-europee-20141
+risultati-elezioni-europee-2024
 risultati-elezioni-europee-cento-2019-raggruppati-per-sezioni-elettorali
 risultati-elezioni-politiche-2008
 risultati-elezioni-politiche-2008-camera-dei-deputati
@@ -62498,6 +62540,14 @@ variazioni-tendenziali-dei-prezzi-al-consumo-anno-2012
 variazioni-tendenziali-dei-prezzi-al-consumo-anno-2013
 variazioni-tendenziali-dei-prezzi-al-consumo-anno-2014
 variazioni-tendenziali-dei-prezzi-al-consumo-anno-2015
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2016
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2017
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2018
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2019
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2020
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2021
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2022
+variazioni-tendenziali-dei-prezzi-al-consumo-anno-2023
 variazioni-tendenziali-inattivi-divisi-per-anno-genere-e-classe-di-eta-valori-assoluti-e-percen
 variazioni-tendenziali-inattivi-divisi-per-anno-genere-e-classe-di-eta-valori-assoluti-e-percen1
 variazioni-tendenziali-inattivi-divisi-per-anno-trimestre-e-genere-valori-assoluti-e-percentual
