@@ -474,7 +474,6 @@ id
 15074
 15075
 15084
-15085
 15104
 15124
 15125
@@ -4819,7 +4818,6 @@ arpa_costa_retemon_fitoplancton_21
 arpa_costa_retemon_inquin_chimici_21
 arpa_costa_retemon_inquinanti_chimici
 arpa_costa_retemon_molluschi_22
-arpa_costa_retemon_molluschi_stazarpae1
 arpa_costa_retemon_sedimenti
 arpa_costa_retemon_sedimenti_21
 arpa_costa_rgc_vertici
@@ -4888,7 +4886,6 @@ arpa_rif_comuni_22_2
 arpa_rif_comuni_22_3
 arpa_rif_comuni_22_4
 arpa_rif_impianti_compostaggio1
-arpa_rif_impianti_compostaggio_20
 arpa_rif_impianti_compostaggio_201
 arpa_rif_impianti_compostaggio_21
 arpa_rif_impianti_compostaggio_22
@@ -21671,7 +21668,6 @@ deposito_contratti___distribuzione_regionale_delle_dichiarazioni_di_decontribuzi
 deposito_contratti___distribuzione_regionale_delle_dichiarazioni_di_detassazione
 deposito_contratti___distribuzione_territoriale_dei_contratti_attivi_di_detassazione
 deposito_contratti___numero_delle_dichiarazioni_di_decontribuzione_ai_fini_della_detassazione
-deposito_contratti_altre_agevolazioni
 depressione-assoluta
 depressione-relativa
 depuratori
@@ -26655,8 +26651,12 @@ evapotraspirazione-potenziale-stagionale-estiva-clima-1961-1990-ed-2017
 evapotraspirazione-potenziale-stagionale-estiva-clima-1961-1990-ed-20171
 evapotraspirazione-potenziale-stagionale-estiva-clima-1991-2015-ed-2017
 evapotraspirazione-potenziale-stagionale-estiva-clima-1991-2015-ed-20171
+eventi
+eventi-2017
 eventi-a-firenze
 eventi-biblioteca
+eventi-biblioteca-classense
+eventi-biblioteca-classense-2017
 eventi-bologna-agenda-cultura
 eventi-centri-di-facilitazione
 eventi-comune-tavagnacco
@@ -26773,11 +26773,15 @@ eventi-e-r-cultura-a2badb87
 eventi-franosi-dati-storici
 eventi-in-puglia-2020-2021
 eventi-in-puglia-al-2021
+eventi-mar
+eventi-museo-d-arte-della-citta-di-ravenna-2017
+eventi-ravenna-2019
 eventi-regione-marche
 eventi-rilevati
 eventi-sismici
 eventi-spettacoli-e-manifestazioni-culturali
 eventi-sportivi-empolese-valdelsa-2016
+eventi-turismo
 eventi-turismo-emilia-romagna
 eventi-valanghivi-dallinverno-07-08
 eventi-valanghivi-fino-allinverno-06-07
@@ -52250,6 +52254,7 @@ qualita-dei-servizi-online-settembre-dicembre-2019
 qualita-dell-aria
 qualita-dell-aria-coordinate-geografiche-delle-stazioni-di-monitoraggio
 qualita-dell-aria-dati-di-monitoraggio
+qualita-dell-aria-rete-di-monitoraggio
 qualita-dell-aria-valutazioni-annuali-delle-concentrazioni-di-fondo
 qualita-dellacqua-depurata-m6-dataset
 qualita-dellacqua-erogata-m3-dataset
@@ -61065,15 +61070,14 @@ tessuti-ed-aree-interne-al-perimetro-del-territorio-urbanizzato
 tessuto-urbanizzato-ptrc-2020
 test-20240208_2
 test-23-12-14
-test-23-12-141
 test-23-12-15
 test-23-12-16
 test-23-12-17
 test-23-12-18
-test-23-12-18-test
 test-5555555555555999
 test-paolo
 test-test-11
+test-vari2
 test2-rete-gps-per-il-controllo-della-subsidenza
 testa-di-fontanile-ptrc-2020
 tetti-1-1000
@@ -61555,6 +61559,7 @@ true-ortofoto-rafvg-2017-2020
 true-ortofoto-rafvg-2017-2020-quadro-unione
 tubi-di-protezione
 tumore
+turismo-2017
 turismo-arrivi
 turismo-arrivi-di-turisti-italiani-per-regione-di-provenienza-e-tipologia-di-struttur-2008-2022
 turismo-arrivi-di-turisti-stranieri-per-paese-di-provenienza-e-tipologia-di-struttura-2008-2022
