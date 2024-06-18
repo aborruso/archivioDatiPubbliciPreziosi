@@ -26,7 +26,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
 2024-03-08T21:06:04.565943,Ministero dell'Economia e delle Finanze,4df2b119-c5e6-4d2e-98b6-a229a2a4b929,mef,ministero-dell-economia-e-delle-finanze,18,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,29,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
-2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,104,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
+2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,92,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
 2024-03-08T19:00:41.997526,Ministero della Salute,593c0fab-b437-4181-b277-cbf5bc21d81c,m_sa,ministero-della-salute,51,https://dati.gov.it/view-dataset?organization=ministero-della-salute
 2024-03-08T21:13:55.607866,Ministero Infrastrutture e Trasporti,966c8ab2-9bb8-4e5b-9165-9d37a1af7333,m_inf,ministero-infrastrutture-e-trasporti,70,https://dati.gov.it/view-dataset?organization=ministero-infrastrutture-e-trasporti
 2024-03-08T21:16:17.075217,Ministero Università e Ricerca,bfe0080a-98b1-495f-a27c-a9ceffde3bf1,KH5RHFCV,ministero-universita-e-ricerca,0,https://dati.gov.it/view-dataset?organization=ministero-universita-e-ricerca
@@ -34,7 +34,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:20:30.891213,PCM - OpenCoesione,3ec7e9b4-3062-43b3-a200-104513b81936,pcm,pcm-opencoesione,630,https://dati.gov.it/view-dataset?organization=pcm-opencoesione
 2024-03-08T21:22:04.427985,PCM - Protezione Civile,3a6dd9fd-f494-4134-b216-b5471bfebb51,pcm,pcm-protezione-civile,5,https://dati.gov.it/view-dataset?organization=pcm-protezione-civile
 2024-03-08T21:23:33.039196,Politecnico di Milano,de0b44d2-783e-4e91-8ec9-c79cca8a2299,PM,politecnico-di-milano,6,https://dati.gov.it/view-dataset?organization=politecnico-di-milano
-2024-03-08T21:24:58.710779,Progetto MISTRAL,6d977765-a0cc-4cfa-8ac5-29e202cc7318,Mistral,progetto-mistral,18,https://dati.gov.it/view-dataset?organization=progetto-mistral
+2024-03-08T21:24:58.710779,Progetto MISTRAL,6d977765-a0cc-4cfa-8ac5-29e202cc7318,Mistral,progetto-mistral,17,https://dati.gov.it/view-dataset?organization=progetto-mistral
 2024-03-08T21:26:19.519194,Provincia autonoma di Bolzano,4188f7ff-0b05-4dbf-982e-9a6d99da7bc6,p_bz,provincia-autonoma-di-bolzano,611,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
 2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,6565,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
 2024-05-22T14:26:56.234855,Provincia di Biella,8722baa5-6824-4009-86e3-57075b943c5e,p_bi,provincia-di-biella,5,https://dati.gov.it/view-dataset?organization=provincia-di-biella
@@ -53,7 +53,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12843,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,475,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5356,https://dati.gov.it/view-dataset?organization=regione-veneto
-2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,359,https://dati.gov.it/view-dataset?organization=roma-capitale
+2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,356,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-03-08T21:49:59.493611,Università della Basilicata,fdd90e4e-1f3d-4bd1-acba-cbef7c9c0271,uni_ba,universita-della-basilicata,29,https://dati.gov.it/view-dataset?organization=universita-della-basilicata
 2024-03-08T21:51:11.725431,Università della Calabria,ccc8eb67-5b1d-460c-be0c-1a698c9597aa,unical,universita-della-calabria,5,https://dati.gov.it/view-dataset?organization=universita-della-calabria
 2024-03-08T21:48:45.195677,Università di Bari,2faa23b0-90ad-49f2-998e-003f6100e279,uni_ba,universita-di-bari,121,https://dati.gov.it/view-dataset?organization=universita-di-bari
