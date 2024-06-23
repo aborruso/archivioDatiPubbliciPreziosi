@@ -48,11 +48,11 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3615,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5466,https://dati.gov.it/view-dataset?organization=regione-marche
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,698,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,814,https://dati.gov.it/view-dataset?organization=regione-puglia
+2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,815,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,181,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12970,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,13151,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,473,https://dati.gov.it/view-dataset?organization=regione-umbria
-2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5356,https://dati.gov.it/view-dataset?organization=regione-veneto
+2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5389,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,356,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-03-08T21:49:59.493611,Università della Basilicata,fdd90e4e-1f3d-4bd1-acba-cbef7c9c0271,uni_ba,universita-della-basilicata,29,https://dati.gov.it/view-dataset?organization=universita-della-basilicata
 2024-03-08T21:51:11.725431,Università della Calabria,ccc8eb67-5b1d-460c-be0c-1a698c9597aa,unical,universita-della-calabria,5,https://dati.gov.it/view-dataset?organization=universita-della-calabria
