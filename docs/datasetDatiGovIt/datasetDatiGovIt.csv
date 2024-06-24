@@ -3838,6 +3838,7 @@ area-di-scalo-ferroviario
 area-di-scavo-o-discarica-sc_dis-050303
 area-di-stoccaggio-sale
 area-di-stoccaggio-sale1
+area-di-tutela-biologica-delle-acque-marino-costiere
 area-di-tutela-biologica-delle-acque-marino-costiere1
 area-drenata
 area-edificato-continuo
@@ -4178,7 +4179,6 @@ aree-percorse-dal-fuoco-anno-2020-sc-1-100001
 aree-percorse-dal-fuoco-anno-2021-sc-1-10000
 aree-percorse-dal-fuoco-anno-2022-sc-1-10000-d-g-r-274-2024
 aree-percorse-dal-fuoco-catasto-incendi-comune-di-matera
-aree-percorse-dal-fuoco1
 aree-percorse-dal-fuoco2
 aree-percorse-dal-fuoco3
 aree-pericolose-dovute-ad-allagamento-nel-bacino-del-fissero-tartaro-canalbianco
@@ -6551,6 +6551,7 @@ banca-dati-fluidi-dal-sottosuolo-acque-con-chimismo-peculiare-e-segnalazioni-sto
 banca-dati-fluidi-dal-sottosuolo-acque-con-chimismo-peculiare-e-segnalazioni-storiche-dellappen2
 banca-dati-fluidi-dal-sottosuolo-acque-con-chimismo-peculiare-e-segnalazioni-storiche-dellappen3
 banca-dati-fluidi-dal-sottosuolo-acque-con-chimismo-peculiare-e-segnalazioni-storiche-dellappen4
+banca-dati-fluidi-dal-sottosuolo-acque-con-chimismo-peculiare-e-segnalazioni-storiche-dellappen5
 banca-dati-geofisica-dataset
 banca-dati-geologica-1-10-000
 banca-dati-geologica-1-10-000-affioramenti-aree-10k
@@ -11717,6 +11718,7 @@ carte-delle-proprieta-chimico-fisiche-contenuto-k-scambiabile-nei-suoli-regional
 carte-delle-proprieta-chimico-fisiche-contenuto-p-assimilabile-nei-suoli-regionali-tra-0-30-cm-
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell1
+carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell2
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-regi
 carte-delle-proprieta-chimico-fisiche-tessitura-dei-suoli-della-pianura-emiliano-romagnola-stra
 carte-delle-proprieta-chimico-fisiche-tessitura-dei-suoli-regionali-strato-0-30-cm
@@ -12047,8 +12049,10 @@ cds-sanzioni-settembre-2015-per-articolo
 cds-sanzioni-settembre-2015-per-serie-articolo
 cds-sanzioni-settembre-2015-per-via-articolo
 celibi-e-nubili-a-fine-anno
+celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2000-2006
 celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2000-2006-e-2006-2012-rappres
 celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2000-20061
+celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2006-2012
 celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2006-20121
 celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2012-2018
 celle-litoranee-di-gestione-della-costa-con-indicatori-ase-e-aspe-2012-20181
@@ -12627,6 +12631,8 @@ citta-metropolitana-milano-popolazione-residente-straniera-al-01-01-2017-per-eta
 citta-metropolitana-milano-popolazione-residente-straniera-al-01-01-2018-per-eta-per-comune
 citta-metropolitana-milano-popolazione-residente-straniera-al-31-12-2017-per-eta-per-comune
 citta-metropolitana-milano-popolazione-residente-straniera-al-31-12-2018-per-eta-per-comune
+citta-metropolitana-milano-popolazione-residente-straniera-totale-al-31-12-2021-per-eta-per-com
+citta-metropolitana-milano-popolazione-residente-straniera-totale-al-31-12-2022-per-eta-per-com
 citta-metropolitana-milano-popolazione-residente-totale-al-31-12-2021-per-eta-per-comune
 citta-metropolitana-milano-popolazione-residente-totale-al-31-12-2022-per-eta-per-comune
 citta-metropolitana-milano-progressive-chilometriche-strade-provinciali
@@ -17796,6 +17802,7 @@ concessioni-relative-allavviso-pubblico-ristora-calabria-2-bis
 conciliazioni-e-mediazioni-tenutesi-presso-la-camera-di-commercio-di-lecce-nel-2016
 concorsi
 concorsi-attivi-universita-della-basilicata
+concorsi-bagnaria-arsa
 concorsi-comune-di-anguillara-veneta
 concorsi-comune-di-arsiero
 concorsi-comune-di-badia-polesine
@@ -18033,6 +18040,7 @@ concorsi-del-magnifica-comunita-degli-altipiani-cimbri
 concorsi-della-regione-basilicata
 concorsi-e-mobilita-fino-al-2017
 concorsi-magnano-in-riviera
+concorsi-povoletto
 concorsi-scaduti-progressivo
 concorsi-uniba-per-ammissione-ai-master-numero-posti-e-domande
 concorsi-uniba-per-lammissione-agli-esami-di-stato-numero-posti-e-domande
@@ -26311,6 +26319,7 @@ esportazioni-del-friuli-venezia-giulia-2014-2018
 esportazioni-del-friuli-venezia-giulia-2014-i-trimestre-2016
 esportazioni-per-attivita-economica
 esportazioni-per-attivita-economica1
+esposizione-calore-rcp-8-5-2041-2060
 esposizione-dei-versanti-9-classi-sc-1-10000-ed-2007
 esposizione-dei-versanti-9-classi-sc-1-10000-edizione-dal-2017
 esposizione-dei-versanti-lidar-9-classi-sc-1-5000-ed-2008
@@ -28919,8 +28928,6 @@ incendi-2008
 incendi-boschivi
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia-scala-provinciale
-incendi-boschivi-aree-a-sensibilita-incendi-dinterfaccia
-incendi-boschivi-aree-a-sensibilita-incendi-dinterfaccia-scala-provinciale
 incendi-boschivi-aree-e-punti-di-innesco
 incendi-boschivi-territorio-modellato-artificialmente
 incendi-boschivi1
@@ -30450,6 +30457,7 @@ isobate-adriatico-rer-rilievi-rer-2018
 isocinetiche-periodo-1992-2000-linee
 isocinetiche-periodo-1992-2000-poligoni
 isocinetiche-periodo-2002-2006-linee1
+isocinetiche-periodo-2002-2006-poligoni
 isocinetiche-periodo-2002-2006-poligoni1
 isocinetiche-periodo-2006-2011-linee
 isocinetiche-periodo-2006-2011-poligoni1
@@ -32590,6 +32598,7 @@ mappa-elenco-strutture-di-riabilitazione-ria
 mappa-elenco-strutture-residenziali-e-semiresidenziali-accreditati-per-le-tossicodipendenze-tox
 mappa-elenco-ubicazione-tagli-boschivi
 mappa-elenco-unita-di-offerta-sociali
+mappa-esposizione-al-pericolo-calore-rcp-8-5-2041-2060
 mappa-esposizione-precipitazioni-intense-future
 mappa-farmacie
 mappa-fattorie-didattiche-lombarde
@@ -33470,6 +33479,7 @@ modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-04-ore-12-utc
@@ -33726,6 +33736,7 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-04-ore-12-utc
@@ -33982,6 +33993,7 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2023-09-04-ore-12-utc
@@ -34238,6 +34250,7 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2023-09-04-ore-12-utc
@@ -34494,6 +34507,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-06-20-ore-00-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2023-09-04-ore-12-utc
@@ -34750,6 +34764,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-06-20-ore-00-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2023-09-04-ore-12-utc
@@ -35006,6 +35021,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-06-20-ore-00-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2023-09-04-ore-12-utc
@@ -35262,6 +35278,7 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2023-09-04-ore-12-utc
@@ -35518,6 +35535,7 @@ modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2023-09-04-ore-12-utc
@@ -35774,6 +35792,7 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2023-09-05-ore-00-utc
@@ -36029,6 +36048,7 @@ modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-precipitazione-oraria-mm-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2023-09-04-ore-12-utc
@@ -36285,6 +36305,7 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-201
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2010
@@ -36399,6 +36420,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20199
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-202
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2020
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20200
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2021
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2022
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2023
@@ -36655,6 +36677,7 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20199
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-202
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2020
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20200
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2021
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2022
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-2023
@@ -37053,6 +37076,7 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2023-09-04-ore-12-utc
@@ -37309,6 +37333,7 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2023-09-04-ore-12-utc
@@ -37565,6 +37590,7 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2023-09-04-ore-12-utc
@@ -37821,6 +37847,7 @@ modello-wrf-arw-a-3km-temperatura-c-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2023-09-04-ore-12-utc
@@ -38077,6 +38104,7 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2023-09-04-ore-12-utc
@@ -38333,6 +38361,7 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2023-09-04-ore-12-utc
@@ -38589,6 +38618,7 @@ modello-wrf-arw-a-3km-topografia-m-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-topografia-m-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2023-09-04-ore-12-utc
@@ -38845,6 +38875,7 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2023-09-04-ore-12-utc
@@ -39101,6 +39132,7 @@ modello-wrf-arw-a-3km-umidita-relativa-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2023-09-04-ore-12-utc
@@ -39357,6 +39389,7 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2023-09-04-ore-12-utc
@@ -39613,6 +39646,7 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-06-20-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2023-09-04-ore-12-utc
@@ -39869,6 +39903,7 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2024-06-22-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-09-03-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-09-04-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2023-09-04-ore-12-utc
@@ -40125,6 +40160,7 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-20-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-20-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-21-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-22-ore-00-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-22-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2023-09-03-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2023-09-04-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2023-09-04-ore-12-utc
@@ -40391,6 +40427,7 @@ modello-ww3-a-10km-average-wave-direction-deg-2024-06-20-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-06-20-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-06-21-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-06-22-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2024-06-22-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-09-03-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-09-04-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2023-09-04-ore-12-utc
@@ -40657,6 +40694,7 @@ modello-ww3-a-10km-average-wave-period-sec-2024-06-20-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-06-20-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-06-21-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-06-22-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2024-06-22-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-09-03-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-09-04-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2023-09-04-ore-12-utc
@@ -40923,6 +40961,7 @@ modello-ww3-a-10km-significant-wave-height-m-2024-06-20-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-06-20-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-06-21-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-06-22-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2024-06-22-ore-12-utc
 modifiche-alla-viabilita-27-giugno
 modifiche-alla-viabilita-29-giugno
 moduli-del-comun-general-de-fascia
@@ -45358,7 +45397,6 @@ perimetrazione-circoscrizioni-comunali
 perimetrazione-confine-comunale
 perimetrazione-dei-centri-abitati-allegato-a
 perimetrazione-dei-danni-al-patrimonio-forestale-arrecati-dalla-tempesta-vaia
-perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-dettaglio-in-scala-1-10000-pai
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-dettaglio-in-scala-1-10000-pai1
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1-25000-pai
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1-25000-pai1
@@ -50910,6 +50948,7 @@ punti-della-rete-di-monitoraggio-qualitativo-delle-acque-sotterranee-nel-comune-
 punti-di-accesso-alla-rete
 punti-di-campionamento-delle-aree-di-immersione-dei-materiali-di-dragaggio
 punti-di-campionamento-delle-aree-di-prelievo-della-sabbia
+punti-di-campionamento-e-parametri-sedimentologici-2012
 punti-di-campionamento-e-parametri-sedimentologici-20121
 punti-di-campionamento-e-parametri-sedimentologici-2018
 punti-di-campionamento-e-parametri-sedimentologici-20181
@@ -53880,6 +53919,7 @@ rete-ciclabile-sovracomunale
 rete-consortile-utilizzata-a-fini-irrigui-ptrc-2020
 rete-degli-istituti-per-la-storia-della-resistenza-e-della-societa-contemporanea-in-italia
 rete-dei-canali-storici-tra-arte-e-architettura-ptrc-2020
+rete-dei-capisaldi-di-controllo-della-subsidenza-2009
 rete-dei-capisaldi-di-controllo-della-subsidenza-20091
 rete-dei-capoluoghi-e-citta-medie-ptrc-2020
 rete-dei-laghi-alpini-ptrc-2020
@@ -53977,10 +54017,12 @@ rete-fognaria-approvato
 rete-fognaria1
 rete-gas
 rete-geodetica-costiera-ed-2021
+rete-geodetica-costiera-ed-2023
 rete-geodetica-regionale-di-raffittimento-7-km-3-km
 rete-gnss
 rete-gnss-puglia
 rete-gps-configurazione-fino-al-2012
+rete-gps-per-il-controllo-della-subsidenza
 rete-gps-per-il-controllo-della-subsidenza1
 rete-idrica
 rete-idrografica-regionale-giunzioni-funzionali-al-grafo
@@ -55348,7 +55390,6 @@ ru-curve-di-livello
 ru-curve-di-livello1
 ru-dati-della-disciplina-del-suolo
 ru-dati-della-disciplina-del-suolo1
-ru-destinazioni-urbanistiche
 ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-riqualificazione-ambientale
 ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-riqualificazione-ambientale1
 ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-trasformazione
@@ -55375,7 +55416,6 @@ ru-disciplina-del-suolo-e-degli-insediamenti-sub-sistemi-e-ambiti
 ru-disciplina-del-suolo-e-degli-insediamenti-sub-sistemi-e-ambiti1
 ru-disciplina-del-suolo-e-degli-insediamenti-verde-ecologico
 ru-disciplina-del-suolo-e-degli-insediamenti-verde-ecologico1
-ru-fasce-di-salvaguardia-delle-previsioni-dei-p-s
 ru-fattibilita-aree-di-trasformazione
 ru-fattibilita-aree-di-trasformazione1
 ru-fattibilita-geologica
@@ -57683,8 +57723,6 @@ spot-elevation
 sprengelversorgung-haus-und-krankenpflege
 sprengelversorgung-medizinische-grundversorgung
 sqnpi-produzione-agricola-integrata-in-umbria
-srb_esistente
-srb_previsioni
 srg-nazionale-e-regionale-ptrc-2020
 stabilimenti-a-rischio-di-incidente-rilevante
 stabilimenti-balneari
@@ -59009,7 +59047,6 @@ strutture-di-offerta-sociale-residenziale-minori
 strutture-di-protezione-antivalanghe
 strutture-di-riabilitazione
 strutture-di-ricovero
-strutture-di-ricovero-e-cura
 strutture-di-ricovero-e-cura-2017
 strutture-e-interventi-sociali-offerti-dallamministrazione-capitolina
 strutture-extra-alberghiere
