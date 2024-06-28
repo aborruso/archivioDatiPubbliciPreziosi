@@ -24,7 +24,7 @@ if [ $code -eq 200 ]; then
   curl -kL "$URL" | jq -r '.result[]' | mlr --csv --implicit-csv-header sort -f 1 then label id >"$folder"/../../docs/"$nome"/"$nome".csv
 
   # scarica elenco organizzazioni
-  ckanapi -r https://dati.gov.it/opendata/ dump organizations --all -p 4 -O "$folder"/../../docs/"$nome"/organizzazioni.jsonl
+  ckanapi -r https://www.dati.gov.it/opendata/ dump organizations --all -p 4 -O "$folder"/../../docs/"$nome"/organizzazioni.jsonl
 
   # ordina elenco organizzazioni per name
   <"$folder"/../../docs/"$nome"/organizzazioni.jsonl jq -cs 'sort_by(.name)|.[]' >"$folder"/../../docs/"$nome"/organizzazioni.jsonl.tmp
