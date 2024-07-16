@@ -31,7 +31,7 @@ if [ $code -eq 200 ]; then
   # estrai i link ai file csv
   while read line; do
     link=$(echo "$line" | jq -r '."@href"')
-    titolo=$(echo "$line" | jq -r '."@title"')
+    titolo=$(echo "$line" | jq -r '."@title"' | tr '[:upper:]' '[:lower:]')
     # if "omicidi volontari"
     if [[ "$titolo" == *"settimana"* ]]; then
       echo "$titolo"
