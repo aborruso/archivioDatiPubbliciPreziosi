@@ -3699,6 +3699,7 @@ area-c-accessi-mensili-aprile-2020
 area-c-accessi-mensili-aprile-2021
 area-c-accessi-mensili-aprile-2022
 area-c-accessi-mensili-aprile-2023
+area-c-accessi-mensili-aprile-2024
 area-c-accessi-mensili-dicembre-2016
 area-c-accessi-mensili-dicembre-2017
 area-c-accessi-mensili-dicembre-2018
@@ -3744,6 +3745,7 @@ area-c-accessi-mensili-maggio-2020
 area-c-accessi-mensili-maggio-2021
 area-c-accessi-mensili-maggio-2022
 area-c-accessi-mensili-maggio-2023
+area-c-accessi-mensili-maggio-2024
 area-c-accessi-mensili-marzo-2017
 area-c-accessi-mensili-marzo-2018
 area-c-accessi-mensili-marzo-2019
@@ -8003,7 +8005,6 @@ c3-3-invariante-ii-modello-uml
 c3-3-invariante-ii-modello-uml1
 c3-4-invariante-iv-caratteri-morfotipologici-dei-sistemi-agroambientali-dei-paesaggi-rurali-mod
 c3-4-invariante-iv-caratteri-morfotipologici-dei-sistemi-agroambientali-dei-paesaggi-rurali-mod1
-c4-territorio-urbanizzato-e-centri-nuclei-storici-modello-uml
 c4-territorio-urbanizzato-e-centri-nuclei-storici-modello-uml1
 c5-1-carta-dei-vincoli-modello-uml
 c5-1-carta-dei-vincoli-modello-uml1
@@ -23157,7 +23158,6 @@ elenco-completo-procedure-affidamento-comune-di-prato-anno-2013-l-190-2012
 elenco-completo-procedure-affidamento-comune-di-prato-anno-2014-l-190-2012
 elenco-completo-procedure-affidamento-comune-di-prato-anno-2015-l-190-2012
 elenco-completo-procedure-affidamento-comune-di-prato-anno-2016-l-190-2012
-elenco-completo-procedure-affidamento-comune-di-prato-anno-2017-l-190-2012
 elenco-completo-procedure-affidamento-comune-di-prato-anno-2018-l-190-2012
 elenco-completo-procedure-affidamento-comune-di-prato-anno-2019-l-190-2012
 elenco-completo-procedure-affidamento-comune-di-prato-anno-2020-l-190-2012
@@ -26338,6 +26338,7 @@ europee-2019-voti-preferenza-candidati-partito-comunista
 europee-2019-voti-preferenza-candidati-partito-democratico
 europee-2019-voti-preferenza-candidati-partito-pirata
 europee-2019-voti-preferenza-candidati-popolari-per-l-italia
+europee-2024-elezioni-parlamento-europeo
 europee-26-05-2014
 evapotraspirazione-potenziale-annua-clima-1961-1990-ed-2017
 evapotraspirazione-potenziale-annua-clima-1961-1990-ed-20171
@@ -28862,6 +28863,7 @@ incendi-2007
 incendi-2008
 incendi-boschivi
 incendi-boschivi-aib-percorsi-di-avvistamento-mobili
+incendi-boschivi-aib-punti-di-sosta
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia-scala-provinciale
 incendi-boschivi-aree-e-punti-di-innesco
@@ -30507,8 +30509,35 @@ istruzione-inferiore-pubblica-della-citta-di-matera-a-s-2016-2017
 istruzione-inferiore-pubblica-della-citta-di-matera-a-s-2017-2018
 istruzione-inferiore-pubblica-della-citta-di-matera-a-s-2018-2019
 istruzione-localizzazione-delle-scuole-dellinfanzia
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2014-2015
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2015-2016
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2016-2017
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2017-2018
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2018-2019
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2019-2020
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2020-2021
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2021-2022
+istruzione-localizzazione-delle-scuole-dellinfanzia-anno-scolastico-2022-2023
 istruzione-localizzazione-delle-scuole-primarie
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2014-2015
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2015-2016
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2016-2017
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2017-2018
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2018-2019
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2019-2020
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2020-2021
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2021-2022
+istruzione-localizzazione-delle-scuole-primarie-anno-scolastico-2022-2023
 istruzione-localizzazione-delle-scuole-secondarie-di-i-grado
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2014-2015
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2015-2016
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2016-2017
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2017-2018
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2018-2019
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2019-2020
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2020-2021
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2021-2022
+istruzione-localizzazione-delle-scuole-secondarie-di-i-grado-anno-scolastico-2022-2023
 istruzione-localizzazione-delle-scuole-secondarie-di-ii-grado
 istruzione-localizzazione-delle-sedi-universitarie-degli-atenei-milanesi
 istruzione-scuola-dinfanzia-percentuale-di-alunni-residenti-in-un-nil-diverso-rispetto-alla-scu
@@ -33417,7 +33446,6 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-07-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-08-ore-12-utc
-modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-09-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-09-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-10-ore-12-utc
@@ -34884,7 +34912,6 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-06-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-07-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-07-ore-12-utc
-modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-08-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-08-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-09-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2024-03-09-ore-12-utc
@@ -35878,7 +35905,6 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-19-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-20-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-20-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-21-ore-00-utc
-modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-21-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-22-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-23-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2024-03-23-ore-12-utc
@@ -36183,7 +36209,6 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20249
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-2025
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20250
-modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20251
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20252
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20253
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20254
@@ -45189,7 +45214,6 @@ pi
 piani-attuativi-e-progetti-unitari-convenzionati
 piani-comunali-di-protezione-civile
 piani-comunali-e-sovracomunali
-piani-comunali-e-sovracomunali-b026
 piani-comunali-e-sovracomunali-f450
 piani-comunali-e-sovracomunali-f467
 piani-comunali-e-sovracomunali-i287
@@ -49562,7 +49586,6 @@ provvedimenti-provvedimenti-organi-indirizzo-politico-decreti-2011
 provvedimenti-provvedimenti-organi-indirizzo-politico-decreti-2012
 provvedimenti-provvedimenti-organi-indirizzo-politico-decreti-2013
 provvedimenti-provvedimenti-organi-indirizzo-politico-decreti-2014
-provvedimenti-provvedimenti-organi-indirizzo-politico-decreti-2015
 provvedimenti-provvedimenti-organi-indirizzo-politico-decreti-2016
 provvedimenti-provvedimenti-organi-indirizzo-politico-ordinativi-diretti
 provvedimenti-relativi-a-pianificazione-e-governo-del-territorio-comma-1
@@ -52130,6 +52153,8 @@ regionali-2019-voti-preferenza-candidati-movimento-5-stelle
 regionali-2019-voti-preferenza-candidati-partito-democratico-chiamparino-presidente
 regionali-2019-voti-preferenza-candidati-si-tav-si-lavoro-per-il-piemonte
 regionali-2020-dati-affluenza
+regionali-2024-elezioni-consiglio-regionale
+regionali-2024-elezioni-presidente-regionale
 regionali-31-05-2015
 regionali-31-05-2015-bianche-nulle
 regionali-31-05-2015-liste
@@ -59361,7 +59386,6 @@ temperatura-media-media-annuale-clima-1991-2015-ed-20171
 temperatura-media-media-autunnale-clima-1961-1990-ed-2017
 temperatura-media-media-autunnale-clima-1961-1990-ed-20171
 temperatura-media-media-autunnale-clima-1991-2015-ed-20171
-temperatura-media-media-estiva-clima-1961-1990-ed-2017
 temperatura-media-media-estiva-clima-1961-1990-ed-20171
 temperatura-media-media-estiva-clima-1991-2015-ed-2017
 temperatura-media-media-estiva-clima-1991-2015-ed-20171
@@ -59686,6 +59710,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-nimi
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-povoletto
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-reana-del-rojale
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-remanzacco
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-taipana
 titolari-di-incarichi-politici-universita-della-basilicata-quadriennio-accademico-2016-2020-con
 titolari-di-incarichi-politici-universita-della-basilicata-quadriennio-accademico-2016-2020-sen
 titolarita-immobiliare-pubblica-nceu
@@ -61174,7 +61199,6 @@ vincoli_cantiano
 vincoli_centri_nuclei_sto
 vincoli_serra
 vincolistica
-vincolistica-b026
 vincolistica-f450
 vincolistica-f467
 vincolistica-i287
