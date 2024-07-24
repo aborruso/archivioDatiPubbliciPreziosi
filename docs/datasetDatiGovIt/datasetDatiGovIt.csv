@@ -2671,7 +2671,6 @@ analisi-di-rischio-valutate-in-conferenza-dei-servizi
 analisi-dipendenti-della-regione-calabria-rapporto-di-lavoro-a-tempo-determinato-indeterminato
 analisi-dipendenti-dellente-bagnaria-arsa
 analisi-dipendenti-dellente-bondeno
-analisi-dipendenti-dellente-cefalu
 analisi-dipendenti-dellente-comune-di-alonte
 analisi-dipendenti-dellente-comune-di-anguillara-veneta
 analisi-dipendenti-dellente-comune-di-arsiero
@@ -2755,6 +2754,7 @@ analisi-dipendenti-dellente-comune-di-zovencedo
 analisi-dipendenti-dellente-cons-di-bacino-laguna-di-ve
 analisi-dipendenti-dellente-goro
 analisi-dipendenti-dellente-magnano-in-riviera
+analisi-dipendenti-dellente-orani
 analisi-dipendenti-dellente-povoletto
 analisi-dipendenti-dellente-reana-del-rojale
 analisi-dipendenti-dellente-regione-calabria
@@ -3263,7 +3263,6 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-amaro
 andamento-entrate-e-uscite-di-competenza-negli-anni-bagnaria-arsa
 andamento-entrate-e-uscite-di-competenza-negli-anni-bondeno
 andamento-entrate-e-uscite-di-competenza-negli-anni-cavazzo-carnico
-andamento-entrate-e-uscite-di-competenza-negli-anni-cefalu
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-agugliaro
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-albaredo-dadige
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-alonte
@@ -3407,6 +3406,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-cons-di-bacino-laguna-di-ve
 andamento-entrate-e-uscite-di-competenza-negli-anni-flaibano
 andamento-entrate-e-uscite-di-competenza-negli-anni-goro
 andamento-entrate-e-uscite-di-competenza-negli-anni-magnano-in-riviera
+andamento-entrate-e-uscite-di-competenza-negli-anni-orani
 andamento-entrate-e-uscite-di-competenza-negli-anni-povoletto
 andamento-entrate-e-uscite-di-competenza-negli-anni-reana-del-rojale
 andamento-entrate-e-uscite-di-competenza-negli-anni-remanzacco
@@ -19028,7 +19028,6 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bond
-conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cefa
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu1
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu10
@@ -19106,12 +19105,12 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cons
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-magn
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-oran
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-povo
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-rean
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-sest
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-bagnaria-
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-bondeno
-conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-cefalu
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di10
@@ -19151,6 +19150,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di8
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di9
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-magnano-i
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-orani
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-reana-del
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-sesto-al-
 conto-consuntivo-2012
@@ -30370,6 +30370,7 @@ iscritti-scuole-pubbliche-dal-nido-alla-secondaria-di-primo-grado
 iscritti-scuole-secondarie-i-grado-ed-iscritti-alla-ristorazione-scolastica-2018
 iscritti-scuole-secondarie-i-grado-ed-iscritti-alla-ristorazione-scolastica-2019
 iscritti-scuole-secondarie-i-grado-ed-iscritti-alla-ristorazione-scolastica-2020
+iscritti-serie-storiche
 iscritti-uniba-altre-tipologia-di-corsi-universitari
 iscritti-uniba-cittadinanza-straniera-analisi-per-dipartimento
 iscritti-uniba-cittadinanza-straniera-analisi-per-dipartimento-e-corso
@@ -43604,7 +43605,6 @@ omissione-contributive-e-sanzioni-distribuzione-per-gestione-attivit224-2013
 onegeology-eu-1m-eenvplus-fvg-dataset
 onegeology-europe-1-1m-dataset
 oneri-pratiche-edilizie-bondeno
-oneri-pratiche-edilizie-cefalu
 oneri-pratiche-edilizie-comune-di-albaredo-dadige
 oneri-pratiche-edilizie-comune-di-alonte
 oneri-pratiche-edilizie-comune-di-anguillara-veneta
@@ -43674,6 +43674,7 @@ oneri-pratiche-edilizie-comune-di-valdastico
 oneri-pratiche-edilizie-comune-di-vigasio
 oneri-pratiche-edilizie-comune-di-zenson-di-piave
 oneri-pratiche-edilizie-magnano-in-riviera
+oneri-pratiche-edilizie-orani
 oneri-pratiche-edilizie-povoletto
 oni-delle-organizzazioni-di-volontariato-di-protezione-civile-della-regione-lazio
 onkologische-screening
@@ -45013,7 +45014,7 @@ pcs
 pdnd-andamento-delle-adesioni
 pdnd-distribuzione-degli-e-service-per-enti-erogatori
 pdnd-distribuzione-degli-enti-per-attivita
-pdnd-e-service-con-piu-enti-abilitati-inizio-del-servizio1
+pdnd-e-service-con-piu-enti-abilitati-inizio-del-servizio
 pdnd-e-service-con-piu-enti-abilitati-ultimi-12-mesi
 pdnd-e-service-con-piu-enti-abilitati-ultimi-6-mesi
 pdnd-e-service-pubblicati
@@ -48100,7 +48101,6 @@ pratiche-attivita-economiche
 pratiche-cimiteriali
 pratiche-edilizie
 pratiche-edilizie-richieste-bondeno
-pratiche-edilizie-richieste-cefalu
 pratiche-edilizie-richieste-comune-di-alonte
 pratiche-edilizie-richieste-comune-di-arsie
 pratiche-edilizie-richieste-comune-di-arsiero
@@ -48167,9 +48167,9 @@ pratiche-edilizie-richieste-comune-di-valdastico
 pratiche-edilizie-richieste-comune-di-vigasio
 pratiche-edilizie-richieste-comune-di-zenson-di-piave
 pratiche-edilizie-richieste-magnano-in-riviera
+pratiche-edilizie-richieste-orani
 pratiche-edilizie-richieste-povoletto
 pratiche-edilizie-rilasciate-bondeno
-pratiche-edilizie-rilasciate-cefalu
 pratiche-edilizie-rilasciate-comune-di-buttapietra
 pratiche-edilizie-rilasciate-comune-di-campagna-lupia
 pratiche-edilizie-rilasciate-comune-di-carbonera
@@ -48198,6 +48198,7 @@ pratiche-edilizie-rilasciate-comune-di-torri-di-quartesolo
 pratiche-edilizie-rilasciate-comune-di-trevenzuolo
 pratiche-edilizie-rilasciate-comune-di-vigasio
 pratiche-edilizie-rilasciate-magnano-in-riviera
+pratiche-edilizie-rilasciate-orani
 pratiche-rilasciate-comune-di-giavera-del-montello-aggiornato-al-25-11-2021
 pratiche-rilascio-di-nullaosta-idrogeologico
 precariato-importo-totale-lordo-per-numero-di-lavoratori-anno-2019
@@ -58489,7 +58490,6 @@ stradario-2019-citta-metropolitana-di-napoli
 stradario-capannori
 stradario-comunale
 stradario-comunale-bondeno
-stradario-comunale-cefalu
 stradario-comunale-comune-di-agugliaro
 stradario-comunale-comune-di-albaredo-dadige
 stradario-comunale-comune-di-albettone
@@ -58621,6 +58621,7 @@ stradario-comunale-del-comune-di-san-pietro-di-morubio
 stradario-comunale-del-comune-di-terrazzo
 stradario-comunale-del-comune-di-villa-bartolomea
 stradario-comunale-magnano-in-riviera
+stradario-comunale-orani
 stradario-comunale-povoletto
 stradario-comunale-sedilo
 stradario-comunale-sitc
@@ -60263,7 +60264,7 @@ totale-cancellati-allanagrafe
 totale-cancellati-allanagrafe-italiani-e-stranieri
 totale-iscritti-allanagrafe
 totale-iscritti-allanagrafe-italiani-e-stranieri
-totale-richieste-di-accesso
+totale-sessioni-di-scambio
 totale-turni-frequentati-ai-centri-estivi-suddivisi-per-annualita
 totem-informativi-e-access-point-wifi-installati-nellambito-del-progetto-piuss-dato-geografico
 totem-informativi-piuss-visualizzaiozni-di-pagina-agosto-2015
