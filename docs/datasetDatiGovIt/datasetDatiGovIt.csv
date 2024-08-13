@@ -4234,6 +4234,7 @@ aree-di-assistenza-della-popolazione1
 aree-di-attesa-della-popolazione
 aree-di-attesa-della-popolazione1
 aree-di-balneazione
+aree-di-balneazione-controlli-e-superamenti-dei-limiti-anni-2014-2022
 aree-di-bonifica-a-scolo-meccanico
 aree-di-bonifica-idraulica
 aree-di-bonifica-idraulica1
@@ -6626,6 +6627,7 @@ b2-2-1-carta-delluso-del-suolo-modello-uml1
 b2-2-2-carta-della-vegetazione-modello-uml
 b2-2-2-carta-della-vegetazione-modello-uml1
 b2-3-1-morfologia-e-sistema-insediativo-modello-uml
+b2-3-1-morfologia-e-sistema-insediativo-modello-uml1
 b2-3-2-periodizzazione-stratigrafia-degli-insediamenti-modello-uml
 b2-3-2-periodizzazione-stratigrafia-degli-insediamenti-modello-uml1
 b2-3-3-assetto-insediativo-del-territorio-modello-uml
@@ -6666,7 +6668,6 @@ b3-6-carta-delle-aree-allagabili-modello-uml
 b3-6-carta-delle-aree-allagabili-modello-uml1
 b3-7-carta-del-battente-idraulico-modello-uml
 b3-7-carta-del-battente-idraulico-modello-uml1
-b3-8-carta-delle-velocita-idrauliche-modello-uml
 b3-8-carta-delle-velocita-idrauliche-modello-uml1
 b3-9-carta-della-magnitudo-idraulica-modello-uml
 b3-9-carta-della-magnitudo-idraulica-modello-uml1
@@ -8187,6 +8188,7 @@ bilancio-di-previsione-e-rendiconto-pat-2019
 bilancio-di-previsione-e-rendiconto-pat-2020
 bilancio-di-previsione-e-rendiconto-pat-2021
 bilancio-di-previsione-e-rendiconto-pat-2022
+bilancio-di-previsione-e-rendiconto-pat-2023
 bilancio-di-previsione-entrata
 bilancio-di-previsione-finanziario-2016-2018
 bilancio-di-previsione-finanziario-2017-2019
@@ -22701,6 +22703,7 @@ esiti-esami-scuola-secondaria-di-ii-grado-esami-di-maturita
 esiti-esami-scuole-secondaria-di-i-grado-esame-di-licenza-media
 esito-dei-controlli-di-primo-livello-della-spesa-delle-operazioni-finanziate-con-risorse-por-ca
 esportazione-netta-dal-veneto-di-rifiuti-speciali-per-capitolo-cer-anni-2009-2019
+esportazioni-dei-sistemi-locali-del-lavoro-pugliesi-a-partire-dal-2017
 esportazioni-del-friuli-venezia-giulia-2013-2016
 esportazioni-del-friuli-venezia-giulia-2014-2017
 esportazioni-del-friuli-venezia-giulia-2014-2018
@@ -25517,6 +25520,7 @@ incidenti-stradali-2015-gennaio-ottobre-dato-geografico
 incidenti-stradali-anno-2005
 incidenti-stradali-anno-2006
 incidenti-stradali-anno-2007
+incidenti-stradali-anno-2008
 incidenti-stradali-anno-2009
 incidenti-stradali-anno-2010
 incidenti-stradali-anno-20101
@@ -25621,7 +25625,6 @@ incidenti-stradali-per-mese-anno-2014
 incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2005
 incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2006
 incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2007
-incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2008
 incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2009
 incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2010
 incidenti-stradali-per-numero-di-pedoni-coinvolti-anno-2011
@@ -30220,6 +30223,7 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-04-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-05-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-05-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-06-ore-00-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-06-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-07-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2023-09-08-ore-00-utc
@@ -30463,7 +30467,6 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-06-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-07-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-07-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-08-ore-00-utc
-modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-08-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-09-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-09-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2023-09-10-ore-00-utc
@@ -30484,6 +30487,7 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-09-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-09-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-10-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-10-ore-12-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-11-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-11-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-12-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2024-04-12-ore-12-utc
@@ -35516,6 +35520,7 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-05-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-06-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-06-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-07-ore-00-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-07-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-08-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2024-04-09-ore-00-utc
@@ -36495,7 +36500,6 @@ modello-ww3-a-10km-average-wave-direction-deg-2024-04-16-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-04-16-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-04-17-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-04-17-ore-12-utc
-modello-ww3-a-10km-average-wave-direction-deg-2024-04-18-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-04-18-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-04-19-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2024-04-19-ore-12-utc
@@ -38170,6 +38174,7 @@ ndvi_2003-runs-from-2003-01-01t00-00-00-utc-to-2003-12-19t00-00-00-utc1
 ndvi_2003-runs-from-2003-01-01t00-00-00-utc-to-2003-12-19t00-00-00-utc2
 ndvi_2003-runs-from-2003-01-01t00-00-00-utc-to-2003-12-19t00-00-00-utc3
 ndvi_2004-runs-from-2004-01-01t00-00-00-utc-to-2004-12-18t00-00-00-utc
+ndvi_2004-runs-from-2004-01-01t00-00-00-utc-to-2004-12-18t00-00-00-utc1
 ndvi_2004-runs-from-2004-01-01t00-00-00-utc-to-2004-12-18t00-00-00-utc2
 ndvi_2004-runs-from-2004-01-01t00-00-00-utc-to-2004-12-18t00-00-00-utc3
 ndvi_2005-runs-from-2005-01-01t00-00-00-utc-to-2005-12-19t00-00-00-utc
@@ -38219,7 +38224,6 @@ ndvi_2015-runs-from-2015-01-01t00-00-00-utc-to-2015-12-19t00-00-00-utc3
 ndvi_2016-runs-from-2016-01-01t00-00-00-utc-to-2016-02-02t00-00-00-utc
 ndvi_2016-runs-from-2016-01-01t00-00-00-utc-to-2016-02-02t00-00-00-utc1
 ndvi_2016-runs-from-2016-01-01t00-00-00-utc-to-2016-02-02t00-00-00-utc2
-ndvi_2016-runs-from-2016-01-01t00-00-00-utc-to-2016-02-02t00-00-00-utc3
 negozi-aperti-agosto-2018
 negozi-aperti-agosto-20181
 negozi-di-alimentari-classificati-con-ateco-2007-per-1-000-residenti
