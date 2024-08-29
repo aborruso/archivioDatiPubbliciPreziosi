@@ -32,7 +32,7 @@ if [ $code -eq 200 ]; then
     sed -i -e ''"$line"'d' "$folder"/tmp.csv
   done
 
-  mlr --csv --ifs ";" clean-whitespace then sort -n idImpianto "$folder"/tmp.csv | sed 's/[^[:print:]]//g' >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi-cleaned.csv
+  mlrgo --ragged --csv --ifs ";" clean-whitespace then sort -n idImpianto then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Bandiera)' "$folder"/tmp.csv | sed 's/[^[:print:]]//g' >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi-cleaned.csv
 
   <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv tail -n +2 | grep -vP '&#' >"$folder"/../../docs/"$nome"/tmp.csv
 
