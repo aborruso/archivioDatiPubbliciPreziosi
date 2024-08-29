@@ -45,6 +45,9 @@ if [ $code -eq 200 ]; then
   done
 
   mv "$folder"/../../docs/"$nome"/tmp.csv "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
-  mlr -I  --csvlite --fs ";" sort -n idImpianto  "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+
+  sed -i -r 's/; */;/g' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+
+  mlrgo -I --ragged --csvlite --fs ";" sort -n idImpianto then remove-empty-columns then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Gestore) || $Latitudine!=~"^([0-9]|NULL)"' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
 fi
