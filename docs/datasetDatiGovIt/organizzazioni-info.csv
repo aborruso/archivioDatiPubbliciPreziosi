@@ -40,7 +40,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,6566,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
 2024-05-22T14:26:56.234855,Provincia di Biella,8722baa5-6824-4009-86e3-57075b943c5e,p_bi,provincia-di-biella,5,https://dati.gov.it/view-dataset?organization=provincia-di-biella
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,193,https://dati.gov.it/view-dataset?organization=regione-basilicata
-2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
+2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,326,https://dati.gov.it/view-dataset?organization=regione-calabria
 2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,310,https://dati.gov.it/view-dataset?organization=regione-campania
 2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,3371,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,626,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
@@ -58,5 +58,5 @@ created,display_name,id,identifier,name,package_count,URL
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,6,https://dati.gov.it/view-dataset?organization=sebastien-catalog
 2024-03-08T21:49:59.493611,Università della Basilicata,fdd90e4e-1f3d-4bd1-acba-cbef7c9c0271,uni_ba,universita-della-basilicata,29,https://dati.gov.it/view-dataset?organization=universita-della-basilicata
 2024-03-08T21:51:11.725431,Università della Calabria,ccc8eb67-5b1d-460c-be0c-1a698c9597aa,unical,universita-della-calabria,5,https://dati.gov.it/view-dataset?organization=universita-della-calabria
-2024-03-08T21:48:45.195677,Università di Bari,2faa23b0-90ad-49f2-998e-003f6100e279,uni_ba,universita-di-bari,103,https://dati.gov.it/view-dataset?organization=universita-di-bari
+2024-03-08T21:48:45.195677,Università di Bari,2faa23b0-90ad-49f2-998e-003f6100e279,uni_ba,universita-di-bari,102,https://dati.gov.it/view-dataset?organization=universita-di-bari
 2024-03-08T21:52:30.125101,Università di Bologna,f9cc510c-3548-4f1f-8b24-d0182de48f33,uni_bo,universita-di-bologna,34,https://dati.gov.it/view-dataset?organization=universita-di-bologna
