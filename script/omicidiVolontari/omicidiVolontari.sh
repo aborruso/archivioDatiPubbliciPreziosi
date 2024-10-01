@@ -24,7 +24,7 @@ code=$(curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
   curl -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' "$URL" --compressed | \
-  scrape -be '//a[contains(@href, ".csv")]' | xq '.html.body.a' | mlr --json unsparsify > "$folder"/tmp/tmp.json
+  scrape -be '//a[contains(@href, ".csv")]' | xq '.html.body.a' | mlr --ijson --ojsonl unsparsify > "$folder"/tmp/tmp.json
 
   sed -i 's|wrportal.dippp.interno.it/sites/default/files|www.interno.gov.it/sites/default/files|g' "$folder"/tmp/tmp.json
 
