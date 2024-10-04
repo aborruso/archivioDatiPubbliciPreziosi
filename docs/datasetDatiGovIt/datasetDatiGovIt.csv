@@ -666,7 +666,6 @@ id
 18-aree-verdi-comune-di-pezzaze
 18-aree-verdi-comune-di-verolanuova
 18-aree-verdi-comune-di-verolavecchia
-1853-coperture-vettoriali-delluso-del-suolo-storico-edizione-2011-poligoni
 1884-milano-carta-tecnica-comunale-quadro-unione-scala-1-25000-1884-milano-municipal-base-map-s
 19-area-per-sgambatura-cani-comune-di-toscolano-maderno
 19-area-per-sgambatura-cani-comune-di-verolanuova
@@ -678,26 +677,16 @@ id
 1956-milano-carta-tecnica-comunale-scala-1-5000-serie-1956-milano-municipal-base-map-scale-1-50
 1965-milano-carta-tecnica-comunale-scala-1-2000-serie-1965-milano-municipal-base-map-scale-1-20
 1972-milano-carta-tecnica-comunale-scala-1-2000-serie-1972-milano-municipal-base-map-scale-1-20
-1976-78-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2024
-1976-coperture-vettoriali-delluso-del-suolo-edizione-2011
 1990-milano-carta-tecnica-comunale-scala-1-2000-serie-1990-milano-municipal-base-map-scale-1-20
 1990-milano-pertinenze-carta-tecnica-comunale-scala-1-2000-serie-1990-milano-appurtenances-muni
-1994-coperture-vettoriali-delluso-del-suolo-edizione-2015
-1994-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2021
 1997-2001-personale-universitario
 2-lecce-opendata-contest-graduatorie
 2000-milano-carta-tecnica-comunale-scala-1-1000-serie-2000-milano-municipal-base-map-scale-1-10
 2002-2008-personale-universitario
-2003-coperture-vettoriali-delluso-del-suolo-edizione-2011
-2003-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2021
 2006-2015-contribuzione-e-interventi-afam
 2006-milano-carta-tecnica-comunale-scala-1-1000-serie-2006-milano-municipal-base-map-scale-1-10
-2008-coperture-vettoriali-delluso-del-suolo-edizione-2011
-2008-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2018
-2008-sintesi-uso-del-suolo-edizione-2011
 2009-2013-contribuzione-e-interventi-atenei
 2009-2014-personale-universitario
-2011-coperture-vettoriali-delluso-del-suolo-edizione-2013
 2011-diritto-allo-studio-universitario-dsu-regionale
 2012-diritto-allo-studio-universitario-dsu-regionale
 2012-milano-carta-tecnica-comunale-scala-1-1000-serie-2012-milano-municipal-base-map-scale-1-10
@@ -718,7 +707,6 @@ id
 2014-carta-tecnica-regionale-numerica-scala-1-5000-regione-lazio
 2014-collegi-universitari
 2014-contribuzione-e-interventi-atenei
-2014-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2018
 2014-diritto-allo-studio-universitario-dsu-regionale
 2014-incidenti-stradali
 2014_voti_liste_elezioni_europee
@@ -737,7 +725,6 @@ id
 2017-collegi-universitari
 2017-contribuzione-e-interventi-afam
 2017-contribuzione-e-interventi-atenei
-2017-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2020
 2017-diritto-allo-studio-universitario-dsu-regionale
 2017-incidenti-stradali
 2017_affluenze_elezioni_comunali
@@ -764,7 +751,6 @@ id
 2020-collegi-universitari
 2020-contribuzione-e-interventi-afam
 2020-contribuzione-e-interventi-atenei
-2020-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-2023
 2020-diritto-allo-studio-universitario-dsu-regionale
 2020-incidenti-stradali
 2020_affluenze_referendum_costituzionale
@@ -1185,7 +1171,6 @@ acqua-acque-di-classificazione-superficiali-interne
 acqua-acque-di-classificazione-superficiali-marino-costiere
 acqua-alghe
 acqua-bacini-idrografici-catasto
-acqua-condotta-catasto
 acqua-dati-depurazione-2004-2016
 acqua-erogata-pro-capite
 acqua-immessa-erogata-e-perdite-idriche-nella-rete-comunale-anno-2018
@@ -1443,6 +1428,7 @@ affidamenti-utr-2017
 affidamenti-utr-20171
 affioramenti-rocciosi-sottomarini
 affioramento-areale
+affioramento-areale1
 affioramento-naturale-dellacqua-af_acq-040104
 affittacamere
 affittacamere-2016
@@ -2112,6 +2098,7 @@ altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-fauna-stanziale
 altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-c
 altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-c1
 altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-c2
+altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-c3
 altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-d
 altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-d1
 altri-temi-suolo-e-vegetazione-carta-delle-vocazioni-faunistiche-vocazione-ungulati-vocazione-m
@@ -2287,6 +2274,7 @@ ambiti-amministrativi-comuni
 ambiti-amministrativi-comuni-census-2000-storico
 ambiti-amministrativi-province
 ambiti-caratterizzati
+ambiti-catastali
 ambiti-con-buona-integrita
 ambiti-con-compromessa-integrita
 ambiti-con-disciplina-urbanistica-speciale-puc
@@ -3829,7 +3817,6 @@ antropico-cassone-edilizio
 antropico-cassone-edilizio1
 antropico-localizzazione-di-manufatto-edilizio-o-arredo-igiene-urbana
 antropico-localizzazione-di-manufatto-edilizio-o-arredo-igiene-urbana1
-antropico-localizzazione-di-manufatto-industriale-di-trasporto
 antropico-localizzazione-di-manufatto-industriale-di-trasporto1
 antropico-manufatti-stradali
 antropico-manufatti-stradali1
@@ -4357,6 +4344,7 @@ aree-di-rispetto-militare
 aree-di-rispetto-militare1
 aree-di-salvaguardia-dei-pozzi-per-le-acque-minerali-areale
 aree-di-salvaguardia-delle-concessioni-termali
+aree-di-salvaguardia-delle-concessioni-termali1
 aree-di-schianto-censite-da-arpav
 aree-di-schianto-censite-da-arpav1
 aree-di-servizio-fipili-citta-metropolitana-di-firenze
@@ -4396,7 +4384,6 @@ aree-giochi1
 aree-gioco-bimbi
 aree-in-cui-e-vietato-il-cambio-di-destinazione-duso-dei-piani-terra-in-locali-abitabili-ad-uso
 aree-in-frana-2014
-aree-in-subsidenza
 aree-industriali-consortili-della-regione-basilicata
 aree-industriali-consortili-della-regione-basilicata1
 aree-interessate-da-esondazione-nel-luglio-2019
@@ -4504,6 +4491,7 @@ aree-piano-neve-liv1
 aree-piano-neve-liv11
 aree-pilota
 aree-potenzialmente-carsificabili
+aree-potenzialmente-carsificabili1
 aree-preesistenti-a-valenza-storico-culturale
 aree-presidiate-dai-sistemi-arginali
 aree-presidiate-dai-sistemi-arginali-approvato
@@ -5317,6 +5305,7 @@ assemini-puc-ambito-ru
 assemini-puc-pin
 assemini-sezioni-censuarie
 assi-di-piega
+assi-di-piega1
 assi-fluviali-dei-tratti-morfologicamente-omogenei-della-rete-idrografica-naturale-tipizzata
 assi-fluviali-dei-tratti-morfologicamente-omogenei-della-rete-idrografica-naturale-tipizzata1
 assi-infrastrutture
@@ -6732,7 +6721,6 @@ bacini-di-raccolta-dei-rifiuti-e-comuni
 bacini-dutenza-per-i-singoli-depuratori
 bacini-farmaceutici
 bacini-idrografici
-bacini-idrografici-1-10-000-digitale-edizione-del-1988
 bacini-idrografici-del-distretto-delle-alpi-orientali
 bacini-idrografici-di-riferimento-come-da-dir-2000-60-ce
 bacini-idrografici-di-riferimento-come-da-dir-2000-60-ce1
@@ -6791,13 +6779,17 @@ banca-dati-della-copertura-del-suolo-della-regione-veneto
 banca-dati-delle-indagini-geognostiche-e-geofisiche
 banca-dati-e-cartografia-dei-suoli-del-lazio
 banca-dati-e-inventario-dei-prati-stabili-naturali
-banca-dati-eventi-franosi-post-eventi-meteorologici-maggio-2023
 banca-dati-eventi-franosi-post-eventi-meteorologici-maggio-2023-aree-interessate-da-indiri-2024
 banca-dati-eventi-franosi-post-eventi-meteorologici-maggio-2023-aree-interessate-da-indirizzi-n
 banca-dati-eventi-franosi-post-eventi-meteorologici-maggio-2023-inventario-dei-fenomeni-fr-2023
 banca-dati-eventi-franosi-post-eventi-meteorologici-maggio-2023-inventario-dei-fenomeni-fr-2024
 banca-dati-eventi-franosi-post-eventi-meteorologici-maggio-2023-modifiche-effettuate-nel-l-2023
 banca-dati-geofisica-dataset
+banca-dati-geologica-carg-foglio-607-corleone
+banca-dati-geologica-carg-foglio-608-caccamo
+banca-dati-geologica-carg-foglio-619-s-margherita-di-belice
+banca-dati-geologica-carg-foglio-624-monte-etna
+banca-dati-geologica-carg-foglio-631-caltanissetta
 banca-dati-gestione-faunistica-nelle-aree-naturali-protette-del-lazio
 banca-dati-lavori-pubblici-bdap-comune-di-copertino
 banca-dati-lavori-pubblici-bdap-comune-di-crispiano
@@ -6814,13 +6806,6 @@ banca-dati-prove-geognostiche-parametri-sismici-punti
 banca-dati-prove-geognostiche-prove-geognostiche-linee
 banca-dati-prove-geognostiche-prove-geognostiche-punti
 banca-dati-prove-geognostiche-prove-penetrometriche-numeriche-punti
-banca-dati-risorse-e-valorizzazione-della-montagna-acquiferi-montani-potenzialmente-sede-di-tra
-banca-dati-risorse-naturali-per-quadro-conoscitivo-acque-sotterranee
-banca-dati-risorse-naturali-per-quadro-conoscitivo-acque-sotterranee-corpi-idrici-sotterranei-a
-banca-dati-risorse-naturali-per-quadro-conoscitivo-acque-sotterranee-depositi-di-travertino-in-
-banca-dati-risorse-naturali-per-quadro-conoscitivo-acque-sotterranee-sorgenti-in-condizioni-nat
-banca-dati-risorse-naturali-per-quadro-conoscitivo-acque-sotterranee-sorgenti-pozzi-ed-affini-s
-banca-dati-risorse-naturali-per-quadro-conoscitivo-acque-sotterranee-strutture-tettoniche-setto
 banca-dati-sui-presidi-socio-assistenziali-della-regione-emilia-romagna-70348788
 banca-regionale-della-terra-elenco-dei-terreni-del-comune-di-genova
 banche-dati
@@ -7068,7 +7053,6 @@ base-dellacquifero-a2
 base-dellacquifero-a21
 base-dellacquifero-a211
 base-elettorale-comune-di-livorno
-basi-delle-unita-geologiche-del-sottosuolo-della-pianura-base-dellacquifero-a2
 bastiglia-popolazione-residente-per-eta-e-genere
 batimetria-del-lago-trasimeno
 batimetrie-5-200m-dataset
@@ -8699,6 +8683,7 @@ carta-dei-tipi-forestali-reali-della-lombardia
 carta-del-carbonio-organico-nei-suoli-1-250000
 carta-del-consumo-di-suolo-del-veneto-2016
 carta-del-consumo-di-suolo-del-veneto-2017
+carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-cobalto-co
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-cr-cu-ni-pb-v-zn
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-cromo-cr
 carta-del-fondo-naturale-a-scala-1-250-000-della-pianura-emiliano-romagnola-nichel-ni
@@ -9027,20 +9012,15 @@ cartareazione
 carte-altimetriche-della-regione-basilicata
 carte-applicative-capacita-duso-dei-suoli-della-regione-emilia-romagna-scala-1-50-000-ediz-2021
 carte-applicative-carbonio-organico-immagazzinato-nei-suoli-dellappennino-tra-0-100-cm
-carte-applicative-carbonio-organico-immagazzinato-nei-suoli-dellappennino-tra-0-30-cm-outdated
 carte-applicative-carbonio-organico-immagazzinato-nei-suoli-di-pianura-tra-0-100-cm
-carte-applicative-carbonio-organico-immagazzinato-nei-suoli-di-pianura-tra-0-30-cm-seconda-ediz
 carte-applicative-carbonio-organico-immagazzinato-nei-suoli-regionali-tra-0-30-cm-terza-edizion
 carte-applicative-carta-dei-gruppi-idrologici-della-pianura-emiliano-romagnola
 carte-applicative-carta-della-conducibilita-idraulica-satura-dei-suoli-di-pianura-in-sca-50-000
-carte-applicative-carta-delle-superfici-impermeabilizzate-della-pianura-emiliano-romagnola
 carte-applicative-dotazione-di-sostanza-organica-dei-suoli-regionali-strato-0-30-cm-terza-edizi
 carte-applicative-erosione-idrica-attuale-edizione-2019
 carte-applicative-salinita-dei-suoli-della-pianura-emiliano-romagnola-tra-0-50-cm-seconda-appro
 carte-applicative-salinita-dei-suoli-della-pianura-emiliano-romagnola-tra-50-100-cm-prima-appro
-carte-applicative-servizi-ecosistemici-forniti-dai-suoli-della-pianura-emiliano-romagnola-outda
 carte-applicative-servizi-ecosistemici-forniti-dai-suoli-della-regione-emilia-romagna-seconda-e
-carte-applicative-sostanza-organica-dei-suoli-della-pianura-emiliano-romagnola-strato-0-30-cm-s
 carte-d-identita-emesse-2017
 carte-d-identita-emesse-per-tipologia-e-sede-2018
 carte-del-rischio-di-incendio
@@ -9048,12 +9028,8 @@ carte-delle-proprieta-chimico-fisiche-contenuto-k-scambiabile-nei-suoli-regional
 carte-delle-proprieta-chimico-fisiche-contenuto-n-totale-nei-suoli-regionali-tra-0-30-cm-second
 carte-delle-proprieta-chimico-fisiche-contenuto-p-assimilabile-nei-suoli-regionali-tra-0-30-cm-
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell
-carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell1
-carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-dell2
 carte-delle-proprieta-chimico-fisiche-contenuto-percentuale-di-carbonio-organico-nei-suoli-regi
-carte-delle-proprieta-chimico-fisiche-tessitura-dei-suoli-della-pianura-emiliano-romagnola-stra
 carte-delle-proprieta-chimico-fisiche-tessitura-dei-suoli-regionali-strato-0-30-cm
-carte-delle-proprieta-chimico-fisiche-valori-di-ph-nei-suoli-della-pianura-emiliano-romagnola-t
 carte-delle-proprieta-chimico-fisiche-valori-di-ph-nei-suoli-regionali-strato-0-30-cm
 carte-di-localizzazione-probabile-delle-valanghe-del-territorio-montano-veneto
 cartelloni-pubblicitari
@@ -9270,6 +9246,7 @@ cause-di-cessazione-contratti
 cause-di-morte
 cava
 cava-o-miniera
+cava-o-miniera1
 cava1
 cave
 cave-attive
@@ -9893,6 +9870,7 @@ chiese6
 chiese7
 chiese8
 chiese9
+chilometriche_100m-v1-01
 chirurgia-robotica-distribuzione-tecnologie-dei-sistemi-robotizzati-per-la-chirurgia-endoscopic
 ciclabili
 ciclabili-e-ciclovie-del-veneto
@@ -10208,7 +10186,9 @@ classi-altimetriche-pianura-padana-rer-copertura-vettoriale-edizione-1997
 classi-di-capacita-duso-dei-suoli
 classi-di-eta-della-popolazione-anno-2011
 classi-di-permeabilita
+classi-di-permeabilita1
 classi-di-vulnerabilita
+classi-di-vulnerabilita1
 classi-sismiche-d-m-11-1-1982
 classi-sismiche-o-p-c-m-3274-2003
 classifica-primo-contest-open-matera
@@ -10284,6 +10264,7 @@ clima-del-vento-alla-superfice-edizione-2005-2007
 clima-delle-correnti-superficiali-edizione-2005-2007
 clima-ondoso-edizione-2005-2007
 clivaggio-scistosita
+clivaggio-scistosita1
 clivometria-dtm-25m
 cm-tirano-civici-fabbricati-stradario
 cm-tirano-numeri-civici
@@ -15615,6 +15596,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di9
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-magnano-i
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-orani
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-povoletto
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-reana-del
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-sesto-al-
 conto-consuntivo-2012
@@ -16928,7 +16910,9 @@ dati-in-tempo-reale-sui-posti-liberi-nei-parcheggi-di-firenze
 dati-in-tempo-reale-sui-posti-liberi-nei-parcheggi-di-firenze-posti-liberi
 dati-incidenti-stradali-puglia-2020
 dati-interferometrici-volo-ascendente
+dati-interferometrici-volo-ascendente1
 dati-interometrici-volo-discendente
+dati-interometrici-volo-discendente1
 dati-interventi-effettuati-dalla-ronda-della-carita-comune-di-verona
 dati-iva-per-tipo-di-soggetto-e-codice-attivita-anno-2021
 dati-iva-per-tipo-di-soggetto-e-codice-attivita-serie-storica-20152020
@@ -17940,6 +17924,8 @@ depositi-per-abitante
 depositi-per-abitante-in-euro
 depositi-superficiali
 depositi-superficiali-carta-geomorfologica
+depositi-superficiali-carta-geomorfologica1
+depositi-superficiali1
 deposito-contratti-distribuzione-dei-contratti-attivi-di-decontribuzione-per-obiettivi
 deposito-contratti-distribuzione-regionale-delle-dichiarazioni-di-decontribuzione
 deposito-contratti-distribuzione-regionale-delle-dichiarazioni-di-detassazione
@@ -23615,6 +23601,7 @@ fascia-di-rispetto-ferrovia-approvato
 fascia-di-rispetto-metanodotti
 fascia-di-rispetto-metanodotti-approvato
 fascia-di-rispetto-pozzi-potabili
+fascia-di-rispetto-pozzi-potabili1
 fascia-di-rispetto-servitu-militari
 fascia-di-rispetto-servitu-militari-approvato
 fascia-di-rispetto-stradale-dentro-centro-abitato
@@ -23692,8 +23679,8 @@ feelflorence
 fenoli-fiumi
 fenomeni-aree
 fenomeni-geopaleontologici
+fenomeni-geopaleontologici1
 fenomeni-punti
-fenomeni_franosi
 feriti-e-morti-per-fascia-deta
 fermate-autobus-urbani-del-comune-di-matera
 fermate-del-trasporto-pubblico
@@ -23965,6 +23952,7 @@ formazioni-superficiali-ricoprenti-il-basamento-geologico-elementi-geologicii-ap
 formazioni-superficiali-ricoprenti-il-basamento-geologico-elementi-idrogeologici
 formazioni-superficiali-ricoprenti-il-basamento-geologico-elementi-idrogeologicii-approvato
 forme-areali
+forme-areali1
 forme-associative-del-piemonte-l-r-11-2012
 forme-e-processi-geomorfologici
 forme-e-processi-geomorfologici-approvato
@@ -23974,8 +23962,12 @@ forme-e-processi-geomorfologici1
 forme-e-processi-geomorfologici2
 forme-lineari
 forme-lineari-fl
+forme-lineari-fl1
+forme-lineari1
 forme-puntuali
 forme-puntuali-fp
+forme-puntuali-fp1
+forme-puntuali1
 fornitori-del-programma
 forti-della-grande-guerra-in-trentino
 forti-e-manufatti-difensivi-di-interesse-storico
@@ -24076,12 +24068,15 @@ fragilita-del-territorio-geologia-idrogeologia-geomorfologia
 frammentazione-del-territorio-naturale-e-agricolo
 frana-lineare
 frane
+frane1
 franosita-diffusa
+franosita-diffusa1
 frantumazione-r12-frr12
 frantumazione-r4-frr4
 frantumazione-veicoli-fuori-uso-r12-fvfur12
 frantumazione-veicoli-fuori-uso-r4-fvfur4
 fratture-faglie-e-lineazioni
+fratture-faglie-e-lineazioni1
 frazioni
 frazioni-comune-di-ravenna
 frazioni-presenti-nel-territorio
@@ -25693,7 +25688,6 @@ incendi-2007
 incendi-2008
 incendi-boschivi-aib-percorsi-di-avvistamento-mobili
 incendi-boschivi-aib-punti-di-sosta
-incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia-scala-provinciale
 incendi-boschivi-aree-e-punti-di-innesco
 incendi-boschivi-territorio-modellato-artificialmente
@@ -26122,7 +26116,9 @@ indagine-sulla-trasparenza-dei-fondi-strutturali
 indagini-ambientali-ante-dm-471-99
 indagini-geologiche-cmve
 indagini-lineari
+indagini-lineari1
 indagini-puntuali
+indagini-puntuali1
 indennita-e-compensi-accessori-anno-2022-corrisposti-al-personale-nello-stesso-anno
 indicatore-annuale-di-tempestivita-dei-pagamenti-2014-2015
 indicatore-di-investimento-ict
@@ -26854,9 +26850,6 @@ interventi-di-assistenza-su-minori-2016
 interventi-di-bonifica-da-contaminazioni-ambientali-nel-comune-di-milano
 interventi-di-difesa-del-suolo
 interventi-di-difesa-del-suolo1
-interventi-di-difesa-idraulica-post-alluvione-maggio-2023
-interventi-di-difesa-idraulica-post-alluvione-maggio-2023-soggetti-attuatori-degli-interve-2023
-interventi-di-difesa-idraulica-post-alluvione-maggio-2023-stato-di-attuazione-degli-interv-2023
 interventi-di-difesa-suolo-sc-1-5000
 interventi-di-edilizia-scolastica
 interventi-di-edilizia-scolastica1
@@ -26968,6 +26961,7 @@ introiti-dei-musei-dellamministrazione-comunale-valori-espressi-in-e-anno-2010
 intrusione-salina
 intrusione-salina1
 intrusione-salina2
+intrusione-salina3
 invarianti-di-natura-agricolo-produttiva-aree
 invarianti-di-natura-ambientale-aree
 invarianti-di-natura-ambientale-linee
@@ -27325,6 +27319,7 @@ isolinee-della-profondita-della-falda-superficiale-dal-piano-di-campagna-approva
 isopache-m-al-tetto-del-carbonatico
 isopache-m-base-quaternario
 isopiezometriche
+isopiezometriche1
 isoterme-falda-e
 isoterme-falda-f
 isoterme-falda-g
@@ -28268,6 +28263,7 @@ limite-della-laguna-di-venezia
 limite-delle-conoidi-distali-pta-2005
 limite-delle-conoidi-distali-pta-20051
 limite-geologico
+limite-geologico1
 limite-montano
 limite-pedemontano-del-freatico-di-pianura-fluviale-pdg-2010
 limite-pedemontano-del-freatico-di-pianura-fluviale-pdg-20101
@@ -28360,7 +28356,6 @@ linea-di-costa-serie
 linea-di-costa1
 linea-di-costa2
 linea-di-costa3
-linea-di-delimitazione-italia-croazia-edizione-2005
 linea-di-retrospiaggia-2000-dataset
 linea-di-retrospiaggia-2006-dataset
 linea-di-retrospiaggia-2020-v2-0-dataset
@@ -37443,7 +37438,6 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-27-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-27-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-28-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-28-ore-12-utc
-modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-29-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-29-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-30-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2024-06-30-ore-12-utc
@@ -42218,13 +42212,6 @@ ortofotopiani-costa-ortofotopiano-volo-costa-2019
 ortofotopiani-costa-ortofotopiano-volo-gai-riprese-1954-55
 ortofotopiani-costa-ortofotopiano-volo-raf-riprese-1943-44
 ortofotopiani-costa-ortofotopiano-volo-rer-1976-78-costa-riprese-1976-78
-ortofotopiano-volo-costa-1982-riprese-1982
-ortofotopiano-volo-costa-1991-riprese-1991
-ortofotopiano-volo-costa-1992-mareggiata-riprese-1992
-ortofotopiano-volo-costa-2005-riprese-2005
-ortofotopiano-volo-gai-riprese-1954-55
-ortofotopiano-volo-it2000-costa-riprese-1998-99
-ortofotopiano-volo-raf-riprese-1943-44
 ortofotopiano-volo-rer-1976-78-costa-riprese-1976-78
 ospedali
 ospedali-open-data
@@ -42234,6 +42221,7 @@ ospedali1
 ospedali2
 ospedali3
 ospedalizzazione-per-frattura-del-collo-del-femore-in-pazienti-anziani
+osservatori-astronomici-e-relative-fasce-di-rispetto-l-r-22-2007
 osservatorio-dei-rifiuti-regione-puglia
 osservatorio-milano-attrattivita
 osservatorio-milano-benchmark
@@ -43456,6 +43444,7 @@ pericolosita-geologica-ai-sensi-del-dpgr-53r-2011
 pericolosita-geologica-approvato
 pericolosita-geologica1
 pericolosita-geologica2
+pericolosita-geologica3
 pericolosita-geomorfologica
 pericolosita-geomorfologica1
 pericolosita-geomorfologica2
@@ -43514,6 +43503,7 @@ perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1-25000-pai1
 perimetrazione-delle-aree-boscate-del-veneto
 perimetrazione-delle-aree-boscate-del-veneto-con-copertura-inferiore-al-30
+perimetrazione-delle-aree-boscate-del-veneto1
 perimetrazione-delle-aree-con-pericolosita-da-frana-derivate-dallinventario-dei-fenomeni-franos
 perimetrazione-delle-aree-con-pericolosita-da-frana-derivate-dallinventario-dei-fenomeni-franos1
 perimetrazione-delle-aree-con-pericolosita-da-processi-geomorfologici-di-versante-livello-di-25
@@ -44061,6 +44051,7 @@ piani-urbanistici-attuativi-pua5
 piani-urbanistici-attuativi-pua6
 piani-urbanistici-attuativi-pua7
 piani-urbanistici-attuativi-pua8
+piani-urbanistici-attuativi-pua9
 piani-urbanistici-attuativi-vigenti
 piani-urbanistici-confini
 piani-urbanistici-elementi-lineari
@@ -44307,6 +44298,7 @@ piste-e-itinerari-ciclabili
 piste-e-percorsi-ciclabili
 pisteciclabili
 pit-con-valenza-di-piano-paesaggistico
+planimetrie-delle-grotte
 plessi-scolastici
 plessi-scolastici-aggiornamento-al-novembre-2015-dato-geografico
 plessi-scolastici-nei-comuni-del-camposampierese-nellanno-scolastico-2021-2022
@@ -46086,9 +46078,11 @@ pozzi-geotermici
 pozzi-geotermici-pul
 pozzi-per-la-ricerca-di-acque-minerali-e-termali
 pozzi-potabili
+pozzi-potabili1
 pozzi-regione-toscana
 pozzi-tutelati
 pozzi1
+pozzi2
 pozzo-a-servizio-di-pubblico-acquedotto-ptrc-2020
 pozzo-per-acqua
 ppr-2006-correzioni-cartografiche-post-2006
@@ -49404,6 +49398,7 @@ punti-stand-by
 punti-stand-by1
 punti-vendita-al-dettaglio-ai-censimenti
 punti-vendita-allingrosso-ai-censimenti
+punti-vendita-biglietti-ataf
 punti-vendita-biglietti-ataf1
 punti-vendita-di-commercio-al-dettaglio-ai-censimenti-per-1-000-residenti
 punti-vendita-di-commercio-al-dettaglio-classificati-con-ateco2007
@@ -49601,6 +49596,7 @@ quadro-riepilogativo-delle-grandi-cause-di-morte-per-numerosita-2-semestre-2014-
 quadro-riepilogativo-delle-grandi-cause-di-morte-per-numerosita-anno-2014-del-comune-di-matera
 quadro-riepilogativo-delle-grandi-cause-di-morte-per-numerosita-del-1-semestre-2015
 quadro-riepilogativo-delle-intersezioni-areali-in-tra-ambito-di-trasformazione-parametri-idraul
+quadro-unione-dtm-5-metri-da-voli-lidar
 qualifiche-rilasciate-dalla-regione-lazio
 qualita-acque-di-balneazione-dlgs-116-08
 qualita-acque-sotterranee
@@ -53810,6 +53806,7 @@ risoluzioni-anno-2024
 risoluzioni-vecchia-versione-fino-al-22-9-2014
 risorgive
 risorsa-idrica
+risorsa-idrica1
 risorsa-idrotermale
 risorsa-idrotermale1
 risorse-create-mensilmente-sul-portale-opendata
@@ -54141,7 +54138,6 @@ ru-curve-di-livello
 ru-curve-di-livello1
 ru-dati-della-disciplina-del-suolo
 ru-dati-della-disciplina-del-suolo1
-ru-destinazioni-urbanistiche
 ru-destinazioni-urbanistiche1
 ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-riqualificazione-ambientale
 ru-disciplina-del-suolo-e-degli-insediamenti-aree-di-riqualificazione-ambientale1
@@ -54334,18 +54330,6 @@ scarpata-antropica
 scarpata-scarpt-050302-aree
 scarpata-scarpt-050302-contorni
 scarpata-scarpt-050302-linee
-scenari-piano-emergenza-diga-ped-diga-di-boschi
-scenari-piano-emergenza-diga-ped-diga-di-conca
-scenari-piano-emergenza-diga-ped-diga-di-fontanaluccia
-scenari-piano-emergenza-diga-ped-diga-di-isola-serafini
-scenari-piano-emergenza-diga-ped-diga-di-ligonchio
-scenari-piano-emergenza-diga-ped-diga-di-mignano
-scenari-piano-emergenza-diga-ped-diga-di-molato
-scenari-piano-emergenza-diga-ped-diga-di-ozola
-scenari-piano-emergenza-diga-ped-diga-di-pavana
-scenari-piano-emergenza-diga-ped-diga-di-ridracoli
-scenari-piano-emergenza-diga-ped-diga-di-riolunato
-scenari-piano-emergenza-diga-ped-diga-di-santa-maria-del-taro
 scenari-piano-emergenza-diga-ped-diga-di-suviana
 scenari-stato-attuale-pgra-2017
 scenari-stato-attuale-pgra-rev-2020
@@ -55981,6 +55965,7 @@ siope-spese-comune-di-milano-2018
 siope-spese-comune-di-milano-agosto-2020
 siope-spese-comune-di-milano-agosto-2021
 siope-spese-comune-di-milano-agosto-2022
+siope-spese-comune-di-milano-agosto-2024
 siope-spese-comune-di-milano-aprile-2021
 siope-spese-comune-di-milano-aprile-2022
 siope-spese-comune-di-milano-aprile-2023
@@ -56039,6 +56024,7 @@ sira-punti-di-prelievo-idrico-per-uso-idropotabile1
 sirfidi-life-colli-berici-natura-2000-08-nat-it-362
 sirgat
 sisbon
+sisbon1
 sisgap-procedure-di-gara
 sisgap-procedure-di-lotti-di-gara
 sisma-1997-dissesti-idrogeologici
@@ -56063,7 +56049,6 @@ sistema-dei-servizi-pubblici-piano-urbanistico-comunale
 sistema-del-territorio-rurale-ptrc-2020
 sistema-delle-aree-agricole-pup
 sistema-di-allertamento-tratti-servizio-di-piena-gestiti-dallagenzia-regionale-per-la-sicurezza
-sistema-di-allertamento-zone-di-allerta
 sistema-di-allertamento-zone-di-allerta-valanghe
 sistema-dunale
 sistema-dunale1
@@ -57597,7 +57582,6 @@ stazioni-radio-base-approvato
 stazioni-radio-base-e-antenne-messina
 stazioni-radio-tv-e-impianti-di-telefonia-cellulare
 stazioni-rilevamento-della-rete-idrometereologica-della-protezione-civile
-stazioni-rilievi-vegetazionali-edizione-2016
 stazioni-sismiche
 stazioni-sismometriche
 stazioni-treno-open-data
@@ -57864,6 +57848,7 @@ strade-piu-percorse-in-bici-playgo-mese-per-mese
 strade-piu-percorse-in-bici-playgo-per-giorno-della-settimana
 strade-provinciali
 strade-provinciali-cmve
+strade-provinciali-e-regionali-v1-42
 strade-romane
 strade-romane-ptrc-2020
 strade1
@@ -58154,6 +58139,7 @@ strategie-della-copianificazione
 strategie-della-copianificazione1
 strategie-dello-sviluppo-territoriale
 stratificazioni
+stratificazioni1
 stratigrafia-della-viabilita-storica
 strato-01-viabilita-mobilita-e-trasporti-comune-di-milano-dbt-2012-serie
 strato-02-immobili-ed-antropizzazioni-comune-di-milano-dbt-2012-serie
@@ -59515,7 +59501,6 @@ sueperiodoeventi-20203
 sueperiodoeventi-20204
 sueperiodoeventi-20205
 suoli-non-recintati
-suolo-canale-tombato-catasto
 suolo-poligoni-militari-catasto
 suolo-siti-contaminati-catasto
 superamenti-del-valore-limite-giornaliero-previsto-per-il-pm10-nei-comuni-capoluogo-di-provinci
@@ -61007,6 +60992,7 @@ toponomastica-alla-scala-1-25000
 toponomastica-c-t-p-alla-scala-1-10000-2005
 toponomastica-dei-centri-abitati-scala-1-10000
 toponomastica-della-c-t-r-sc-1-5000-2007-2013-ii-edizione-3d-db-topografico
+toponomastica-e-numerazione-civica-archi-stradali
 toponomastica-e-numerazione-civica-numeri-civici
 toponomastica-femminile
 toponomastica-femminile1
@@ -61572,10 +61558,12 @@ unita-di-paesaggio
 unita-di-terra-natura-2000
 unita-fisiografiche-costiere-dataset
 unita-geologica-areale
+unita-geologica-areale1
 unita-geologiche
 unita-geologiche-principali
 unita-geologiche1
 unita-geologico-tecniche
+unita-geologico-tecniche1
 unita-gestionali-aree-verdi-in-manutenzione
 unita-idrogeologiche-scala-1-250-000-del-territorio-della-regione-lazio
 unita-immobiliari-e-rendite-catastali-in-puglia
@@ -62216,8 +62204,23 @@ velocita-del-vento-fino-al-2010
 velocita-della-corrente-tr-200-anni
 velocita-media-annua-del-vento-2006-2018
 velocita-media-di-deformazione-del-terreno-orbita-est-ascendente-aggiornamento-aprile-2021
+velocita-media-di-deformazione-del-terreno-orbita-est-ascendente-aggiornamento-febbraio-2023
+velocita-media-di-deformazione-del-terreno-orbita-est-ascendente-aggiornamento-luglio-2023
+velocita-media-di-deformazione-del-terreno-orbita-est-ascendente-aggiornamento-maggio-2023
+velocita-media-di-deformazione-del-terreno-orbita-est-ascendente-aggiornamento-novembre-2022
+velocita-media-di-deformazione-del-terreno-orbita-est-discendente-aggiornamento-febbraio-2023
+velocita-media-di-deformazione-del-terreno-orbita-est-discendente-aggiornamento-maggio-2023
+velocita-media-di-deformazione-del-terreno-orbita-est-discendente-aggiornamento-novembre-2022
 velocita-media-di-deformazione-del-terreno-orbita-ovest-ascendente-aggiornamento-aprile-2021
+velocita-media-di-deformazione-del-terreno-orbita-ovest-ascendente-aggiornamento-febbraio-2023
+velocita-media-di-deformazione-del-terreno-orbita-ovest-ascendente-aggiornamento-luglio-2023
+velocita-media-di-deformazione-del-terreno-orbita-ovest-ascendente-aggiornamento-maggio-2023
+velocita-media-di-deformazione-del-terreno-orbita-ovest-ascendente-aggiornamento-novembre-2022
 velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-aprile-2021
+velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-febbraio-2023
+velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-luglio-2023
+velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-maggio-2023
+velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-novembre-2022
 velocita-media-oraria-veicoli
 velocitacitta-30
 vendita-di-prodotti-petroliferi-2005
@@ -62668,7 +62671,6 @@ workshop-bcn-mappatura-poi-completa
 workshop-bcn-mappatura-poi-completa-approfondimento-zone-di-interesse
 workshop-bcn-mappatura-poi-completa-aree-wi-fi
 writers
-xdbtr-specchio-dacqua-sda_gpg-edizione-2021
 xiv-censimento-generale-della-popolazione-istruzione
 xiv-censimento-generale-della-popolazione-occupati-per-posizione-nella-professione-e-sesso
 xiv-censimento-generale-della-popolazione-occupati-per-settori-di-attivita-economica-e-sesso
@@ -62719,7 +62721,6 @@ zona-a-vincolo-speciale
 zona-ad-elevata-presenza-di-rustici-sparsi-ptrc-2020
 zona-alpi
 zona-b
-zona-cataclastica
 zona-di-produzione-vini-doc-orvieto-classico
 zona-di-produzione-vini-doc-torgianoe-docg-torgiano-rosso-riserva
 zona-di-produzione-vino-doc-amelia
