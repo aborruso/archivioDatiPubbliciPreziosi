@@ -19,7 +19,7 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
-        sudo pip install yq
+        sudo pip install --break-system-packages yq
     - name: lancia aggiornamento
       env:
         SUPER_SECRET_WEBARCHIVE: ${{ secrets.WEBARCHIVE }}

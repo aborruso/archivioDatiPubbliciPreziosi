@@ -16,7 +16,7 @@ jobs:
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller e installa gdal
       run: |-
         sudo apt-get install miller
-        sudo pip install yq
+        sudo pip install --break-system-packages yq
     - name: genera anagrafica
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
