@@ -21,6 +21,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1605,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-03-08T18:28:23.244694,Comune di Rimini,f9546d88-5c6e-41d1-97b2-ebd9d0a77d21,00304260409,comune-di-rimini,83,https://dati.gov.it/view-dataset?organization=comune-di-rimini
 2024-09-13T12:02:11.893553,Comune di Santa Margherita Ligure,0e25dc4b-2eba-42ff-97a9-9929e4846223,c_i225,comune-di-santa-margherita-ligure,56,https://dati.gov.it/view-dataset?organization=comune-di-santa-margherita-ligure
+2024-10-08T10:09:27.470392,Comune di Sulmona,184af785-59d7-44b3-aa77-31a8d724dc2b,c_i804,comune-di-sulmona,3,https://dati.gov.it/view-dataset?organization=comune-di-sulmona
 2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2036,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2024-03-08T18:44:04.035266,Consiglio Regionale della Campania,92f7108f-865e-4967-950d-68fee165c412,cr_campa,consiglio-regionale-della-campania,25,https://dati.gov.it/view-dataset?organization=consiglio-regionale-della-campania
 2024-03-08T18:45:30.637809,CONSIP,6e9c7c6d-c77f-47e8-b93a-d31afd4e92db,m_ef,consip,17,https://dati.gov.it/view-dataset?organization=consip
@@ -59,9 +60,10 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,181,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,13143,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,474,https://dati.gov.it/view-dataset?organization=regione-umbria
-2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5502,https://dati.gov.it/view-dataset?organization=regione-veneto
+2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5503,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,354,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,6,https://dati.gov.it/view-dataset?organization=sebastien-catalog
+2024-10-10T09:51:04.365141,Università degli Studi di Catania,a23ab1ea-4eba-4401-a013-267026452e44,uni_ct,universita-degli-studi-di-catania,3,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-catania
 2024-03-08T21:49:59.493611,Università della Basilicata,fdd90e4e-1f3d-4bd1-acba-cbef7c9c0271,uni_ba,universita-della-basilicata,29,https://dati.gov.it/view-dataset?organization=universita-della-basilicata
 2024-03-08T21:51:11.725431,Università della Calabria,ccc8eb67-5b1d-460c-be0c-1a698c9597aa,unical,universita-della-calabria,5,https://dati.gov.it/view-dataset?organization=universita-della-calabria
 2024-03-08T21:48:45.195677,Università di Bari,2faa23b0-90ad-49f2-998e-003f6100e279,uni_ba,universita-di-bari,102,https://dati.gov.it/view-dataset?organization=universita-di-bari
