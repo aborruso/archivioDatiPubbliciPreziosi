@@ -23,7 +23,7 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
-        sudo pip install --break-system-packages csvkit
+        sudo pip install --user csvkit
     - name: scarica i dati
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
