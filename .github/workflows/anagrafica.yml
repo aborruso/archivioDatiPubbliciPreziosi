@@ -18,7 +18,7 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
-        sudo pip install --user yq
+        pip install --user yq
     - name: genera anagrafica
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
