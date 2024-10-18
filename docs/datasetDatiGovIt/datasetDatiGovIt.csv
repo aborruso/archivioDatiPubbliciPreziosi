@@ -734,9 +734,9 @@ id
 2018-contribuzione-e-interventi-atenei
 2018-diritto-allo-studio-universitario-dsu-regionale
 2018-incidenti-stradali
+2018-voti-liste-elezioni-politiche-camera
 2018_affluenze_elezioni_politiche_camera
 2018_affluenze_elezioni_politiche_senato
-2018_voti_liste_elezioni_politiche_camera
 2018_voti_liste_elezioni_politiche_senato
 2019-collegi-universitari
 2019-contribuzione-e-interventi-afam
@@ -955,7 +955,7 @@ a407_l_pup
 aaii
 abbandoni-uniba-per-area-disciplinare-e-dipartimento
 abbandoni-uniba-per-corso-area-disciplinare-e-dipartimento
-abbattimenti
+abbattimenti-della-fauna-selvatica
 abbazie-benedettine-in-umbria
 abbazie-benedettine-in-umbria1
 abbonamenti-alla-rai
@@ -3429,6 +3429,7 @@ andamento-demografico-comune-di-campolongo-maggiore
 andamento-demografico-comune-di-candiana
 andamento-demografico-comune-di-carbonera
 andamento-demografico-comune-di-carre
+andamento-demografico-comune-di-casale-di-scodosia
 andamento-demografico-comune-di-casale-sul-sile
 andamento-demografico-comune-di-casier
 andamento-demografico-comune-di-castel-dazzano
@@ -3467,6 +3468,7 @@ andamento-demografico-comune-di-gaiba
 andamento-demografico-comune-di-gallio
 andamento-demografico-comune-di-gazzo
 andamento-demografico-comune-di-gazzo-veronese
+andamento-demografico-comune-di-giacciano-con-baruchella
 andamento-demografico-comune-di-giavera-del-montello
 andamento-demografico-comune-di-gorgo-al-monticano
 andamento-demografico-comune-di-gruaro
@@ -3547,6 +3549,7 @@ andamento-demografico-comune-di-sona
 andamento-demografico-comune-di-sovizzo
 andamento-demografico-comune-di-stienta
 andamento-demografico-comune-di-taglio-di-po
+andamento-demografico-comune-di-teolo
 andamento-demografico-comune-di-terrazzo
 andamento-demografico-comune-di-tonezza-del-cimone
 andamento-demografico-comune-di-torreglia
@@ -5215,6 +5218,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-campolongo-maggiore
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-camponogara
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-candiana
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-carre
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-casale-di-scodosia
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-casale-sul-sile
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-casier
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castel-dazzano
@@ -5876,6 +5880,7 @@ atti-amministrativi-comune-di-campolongo-maggiore
 atti-amministrativi-comune-di-candiana
 atti-amministrativi-comune-di-carbonera
 atti-amministrativi-comune-di-carre
+atti-amministrativi-comune-di-casale-di-scodosia
 atti-amministrativi-comune-di-casale-sul-sile
 atti-amministrativi-comune-di-casier
 atti-amministrativi-comune-di-castel-dazzano
@@ -5912,6 +5917,7 @@ atti-amministrativi-comune-di-gaiba
 atti-amministrativi-comune-di-gallio
 atti-amministrativi-comune-di-gazzo
 atti-amministrativi-comune-di-gazzo-veronese
+atti-amministrativi-comune-di-giacciano-con-baruchella
 atti-amministrativi-comune-di-giavera-del-montello
 atti-amministrativi-comune-di-gorgo-al-monticano
 atti-amministrativi-comune-di-gruaro
@@ -6346,6 +6352,7 @@ autocarri-merci-distinti-per-provincia-e-peso-totale-a-terra-ptt-dati-e-statisti
 autodemolizione-r12-adm
 autorita-di-bacino-dataset
 autorita-di-sistema-portuale-adsp
+autorita-idrica-toscana
 autorizzazione-impianti-di-produzione-acque-minerali-in-calabria
 autorizzazione-sismica-regionale
 autorizzazione-sismica-regionale-anno-2022-aggiornamento
@@ -10687,6 +10694,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-c
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-candiana
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-carbonera
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-carre
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-casale-di-scodos
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-casier
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castel-dazzano
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelcucco
@@ -10805,6 +10813,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-s
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-sovizzo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-stienta
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-taglio-di-po
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-teolo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-terrazzo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-tonezza-del-cimo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-torreglia
@@ -14328,6 +14337,7 @@ concorsi-comune-di-caldogno
 concorsi-comune-di-calto
 concorsi-comune-di-calvene
 concorsi-comune-di-candiana
+concorsi-comune-di-casale-di-scodosia
 concorsi-comune-di-casale-sul-sile
 concorsi-comune-di-casier
 concorsi-comune-di-castel-dazzano
@@ -14342,6 +14352,7 @@ concorsi-comune-di-chiuppano
 concorsi-comune-di-codogne
 concorsi-comune-di-cogollo-del-cengio
 concorsi-comune-di-colle-umberto
+concorsi-comune-di-consiglio-di-bacino-laguna-di-venezia
 concorsi-comune-di-cordignano
 concorsi-comune-di-costa-di-rovigo
 concorsi-comune-di-creazzo
@@ -15829,6 +15840,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di7
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di8
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di9
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-consiglio
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-magnano-i
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-orani
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-povoletto
@@ -16036,8 +16048,8 @@ controlli-del-rumore-per-tipo-di-sorgente-controllata-anno-2013
 controlli-iaf-ud
 controlli-radar
 controllo-applicazione-misure-fitosanitarie-aree-campionate
+controllo-psa-peste-suina-africana
 controllo-regolarita-amministrativa-messina
-controllopsapestesuinaafricana
 convenzioni
 convenzioni-aria-prodotti
 convenzioni-del-comune-di-avio
@@ -19990,6 +20002,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-campolongo-maggiore
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-candiana
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-carbonera
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-carre
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-casale-di-scodosia
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-casier
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castel-dazzano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelcucco
@@ -20028,6 +20041,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gaiba
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gallio
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gazzo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gazzo-veronese
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-giacciano-con-baruchella
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-giavera-del-montello
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gorgo-al-monticano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gruaro
@@ -20108,6 +20122,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-sona
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-sovizzo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-stienta
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-taglio-di-po
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-teolo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-terrazzo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-tonezza-del-cimone
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-torreglia
@@ -20322,6 +20337,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-comune-di-vigasio
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-zenson-di-piave
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-zevio
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-zovencedo
+elenco-dei-fascicoli-suddivisi-per-anno-consiglio-di-bacino-laguna-di-venezia
 elenco-dei-fascicoli-suddivisi-per-anno-istituzione-comunale-marsala-schola
 elenco-dei-fascicoli-suddivisi-per-anno-magnano-in-riviera
 elenco-dei-fascicoli-suddivisi-per-anno-povoletto
@@ -20368,6 +20384,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-campolongo-maggio
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-candiana
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-carbonera
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-carre
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-casale-di-scodosia
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-casier
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castel-dazzano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelcucco
@@ -20492,6 +20509,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-zenson-di-piave
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-zevio
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-zovencedo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-zugliano
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-consiglio-di-bacino-laguna-di-venezia
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-flaibano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-goro
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-istituzione-comunale-marsala-schola
@@ -20611,6 +20629,7 @@ elenco-delle-pubblicazioni-comune-di-camponogara
 elenco-delle-pubblicazioni-comune-di-candiana
 elenco-delle-pubblicazioni-comune-di-carbonera
 elenco-delle-pubblicazioni-comune-di-carre
+elenco-delle-pubblicazioni-comune-di-casale-di-scodosia
 elenco-delle-pubblicazioni-comune-di-casale-sul-sile
 elenco-delle-pubblicazioni-comune-di-casier
 elenco-delle-pubblicazioni-comune-di-castel-dazzano
@@ -20646,6 +20665,7 @@ elenco-delle-pubblicazioni-comune-di-gaiba
 elenco-delle-pubblicazioni-comune-di-gallio
 elenco-delle-pubblicazioni-comune-di-gazzo
 elenco-delle-pubblicazioni-comune-di-gazzo-veronese
+elenco-delle-pubblicazioni-comune-di-giacciano-con-baruchella
 elenco-delle-pubblicazioni-comune-di-gorgo-al-monticano
 elenco-delle-pubblicazioni-comune-di-gruaro
 elenco-delle-pubblicazioni-comune-di-grumolo-delle-abbadesse
@@ -20782,6 +20802,7 @@ elenco-delle-strutture-per-le-persone-con-disabilita-aggiornato-al-14-dicembre-2
 elenco-delle-strutture-per-le-persone-con-disabilita-aggiornato-al-30-settembre-2022
 elenco-delle-strutture-ricettive
 elenco-delle-strutture-ricettive-turistiche-della-regione-veneto-aggiornamento-quotidiano
+elenco-delle-strutture-ricettive-turistiche-della-regione-veneto-aggiornamento-quotidiano1
 elenco-delle-strutture-sanitarie-private-accreditate
 elenco-delle-tipologie-di-campionamento-su-impianti-di-depurazione
 elenco-delle-unita-produttive-equiparate-up-di-istituti-e-centri-di-riabilitazione-ria
@@ -39057,29 +39078,29 @@ movimenti-turistici
 movimenti-turistici-anno-2020
 movimenti-turistici-annuali-per-atl-mercato-e-settore-anni-2010-2014
 movimenti-turistici-annuali-per-atl-mercato-e-settore-anni-2015-2019
-movimenti-turistici-annuali-per-atl-mercato-e-settore-anni-2020-2022
+movimenti-turistici-annuali-per-atl-mercato-e-settore-anni-2020-2023
 movimenti-turistici-annuali-per-atl-paese-regione-di-provenienza-e-settore-anni-2010-2014
 movimenti-turistici-annuali-per-atl-paese-regione-di-provenienza-e-settore-anni-2015-2019
-movimenti-turistici-annuali-per-atl-paese-regione-di-provenienza-e-settore-anni-2020-2022
+movimenti-turistici-annuali-per-atl-paese-regione-di-provenienza-e-settore-anni-2020-2023
 movimenti-turistici-annuali-per-atl-sotto-segmento-e-mercato-anni-2010-2014
 movimenti-turistici-annuali-per-atl-sotto-segmento-e-mercato-anni-2015-2019
-movimenti-turistici-annuali-per-atl-sotto-segmento-e-mercato-anni-2020-2022
+movimenti-turistici-annuali-per-atl-sotto-segmento-e-mercato-anni-2020-2023
 movimenti-turistici-annuali-per-atl-sotto-segmento-e-paese-regione-di-provenienza-ann-2010-2014
 movimenti-turistici-annuali-per-atl-sotto-segmento-e-paese-regione-di-provenienza-ann-2015-2019
-movimenti-turistici-annuali-per-atl-sotto-segmento-e-paese-regione-di-provenienza-ann-2020-2022
+movimenti-turistici-annuali-per-atl-sotto-segmento-e-paese-regione-di-provenienza-ann-2020-2023
 movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-mercato-anni-2010-2014
 movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-mercato-anni-2015-2019
-movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-mercato-anni-2020-2022
+movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-mercato-anni-2020-2023
 movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-paese-regione-di-prov-2010-2014
 movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-paese-regione-di-prov-2015-2019
-movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-paese-regione-di-prov-2020-2022
+movimenti-turistici-annuali-per-atl-sotto-segmento-secondario-e-paese-regione-di-prov-2020-2023
 movimenti-turistici-annuali-per-mese-della-provincia-di-rovigo-2018-2020
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2010-2014
 movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2015-2019
-movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2020-2022
+movimenti-turistici-annuali-per-provincia-mercato-e-settore-anni-2020-2023
 movimenti-turistici-annuali-per-provincia-paese-regione-di-provenienza-e-settore-anni-2010-2014
 movimenti-turistici-annuali-per-provincia-paese-regione-di-provenienza-e-settore-anni-2015-2019
-movimenti-turistici-annuali-per-provincia-paese-regione-di-provenienza-e-settore-anni-2020-2022
+movimenti-turistici-annuali-per-provincia-paese-regione-di-provenienza-e-settore-anni-2020-2023
 movimenti-turistici-e-consistenza-delle-strutture-ricettive-2011-citta-metropolitana-di-firenze
 movimenti-turistici-e-consistenza-delle-strutture-ricettive-2012-citta-metropolitana-di-firenze
 movimenti-turistici-e-consistenza-delle-strutture-ricettive-2013-citta-metropolitana-di-firenze
@@ -40182,6 +40203,7 @@ numeri-civici-comune-di-stienta
 numeri-civici-comune-di-taglio-di-po
 numeri-civici-comune-di-taibon-agordino
 numeri-civici-comune-di-tambre
+numeri-civici-comune-di-teolo
 numeri-civici-comune-di-terrazzo
 numeri-civici-comune-di-tonezza-del-cimone
 numeri-civici-comune-di-torri-di-quartesolo
@@ -41417,13 +41439,13 @@ offerta-formativa-per-la-formazione-e-per-il-lavoro
 offerta-formativa-uniba-stato-attivo-chiuso-numerosita-studenti-iscritti-ai-corsi-di-studio-off
 offerta-ricettiva-dei-comuni-per-settore-qualifica-e-categoria-anni-2010-2014
 offerta-ricettiva-dei-comuni-per-settore-qualifica-e-categoria-anni-2015-2019
-offerta-ricettiva-dei-comuni-per-settore-qualifica-e-categoria-anni-2020-2022
+offerta-ricettiva-dei-comuni-per-settore-qualifica-e-categoria-anni-2020-2023
 offerta-ricettiva-delle-atl-e-dei-sotto-segmenti-atl-per-settore-qualifica-e-categori-2010-2014
 offerta-ricettiva-delle-atl-e-dei-sotto-segmenti-atl-per-settore-qualifica-e-categori-2015-2019
-offerta-ricettiva-delle-atl-e-dei-sotto-segmenti-atl-per-settore-qualifica-e-categori-2020-2022
+offerta-ricettiva-delle-atl-e-dei-sotto-segmenti-atl-per-settore-qualifica-e-categori-2020-2023
 offerta-ricettiva-delle-province-per-settore-qualifica-e-categoria-anni-2010-2014
 offerta-ricettiva-delle-province-per-settore-qualifica-e-categoria-anni-2015-2019
-offerta-ricettiva-delle-province-per-settore-qualifica-e-categoria-anni-2020-2022
+offerta-ricettiva-delle-province-per-settore-qualifica-e-categoria-anni-2020-2023
 offerta_formativa_od202324
 offerte-di-lavoro
 offerte-di-lavoro-eures-test-odhb2019
@@ -57467,6 +57489,7 @@ stato-avanzamento-piano-triennale-comune-di-villanova-marchesana
 stato-avanzamento-piano-triennale-comune-di-zenson-di-piave
 stato-avanzamento-piano-triennale-comune-di-zevio
 stato-avanzamento-piano-triennale-comune-di-zugliano
+stato-avanzamento-piano-triennale-consiglio-di-bacino-laguna-di-venezia
 stato-avanzamento-piano-triennale-enna
 stato-avanzamento-piano-triennale-ersu-catania
 stato-avanzamento-piano-triennale-ferla
@@ -57592,7 +57615,7 @@ statometro-serie-storica-popolazione-straniera
 statometro-strutture-ricettive-e-posti-letto-dei-settori-alberghiero-ed-extra-alberghiero
 statometro-strutture-sanitarie-private
 statometro-uffici-postali
-statometro-utenti-vulnerabili-coinvolti-in-incidenti-stradali-con-lesioni1
+statometro-utenti-vulnerabili-coinvolti-in-incidenti-stradali-con-lesioni
 statuti-del-comune-di-ala
 statuti-del-comune-di-albiano
 statuti-del-comune-di-aldeno
@@ -58092,6 +58115,7 @@ stradario-comunale-comune-di-selvazzano-dentro
 stradario-comunale-comune-di-sernaglia-della-battaglia
 stradario-comunale-comune-di-sona
 stradario-comunale-comune-di-stienta
+stradario-comunale-comune-di-teolo
 stradario-comunale-comune-di-terrazzo
 stradario-comunale-comune-di-tonezza-del-cimone
 stradario-comunale-comune-di-torri-di-quartesolo
@@ -60056,6 +60080,7 @@ tari-utenze-e-superfici-2017
 tari-utenze-e-superfici-2018
 tari-utenze-e-superfici-anno-2015
 tariffario-prestazioni-sanitarie
+tariffe-e-agevolazioni
 tariffe-e-orari-impianti-a-fune-2013-2015
 tarsu-utenze-superfici-e-importi-2010-2012
 tartalazio-rete-regionale-tartarughe-marine
@@ -61203,6 +61228,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-calvene
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-campagna-
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-carre
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-casale-di
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-casale-su
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-castel-da
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-chiuppano
@@ -61254,6 +61280,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-zenson-di
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-zevio
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-zugliano
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-consiglio-di-bacino
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-fontanafredda
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-goro
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-jolanda-di-savoia

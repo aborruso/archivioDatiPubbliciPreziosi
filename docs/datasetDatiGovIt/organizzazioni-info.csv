@@ -4,6 +4,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:09:06.901358,Agenzia per l'Italia Digitale,730739fd-ae48-45db-8a2a-7002cca9bd2c,agid,agenzia-per-l-italia-digitale,36,https://dati.gov.it/view-dataset?organization=agenzia-per-l-italia-digitale
 2024-03-08T17:56:48.105840,ANAC,f3baf2b6-0106-4912-8ded-df2da4a10744,anac,anac,64,https://dati.gov.it/view-dataset?organization=anac
 2024-09-11T14:37:28.218872,ASPAL - Agenzia Sarda per le Politiche Attive del Lavoro,8b8cf2d9-cb93-4c83-b7ef-af40d0669369,aril_,aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro,6,https://dati.gov.it/view-dataset?organization=aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro
+2024-10-17T12:27:39.926586,Autorità Idrica Toscana,15c50db6-58b4-4b9e-88f1-fa2394c7aefa,ait_048,autorita-idrica-toscana,1,https://dati.gov.it/view-dataset?organization=autorita-idrica-toscana
 2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,331,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,51,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
 2024-03-08T18:18:11.519257,Città Metropolitana di Napoli,0c4fd6bf-a5dd-4e01-a2e1-424cd1019859,cmna,citta-metropolitana-di-napoli,89,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-napoli
@@ -27,7 +28,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:45:30.637809,CONSIP,6e9c7c6d-c77f-47e8-b93a-d31afd4e92db,m_ef,consip,17,https://dati.gov.it/view-dataset?organization=consip
 2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,7007,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2024-03-08T18:50:39.346269,INAIL,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,107,https://dati.gov.it/view-dataset?organization=inail
-2024-03-08T18:51:48.966250,INPS,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2280,https://dati.gov.it/view-dataset?organization=inps
+2024-03-08T18:51:48.966250,INPS,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2279,https://dati.gov.it/view-dataset?organization=inps
 2024-03-08T18:53:17.505775,ISPRA,ac8db934-572c-4e68-b00c-2fc3d8a29050,ispra,ispra,10,https://dati.gov.it/view-dataset?organization=ispra
 2024-03-08T18:54:36.322033,Ministero dei Beni Culturali,0c8ebe34-c765-43c0-8deb-67940890204a,m_bac,ministero-dei-beni-culturali,212,https://dati.gov.it/view-dataset?organization=ministero-dei-beni-culturali
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
@@ -60,7 +61,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,181,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,13536,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,474,https://dati.gov.it/view-dataset?organization=regione-umbria
-2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5914,https://dati.gov.it/view-dataset?organization=regione-veneto
+2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5939,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,354,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,6,https://dati.gov.it/view-dataset?organization=sebastien-catalog
 2024-10-10T09:51:04.365141,Università degli Studi di Catania,a23ab1ea-4eba-4401-a013-267026452e44,uni_ct,universita-degli-studi-di-catania,3,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-catania
