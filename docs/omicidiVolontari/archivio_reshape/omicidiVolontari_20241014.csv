@@ -1,0 +1,7 @@
+n,categoria,cat_norm,data,anno,valore
+1,Omicidi commessi,omicidi,2024-10-13,2024,242
+2,di cui con vittime di sesso femminile,omicidi_femminili,2024-10-13,2024,84
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2024-10-13,2024,113
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2024-10-13,2024,73
+5,di cui da partner/ex partner,omicidi_da_partner,2024-10-13,2024,52
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2024-10-13,2024,45

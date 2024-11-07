@@ -1,0 +1,7 @@
+n,categoria,cat_norm,data,anno,valore
+1,Omicidi commessi,omicidi,2023-09-25,2023,243
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-09-25,2023,84
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-09-25,2023,107
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-09-25,2023,69
+5,di cui da partner/ex partner,omicidi_da_partner,2023-09-25,2023,48
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-09-25,2023,44
