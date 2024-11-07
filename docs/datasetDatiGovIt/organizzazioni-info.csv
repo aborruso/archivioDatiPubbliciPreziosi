@@ -5,6 +5,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:09:06.901358,Agenzia per l'Italia Digitale,730739fd-ae48-45db-8a2a-7002cca9bd2c,agid,agenzia-per-l-italia-digitale,36,https://dati.gov.it/view-dataset?organization=agenzia-per-l-italia-digitale
 2024-03-08T17:56:48.105840,ANAC,f3baf2b6-0106-4912-8ded-df2da4a10744,anac,anac,63,https://dati.gov.it/view-dataset?organization=anac
 2024-09-11T14:37:28.218872,ASPAL - Agenzia Sarda per le Politiche Attive del Lavoro,8b8cf2d9-cb93-4c83-b7ef-af40d0669369,aril_,aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro,6,https://dati.gov.it/view-dataset?organization=aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro
+2024-11-04T12:38:56.597024,ATS Città Metropolitana di Milano,a9642632-cc67-477f-b66d-437a4fb7e03d,atsmetmi,ats-citta-metropolitana-di-milano,10,https://dati.gov.it/view-dataset?organization=ats-citta-metropolitana-di-milano
 2024-10-17T12:27:39.926586,Autorità Idrica Toscana,15c50db6-58b4-4b9e-88f1-fa2394c7aefa,ait_048,autorita-idrica-toscana,5,https://dati.gov.it/view-dataset?organization=autorita-idrica-toscana
 2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,348,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,51,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
@@ -17,7 +18,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:16:37.011539,Comune di Bologna,459fbd42-c496-4511-bac8-1f06e341d6ef,c_a944,comune-di-bologna,651,https://dati.gov.it/view-dataset?organization=comune-di-bologna
 2024-08-07T12:31:28.769023,Comune di Chiavari,1d8cff3f-b4de-418d-892b-bc5cecc79de7,c_c621,comune-di-chiavari,53,https://dati.gov.it/view-dataset?organization=comune-di-chiavari
 2024-09-06T13:59:00.932559,Comune di Flero,9a8e1504-1866-47db-8588-d6068902f965,C_D634,comune-di-flero,53,https://dati.gov.it/view-dataset?organization=comune-di-flero
-2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,151,https://dati.gov.it/view-dataset?organization=comune-di-genova
+2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,0,https://dati.gov.it/view-dataset?organization=comune-di-genova
 2024-03-08T18:21:49.917346,Comune di Lecce,bddb93df-6057-4a12-9d00-885ea602eda5,c_e506,comune-di-lecce,467,https://dati.gov.it/view-dataset?organization=comune-di-lecce
 2024-10-18T10:25:41.591456,Comune di Massa,3d6faeb4-ce86-4f91-b020-e5df6e9588aa,c_f023,comune-di-massa,4,https://dati.gov.it/view-dataset?organization=comune-di-massa
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,243,https://dati.gov.it/view-dataset?organization=comune-di-matera
@@ -71,6 +72,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,5995,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,354,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,6,https://dati.gov.it/view-dataset?organization=sebastien-catalog
+2024-11-05T11:43:08.495052,Unione Pedemontana Parmense,29a696fa-00d5-4be1-b3e9-879992b90f8d,c_c852xf,unione-pedemontana-parmense,3,https://dati.gov.it/view-dataset?organization=unione-pedemontana-parmense
 2024-10-10T09:51:04.365141,Università degli Studi di Catania,a23ab1ea-4eba-4401-a013-267026452e44,uni_ct,universita-degli-studi-di-catania,3,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-catania
 2024-03-08T21:49:59.493611,Università della Basilicata,fdd90e4e-1f3d-4bd1-acba-cbef7c9c0271,uni_ba,universita-della-basilicata,29,https://dati.gov.it/view-dataset?organization=universita-della-basilicata
 2024-03-08T21:51:11.725431,Università della Calabria,ccc8eb67-5b1d-460c-be0c-1a698c9597aa,unical,universita-della-calabria,5,https://dati.gov.it/view-dataset?organization=universita-della-calabria
