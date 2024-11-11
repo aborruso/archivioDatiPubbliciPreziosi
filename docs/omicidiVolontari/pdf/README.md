@@ -2,7 +2,7 @@
 
 Scaricati da web archive a partire da questo archivio:
 
-```
+```bash
 curl 'https://web.archive.org/web/timemap/json?url=https%3A%2F%2Fwww.interno.gov.it%2Fsites%2Fdefault%2Ffiles&matchType=prefix&collapse=urlkey&output=json&fl=original%2Cmimetype%2Ctimestamp%2Cendtimestamp%2Cgroupcount%2Cuniqcount&filter=%21statuscode%3A%5B45%5D..&limit=10000&_=1731313541311&filter=original:.*omicid.*' \
   -H 'accept: application/json, text/javascript, */*; q=0.01' \
   -H 'accept-language: it,en-US;q=0.9,en;q=0.8' \
