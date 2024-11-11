@@ -16,4 +16,6 @@ curl 'https://web.archive.org/web/timemap/json?url=https%3A%2F%2Fwww.interno.gov
 }' >output.jsonl
 ```
 
-E poi dai dati grezzi si è costruito il download (vedi [#16](https://github.com/aborruso/archivioDatiPubbliciPreziosi/issues/16))
+E poi dai dati grezzi si è costruito il download (vedi [#16](https://github.com/aborruso/archivioDatiPubbliciPreziosi/issues/16)).
+
+Sono utile per le fase in cui non erano presenti i `CSV`.
