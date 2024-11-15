@@ -1,12 +1,14 @@
 created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:07:00.168891,ACI - Automobile Club d'Italia,28bccb62-da5a-4610-96f8-eb274abe4245,aci,aci,31,https://dati.gov.it/view-dataset?organization=aci
 2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,27,https://dati.gov.it/view-dataset?organization=agcm
+2024-11-14T15:24:06.603076,ATS - Agenzia di Tutela della Salute della Val Padana,0f63e7d6-119a-4a02-85e9-b11066fc5e58,atsvp,agenzia-di-tutela-della-salute-della-val-padana,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-val-padana
 2024-10-23T15:26:40.841328,ANSFISA - Agenzia Nazionale per la Sicurezza delle Ferrovie e delle Infrastrutture Stradali e Autostradali,adba4134-0c06-45a6-9849-27ad745861be,ansfisa,agenzia-nazionale-per-la-sicurezza-delle-ferrovie-e-delle-infrastrutture-stradali-e-autostradali,1,https://dati.gov.it/view-dataset?organization=agenzia-nazionale-per-la-sicurezza-delle-ferrovie-e-delle-infrastrutture-stradali-e-autostradali
 2024-03-08T18:09:06.901358,AgID - Agenzia per l'Italia Digitale,730739fd-ae48-45db-8a2a-7002cca9bd2c,agid,agenzia-per-l-italia-digitale,36,https://dati.gov.it/view-dataset?organization=agenzia-per-l-italia-digitale
 2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,anac,anac,63,https://dati.gov.it/view-dataset?organization=anac
 2024-09-11T14:37:28.218872,ASPAL - Agenzia Sarda per le Politiche Attive del Lavoro,8b8cf2d9-cb93-4c83-b7ef-af40d0669369,aril_,aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro,6,https://dati.gov.it/view-dataset?organization=aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro
 2024-11-04T12:38:56.597024,ATS - Agenzia per la Tutela della Salute della Città Metropolitana di Milano,a9642632-cc67-477f-b66d-437a4fb7e03d,atsmetmi,ats-citta-metropolitana-di-milano,10,https://dati.gov.it/view-dataset?organization=ats-citta-metropolitana-di-milano
 2024-10-17T12:27:39.926586,Autorità Idrica Toscana,15c50db6-58b4-4b9e-88f1-fa2394c7aefa,ait_048,autorita-idrica-toscana,5,https://dati.gov.it/view-dataset?organization=autorita-idrica-toscana
+2024-11-14T13:32:55.022206,Azienda Socio Sanitaria Territoriale Lariana,3954d7c6-fc2b-4dd1-aebf-e336a0e63b64,asstla,azienda-socio-sanitaria-territoriale-lariana,2,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-lariana
 2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,354,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,51,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
 2024-11-07T10:06:41.673226,Camera di Commercio Industria Artigianato e Agricoltura di Roma,faab567c-7036-4090-87d2-bf7c558b43b9,cciaa_rm,camera-di-commercio-industria-artigianato-e-agricoltura-di-roma,10,https://dati.gov.it/view-dataset?organization=camera-di-commercio-industria-artigianato-e-agricoltura-di-roma
@@ -17,6 +19,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:20:12.070830,Comune di Bari,df53accc-dc73-4f98-bd0e-66c32524eb6f,c_a662,comune-di-bari,143,https://dati.gov.it/view-dataset?organization=comune-di-bari
 2024-10-28T10:33:16.569782,Comune di Beinasco,bc5f05ae-4696-4db9-985a-88a78eab0da9,c_a734,comune-di-beinasco,3,https://dati.gov.it/view-dataset?organization=comune-di-beinasco
 2024-03-08T18:16:37.011539,Comune di Bologna,459fbd42-c496-4511-bac8-1f06e341d6ef,c_a944,comune-di-bologna,653,https://dati.gov.it/view-dataset?organization=comune-di-bologna
+2024-11-14T15:09:34.834499,Comune di Carovigno,c87c64da-568e-42fa-870f-7fae083db0a5,c_b809,comune-di-carovigno,58,https://dati.gov.it/view-dataset?organization=comune-di-carovigno
 2024-11-11T15:57:38.207466,Comune di Castiglione delle Stiviere,e666e985-65b8-4d8b-8760-fe32034610a8,c_c312,comune-di-castiglione-delle-stiviere,48,https://dati.gov.it/view-dataset?organization=comune-di-castiglione-delle-stiviere
 2024-08-07T12:31:28.769023,Comune di Chiavari,1d8cff3f-b4de-418d-892b-bc5cecc79de7,c_c621,comune-di-chiavari,53,https://dati.gov.it/view-dataset?organization=comune-di-chiavari
 2024-11-13T11:45:17.097340,Comune di Cologno Monzese,92b0fbf4-d3f5-411e-afd5-e0b9bcadd3e8,c_c895,comune-di-cologno-monzese,48,https://dati.gov.it/view-dataset?organization=comune-di-cologno-monzese
@@ -31,6 +34,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2473,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
 2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1605,https://dati.gov.it/view-dataset?organization=comune-di-palermo
+2024-11-14T12:08:12.301236,Comune di Pieve Emanuele,4ab04975-f03e-4402-951a-b5eab5c59747,c_g634,comune-di-pieve-emanuele,44,https://dati.gov.it/view-dataset?organization=comune-di-pieve-emanuele
 2024-03-08T18:28:23.244694,Comune di Rimini,f9546d88-5c6e-41d1-97b2-ebd9d0a77d21,00304260409,comune-di-rimini,83,https://dati.gov.it/view-dataset?organization=comune-di-rimini
 2024-09-13T12:02:11.893553,Comune di Santa Margherita Ligure,0e25dc4b-2eba-42ff-97a9-9929e4846223,c_i225,comune-di-santa-margherita-ligure,56,https://dati.gov.it/view-dataset?organization=comune-di-santa-margherita-ligure
 2024-10-08T10:09:27.470392,Comune di Sulmona,184af785-59d7-44b3-aa77-31a8d724dc2b,c_i804,comune-di-sulmona,3,https://dati.gov.it/view-dataset?organization=comune-di-sulmona
@@ -42,9 +46,9 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2279,https://dati.gov.it/view-dataset?organization=inps
 2024-03-08T18:53:17.505775,ISPRA - Istituto superiore per la protezione e la ricerca ambientale,ac8db934-572c-4e68-b00c-2fc3d8a29050,ispra,ispra,10,https://dati.gov.it/view-dataset?organization=ispra
 2024-10-24T10:10:40.204261,IVASS - Istituto per la Vigilanza sulle Assicurazioni,78467e9f-bb14-444a-87e0-0faa4e4beca0,IVsAPIC,ivass-istituto-per-la-vigilanza-sulle-assicurazioni,20,https://dati.gov.it/view-dataset?organization=ivass-istituto-per-la-vigilanza-sulle-assicurazioni
-2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,mef,3149,https://dati.gov.it/view-dataset?organization=mef
 2024-03-08T18:54:36.322033,Ministero dei Beni Culturali,0c8ebe34-c765-43c0-8deb-67940890204a,m_bac,ministero-dei-beni-culturali,213,https://dati.gov.it/view-dataset?organization=ministero-dei-beni-culturali
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
+2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3148,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,29,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,92,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
 2024-03-08T19:00:41.997526,Ministero della Salute,593c0fab-b437-4181-b277-cbf5bc21d81c,m_sa,ministero-della-salute,51,https://dati.gov.it/view-dataset?organization=ministero-della-salute
