@@ -1,0 +1,151 @@
+n,categoria,cat_norm,data,anno,valore,file,valore_delta
+1,Omicidi commessi,omicidi,2023-01-08,2023,5,2023-01-09.csv,5
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-01-08,2023,2,2023-01-09.csv,2
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-01-08,2023,2,2023-01-09.csv,2
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-01-08,2023,2,2023-01-09.csv,2
+5,di cui da partner/ex partner,omicidi_da_partner,2023-01-08,2023,1,2023-01-09.csv,1
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-01-08,2023,1,2023-01-09.csv,1
+1,Omicidi commessi,omicidi,2023-03-26,2023,78,2023-03-27.csv,73
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-03-26,2023,27,2023-03-27.csv,25
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-03-26,2023,37,2023-03-27.csv,35
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-03-26,2023,26,2023-03-27.csv,24
+5,di cui da partner/ex partner,omicidi_da_partner,2023-03-26,2023,19,2023-03-27.csv,18
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-03-26,2023,17,2023-03-27.csv,16
+1,Omicidi commessi,omicidi,2023-04-23,2023,99,2023-04-24.csv,21
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-04-23,2023,37,2023-04-24.csv,10
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-04-23,2023,47,2023-04-24.csv,10
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-04-23,2023,33,2023-04-24.csv,7
+5,di cui da partner/ex partner,omicidi_da_partner,2023-04-23,2023,23,2023-04-24.csv,4
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-04-23,2023,21,2023-04-24.csv,4
+1,Omicidi commessi,omicidi,2023-04-30,2023,108,2023-05-02.csv,9
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-04-30,2023,38,2023-05-02.csv,1
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-04-30,2023,50,2023-05-02.csv,3
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-04-30,2023,34,2023-05-02.csv,1
+5,di cui da partner/ex partner,omicidi_da_partner,2023-04-30,2023,23,2023-05-02.csv,0
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-04-30,2023,21,2023-05-02.csv,0
+1,Omicidi commessi,omicidi,2023-05-07,2023,117,2023-05-08.csv,9
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-05-07,2023,43,2023-05-08.csv,5
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-05-07,2023,55,2023-05-08.csv,5
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-05-07,2023,37,2023-05-08.csv,3
+5,di cui da partner/ex partner,omicidi_da_partner,2023-05-07,2023,24,2023-05-08.csv,1
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-05-07,2023,22,2023-05-08.csv,1
+1,Omicidi commessi,omicidi,2023-05-28,2023,129,2023-05-29.csv,12
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-05-28,2023,45,2023-05-29.csv,2
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-05-28,2023,58,2023-05-29.csv,3
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-05-28,2023,37,2023-05-29.csv,0
+5,di cui da partner/ex partner,omicidi_da_partner,2023-05-28,2023,24,2023-05-29.csv,0
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-05-28,2023,22,2023-05-29.csv,0
+1,Omicidi commessi,omicidi,2023-06-04,2023,138,2023-06-05.csv,9
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-06-04,2023,49,2023-06-05.csv,4
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-06-04,2023,64,2023-06-05.csv,6
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-06-04,2023,41,2023-06-05.csv,4
+5,di cui da partner/ex partner,omicidi_da_partner,2023-06-04,2023,27,2023-06-05.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-06-04,2023,24,2023-06-05.csv,2
+1,Omicidi commessi,omicidi,2023-06-18,2023,151,2023-06-19.csv,13
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-06-18,2023,55,2023-06-19.csv,6
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-06-18,2023,70,2023-06-19.csv,6
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-06-18,2023,45,2023-06-19.csv,4
+5,di cui da partner/ex partner,omicidi_da_partner,2023-06-18,2023,29,2023-06-19.csv,2
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-06-18,2023,26,2023-06-19.csv,2
+1,Omicidi commessi,omicidi,2023-07-09,2023,171,2023-07-10.csv,20
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-07-09,2023,62,2023-07-10.csv,7
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-07-09,2023,78,2023-07-10.csv,8
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-07-09,2023,49,2023-07-10.csv,4
+5,di cui da partner/ex partner,omicidi_da_partner,2023-07-09,2023,33,2023-07-10.csv,4
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-07-09,2023,29,2023-07-10.csv,3
+1,Omicidi commessi,omicidi,2023-08-06,2023,198,2023-08-07.csv,27
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-08-06,2023,72,2023-08-07.csv,10
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-08-06,2023,89,2023-08-07.csv,11
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-08-06,2023,57,2023-08-07.csv,8
+5,di cui da partner/ex partner,omicidi_da_partner,2023-08-06,2023,39,2023-08-07.csv,6
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-08-06,2023,35,2023-08-07.csv,6
+1,Omicidi commessi,omicidi,2023-08-20,2023,213,2023-08-21.csv,15
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-08-20,2023,76,2023-08-21.csv,4
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-08-20,2023,95,2023-08-21.csv,6
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-08-20,2023,61,2023-08-21.csv,4
+5,di cui da partner/ex partner,omicidi_da_partner,2023-08-20,2023,42,2023-08-21.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-08-20,2023,38,2023-08-21.csv,3
+1,Omicidi commessi,omicidi,2023-08-27,2023,216,2023-08-28.csv,3
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-08-27,2023,76,2023-08-28.csv,0
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-08-27,2023,95,2023-08-28.csv,0
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-08-27,2023,61,2023-08-28.csv,0
+5,di cui da partner/ex partner,omicidi_da_partner,2023-08-27,2023,42,2023-08-28.csv,0
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-08-27,2023,38,2023-08-28.csv,0
+1,Omicidi commessi,omicidi,2023-09-03,2023,225,2023-09-03.csv,9
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-09-03,2023,77,2023-09-03.csv,1
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-09-03,2023,98,2023-09-03.csv,3
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-09-03,2023,61,2023-09-03.csv,0
+5,di cui da partner/ex partner,omicidi_da_partner,2023-09-03,2023,42,2023-09-03.csv,0
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-09-03,2023,38,2023-09-03.csv,0
+1,Omicidi commessi,omicidi,2023-09-10,2023,230,2023-09-10.csv,5
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-09-10,2023,80,2023-09-10.csv,3
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-09-10,2023,101,2023-09-10.csv,3
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-09-10,2023,64,2023-09-10.csv,3
+5,di cui da partner/ex partner,omicidi_da_partner,2023-09-10,2023,45,2023-09-10.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-09-10,2023,41,2023-09-10.csv,3
+1,Omicidi commessi,omicidi,2023-09-24,2023,243,2023-09-24.csv,13
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-09-24,2023,84,2023-09-24.csv,4
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-09-24,2023,107,2023-09-24.csv,6
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-09-24,2023,69,2023-09-24.csv,5
+5,di cui da partner/ex partner,omicidi_da_partner,2023-09-24,2023,48,2023-09-24.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-09-24,2023,44,2023-09-24.csv,3
+1,Omicidi commessi,omicidi,2023-10-01,2023,256,2023-10-01.csv,13
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-10-01,2023,90,2023-10-01.csv,6
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-10-01,2023,115,2023-10-01.csv,8
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-10-01,2023,75,2023-10-01.csv,6
+5,di cui da partner/ex partner,omicidi_da_partner,2023-10-01,2023,51,2023-10-01.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-10-01,2023,47,2023-10-01.csv,3
+1,Omicidi commessi,omicidi,2023-10-08,2023,260,2023-10-08.csv,4
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-10-08,2023,92,2023-10-08.csv,2
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-10-08,2023,117,2023-10-08.csv,2
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-10-08,2023,76,2023-10-08.csv,1
+5,di cui da partner/ex partner,omicidi_da_partner,2023-10-08,2023,52,2023-10-08.csv,1
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-10-08,2023,48,2023-10-08.csv,1
+1,Omicidi commessi,omicidi,2023-10-22,2023,268,2023-10-22.csv,8
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-10-22,2023,96,2023-10-22.csv,4
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-10-22,2023,118,2023-10-22.csv,1
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-10-22,2023,77,2023-10-22.csv,1
+5,di cui da partner/ex partner,omicidi_da_partner,2023-10-22,2023,53,2023-10-22.csv,1
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-10-22,2023,49,2023-10-22.csv,1
+1,Omicidi commessi,omicidi,2023-10-29,2023,276,2023-10-29.csv,8
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-10-29,2023,100,2023-10-29.csv,4
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-10-29,2023,123,2023-10-29.csv,5
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-10-29,2023,81,2023-10-29.csv,4
+5,di cui da partner/ex partner,omicidi_da_partner,2023-10-29,2023,56,2023-10-29.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-10-29,2023,52,2023-10-29.csv,3
+1,Omicidi commessi,omicidi,2023-11-05,2023,282,2023-11-05.csv,6
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-11-05,2023,101,2023-11-05.csv,1
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-11-05,2023,125,2023-11-05.csv,2
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-11-05,2023,82,2023-11-05.csv,1
+5,di cui da partner/ex partner,omicidi_da_partner,2023-11-05,2023,58,2023-11-05.csv,2
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-11-05,2023,53,2023-11-05.csv,1
+1,Omicidi commessi,omicidi,2023-11-12,2023,285,2023-11-12.csv,3
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-11-12,2023,102,2023-11-12.csv,1
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-11-12,2023,125,2023-11-12.csv,0
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-11-12,2023,82,2023-11-12.csv,0
+5,di cui da partner/ex partner,omicidi_da_partner,2023-11-12,2023,58,2023-11-12.csv,0
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-11-12,2023,53,2023-11-12.csv,0
+1,Omicidi commessi,omicidi,2023-11-19,2023,295,2023-11-19.csv,10
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-11-19,2023,106,2023-11-19.csv,4
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-11-19,2023,130,2023-11-19.csv,5
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-11-19,2023,87,2023-11-19.csv,5
+5,di cui da partner/ex partner,omicidi_da_partner,2023-11-19,2023,60,2023-11-19.csv,2
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-11-19,2023,55,2023-11-19.csv,2
+1,Omicidi commessi,omicidi,2023-12-03,2023,303,2023-12-03.csv,8
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-12-03,2023,109,2023-12-03.csv,3
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-12-03,2023,136,2023-12-03.csv,6
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-12-03,2023,90,2023-12-03.csv,3
+5,di cui da partner/ex partner,omicidi_da_partner,2023-12-03,2023,63,2023-12-03.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-12-03,2023,58,2023-12-03.csv,3
+1,Omicidi commessi,omicidi,2023-12-17,2023,315,2023-12-17.csv,12
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-12-17,2023,115,2023-12-17.csv,6
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-12-17,2023,141,2023-12-17.csv,5
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-12-17,2023,94,2023-12-17.csv,4
+5,di cui da partner/ex partner,omicidi_da_partner,2023-12-17,2023,66,2023-12-17.csv,3
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-12-17,2023,61,2023-12-17.csv,3
+1,Omicidi commessi,omicidi,2023-12-26,2023,323,2023-12-26.csv,8
+2,di cui con vittime di sesso femminile,omicidi_femminili,2023-12-26,2023,118,2023-12-26.csv,3
+3,di cui in ambito familiare/affettivo,omicidi_ambito_familiare,2023-12-26,2023,143,2023-12-26.csv,2
+4,di cui con vittime di sesso femminile,omicidi_ambito_familiare_femminili,2023-12-26,2023,96,2023-12-26.csv,2
+5,di cui da partner/ex partner,omicidi_da_partner,2023-12-26,2023,68,2023-12-26.csv,2
+6,di cui con vittime di sesso femminile,omicidi_da_partner_femminili,2023-12-26,2023,63,2023-12-26.csv,2

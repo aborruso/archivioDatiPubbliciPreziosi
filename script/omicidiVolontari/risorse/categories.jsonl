@@ -1,0 +1,14 @@
+{"raw": "Omicidi commessi", "correct": "Omicidi commessi"}
+{"raw": "di cui con vittime di sesso femminile", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "di cui in ambito familiare/affettivo", "correct": "di cui in ambito familiare/affettivo"}
+{"raw": "dicuidapartner/expartner", "correct": "di cui da partner/ex partner"}
+{"raw": "di cui da partner/ex partner", "correct": "di cui da partner/ex partner"}
+{"raw": "dicuiconvittimedisessofemminile", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "cui con vittime di sesso femminile ~di", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "~di cui con vittime di sesso femminile", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "di cui con vittime disesso femminile", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "4di cui con vittime disesso femminile", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "di in ambito familiare/affettivo cui", "correct": "di cui in ambito familiare/affettivo"}
+{"raw": "cui con vittime disesso fenmnile eedi", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "cui con vittime disesso femminie ~di", "correct": "di cui con vittime di sesso femminile"}
+{"raw": "di cui con vittime disesso femminie", "correct": "di cui con vittime di sesso femminile"}
