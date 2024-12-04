@@ -3,6 +3,7 @@ id
 00-confine-comunale-shp-52902487
 01-psc-piano-strutturale-comunale-kml-07299570
 01-psc-piano-strutturale-comunale-shp-05870b62
+01fdfe7512771c21579b56de7c050d1faba4df92516d33f093aa4dfa8609f4b7
 02-rue-regolamento-urbanistico-edilizio-kml-ac9f51e4
 02-rue-regolamento-urbanistico-edilizio-shp-7b10210d
 03-stradario-kml-c05742d6
@@ -602,6 +603,7 @@ id
 15964
 15984
 15986
+159861922cedade13565744c6eb11781fd1bb8951afb514cec3057a6c012199a
 15987
 16-hotspot-wifi-comune-di-toscolano-maderno
 16-hotspot-wifi-comune-di-verolanuova
@@ -989,7 +991,10 @@ id
 6-censimento-dellagricoltura-aziende-agricole-e-superficie-agricola-per-comune-di-localizz-2010
 6-censimento-dellagricoltura-aziende-agricole-e-superficie-agricola-utilizzata-per-comune-2010
 6-censimento-dellagricoltura-superficie-agricola-totale-e-utilizzata-per-comune-di-localiz-2010
+68a5790189e9a6646cee4505c9f3eaea052652b64e099bf36ae474d6017cbd39
 68dd2d8755404aba533024b5bf7e1198b5539f5c49bfde6d96257b05f746afca
+745edd39c00493f3b44a47fc3dbc177f4cdc89ba207b5c38c3d982df77013895
+777ec6014de75ebfc0265da8fa76b2c32c407e4d1bc60f76827c05880368b441
 79a09b3a1c7f3407be542a33a09e0afe423b951af1a13c7625ff9f2055163df7
 79fb4dec625eedabbcc9b5d78fea88214c69765c4a7f2e56c45f695625d00ea1
 7a2rg1-figli-per-famiglia
@@ -998,11 +1003,14 @@ id
 7a2rg1-pop-per-classi-di-eta
 7a2rg1-stranieri-residenti-per-cittadinanza
 895fde3d12fce94d71432d90c537664000b93a580952ea5a38aa94d21402a241
+8b519c120c564a2f3d4a4b27005fcc02a457a00d52d62a404cd7e196f44899df
 8cqedf-figli-per-famiglia
 8cqedf-morti-per-mese
 8cqedf-nati-per-mese
 8cqedf-popolazione-residente-per-classi-di-eta
 8cqedf-stranieri-residenti-per-cittadinanza
+936a3420f146723b730a6d9c7dd0b25bf970782eb032d24a5f76f92c36fd2221
+9397d81a00e2b39295307857f9aca930da4e6e2473802e52d9ddfdb737aff3a9
 9cmcqc-fasce-omogenee-valori-imu
 9cmcqc-valori-imu-ambiti-rue
 _elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-alle-liste-collegio-sici-01
@@ -7375,6 +7383,7 @@ batimetrie-delladriatico-edizione-2014
 battente-idraulico-tr-200-anni
 battenti-idraulici-simi
 battenti-idraulici-simi1
+bd4b890a93700279248eb3b902eb43057c2e8c5e3a0773096224dac8c6fc85ab
 bd4e7caef676d4ec42f1cadabc18488183327ca03aec4ff6215903d29aad86f1
 bdn-distribuzione-specie-fauna-su-griglia-5-km
 bdn-mappa-semaforica-specie-fauna-su-griglia-1-km
@@ -8726,6 +8735,7 @@ c5-4-pericolosita-idraulica-pgra-modello-uml
 c5-4-pericolosita-idraulica-pgra-modello-uml1
 c5-5-pericolosita-geologica-pai-modello-uml
 c5-5-pericolosita-geologica-pai-modello-uml1
+c7500335d7a7af6db6a1d70401d7f77349ca69865ffa1383939b588c17cac50f
 c_h199_2021-10-11t114855_ra01aa02frazioni
 cableway-link
 cacaocorrecto-el-sig-abierto-y-la-iniciativa-opendata-en-la-provincia-autonoma-de-bolzano
@@ -17507,6 +17517,7 @@ d208_p_pup
 d4-strategia-dello-sviluppo-utoe-modello-uml
 d4-strategia-dello-sviluppo-utoe-modello-uml1
 d8ce0eb73f9d7b2f295de3348f23a0b2603fb1652a5e94c5e6e230bb86c5c75d
+d96221acf3217ee52c5fd1d52e89333a93f93aad01a355d713bc8a567b0ac262
 danni-da-fauna-selvatica
 dashboard-covid-19-regione-umbria-dati-comuni
 dashboard-covid-19-regione-umbria-dati-ospedali
@@ -20409,6 +20420,7 @@ e4-a-b-zone-territoriali-omogenee-decreto-interministeriale-1444-68-modello-uml1
 e5-3-1-4-fattibilita-geologica-idraulica-e-sismica-degli-interventi-modello-uml
 e5-3-1-fattibilita-geologica-idraulica-e-sismica-degli-interventi-modello-uml
 e730-pop-per-consulta
+eb81d3bd679c31123c83dfce6f396754ae9d6b746adecb98a83c7d15c43dc980
 eccellenza-turistica-ptrc-2020
 eccesso-di-peso
 eccesso-di-peso-femmine
