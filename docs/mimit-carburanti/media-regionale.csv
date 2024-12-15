@@ -2,18 +2,18 @@ REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
 Abruzzo,Gasolio,SELF,1.660
 Abruzzo,Benzina,SELF,1.756
 Abruzzo,GPL,SERVITO,0.726
-Abruzzo,Metano,SERVITO,1.383
+Abruzzo,Metano,SERVITO,1.381
 Basilicata,Gasolio,SELF,1.681
 Basilicata,Benzina,SELF,1.791
 Basilicata,GPL,SERVITO,0.723
-Basilicata,Metano,SERVITO,1.429
+Basilicata,Metano,SERVITO,1.426
 Bolzano,Gasolio,SELF,1.729
 Bolzano,Benzina,SELF,1.806
-Bolzano,GPL,SERVITO,0.804
+Bolzano,GPL,SERVITO,0.806
 Bolzano,Metano,SERVITO,1.469
 Calabria,Gasolio,SELF,1.665
 Calabria,Benzina,SELF,1.779
-Calabria,GPL,SERVITO,0.767
+Calabria,GPL,SERVITO,0.766
 Calabria,Metano,SERVITO,1.477
 Campania,Gasolio,SELF,1.634
 Campania,Benzina,SELF,1.746
@@ -30,8 +30,8 @@ Friuli Venezia Giulia,Metano,SERVITO,1.456
 Lazio,Gasolio,SELF,1.642
 Lazio,Benzina,SELF,1.744
 Lazio,GPL,SERVITO,0.715
-Lazio,Metano,SERVITO,1.475
-Liguria,Gasolio,SELF,1.686
+Lazio,Metano,SERVITO,1.477
+Liguria,Gasolio,SELF,1.685
 Liguria,Benzina,SELF,1.776
 Liguria,GPL,SERVITO,0.803
 Liguria,Metano,SERVITO,1.455
@@ -47,22 +47,22 @@ Molise,Gasolio,SELF,1.658
 Molise,Benzina,SELF,1.761
 Molise,GPL,SERVITO,0.742
 Molise,Metano,SERVITO,1.349
-Piemonte,Gasolio,SELF,1.645
+Piemonte,Gasolio,SELF,1.646
 Piemonte,Benzina,SELF,1.739
 Piemonte,GPL,SERVITO,0.717
 Piemonte,Metano,SERVITO,1.422
 Puglia,Gasolio,SELF,1.638
-Puglia,Benzina,SELF,1.768
+Puglia,Benzina,SELF,1.769
 Puglia,GPL,SERVITO,0.700
 Puglia,Metano,SERVITO,1.431
 Sardegna,Gasolio,SELF,1.668
 Sardegna,Benzina,SELF,1.779
-Sardegna,GPL,SERVITO,0.825
+Sardegna,GPL,SERVITO,0.826
 Sicilia,Gasolio,SELF,1.658
 Sicilia,Benzina,SELF,1.771
 Sicilia,GPL,SERVITO,0.784
 Sicilia,Metano,SERVITO,1.693
-Toscana,Gasolio,SELF,1.654
+Toscana,Gasolio,SELF,1.655
 Toscana,Benzina,SELF,1.751
 Toscana,GPL,SERVITO,0.723
 Toscana,Metano,SERVITO,1.487
@@ -74,11 +74,11 @@ Umbria,Gasolio,SELF,1.655
 Umbria,Benzina,SELF,1.752
 Umbria,GPL,SERVITO,0.740
 Umbria,Metano,SERVITO,1.392
-Valle d'Aosta,Gasolio,SELF,1.696
+Valle d'Aosta,Gasolio,SELF,1.695
 Valle d'Aosta,Benzina,SELF,1.763
 Valle d'Aosta,GPL,SERVITO,0.846
 Valle d'Aosta,Metano,SERVITO,1.319
 Veneto,Gasolio,SELF,1.642
 Veneto,Benzina,SELF,1.735
 Veneto,GPL,SERVITO,0.719
-Veneto,Metano,SERVITO,1.398
+Veneto,Metano,SERVITO,1.396
