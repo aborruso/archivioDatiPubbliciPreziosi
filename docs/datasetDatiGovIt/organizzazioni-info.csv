@@ -15,7 +15,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-20T14:48:58.237141,Azienda Consorziale Trasporti,14f898b0-1004-46af-9a27-e083197006ed,actre,azienda-consorziale-trasporti,4,https://dati.gov.it/view-dataset?organization=azienda-consorziale-trasporti
 2024-11-26T10:50:36.033390,Azienda Sanitaria Locale VCO,13ebed9e-b041-46eb-8b1a-42e103ef4f66,asl14_vco,azienda-sanitaria-locale-vco,10,https://dati.gov.it/view-dataset?organization=azienda-sanitaria-locale-vco
 2024-11-14T13:32:55.022206,Azienda Socio Sanitaria Territoriale Lariana,3954d7c6-fc2b-4dd1-aebf-e336a0e63b64,asstla,azienda-socio-sanitaria-territoriale-lariana,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-lariana
-2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,365,https://dati.gov.it/view-dataset?organization=boxxapps
+2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,391,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-11-27T11:47:56.821882,Brescia Mobilità Spa,2769d5a0-f4ab-4337-b577-a3426d4f0752,bmspa,brescia-mobilita-spa,3,https://dati.gov.it/view-dataset?organization=brescia-mobilita-spa
 2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,51,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
 2024-11-07T10:06:41.673226,Camera di Commercio Industria Artigianato e Agricoltura di Roma,faab567c-7036-4090-87d2-bf7c558b43b9,cciaa_rm,camera-di-commercio-industria-artigianato-e-agricoltura-di-roma,10,https://dati.gov.it/view-dataset?organization=camera-di-commercio-industria-artigianato-e-agricoltura-di-roma
@@ -25,7 +25,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-10-21T13:42:00.409707,CNIT - Consorzio Nazionale Interuniversitario per le Telecomunicazioni,f0fff560-469a-42b7-b17d-21853d107bce,cnit,cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni,10,https://dati.gov.it/view-dataset?organization=cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni
 2024-03-08T18:20:12.070830,Comune di Bari,df53accc-dc73-4f98-bd0e-66c32524eb6f,c_a662,comune-di-bari,143,https://dati.gov.it/view-dataset?organization=comune-di-bari
 2024-10-28T10:33:16.569782,Comune di Beinasco,bc5f05ae-4696-4db9-985a-88a78eab0da9,c_a734,comune-di-beinasco,3,https://dati.gov.it/view-dataset?organization=comune-di-beinasco
-2024-03-08T18:16:37.011539,Comune di Bologna,459fbd42-c496-4511-bac8-1f06e341d6ef,c_a944,comune-di-bologna,657,https://dati.gov.it/view-dataset?organization=comune-di-bologna
+2024-03-08T18:16:37.011539,Comune di Bologna,459fbd42-c496-4511-bac8-1f06e341d6ef,c_a944,comune-di-bologna,659,https://dati.gov.it/view-dataset?organization=comune-di-bologna
 2024-11-14T15:09:34.834499,Comune di Carovigno,c87c64da-568e-42fa-870f-7fae083db0a5,c_b809,comune-di-carovigno,58,https://dati.gov.it/view-dataset?organization=comune-di-carovigno
 2024-11-21T11:04:33.388135,Comune di Caselle Torinese,ac5748dd-3437-4209-b5c5-5db76d03076a,c_b960,comune-di-caselle-torinese,31,https://dati.gov.it/view-dataset?organization=comune-di-caselle-torinese
 2024-11-11T15:57:38.207466,Comune di Castiglione delle Stiviere,e666e985-65b8-4d8b-8760-fe32034610a8,c_c312,comune-di-castiglione-delle-stiviere,39,https://dati.gov.it/view-dataset?organization=comune-di-castiglione-delle-stiviere
@@ -39,7 +39,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,243,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
-2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2480,https://dati.gov.it/view-dataset?organization=comune-di-milano
+2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2498,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
 2024-11-25T10:29:46.360740,Comune di Mola di Bari,9d4caa30-bcae-4df7-8ba0-ac85650bea46,c_f280,comune-di-mola-di-bari,3,https://dati.gov.it/view-dataset?organization=comune-di-mola-di-bari
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
@@ -61,7 +61,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-29T12:14:50.361487,Consorzio per la Ricerca sulla Filiera Lattiero Casearia,d93b6fc2-fd8f-498e-b3ec-bccb6c29ba65,clrfl_,consorzio-per-la-ricerca-sulla-filiera-lattiero-casearia,12,https://dati.gov.it/view-dataset?organization=consorzio-per-la-ricerca-sulla-filiera-lattiero-casearia
 2024-12-16T07:29:21.649704,"ENEA - Agenzia Nazionale per Le Nuove Tecnologie, L'Energia e Lo Sviluppo Economico Sostenibile",306186ca-caf4-4958-974e-0a99d2543465,eanln_rm,enea-agenzia-nazionale-per-le-nuove-tecnologie-l-energia-e-lo-sviluppo-economico-sostenibile,11,https://dati.gov.it/view-dataset?organization=enea-agenzia-nazionale-per-le-nuove-tecnologie-l-energia-e-lo-sviluppo-economico-sostenibile
 2024-11-15T16:31:47.052910,Ente Autonomo Volturno Srl,4dc0cdde-3150-48ae-bacd-8552da668a74,eavs,ente-autonomo-volturno-srl,5,https://dati.gov.it/view-dataset?organization=ente-autonomo-volturno-srl
-2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,6992,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,6994,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,107,https://dati.gov.it/view-dataset?organization=inail
 2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2279,https://dati.gov.it/view-dataset?organization=inps
@@ -99,9 +99,9 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3845,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5443,https://dati.gov.it/view-dataset?organization=regione-marche
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,706,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1369,https://dati.gov.it/view-dataset?organization=regione-puglia
+2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1437,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,181,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,13727,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,13267,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,474,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6117,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,354,https://dati.gov.it/view-dataset?organization=roma-capitale
