@@ -1,84 +1,84 @@
 REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
-Abruzzo,Gasolio,SELF,1.662
-Abruzzo,Benzina,SELF,1.758
+Abruzzo,Gasolio,SELF,1.664
+Abruzzo,Benzina,SELF,1.759
 Abruzzo,GPL,SERVITO,0.726
 Abruzzo,Metano,SERVITO,1.387
-Basilicata,Gasolio,SELF,1.684
+Basilicata,Gasolio,SELF,1.685
 Basilicata,Benzina,SELF,1.793
-Basilicata,GPL,SERVITO,0.726
+Basilicata,GPL,SERVITO,0.724
 Basilicata,Metano,SERVITO,1.426
-Bolzano,Gasolio,SELF,1.737
-Bolzano,Benzina,SELF,1.812
-Bolzano,GPL,SERVITO,0.806
+Bolzano,Gasolio,SELF,1.739
+Bolzano,Benzina,SELF,1.814
+Bolzano,GPL,SERVITO,0.809
 Bolzano,Metano,SERVITO,1.464
 Calabria,Gasolio,SELF,1.669
 Calabria,Benzina,SELF,1.780
-Calabria,GPL,SERVITO,0.766
-Calabria,Metano,SERVITO,1.482
+Calabria,GPL,SERVITO,0.764
+Calabria,Metano,SERVITO,1.486
 Campania,Gasolio,SELF,1.638
-Campania,Benzina,SELF,1.749
+Campania,Benzina,SELF,1.750
 Campania,GPL,SERVITO,0.691
-Campania,Metano,SERVITO,1.351
-Emilia Romagna,Gasolio,SELF,1.661
-Emilia Romagna,Benzina,SELF,1.752
+Campania,Metano,SERVITO,1.353
+Emilia Romagna,Gasolio,SELF,1.662
+Emilia Romagna,Benzina,SELF,1.754
 Emilia Romagna,GPL,SERVITO,0.722
 Emilia Romagna,Metano,SERVITO,1.397
-Friuli Venezia Giulia,Gasolio,SELF,1.680
-Friuli Venezia Giulia,Benzina,SELF,1.762
-Friuli Venezia Giulia,GPL,SERVITO,0.724
+Friuli Venezia Giulia,Gasolio,SELF,1.681
+Friuli Venezia Giulia,Benzina,SELF,1.763
+Friuli Venezia Giulia,GPL,SERVITO,0.725
 Friuli Venezia Giulia,Metano,SERVITO,1.456
-Lazio,Gasolio,SELF,1.643
-Lazio,Benzina,SELF,1.745
-Lazio,GPL,SERVITO,0.716
-Lazio,Metano,SERVITO,1.479
-Liguria,Gasolio,SELF,1.689
-Liguria,Benzina,SELF,1.781
-Liguria,GPL,SERVITO,0.803
+Lazio,Gasolio,SELF,1.644
+Lazio,Benzina,SELF,1.746
+Lazio,GPL,SERVITO,0.715
+Lazio,Metano,SERVITO,1.475
+Liguria,Gasolio,SELF,1.690
+Liguria,Benzina,SELF,1.782
+Liguria,GPL,SERVITO,0.799
 Liguria,Metano,SERVITO,1.449
-Lombardia,Gasolio,SELF,1.660
-Lombardia,Benzina,SELF,1.749
+Lombardia,Gasolio,SELF,1.661
+Lombardia,Benzina,SELF,1.750
 Lombardia,GPL,SERVITO,0.724
-Lombardia,Metano,SERVITO,1.410
-Marche,Gasolio,SELF,1.636
-Marche,Benzina,SELF,1.731
+Lombardia,Metano,SERVITO,1.411
+Marche,Gasolio,SELF,1.637
+Marche,Benzina,SELF,1.732
 Marche,GPL,SERVITO,0.750
-Marche,Metano,SERVITO,1.403
-Molise,Gasolio,SELF,1.663
-Molise,Benzina,SELF,1.765
+Marche,Metano,SERVITO,1.404
+Molise,Gasolio,SELF,1.662
+Molise,Benzina,SELF,1.764
 Molise,GPL,SERVITO,0.740
 Molise,Metano,SERVITO,1.340
 Piemonte,Gasolio,SELF,1.651
-Piemonte,Benzina,SELF,1.743
+Piemonte,Benzina,SELF,1.744
 Piemonte,GPL,SERVITO,0.718
-Piemonte,Metano,SERVITO,1.425
-Puglia,Gasolio,SELF,1.640
-Puglia,Benzina,SELF,1.768
+Piemonte,Metano,SERVITO,1.428
+Puglia,Gasolio,SELF,1.641
+Puglia,Benzina,SELF,1.769
 Puglia,GPL,SERVITO,0.702
-Puglia,Metano,SERVITO,1.459
-Sardegna,Gasolio,SELF,1.676
-Sardegna,Benzina,SELF,1.786
-Sardegna,GPL,SERVITO,0.828
+Puglia,Metano,SERVITO,1.440
+Sardegna,Gasolio,SELF,1.678
+Sardegna,Benzina,SELF,1.787
+Sardegna,GPL,SERVITO,0.827
 Sicilia,Gasolio,SELF,1.662
 Sicilia,Benzina,SELF,1.773
-Sicilia,GPL,SERVITO,0.789
+Sicilia,GPL,SERVITO,0.788
 Sicilia,Metano,SERVITO,1.694
-Toscana,Gasolio,SELF,1.658
-Toscana,Benzina,SELF,1.753
+Toscana,Gasolio,SELF,1.660
+Toscana,Benzina,SELF,1.754
 Toscana,GPL,SERVITO,0.725
-Toscana,Metano,SERVITO,1.486
-Trento,Gasolio,SELF,1.705
-Trento,Benzina,SELF,1.786
+Toscana,Metano,SERVITO,1.487
+Trento,Gasolio,SELF,1.706
+Trento,Benzina,SELF,1.787
 Trento,GPL,SERVITO,0.750
 Trento,Metano,SERVITO,1.450
-Umbria,Gasolio,SELF,1.656
-Umbria,Benzina,SELF,1.752
+Umbria,Gasolio,SELF,1.657
+Umbria,Benzina,SELF,1.754
 Umbria,GPL,SERVITO,0.740
 Umbria,Metano,SERVITO,1.402
-Valle d'Aosta,Gasolio,SELF,1.703
-Valle d'Aosta,Benzina,SELF,1.771
-Valle d'Aosta,GPL,SERVITO,0.846
+Valle d'Aosta,Gasolio,SELF,1.704
+Valle d'Aosta,Benzina,SELF,1.772
+Valle d'Aosta,GPL,SERVITO,0.839
 Valle d'Aosta,Metano,SERVITO,1.399
-Veneto,Gasolio,SELF,1.649
-Veneto,Benzina,SELF,1.740
-Veneto,GPL,SERVITO,0.720
-Veneto,Metano,SERVITO,1.398
+Veneto,Gasolio,SELF,1.650
+Veneto,Benzina,SELF,1.741
+Veneto,GPL,SERVITO,0.721
+Veneto,Metano,SERVITO,1.399
