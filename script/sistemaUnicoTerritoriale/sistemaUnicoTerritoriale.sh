@@ -18,14 +18,17 @@ mkdir -p "$folder"/../../docs/"$nome"
 
 file="comuniSistemaUnicoTerritoriale.csv"
 
-url="http://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_codici_comuni_csv.php"
-response=$(curl -s "http://archive.org/wayback/available?url=$url")
-status=$(echo "$response" | jq -r '.archived_snapshots.closest.status')
-urlArchive=$(echo "$response" | jq -r '.archived_snapshots.closest.url')
+url="https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/open-data/elenco-codici-comuni-csv.php"
+response=$(curl -s "$url")
+
+status=$(curl -s -o "$folder"/../../docs/"$nome"/raw_"$file" -w "%{http_code}" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36' "$url")
+
+#status=$(echo "$response" | jq -r '.archived_snapshots.closest.status')
+#urlArchive=$(echo "$response" | jq -r '.archived_snapshots.closest.url')
 
 if [ "$status" == "200" ]; then
     echo "Lo stato della pagina è 200. URL: $url"
-    curl -ksL "$urlArchive" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36' >"$folder"/../../docs/"$nome"/raw_"$file"
+    # curl -ksL "$url" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36' >"$folder"/../../docs/"$nome"/raw_"$file"
     # se il file è quello dei comuni, cambia il separatore da ";" a "," ed estrai codice comunale istat
     if [[ $(echo "$file" | grep 'comuniSistemaUnicoTerritoriale') ]]; then
       <"$folder"/../../docs/"$nome"/raw_"$file" grep -vP '^<' | mlr --icsvlite --ocsv --ifs ";" put -S '${CODICE ISTAT}=regextract_or_else(${CODICE ISTAT},"[0-9]+","")' then clean-whitespace >"$folder"/../../docs/"$nome"/"$file"
