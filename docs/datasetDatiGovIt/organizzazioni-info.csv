@@ -1,10 +1,10 @@
 created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:07:00.168891,ACI - Automobile Club Italia,28bccb62-da5a-4610-96f8-eb274abe4245,aci,aci,31,https://dati.gov.it/view-dataset?organization=aci
-2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,28,https://dati.gov.it/view-dataset?organization=agcm
+2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,29,https://dati.gov.it/view-dataset?organization=agcm
 2024-11-14T15:24:06.603076,ATS - Agenzia di Tutela della Salute della Val Padana,0f63e7d6-119a-4a02-85e9-b11066fc5e58,atsvp,agenzia-di-tutela-della-salute-della-val-padana,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-val-padana
 2024-12-04T19:33:26.317012,Agenzia Laore Sardegna,fd1d1914-d4d4-4705-8479-08d959b02005,ls_ca,agenzia-laore-sardegna,10,https://dati.gov.it/view-dataset?organization=agenzia-laore-sardegna
 2024-10-23T15:26:40.841328,ANSFISA - Agenzia Nazionale per la Sicurezza delle Ferrovie e delle Infrastrutture Stradali e Autostradali,adba4134-0c06-45a6-9849-27ad745861be,ansfisa,agenzia-nazionale-per-la-sicurezza-delle-ferrovie-e-delle-infrastrutture-stradali-e-autostradali,15,https://dati.gov.it/view-dataset?organization=agenzia-nazionale-per-la-sicurezza-delle-ferrovie-e-delle-infrastrutture-stradali-e-autostradali
-2024-03-08T18:09:06.901358,AgID - Agenzia per l'Italia Digitale,730739fd-ae48-45db-8a2a-7002cca9bd2c,agid,agenzia-per-l-italia-digitale,36,https://dati.gov.it/view-dataset?organization=agenzia-per-l-italia-digitale
+2024-03-08T18:09:06.901358,AgID - Agenzia per l'Italia Digitale,730739fd-ae48-45db-8a2a-7002cca9bd2c,agid,agenzia-per-l-italia-digitale,37,https://dati.gov.it/view-dataset?organization=agenzia-per-l-italia-digitale
 2024-12-05T14:26:20.386165,Agenzia veneta per i pagamenti - AVEPA,e5b9a715-0198-4770-a3ec-fba4c674e67f,AVEPA,agenzia-veneta-per-i-pagamenti-avepa,7,https://dati.gov.it/view-dataset?organization=agenzia-veneta-per-i-pagamenti-avepa
 2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,anac,anac,63,https://dati.gov.it/view-dataset?organization=anac
 2024-12-04T19:25:34.119326,ARSAC - Azienda Regionale per lo Sviluppo dell’Agricoltura Calabrese,bc2358db-2de4-47e7-97d5-6e838bda23c9,arsac,arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese,2,https://dati.gov.it/view-dataset?organization=arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese
@@ -39,7 +39,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,243,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
-2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2512,https://dati.gov.it/view-dataset?organization=comune-di-milano
+2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2511,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
 2024-11-25T10:29:46.360740,Comune di Mola di Bari,9d4caa30-bcae-4df7-8ba0-ac85650bea46,c_f280,comune-di-mola-di-bari,3,https://dati.gov.it/view-dataset?organization=comune-di-mola-di-bari
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
@@ -82,7 +82,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:23:33.039196,Politecnico di Milano,de0b44d2-783e-4e91-8ec9-c79cca8a2299,PM,politecnico-di-milano,11,https://dati.gov.it/view-dataset?organization=politecnico-di-milano
 2024-03-08T21:24:58.710779,Progetto MISTRAL,6d977765-a0cc-4cfa-8ac5-29e202cc7318,Mistral,progetto-mistral,18,https://dati.gov.it/view-dataset?organization=progetto-mistral
 2024-03-08T21:26:19.519194,Provincia autonoma di Bolzano,4188f7ff-0b05-4dbf-982e-9a6d99da7bc6,p_bz,provincia-autonoma-di-bolzano,613,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
-2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,2274,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
+2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,2275,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
 2024-11-28T16:16:41.040994,Provincia di Alessandria,16e5aff3-27f1-489e-aa71-0fe3e4f50c3c,p_al,provincia-di-alessandria,5,https://dati.gov.it/view-dataset?organization=provincia-di-alessandria
 2024-09-17T08:42:01.577065,Provincia di Avellino,d62208e2-c944-4578-a792-7cec058137c0,p_av,provincia-di-avellino,1,https://dati.gov.it/view-dataset?organization=provincia-di-avellino
 2024-05-22T14:26:56.234855,Provincia di Biella,8722baa5-6824-4009-86e3-57075b943c5e,p_bi,provincia-di-biella,5,https://dati.gov.it/view-dataset?organization=provincia-di-biella
@@ -93,17 +93,17 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
 2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,319,https://dati.gov.it/view-dataset?organization=regione-campania
 2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,3370,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
-2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,726,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
+2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,729,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,402,https://dati.gov.it/view-dataset?organization=regione-lazio
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
-2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3846,https://dati.gov.it/view-dataset?organization=regione-lombardia
+2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3849,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5443,https://dati.gov.it/view-dataset?organization=regione-marche
-2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,749,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,750,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1469,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,181,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12156,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12577,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,474,https://dati.gov.it/view-dataset?organization=regione-umbria
-2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6120,https://dati.gov.it/view-dataset?organization=regione-veneto
+2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6126,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,355,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,6,https://dati.gov.it/view-dataset?organization=sebastien-catalog
 2024-12-09T19:18:02.155400,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",aef1d1e0-3f4b-41cf-bebb-f34390847f42,UICCIAA,unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura,189,https://dati.gov.it/view-dataset?organization=unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura
