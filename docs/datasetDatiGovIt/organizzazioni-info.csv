@@ -23,6 +23,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:36:46.893571,Azienda Ospedaliera di Rilievo Nazionale Antonio Cardarelli,9e6524d8-1e13-4a6c-97b4-11260c86ff67,aorn_063,azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli,0,https://dati.gov.it/view-dataset?organization=azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli
 2025-02-07T09:06:35.439896,Azienda Regionale per Il Diritto allo Studio Universitario di Venezia,1ff7edff-c9e3-4ab1-b094-c2dd93060644,arid_027,azienda-regionale-per-il-diritto-allo-studio-universitario-di-venezia,0,https://dati.gov.it/view-dataset?organization=azienda-regionale-per-il-diritto-allo-studio-universitario-di-venezia
 2024-11-26T10:50:36.033390,Azienda Sanitaria Locale VCO,13ebed9e-b041-46eb-8b1a-42e103ef4f66,asl14_vco,azienda-sanitaria-locale-vco,10,https://dati.gov.it/view-dataset?organization=azienda-sanitaria-locale-vco
+2025-02-17T15:51:03.604260,Azienda Socio Sanitaria Territoriale della Brianza,8c5d1e2f-95c7-4bc4-aeaf-ec34a5b31313,asstv,azienda-socio-sanitaria-territoriale-della-brianza,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-della-brianza
 2024-11-14T13:32:55.022206,Azienda Socio Sanitaria Territoriale Lariana,3954d7c6-fc2b-4dd1-aebf-e336a0e63b64,asstla,azienda-socio-sanitaria-territoriale-lariana,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-lariana
 2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,407,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-11-27T11:47:56.821882,Brescia Mobilità Spa,2769d5a0-f4ab-4337-b577-a3426d4f0752,bmspa,brescia-mobilita-spa,3,https://dati.gov.it/view-dataset?organization=brescia-mobilita-spa
@@ -33,7 +34,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:18:11.519257,Città Metropolitana di Napoli,0c4fd6bf-a5dd-4e01-a2e1-424cd1019859,cmna,citta-metropolitana-di-napoli,90,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-napoli
 2024-10-21T13:42:00.409707,CNIT - Consorzio Nazionale Interuniversitario per le Telecomunicazioni,f0fff560-469a-42b7-b17d-21853d107bce,cnit,cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni,10,https://dati.gov.it/view-dataset?organization=cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni
 2025-02-10T15:06:58.100679,Commissione di Vigilanza Sui Fondi Pensione,92117c30-1626-4ee3-bb96-61460cc5b9b5,cvfp,commissione-di-vigilanza-sui-fondi-pensione,0,https://dati.gov.it/view-dataset?organization=commissione-di-vigilanza-sui-fondi-pensione
-2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,3,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
+2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,5,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
 2024-03-08T18:20:12.070830,Comune di Bari,df53accc-dc73-4f98-bd0e-66c32524eb6f,c_a662,comune-di-bari,145,https://dati.gov.it/view-dataset?organization=comune-di-bari
 2024-10-28T10:33:16.569782,Comune di Beinasco,bc5f05ae-4696-4db9-985a-88a78eab0da9,c_a734,comune-di-beinasco,3,https://dati.gov.it/view-dataset?organization=comune-di-beinasco
 2025-02-07T15:05:41.669280,Comune di Benevento,2e83f50b-b1a4-4668-a484-a8bfbdc936ed,c_a783,comune-di-benevento,0,https://dati.gov.it/view-dataset?organization=comune-di-benevento
@@ -66,11 +67,12 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,244,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
-2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2522,https://dati.gov.it/view-dataset?organization=comune-di-milano
+2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2521,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
+2025-02-17T09:11:42.407328,Comune di Mogliano Veneto,c5ea01c8-cbef-41e4-9979-960f011bd72b,c_f269,comune-di-mogliano-veneto,42,https://dati.gov.it/view-dataset?organization=comune-di-mogliano-veneto
 2024-11-25T10:29:46.360740,Comune di Mola di Bari,9d4caa30-bcae-4df7-8ba0-ac85650bea46,c_f280,comune-di-mola-di-bari,3,https://dati.gov.it/view-dataset?organization=comune-di-mola-di-bari
 2025-02-07T10:23:12.200065,Comune di Molinella,7708bac3-06d7-48e1-98c2-788424425574,c_f288,comune-di-molinella,0,https://dati.gov.it/view-dataset?organization=comune-di-molinella
-2025-02-13T16:29:02.599064,Comune di Nerviano,f5b11c42-03fe-44c0-8a8d-cd3451b77f75,c_f874,comune-di-nerviano,0,https://dati.gov.it/view-dataset?organization=comune-di-nerviano
+2025-02-13T16:29:02.599064,Comune di Nerviano,f5b11c42-03fe-44c0-8a8d-cd3451b77f75,c_f874,comune-di-nerviano,10,https://dati.gov.it/view-dataset?organization=comune-di-nerviano
 2025-02-06T10:38:08.938326,Comune di Noceto,97b16d4b-052c-48f9-9dd7-6487feab25f1,c_f914,comune-di-noceto,0,https://dati.gov.it/view-dataset?organization=comune-di-noceto
 2025-02-07T10:26:05.167856,Comune di Occhiobello,fc889074-47de-4acb-9ea3-98af4b649e84,c_f994,comune-di-occhiobello,0,https://dati.gov.it/view-dataset?organization=comune-di-occhiobello
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
@@ -93,7 +95,9 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
 2025-02-13T16:26:10.993736,Comune di Tortona,70318d13-2c24-46ea-8944-12d58fa13ae3,c_l304,comune-di-tortona,3,https://dati.gov.it/view-dataset?organization=comune-di-tortona
 2025-02-13T16:31:01.483473,Comune di Treviolo,9eb026f3-5803-44ca-b9fa-5aa17af242dc,c_l404,comune-di-treviolo,40,https://dati.gov.it/view-dataset?organization=comune-di-treviolo
+2025-02-17T16:22:34.201799,Comune di Trinitapoli,39324ee9-b942-4be6-ae26-0e882bb6cf70,c_b915,comune-di-trinitapoli,0,https://dati.gov.it/view-dataset?organization=comune-di-trinitapoli
 2025-02-07T15:12:26.885282,Comune di Valenzano,9de58538-7d17-40da-bbf8-b6a17d3820dc,c_l571,comune-di-valenzano,0,https://dati.gov.it/view-dataset?organization=comune-di-valenzano
+2025-02-17T09:12:57.959067,Comune di Valmadrera,0d12d4c1-640c-4d0f-b0b5-ade2aa7887d9,c_l634,comune-di-valmadrera,46,https://dati.gov.it/view-dataset?organization=comune-di-valmadrera
 2025-02-07T15:07:01.452594,Comune di Vecchiano,21c6292b-f32c-4fd1-9f8d-a3392fde8392,c_l702,comune-di-vecchiano,0,https://dati.gov.it/view-dataset?organization=comune-di-vecchiano
 2025-02-07T10:27:55.515585,Comune di Vieste,727baae0-0f4e-44cb-89a0-a75385d48a1d,c_l858,comune-di-vieste,0,https://dati.gov.it/view-dataset?organization=comune-di-vieste
 2025-02-07T15:19:44.831761,Comunità Montana Valle Imagna,65d89bdc-7a64-4d28-b3de-87c8b58faa43,CMVI,comunita-montana-valle-imagna,0,https://dati.gov.it/view-dataset?organization=comunita-montana-valle-imagna
@@ -110,7 +114,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,178,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,107,https://dati.gov.it/view-dataset?organization=inail
-2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2279,https://dati.gov.it/view-dataset?organization=inps
+2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2281,https://dati.gov.it/view-dataset?organization=inps
 2024-03-08T18:53:17.505775,ISPRA - Istituto superiore per la protezione e la ricerca ambientale,ac8db934-572c-4e68-b00c-2fc3d8a29050,ispra,ispra,10,https://dati.gov.it/view-dataset?organization=ispra
 2025-02-13T14:40:04.046384,Istituto italiano per la storia antica,7614d84d-2aba-46eb-a197-754cae31dd7c,iipsa,istituto-italiano-per-la-storia-antica,10,https://dati.gov.it/view-dataset?organization=istituto-italiano-per-la-storia-antica
 2025-02-06T10:29:54.438101,Istituto Nazionale di Statistica - ISTAT,26fe8259-60a0-4cba-a54f-e91bef27af41,ISTAT,istituto-nazionale-di-statistica-istat,13,https://dati.gov.it/view-dataset?organization=istituto-nazionale-di-statistica-istat
@@ -142,7 +146,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-20T12:23:37.817154,Provincia di Novara,c3234889-f512-4ab2-9ee8-0d7ec8a7cb6c,p_no,provincia-di-novara,5,https://dati.gov.it/view-dataset?organization=provincia-di-novara
 2025-02-06T10:48:03.748623,Provincia di Padova,53290502-f70e-43fc-9378-bab36bb0f55c,p_pd,provincia-di-padova,0,https://dati.gov.it/view-dataset?organization=provincia-di-padova
 2025-02-13T16:35:26.066601,Provincia di Parma,8e7b5d19-4a39-4d51-96c9-549ee2eda073,p_pr,provincia-di-parma,2,https://dati.gov.it/view-dataset?organization=provincia-di-parma
-2024-11-29T12:10:44.118275,Provincia di Rovigo,75cb7b56-1316-4b71-9e71-c68c5a62bae5,p_RO,provincia-di-rovigo,0,https://dati.gov.it/view-dataset?organization=provincia-di-rovigo
+2024-11-29T12:10:44.118275,Provincia di Rovigo,75cb7b56-1316-4b71-9e71-c68c5a62bae5,p_RO,provincia-di-rovigo,5,https://dati.gov.it/view-dataset?organization=provincia-di-rovigo
 2025-02-07T10:23:04.452323,Provincia di Verona,6d38bd89-e867-40f2-be5e-4991acf327ca,p_vr,provincia-di-verona,3,https://dati.gov.it/view-dataset?organization=provincia-di-verona
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,204,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
@@ -164,6 +168,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T09:12:21.222865,Unione Bassa Est Parmense,e0108f7b-6337-4715-8629-31b199daaaca,ubep_pr,unione-bassa-est-parmense,0,https://dati.gov.it/view-dataset?organization=unione-bassa-est-parmense
 2025-02-07T08:49:34.596408,Unione dei Comuni del Trasimeno,cbed8af0-eb12-43bf-a2f7-4ef4cb9238c3,udct,unione-dei-comuni-del-trasimeno,0,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-trasimeno
 2025-02-13T15:32:53.138240,Unione dei Comuni Valdostani Grand-Paradis,d858a90f-93fa-4ac7-a78a-5b92196161ef,cmgp_007,unione-dei-comuni-valdostani-grand-paradis,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-grand-paradis
+2025-02-17T09:14:01.511385,Unione dei Comuni Valdostani Mont - Emilius,6a63756b-72f3-4dac-b94b-c109b8deb3e1,cm_monem,unione-dei-comuni-valdostani-mont-emilius,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-mont-emilius
 2025-02-13T15:13:55.041859,Unione dei Comuni Valdostani Valdigne-Mont-Blanc,8f03b401-6d17-4410-9dcb-9332966b7696,udcvvmb,unione-dei-comuni-valdostani-valdigne-mont-blanc,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-valdigne-mont-blanc
 2024-12-09T19:18:02.155400,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",aef1d1e0-3f4b-41cf-bebb-f34390847f42,UICCIAA,unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura,198,https://dati.gov.it/view-dataset?organization=unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura
 2024-11-05T11:43:08.495052,Unione Pedemontana Parmense,29a696fa-00d5-4be1-b3e9-879992b90f8d,c_c852xf,unione-pedemontana-parmense,3,https://dati.gov.it/view-dataset?organization=unione-pedemontana-parmense
