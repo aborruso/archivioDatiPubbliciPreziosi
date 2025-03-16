@@ -1,8 +1,8 @@
 created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:07:00.168891,ACI - Automobile Club Italia,28bccb62-da5a-4610-96f8-eb274abe4245,aci,aci,31,https://dati.gov.it/view-dataset?organization=aci
-2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,30,https://dati.gov.it/view-dataset?organization=agcm
+2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,35,https://dati.gov.it/view-dataset?organization=agcm
 2025-02-06T10:46:27.761875,Agenzia di Tutela della Salute dell'Insubria,6461fc81-dbf7-4790-9d8d-6efee4c0cb06,atsin,agenzia-di-tutela-della-salute-dell-insubria,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-dell-insubria
-2025-02-13T16:26:32.473301,Agenzia di Tutela della Salute della Brianza,fc47d219-e1e1-4df2-8b32-82b9a3642801,atsmb,agenzia-di-tutela-della-salute-della-brianza,0,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-brianza
+2025-02-13T16:26:32.473301,Agenzia di Tutela della Salute della Brianza,fc47d219-e1e1-4df2-8b32-82b9a3642801,atsmb,agenzia-di-tutela-della-salute-della-brianza,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-brianza
 2024-11-14T15:24:06.603076,ATS - Agenzia di Tutela della Salute della Val Padana,0f63e7d6-119a-4a02-85e9-b11066fc5e58,atsvp,agenzia-di-tutela-della-salute-della-val-padana,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-val-padana
 2025-02-13T16:26:48.651604,Agenzia di Tutela della Salute di Pavia,6d631e37-cc73-469f-9d51-7f81acba3cb2,atspv,agenzia-di-tutela-della-salute-di-pavia,0,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-di-pavia
 2024-12-04T19:33:26.317012,Agenzia Laore Sardegna,fd1d1914-d4d4-4705-8479-08d959b02005,ls_ca,agenzia-laore-sardegna,10,https://dati.gov.it/view-dataset?organization=agenzia-laore-sardegna
@@ -21,6 +21,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-04T12:38:56.597024,ATS - Agenzia per la Tutela della Salute della Città Metropolitana di Milano,a9642632-cc67-477f-b66d-437a4fb7e03d,atsmetmi,ats-citta-metropolitana-di-milano,10,https://dati.gov.it/view-dataset?organization=ats-citta-metropolitana-di-milano
 2025-02-19T13:36:12.400099,ATS della Montagna,8daf7621-05b2-4f9e-8c12-f485eb388d61,atsm,ats-della-montagna,10,https://dati.gov.it/view-dataset?organization=ats-della-montagna
 2025-02-07T09:14:10.452115,Autorità d’Ambito n. 1 Verbano Cusio Ossola e Pianura Novarese,7ea82948-73b6-4e2c-89e2-b7710c487431,adanv,autorita-d-ambito-n-1-verbano-cusio-ossola-e-pianura-novarese,0,https://dati.gov.it/view-dataset?organization=autorita-d-ambito-n-1-verbano-cusio-ossola-e-pianura-novarese
+2025-03-11T11:20:25.155377,Autorità di regolazione dei trasporti,6f14896c-52ff-467b-9bda-2d2934ffbe18,art,autorita-di-regolazione-dei-trasporti,28,https://dati.gov.it/view-dataset?organization=autorita-di-regolazione-dei-trasporti
 2024-10-17T12:27:39.926586,Autorità Idrica Toscana,15c50db6-58b4-4b9e-88f1-fa2394c7aefa,ait_048,autorita-idrica-toscana,10,https://dati.gov.it/view-dataset?organization=autorita-idrica-toscana
 2024-11-20T14:48:58.237141,Azienda Consorziale Trasporti,14f898b0-1004-46af-9a27-e083197006ed,actre,azienda-consorziale-trasporti,4,https://dati.gov.it/view-dataset?organization=azienda-consorziale-trasporti
 2025-02-13T16:36:46.893571,Azienda Ospedaliera di Rilievo Nazionale Antonio Cardarelli,9e6524d8-1e13-4a6c-97b4-11260c86ff67,aorn_063,azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli,10,https://dati.gov.it/view-dataset?organization=azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli
@@ -30,10 +31,10 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:11:29.637397,Azienda Socio Sanitaria Territoriale di Lecco,3fdcdae0-c903-46bf-8555-c254f71cbecc,asstl,azienda-socio-sanitaria-territoriale-di-lecco,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-di-lecco
 2024-11-14T13:32:55.022206,Azienda Socio Sanitaria Territoriale Lariana,3954d7c6-fc2b-4dd1-aebf-e336a0e63b64,asstla,azienda-socio-sanitaria-territoriale-lariana,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-lariana
 2025-02-18T15:58:49.682074,Azienda Socio Sanitaria Territoriale Nord Milano,001fcb43-9490-4fc1-a434-526fe7f64a77,asstnm,azienda-socio-sanitaria-territoriale-nord-milano,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-nord-milano
-2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,430,https://dati.gov.it/view-dataset?organization=boxxapps
+2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,431,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-11-27T11:47:56.821882,Brescia Mobilità Spa,2769d5a0-f4ab-4337-b577-a3426d4f0752,bmspa,brescia-mobilita-spa,3,https://dati.gov.it/view-dataset?organization=brescia-mobilita-spa
 2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,51,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
-2024-11-07T10:06:41.673226,Camera di Commercio Industria Artigianato e Agricoltura di Roma,faab567c-7036-4090-87d2-bf7c558b43b9,cciaa_rm,camera-di-commercio-industria-artigianato-e-agricoltura-di-roma,10,https://dati.gov.it/view-dataset?organization=camera-di-commercio-industria-artigianato-e-agricoltura-di-roma
+2024-11-07T10:06:41.673226,Camera di Commercio Industria Artigianato e Agricoltura di Roma,faab567c-7036-4090-87d2-bf7c558b43b9,cciaa_rm,camera-di-commercio-industria-artigianato-e-agricoltura-di-roma,13,https://dati.gov.it/view-dataset?organization=camera-di-commercio-industria-artigianato-e-agricoltura-di-roma
 2024-10-22T09:50:45.909964,Catalogo TEST,722baec9-c6ee-4842-8f29-39c82c24d63d,agid,catalogo-test,0,https://dati.gov.it/view-dataset?organization=catalogo-test
 2024-10-21T14:33:06.320958,Città metropolitana di Catania,2d9eea42-cb60-48fd-9a8a-36ad3691a0ac,cmct,citta-metropolitana-di-catania,14,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-catania
 2025-02-24T14:58:55.822626,Città Metropolitana di Genova,1ff02784-3bcc-4991-a5b8-5befee9c0346,cmge,citta-metropolitana-di-genova,7,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-genova
@@ -61,6 +62,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-11T15:57:38.207466,Comune di Castiglione delle Stiviere,e666e985-65b8-4d8b-8760-fe32034610a8,c_c312,comune-di-castiglione-delle-stiviere,36,https://dati.gov.it/view-dataset?organization=comune-di-castiglione-delle-stiviere
 2025-02-19T13:45:06.497890,Comune di Cerreto Guidi,bfcad90b-75ba-4ced-9b07-6b2e846c2f70,c_c529,comune-di-cerreto-guidi,3,https://dati.gov.it/view-dataset?organization=comune-di-cerreto-guidi
 2024-08-07T12:31:28.769023,Comune di Chiavari,1d8cff3f-b4de-418d-892b-bc5cecc79de7,c_c621,comune-di-chiavari,53,https://dati.gov.it/view-dataset?organization=comune-di-chiavari
+2025-03-14T09:23:02.989205,Comune di Civitavecchia,81e7ba14-4b56-4b50-a681-8ba6f1e48b7e,c_c773,comune-di-civitavecchia,10,https://dati.gov.it/view-dataset?organization=comune-di-civitavecchia
 2024-11-13T11:45:17.097340,Comune di Cologno Monzese,92b0fbf4-d3f5-411e-afd5-e0b9bcadd3e8,c_c895,comune-di-cologno-monzese,48,https://dati.gov.it/view-dataset?organization=comune-di-cologno-monzese
 2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,3,https://dati.gov.it/view-dataset?organization=comune-di-corciano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,10,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
@@ -82,7 +84,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,244,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
-2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2523,https://dati.gov.it/view-dataset?organization=comune-di-milano
+2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2532,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
 2025-02-17T09:11:42.407328,Comune di Mogliano Veneto,c5ea01c8-cbef-41e4-9979-960f011bd72b,c_f269,comune-di-mogliano-veneto,42,https://dati.gov.it/view-dataset?organization=comune-di-mogliano-veneto
 2024-11-25T10:29:46.360740,Comune di Mola di Bari,9d4caa30-bcae-4df7-8ba0-ac85650bea46,c_f280,comune-di-mola-di-bari,3,https://dati.gov.it/view-dataset?organization=comune-di-mola-di-bari
@@ -94,7 +96,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-06T10:38:08.938326,Comune di Noceto,97b16d4b-052c-48f9-9dd7-6487feab25f1,c_f914,comune-di-noceto,0,https://dati.gov.it/view-dataset?organization=comune-di-noceto
 2025-02-07T10:26:05.167856,Comune di Occhiobello,fc889074-47de-4acb-9ea3-98af4b649e84,c_f994,comune-di-occhiobello,3,https://dati.gov.it/view-dataset?organization=comune-di-occhiobello
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
-2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1609,https://dati.gov.it/view-dataset?organization=comune-di-palermo
+2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1610,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,50,https://dati.gov.it/view-dataset?organization=comune-di-pescara
 2024-11-18T09:13:07.729335,Comune di Piacenza,8f1999e8-8405-443f-a216-574808712990,c_g535,comune-di-piacenza,71,https://dati.gov.it/view-dataset?organization=comune-di-piacenza
 2024-11-14T12:08:12.301236,Comune di Pieve Emanuele,4ab04975-f03e-4402-951a-b5eab5c59747,c_g634,comune-di-pieve-emanuele,29,https://dati.gov.it/view-dataset?organization=comune-di-pieve-emanuele
@@ -136,7 +138,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-15T16:31:47.052910,Ente Autonomo Volturno Srl,4dc0cdde-3150-48ae-bacd-8552da668a74,eavs,ente-autonomo-volturno-srl,5,https://dati.gov.it/view-dataset?organization=ente-autonomo-volturno-srl
 2025-02-11T10:17:34.271846,Fondazione IRCCS Istituto Neurologico Carlo Besta,c432eac3-aef6-47aa-b088-216e3f4e4aff,fincbmi,fondazione-irccs-istituto-neurologico-carlo-besta,0,https://dati.gov.it/view-dataset?organization=fondazione-irccs-istituto-neurologico-carlo-besta
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
-2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,7798,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,7823,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,177,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,107,https://dati.gov.it/view-dataset?organization=inail
@@ -153,7 +155,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:54:36.322033,Ministero dei Beni Culturali,0c8ebe34-c765-43c0-8deb-67940890204a,m_bac,ministero-dei-beni-culturali,213,https://dati.gov.it/view-dataset?organization=ministero-dei-beni-culturali
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
 2025-02-19T10:39:30.240736,Ministero del Turismo,54503213-4f23-4c39-ba5f-c0b0bb78f900,WQF3ZW8F,ministero-del-turismo,16,https://dati.gov.it/view-dataset?organization=ministero-del-turismo
-2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3277,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
+2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3287,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,38,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,92,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
 2024-03-08T19:00:41.997526,Ministero della Salute,593c0fab-b437-4181-b277-cbf5bc21d81c,m_sa,ministero-della-salute,51,https://dati.gov.it/view-dataset?organization=ministero-della-salute
@@ -180,17 +182,17 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T10:23:04.452323,Provincia di Verona,6d38bd89-e867-40f2-be5e-4991acf327ca,p_vr,provincia-di-verona,3,https://dati.gov.it/view-dataset?organization=provincia-di-verona
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,204,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
-2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,333,https://dati.gov.it/view-dataset?organization=regione-campania
-2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,1960,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
+2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,334,https://dati.gov.it/view-dataset?organization=regione-campania
+2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,1953,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,729,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,402,https://dati.gov.it/view-dataset?organization=regione-lazio
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
-2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3285,https://dati.gov.it/view-dataset?organization=regione-lombardia
+2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3246,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5443,https://dati.gov.it/view-dataset?organization=regione-marche
-2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,765,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1512,https://dati.gov.it/view-dataset?organization=regione-puglia
+2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,764,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1515,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10800,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10857,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,429,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6166,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,358,https://dati.gov.it/view-dataset?organization=roma-capitale

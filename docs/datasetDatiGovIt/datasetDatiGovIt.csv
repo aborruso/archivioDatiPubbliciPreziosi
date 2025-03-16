@@ -298,6 +298,10 @@ id
 2024_11_pagamenti_bilancio_dello_stato_per_categoria_e_classificazione_economica_ii_livello
 2024_11_pagamenti_bilancio_dello_stato_per_missione_amministrazione
 2024_11_pagamenti_bilancio_dello_stato_per_missione_categoria_economica
+2024_risultati_elezioni_europee
+2024_risultati_elezioni_regionali
+2024_risultati_preferenze_europee
+2024_risultati_preferenze_regionali
 21-km-run-tune-up-2-marzo-2025
 23-elenco-canoni-di-locazione-comune-di-berlingo
 23-elenco-canoni-di-locazione-comune-di-ome
@@ -485,7 +489,6 @@ a73c59167e231a667af896a0b6b8c028bf19c939759597c585a3980586d7bab7
 a84217c5c8163a0b6875c93090ca10e7739a1e991f6cff7ead4b7d4ae300f3cb
 abbandoni-uniba-per-area-disciplinare-e-dipartimento
 abbandoni-uniba-per-corso-area-disciplinare-e-dipartimento
-abbattimenti-della-fauna-selvatica
 abbazie-benedettine-in-umbria
 abbazie-benedettine-in-umbria1
 abbonamenti-alla-rai
@@ -1559,6 +1562,7 @@ amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-19-12-2024-a15-01-20
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-28-10-2024-30-11-2024
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-01-01-2023-al-28-02-2023
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-01-02-2023-al-31-03-2023
+amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-17-02-2025-al-31-03-2025
 ambiente
 ambiente-analisi-dellacqua-1-trimestre-2021
 ambiente-analisi-dellacqua-2-trimestre-2019
@@ -3404,7 +3408,6 @@ archi-stradali1-6
 archi-stradali1-7
 archi-stradali2
 archi-verdi-metropolitani-ptrc-2020
-architettura-di-qualita-del-secondo-novecento-1945-2000-edifici-pubblici
 architettura-e-monumenti
 architettura-e-monumenti1
 architetture
@@ -3650,6 +3653,7 @@ area-di-scavo-o-discarica-sc_dis-050303
 area-di-stoccaggio-sale
 area-di-stoccaggio-sale1
 area-di-tutela-biologica-delle-acque-marino-costiere
+area-di-volo-usage
 area-drenata
 area-edificato-continuo
 area-edificato-continuo1
@@ -4537,6 +4541,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-sesto-al-reghena
 articolazione-degli-uffici-con-orari-al-pubblico-taipana
 articolazione-degli-uffici-con-orari-al-pubblico-talmassons
 articolazione-degli-uffici1
+articolazione-degli-uffici2
 artigiani
 artigiani-distribuzione-per-categoria-2010-2012
 artigiani-distribuzione-per-sesso-2010-2012
@@ -4936,6 +4941,7 @@ atm-orari-linee-metropolitane
 atm-percorsi-delle-linee-di-superficie-urbane
 atm-percorsi-linee-metropolitane
 ats
+ats-brianza
 ats-citta-metropolitana-di-milano-comuni-ambiti-territoriali-sociali
 ats-citta-metropolitana-di-milano-comuni-ats
 ats-citta-metropolitana-di-milano-comuni-distretti-veterinari
@@ -5261,6 +5267,7 @@ atti-di-concessione4
 atti-di-concessione5
 atti-di-concessione6
 atti-di-concessione7
+atti-di-concessione8
 atti-di-conferimento-incarichi
 atti-di-criteri-e-concessione-con-allegati-dal-15-10-2018-artt-26-27-del-d-lgs-33-2013
 atti-di-programmazione-delle-opere-pubbliche-anno-2023
@@ -5535,6 +5542,7 @@ autorita-di-bacino
 autorita-di-bacino-dataset
 autorita-di-sistema-portuale-adsp
 autorita-idrica-toscana
+autorita-trasporti
 autorizzazione-impianti-di-produzione-acque-minerali-in-calabria
 autorizzazione-sismica-regionale
 autorizzazione-sismica-regionale-anno-2022-aggiornamento
@@ -5980,7 +5988,6 @@ banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2018
 banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2020
 banca-dati-della-carta-della-copertura-del-suolo-al-2012-solo-classe-1-della-corine-land-cover-
 banca-dati-della-copertura-del-suolo-della-regione-veneto
-banca-dati-delle-farfalle-ditalia
 banca-dati-delle-indagini-geognostiche-e-geofisiche
 banca-dati-e-cartografia-dei-suoli-del-lazio
 banca-dati-e-inventario-dei-prati-stabili-naturali
@@ -6216,6 +6223,7 @@ bandi-di-gara-e-contratti1
 bandi-di-gara-e-contratti2
 bandi-di-gara-e-contratti3
 bandi-di-gara-e-contratti4
+bandi-di-gara-e-contratti5
 bandi-di-gara-osservatorio-regionale
 bandi-di-gara1
 bandi-e-gare-del-programma
@@ -7395,6 +7403,7 @@ bilancio-preventivo-e-consuntivo-comune-di-martina-franca
 bilancio-preventivo-e-consuntivo1
 bilancio-preventivo-e-consuntivo2
 bilancio-preventivo-e-consuntivo3
+bilancio-preventivo-e-consuntivo4
 bilancio-preventivo1
 bilancio-previsionale-2013
 bilancio-previsione-2020-entrate-comune-di-rovigo
@@ -7870,6 +7879,9 @@ carta-dei-suoli-del-veneto
 carta-dei-suoli-del-veneto-in-scala-1-250-000-livello-gerarchico-l2-province-di-suoli-aggi-2018
 carta-dei-suoli-del-veneto-in-scala-1-250-000-livello-gerarchico-l3-sistemi-di-suoli
 carta-dei-suoli-gorizia-e-trieste
+carta-dei-suoli-pedologica-carta-dellerosione-media-annua-tha-1-anno-1
+carta-dei-suoli-pedologica-carta-dellerosione-media-annua-tha-1-anno-1-dopo-fattore-humus
+carta-dei-suoli-pedologica-spazializzazione-delle-precipitazioni-medie-annue-mm-anno
 carta-dei-suoli-pordenone
 carta-dei-tipi-climatici
 carta-del-carbonio-organico-nei-suoli-1-250000
@@ -8399,7 +8411,6 @@ cartografia-2k-del-1963-riquadro-41
 cartografia-2k-del-19631
 cartografia-4k-del-19631
 cartografia-catastale-italia
-cartografia-catastale-numerica
 cartografia-della-vegetazione-ripariale
 cartografia-di-base
 cartografia-di-vulnerabilita-battenti-battenti-p1-tr-100-anni
@@ -8528,7 +8539,6 @@ catalogo-buone-pratiche-culturali-della-regione-lazio
 catalogo-caregiver
 catalogo-csv-dei-dataset-di-dati-comune-milano-it
 catalogo-dataset-dati-piemonte
-catalogo-degli-stemmi-dei-comuni-e-delle-province-dellemilia-romagna
 catalogo-dei-tipi-forestali-del-piemonte
 catalogo-della-biblioteca-delle-arti
 catalogo-della-biblioteca-delle-arti-anno-2015
@@ -10503,27 +10513,6 @@ comune-codogno-enti-controllati-enti-di-diritto-privato-controllati
 comune-codogno-enti-controllati-enti-pubblici-vigilati
 comune-codogno-enti-controllati-societa-partecipate
 comune-codogno-monitoraggio-dei-tempi-dei-procedimenti
-comune-codogno-monitoraggio-procedimenti-anno-2013
-comune-codogno-monitoraggio-procedimenti-anno-2014-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2014-ii-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2015-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2015-ii-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2016-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2016-ii-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2017-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2017-ii-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2018-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2018-ii-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2019-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2020
-comune-codogno-monitoraggio-procedimenti-anno-2021
-comune-codogno-monitoraggio-procedimenti-anno-2022-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2022-i-semestre1
-comune-codogno-monitoraggio-procedimenti-anno-2022-ii-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2022-ii-semestre1
-comune-codogno-monitoraggio-procedimenti-anno-2023-i-semestre
-comune-codogno-monitoraggio-procedimenti-anno-2023-i-semestre1
-comune-codogno-monitoraggio-procedimenti-anno-2023-ii-semestre
 comune-codogno-opere-pubbliche-tempi-e-costi-di-realizzazione
 comune-codogno-opere-pubbliche-tempi-e-costi-di-realizzazione-opere-minori
 comune-codogno-pratiche-sportello-unico-attivita-produttive-suap
@@ -10533,24 +10522,6 @@ comune-codogno-risultati-elezioni-comunali-sindaco-per-coalizione
 comune-codogno-risultati-elezioni-comunali-sindaco-per-sezione
 comune-codogno-risultati-elezioni-regionali-presidente-per-coalizione
 comune-codogno-risultati-elezioni-regionali-presidente-per-sezione
-comune-codogno-tassi-di-assenza-del-personale
-comune-codogno-tempi-medi-erogazione-servizi-2014-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2014-ii-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2015-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2015-ii-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2016-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2016-ii-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2017-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2017-ii-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2018-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2018-ii-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2019-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2020
-comune-codogno-tempi-medi-erogazione-servizi-2021
-comune-codogno-tempi-medi-erogazione-servizi-2022-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2022-ii-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2023-i-semestre
-comune-codogno-tempi-medi-erogazione-servizi-2023-ii-semestre
 comune-com_gpg-edizione-del-2014-100k
 comune-com_gpg-edizione-del-2014-250k
 comune-com_gpg-edizione-del-2014-25k
@@ -11134,6 +11105,7 @@ comune-di-citta-di-castello-postazioni-pubblicitarie
 comune-di-citta-di-castello-procedure-di-affidamento
 comune-di-citta-di-castello-reti-wifi-pubbliche-umbriawifi
 comune-di-citta-di-castello-telefono-e-posta-elettronica
+comune-di-civitavecchia
 comune-di-codogno-indice-completo-degli-archivi-comunali
 comune-di-colli-del-tronto-punti-interesse
 comune-di-cologno-monzese
@@ -13629,6 +13601,7 @@ consiglio-comunale-2021-2026-presenze-consiglieri-dicembre-2024
 consiglio-comunale-2021-2026-presenze-consiglieri-febbraio-2022
 consiglio-comunale-2021-2026-presenze-consiglieri-febbraio-2023
 consiglio-comunale-2021-2026-presenze-consiglieri-febbraio-2024
+consiglio-comunale-2021-2026-presenze-consiglieri-febbraio-2025
 consiglio-comunale-2021-2026-presenze-consiglieri-gennaio-2022
 consiglio-comunale-2021-2026-presenze-consiglieri-gennaio-2023
 consiglio-comunale-2021-2026-presenze-consiglieri-gennaio-2024
@@ -13667,6 +13640,7 @@ consiglio-comunale-2021-2026-votazioni-consiglieri-dicembre-2024
 consiglio-comunale-2021-2026-votazioni-consiglieri-febbraio-2022
 consiglio-comunale-2021-2026-votazioni-consiglieri-febbraio-2023
 consiglio-comunale-2021-2026-votazioni-consiglieri-febbraio-2024
+consiglio-comunale-2021-2026-votazioni-consiglieri-febbraio-2025
 consiglio-comunale-2021-2026-votazioni-consiglieri-gennaio-2022
 consiglio-comunale-2021-2026-votazioni-consiglieri-gennaio-2023
 consiglio-comunale-2021-2026-votazioni-consiglieri-gennaio-2024
@@ -13863,6 +13837,7 @@ container-per-laccoglienza-di-breve-termine-rndt-dataset-versione-2-0
 contatti-dellente
 contatti-dellente1
 contatti-dipartimento-infrastrutture-e-lavori-pubblici
+contatti-ente
 contatti-registrati-dall-urp-della-regione-lazio
 contatti-urp-regione-piemonte-affluenza-utenti-per-mese
 contatti-urp-regione-piemonte-affluenza-utenti-suddivisa-per-sede
@@ -14948,7 +14923,6 @@ controllo-acque-reflue-scarichi-industriali
 controllo-acque-reflue-scarichi-non-depurati
 controllo-applicazione-misure-fitosanitarie-aree-campionate
 controllo-impianti-depurazione
-controllo-psa-peste-suina-africana
 controllo-regolarita-amministrativa-messina
 convenzioni-aria-prodotti
 convenzioni-e-accordi
@@ -15638,7 +15612,6 @@ d4-strategia-dello-sviluppo-utoe-modello-uml2-1
 d621a27ee1c7e45e51568287b7275a4cd6d7e2efab34878cef07401971df5e86
 d8ce0eb73f9d7b2f295de3348f23a0b2603fb1652a5e94c5e6e230bb86c5c75d
 d96221acf3217ee52c5fd1d52e89333a93f93aad01a355d713bc8a567b0ac262
-danni-da-fauna-selvatica
 dashboard-covid-19-regione-umbria-dati-comuni
 dashboard-covid-19-regione-umbria-dati-ospedali
 dashboard-covid-19-regione-umbria-dati-regione
@@ -15812,6 +15785,15 @@ dati-aperti-sugli-orari-degli-autobus-dei-servizi-di-trasporto-pubblico-locale-u
 dati-archeologici-del-centro-storico-di-firenze
 dati-archeologici-del-centro-storico-di-firenze1
 dati-archivio-geologia1
+dati-arpa-acque-sotterranee-isofreatiche
+dati-arpa-acque-sotterranee-stato-chimico-corpi-idrici
+dati-arpa-acque-sotterranee-stato-chimico-punti-monitoraggio
+dati-arpa-acque-sotterranee-stato-quantitativo-corpi-idrici
+dati-arpa-acque-sotterranee-stato-quantitativo-punti-monitoraggio
+dati-arpa-acque-superficiali-stato-ecologico-potenziale-ecologico-e-stato-chimico-dei-corpi-idr
+dati-arpa-carta-della-natura-della-valle-daosta
+dati-arpa-catasto-laghi-della-valle-daosta
+dati-arpa-corine-land-cover-2018
 dati-asili-nido-comunali-privati-autorizzati-e-accreditati-autorizzati-anno-scolastic-2015-20161
 dati-asili-nido-comunali-privati-autorizzati-e-accreditati-autorizzati-anno-scolastic-2016-20171
 dati-asili-nido-comunali-privati-autorizzati-e-accreditati-autorizzati-anno-scolastic-2017-20181
@@ -15896,6 +15878,7 @@ dati-di-attivita-del-servizio-di-nido-dinfanzia
 dati-di-base-topografici-e-catastali
 dati-di-base-topografici-e-catastali-edifici-comra
 dati-di-base-topografici-e-catastali-grafo-stradale
+dati-di-base-topografici-e-catastali-idrografia-asse-fluviale
 dati-di-dettaglio-relativi-agli-impianti-termici-e-relative-componenti
 dati-di-genere-per-categoria
 dati-di-genere-per-categoria-anno-2014
@@ -18270,6 +18253,8 @@ distribuzione-di-sabbie-e-peliti-lungo-le-spiaggie-emiliano-romagnole-2012
 distribuzione-di-sabbie-e-peliti-lungo-le-spiaggie-emiliano-romagnole-2018
 distribuzione-famiglie-per-quartiere-comune-di-vittorio-veneto
 distribuzione-famiglie-per-zona-comune-di-vicenza
+distribuzione-geografica-degli-impianti-interconnessi-regolati-e-non-regolati-per-corridoio-fer
+distribuzione-geografica-degli-interporti
 distribuzione-geografica-importi-pagamenti-domanda-unica
 distribuzione-geografica-importi-pagamenti-programma-di-sviluppo-rurale
 distribuzione-geografica-numero-pagamenti-domanda-unica
@@ -18315,6 +18300,7 @@ distribuzione-segnalazioni-ricevute-per-tipologia-2013
 distribuzione-segnalazioni-ricevute-per-tipologia-2015
 distribuzione-segnalazioni-ricevute-per-tipologia-serie-storica
 distribuzione-spaziale-ozono-aot40-2007-2015
+distribuzione-specie-censite-con-inaturalist
 distribuzione-targhe-prova-per-attivita-e-provincia-in-campania-persone-fisiche-anno-2023
 distribuzione-targhe-prova-per-attivita-tipo-di-societa-e-provincia-in-campania-persone-gi-2023
 distribuzione-tra-le-categorie-per-genere-anno-20201
@@ -18520,8 +18506,11 @@ dsm_hillshade
 dsm_piazza_sandro_pertini
 dsm_supercorta_monsummano_alto
 dsm_via_dei_giarasoli
+dsm_via_del_porto_dei_masoni
 dsm_via_della_resistenza
+dsm_via_francesca_vergine_dei_pini
 dsm_via_francesco_carrara
+dsm_via_pozzarello
 dsm_via_vione_del_padule
 dsm_via_vione_del_padule_torrenti
 dtm-05x05m-rer-2022
@@ -18615,6 +18604,9 @@ dtm_01_pcrfvg
 dtm_10_pcrfvg
 dtm_10_rafvg2007
 dtm_hillshade
+dtm_via_francesca_vergine_dei_pini
+dtm_via_porto_dei_masoni
+dtm_via_pozzarello
 dtt-dizionario-toponomastico-trentino
 duc-distretti-urbani-del-commercio
 dump-stazioni-meteo
@@ -19519,6 +19511,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-grigno
 elenco-dei-fascicoli-suddivisi-per-anno-istituto-regionale-ville-venete
 elenco-dei-fascicoli-suddivisi-per-anno-istituzione-comunale-marsala-schola
 elenco-dei-fascicoli-suddivisi-per-anno-magnano-in-riviera
+elenco-dei-fascicoli-suddivisi-per-anno-marianopoli
 elenco-dei-fascicoli-suddivisi-per-anno-poggio-renatico
 elenco-dei-fascicoli-suddivisi-per-anno-povoletto
 elenco-dei-fascicoli-suddivisi-per-anno-sedilo
@@ -22232,6 +22225,16 @@ elezioni-stradario-per-le-consultazioni-del-9-4-2006
 elezioni-suppletive-della-camera-dei-deputati-1-marzo-2020
 elezioni_regionali_2005_in_campania
 emas
+emergenza-alluvione-2024-ottobre
+emergenza-alluvione-2024-ottobre-ortofoto-apc-ottobre-2024-ndvi
+emergenza-alluvione-2024-ottobre-ortofoto-apc-ottobre-2024-nir
+emergenza-alluvione-2024-ottobre-ortofoto-apc-ottobre-2024-rgb
+emergenza-alluvione-2024-ottobre-quadro-di-unione-apc-ottobre-2024-ortofoto
+emergenza-alluvione-2024-settembre
+emergenza-alluvione-2024-settembre-ortofoto-apc-settembre-2024-ndvi
+emergenza-alluvione-2024-settembre-ortofoto-apc-settembre-2024-nir
+emergenza-alluvione-2024-settembre-ortofoto-apc-settembre-2024-rgb
+emergenza-alluvione-2024-settembre-quadro-di-unione-apc-settembre-2024-ortofoto
 emergenza-covid-19-installazione-di-strutture-per-triage-campali
 emergenza-covid-19-la-distribuzione-di-dpi
 emergenza-covid-19-volontari-e-associazioni
@@ -22390,6 +22393,7 @@ entrate-dati-consuntivo-2017
 entrate-dati-gestione-2018
 entrate-del-comune-di-firenze-conto-consuntivo-per-tipo-di-entrata-anni-2007-2014
 entrate-del-comune-di-firenze-conto-consuntivo-per-tipo-di-entrata-euro-anni-2007-2013
+entrate-delle-imprese-di-trasporto-passeggeri-osp
 entrate-previsione-per-il-triennio-2018-2020
 entrate-spese-comune-messina-per-dipartimento
 entrate-tributarie-2013-2014
@@ -22745,9 +22749,19 @@ evoluzione-cumulata-del-numero-di-superamenti-pm10-nei-mesi-del-2015
 evoluzione-cumulata-del-numero-di-superamenti-pm10-nei-mesi-del-2016
 evoluzione-degli-itinerari-ciclabili-a-anni-2001-2016
 evoluzione-del-risultato-di-amministrazione
+evoluzione-del-traffico-merci-per-ferrovia
+evoluzione-del-traffico-passeggeri-per-ferrovia
+evoluzione-del-traffico-sulla-rete-autostradale
+evoluzione-della-domanda-di-trasporto-ferroviario-di-merci
+evoluzione-della-domanda-di-trasporto-ferroviario-di-passeggeri
 evoluzione-della-linea-di-costa-dal-1944-al-2022
+evoluzione-della-spesa-per-manutenzioni-ordinarie
 evoluzione-delle-aree-pedonali-a-aggiornamento-allaanno-2016
 evoluzione-delle-detrazioni-per-familiari-a-carico
+evoluzione-dellipav-indicatore-della-qualita-della-pavimentazione
+evoluzione-dellis-indice-di-sicurezza
+evoluzione-dellofferta-di-trasporto-ferroviario-di-merci
+evoluzione-dellofferta-di-trasporto-ferroviario-di-passeggeri
 evoluzione-mensile-di-due-generazioni-di-beneficiari-gennaio-2009-e-luglio-2009-di-disoccu-2010
 evoluzione-mensile-per-generazioni-di-beneficiari-di-disoccupazione-ordinaria-non-agricola-2010
 evoluzione-mensile-per-generazioni-di-beneficiari-di-disoccupazione-ordinaria-non-agricola-2010-1
@@ -23106,6 +23120,7 @@ farmacie-territoriali-convenzionate
 farmacie-villafranca-di-verona-2022
 farmacie1
 farmacie10
+farmacie11
 farmacie12
 farmacie13
 farmacie15
@@ -24430,6 +24445,9 @@ impianti-fotovoltaici
 impianti-fotovoltaici-pubblici-e-privati-installati
 impianti-funiviari-in-esercizio-pubblico-marzo-2015
 impianti-industriali-soggetti-ad-aia
+impianti-interconnessi-alla-rete-ferroviaria-riferibili-alle-adsp-distinti-tra-marittimi-e-fluv
+impianti-interconnessi-per-tipologia-e-macro-area
+impianti-interconnessi-per-tipologia-merceologica
 impianti-per-la-telefonia-mobile
 impianti-proposti-via-fer
 impianti-pubblicitari
@@ -25028,6 +25046,7 @@ imprese-registrate-e-attive-per-provincia-natura-giuridica-e-settore-di-attivita
 imprese-rischio-frane-dataset
 imprese-settori-economici-archivio-asia
 imprese-straniere-per-settore-anno-2020
+imprese-straniere-presenti-per-attivita-economica
 imprese-straniere-registrate-attive-iscritte-e-cessate
 imprese-straniere-registrate-attive-iscritte-e-cessate-dati-trimestrali
 imprese-suap-classificazione-dellattivita
@@ -25937,6 +25956,7 @@ indice-di-azoto-ndni
 indice-di-bassa-qualita-dellabitazione
 indice-di-calore-humidex
 indice-di-clorofilla-ci
+indice-di-concentrazione-clorofilla-in-acqua
 indice-di-concentrazione-del-territorio
 indice-di-dipendenza
 indice-di-dipendenza-anziani
@@ -26574,7 +26594,6 @@ invasi-e-laghi
 invasi-e-laghi1
 invaso-artificiale-invaso-040103-aree
 invaso-artificiale-invaso-040103-linee
-inventari-pubblicati-nel-sistema-informativo-partecipato-degli-archivi-storici-in-emilia-romagn
 inventario-dei-beni-del-polo-museale-citta-di-latiano
 inventario-dei-fenomeni-franosi-iffi-basilicata
 inventario-dei-fenomeni-franosi-sc-1-10000-progetto-iffi
@@ -27105,7 +27124,9 @@ istituzioni-scolastiche-del-trentino
 istituzioni-scolastiche-della-regione-puglia
 istruttori-demaniali-regione-lazio
 istruttorie-concorrenza-dati-di-sintesi-2019-2023
+istruttorie-concorrenza-dati-di-sintesi-2020-2024
 istruttorie-tutela-del-consumatore-2019-2023
+istruttorie-tutela-del-consumatore-2020-2024
 istruzione-asili-nido-localizzazione-delle-strutture
 istruzione-caratteristiche-delle-scuole-dinfanzia
 istruzione-e-formazione-scuole-comunali
@@ -27282,6 +27303,8 @@ ix-censimento-industria-e-servizi-unita-locali-delle-imprese-per-comune-e-settor
 ix-censimento-industria-e-servizi-unita-locali-delle-istituzioni-pubbliche-per-attivita-ec-2011
 jazzi-del-territorio-comunale-di-matera
 key-enabling-technologies
+km-di-rete-per-gestore-gi-nazionale-e-altri-gestori
+km-di-rete-per-tipologia-di-linea
 km4city-smart-city-api
 krankenhausversorgung-erste-hilfe
 krankenhausversorgung-von-akutkranken
@@ -27338,6 +27361,8 @@ la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-anno-2022
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-anno-2023
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-anno-2024
+la-rete-autostradale
+la-rete-autostradale-in-concessione-a-pedaggio-trafori-esclusi
 la-rete-distributiva-dei-comuni-rilevazione-2009
 la-ricerca-collaborativa-i-partenariati-regionali-dellinnovazione
 la-ricerca-collaborativa-la-rete-dei-laboratori-pubblici
@@ -29177,12 +29202,14 @@ mappa-centri-antiviolenza-numero-di-centri-sportelli-per-provincia
 mappa-commercio-al-dettaglio-in-lombardia
 mappa-cooperative-sociali1
 mappa-copertura-congiunta-adsl-fttc-fttc-ftth-fttb
+mappa-degli-aeroporti-aperti-al-traffico-commerciale
 mappa-degli-uffici-del-comune-di-rovigo
 mappa-dei-distretti-del-commercio-della-lombardia
 mappa-dei-distretti-del-commercio-della-lombardia-delimitazione-dei-comuni-appartenenti-ai-dist
 mappa-dei-distretti-del-commercio-della-lombardia-delimitazione-dei-comuni-capofila-dei-distret
 mappa-dei-distretti-del-commercio-della-lombardia-delimitazione-delle-aree-dei-distretti
 mappa-del-curve-number-a-scala-regionale
+mappa-delle-autostazioni
 mappa-delle-risorse-sociali
 mappa-dellindice-trofico-trix-per-le-acque-marino-costiere-dal-2004-al-2016
 mappa-di-pericolosita-sismica-del-veneto
@@ -29371,6 +29398,7 @@ matrimoni-classificati-secondo-la-posizione-nella-professione-degli-sposi-anno-2
 matrimoni-classificati-secondo-la-posizione-nella-professione-degli-sposi-anno-2011
 matrimoni-classificati-secondo-leta-degli-sposi-anno-2010
 matrimoni-classificati-secondo-leta-degli-sposi-anno-2011
+matrimoni-dal-2024
 matrimoni-del-comune-di-treviso-suddivisi-per-eta-degli-sposi-anno-2018
 matrimoni-del-comune-di-treviso-suddivisi-per-eta-degli-sposi-anno-2019
 matrimoni-del-comune-di-treviso-suddivisi-per-eta-delle-spose-anno-2018
@@ -29801,6 +29829,7 @@ modello-digitale-batimetrico-adriatico-rer-modello-digitale-batimetrico-rer-2006
 modello-digitale-batimetrico-adriatico-rer-modello-digitale-batimetrico-rer-20061
 modello-digitale-batimetrico-adriatico-rer-modello-digitale-topo-batimetrico-rer-2012
 modello-digitale-del-terreno-carte-derivate-carte-delle-pendenze
+modello-digitale-del-terreno-carte-derivate-carte-delle-pendenze-percentuale
 modello-digitale-del-terreno-da-ctrn-1-10000-passo-10-m-storico
 modello-digitale-del-terreno-dtm
 modello-digitale-del-terreno-dtm-05m
@@ -35184,6 +35213,20 @@ modello-ww3-a-10km-average-wave-direction-deg-2025-03-05-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-03-06-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-03-06-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-03-07-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-07-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-08-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-08-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-09-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-09-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-10-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-10-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-11-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-11-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-12-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-12-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-13-ore-00-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-13-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-03-14-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-11-01-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-11-02-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2024-11-02-ore-12-utc
@@ -35422,6 +35465,20 @@ modello-ww3-a-10km-average-wave-period-sec-2025-03-05-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-03-06-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-03-06-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-03-07-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-07-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-08-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-08-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-09-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-09-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-10-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-10-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-11-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-11-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-12-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-12-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-13-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-13-ore-12-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-03-14-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-11-01-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-11-02-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2024-11-02-ore-12-utc
@@ -35660,6 +35717,20 @@ modello-ww3-a-10km-significant-wave-height-m-2025-03-05-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-03-06-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-03-06-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-03-07-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-07-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-08-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-08-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-09-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-09-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-10-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-10-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-11-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-11-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-12-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-12-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-13-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-13-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-03-14-ore-00-utc
 modena-demografia-delle-imprese-della-provincia-di-modena-dal-1991-al-2023
 modena-esportazioni-macchine-e-apparecchiature-meccaniche-provincia-di-modena-dal-1993-al-2023
 modena-esportazioni-mezzi-di-trasporto-provincia-di-modena-dal-1993-al-2023
@@ -35725,6 +35796,7 @@ monitoraggio-dei-flussi-finanziari-2016-interventi-per-le-persone-non-autosuffic
 monitoraggio-dei-nitrati-nelle-acque
 monitoraggio-dei-procedimenti-giudiziari-incardinati-presso-la-direzione-infrastrutture-e-mobil
 monitoraggio-dei-residui-di-fitofarmaci-nelle-acque
+monitoraggio-dei-ritardi-e-delle-soppressioni-del-servizio-ferroviario-regionale
 monitoraggio-della-qualita-dellaria
 monitoraggio-della-qualita-dellaria-nelle-aree-geotermiche-della-toscana
 monitoraggio-della-qualita-dellaria-nelle-aree-geotermiche-della-toscana-centrali-geotermiche
@@ -35865,6 +35937,7 @@ mortalita-per-incidenti-stradali-15-34-anni-femmine
 mortalita-per-incidenti-stradali-15-34-anni-maschi
 morti
 morti-2018
+morti-dal-2024
 morti-distinti-per-giorno-della-settimana-e-fascia-oraria
 morti-distinti-per-ora-e-giorno-della-settimana
 morti-distinti-per-ora-e-veicolo
@@ -36300,7 +36373,6 @@ musei-e-istituti-assimilati-aperti-per-tipologia-e-categoria-anno-2014
 musei-e-luoghi-della-cultura
 musei-e-luoghi-della-cultura-con-descrizioni
 musei-e-raccolte
-musei-emiliano-romagnoli
 musei-gallerie-e-siti-archeologici
 musei-incassi-per-museo-nel-corso-dellanno
 musei-numero-di-visitatori-per-museo-e-sede-espositiva-dal-1996-al-2010
@@ -36442,6 +36514,7 @@ nati-classificati-secondo-leta-dei-genitori-anno-2010
 nati-classificati-secondo-leta-dei-genitori-anno-2011
 nati-da-residenti-suddivisi-per-mese-di-iscrizione-anagrafica
 nati-da-residenti-suddivisi-per-sesso-rapporto-di-mascolinita-dal-1958-quoziente-di-natali-1980
+nati-dal-2024
 nati-in-puglia
 nati-mortalita-delle-imprese-a-palermo-per-forma-giuridica
 nati-mortalita-delle-imprese-a-palermo-per-settore-di-attivita
@@ -37125,6 +37198,7 @@ numeri-civici-del-comune-di-padova-2022
 numeri-civici-del-comune-di-siena1
 numeri-civici-del-comune-di-vaiano
 numeri-civici-del-territorio-comunale-di-vicenza
+numeri-civici-e-copertura-arborea-entro-200-metri
 numeri-civici-francesi-a-firenze
 numeri-civici-georiferiti-2012
 numeri-civici-grigno
@@ -38284,7 +38358,10 @@ nuvola_di_punti_3d_piazza_sandro_pertini
 nuvola_di_punti_3d_supercorta_aibi
 nuvola_di_punti_3d_via_antonio_labriola
 nuvola_di_punti_3d_via_dei_girasoli
+nuvola_di_punti_3d_via_dei_pozzarello
+nuvola_di_punti_3d_via_del_porto_dei_masoni
 nuvola_di_punti_3d_via_della_resistenza
+nuvola_di_punti_3d_via_francesca_vergine_dei_pini
 nuvola_di_punti_3d_via_francesco_carrara
 nuvole-punti-rilievo-lidar-rafvg-2017-2020
 o3-orario-ultimi-7-giorni
@@ -38292,8 +38369,11 @@ oasi-di-protezione
 oasi-wwf-di-san-giuliano-comune-di-matera
 obiettivi-comune-di-messina
 obj-modellazine_3d_abitato_le_colmate
+obj-modellazine_3d_via_francesca_la_pineta
 obj-modellazine_3d_via_francesco_carrara
 obj-modellazine_3d_via_vione_del_padule_torrenti
+obj-modellazione_3d_via_del_porto_dei_masoni
+obj-modellazione_3d_via_pozzarello
 obj_cava_grande
 obj_modellazione_3d_via_antonio_labriola
 obj_modellazione_3d_via_dei_girasoli
@@ -38776,6 +38856,7 @@ operazioni-cimiteriali-2015-eseguite-mensilmente-progressivo
 operazioni-cimiteriali-2016-eseguite-mensilmente-progressivo
 operazioni-controllate-dallautorita-di-audit-por-calabria-2014-2020
 operazioni-di-concentrazione-2019-2023
+operazioni-di-concentrazione-2020-2024
 operazioni-fesr-controllate-dallautorita-di-audit-por-calabria-2014-2020
 operazioni-fse-controllate-dallautorita-di-audit-por-calabria-2014-2020
 operazioni-sistema-caronte
@@ -38818,7 +38899,6 @@ opere-ed-infrastrutture-portuali-per-porto-al-31-12-2010
 opere-ed-infrastrutture-portuali-per-porto-al-31-12-2011
 opere-ed-infrastrutture-portuali-per-porto-al-31-12-2012
 opere-ed-infrastrutture-portuali-per-porto-al-31-12-2013
-opere-esposte-della-pinacoteca-comunale-di-faenza
 opere-incompiute
 opere-incompiute-1-gennaio-2018-31-dicembre-2018
 opere-longitudinali
@@ -38845,9 +38925,6 @@ opere-pubbliche-incompiute-anno-2018
 opere-pubbliche-incompiute-anno-2019
 opere-pubbliche-lavori-iniziati-ed-eseguiti-per-settore-dintervento-anno-2008
 opere-pubbliche-opencantieri-del-comune-di-matera
-opere-situate-nella-certosa-monumentale-di-bologna
-opere-situate-nelle-terme-berzieri-di-salsomaggiore-terme
-opere-situate-nelle-terme-di-castrocaro-grand-hotel-terme
 opere-speciali
 opere-spondali-dati-storici
 opere-trasversali
@@ -39261,9 +39338,12 @@ ortofoto_le_colmate_torrenti
 ortofoto_piazza_sandro_pertini
 ortofoto_supercorta_cava
 ortofoto_via_dei_girasoli
+ortofoto_via_del_porto_dei_masoni
 ortofoto_via_della_resistenza
+ortofoto_via_francesca_vergine_dei_pini
 ortofoto_via_francesco_carrara
 ortofoto_via_orlandini
+ortofoto_via_pozzarello
 ortofotocarta-2014-2015-mattm-del-comune-di-malles
 ortofotocarta-2014-2015-mattm-del-comune-di-moso-in-passiria
 ortofotocarta-2014-2015-mattm-del-comune-di-silandro
@@ -39482,6 +39562,7 @@ pagamenti-correnti-i-quadrimestre-2014-anni-2013-e-2014-variazione-sul-2013-e-su
 pagamenti-della-regione-lazio
 pagamenti-di-sovvenzioni-contributi-sussidi-vantaggi-economici
 pagamenti-di-sovvenzioni-contributi-sussidi-vantaggi-economici1
+pagamenti-di-sovvenzioni-contributi-sussidi-vantaggi-economici2
 pagamenti-effettuati-dalla-provincia-autonoma-di-trento-anno-2018
 pagamenti-effettuati-on-line-anni-2012-2013
 pagamenti-mude-ricostruzione-post-sisma-2012
@@ -39783,6 +39864,7 @@ parcometri-citta-di-lecce
 parcometri-comune-di-martina-franca
 parcometri1
 pareri-e-segnalazioni-2019-2023
+pareri-e-segnalazioni-2020-2024
 pareri-tecnici-previsionali-di-impatto-acustico-arpa-2002-2017
 park-and-ride-del-comune-di-bari
 parole-chiave-di-ricerca-sul-sito
@@ -40375,6 +40457,7 @@ percentuale-di-popolazione-esposta-a-livelli-di-cem-per-tipo-sorgente
 percentuale-di-raccolta-differenziata
 percentuale-di-raccolta-differenziata-1998-2017
 percentuale-di-raccolta-differenziata-nel-comune-di-beinasco-dal-2011-al-2023
+percentuale-di-rete-classificata-di-montagna-pianura
 percentuale-di-rifiuti-per-tipologia-raccolta-differenziata-nel-comune-di-rovigo-anno-2019
 percentuale-di-scostamento-tra-risultati-2013-e-2012
 percentuale-di-siti-balneabili-anni-2010-2022
@@ -40638,6 +40721,7 @@ personale-a-tempo-indeterminato
 personale-a-tempo-indeterminato-cessazione-rapporto-di-lavoro-anno-2021
 personale-a-tempo-indeterminato-cessazione-rapporto-di-lavoro-anno-2022
 personale-a-tempo-indeterminato-cessazione-rapporto-di-lavoro-anno-2023
+personale-a-tempo-indeterminato-cessazione-rapporto-di-lavoro-anno-2024
 personale-a-tempo-indeterminato-cessazione-rapporto-di-lavoro-serie-storica
 personale-a-tempo-indeterminato-e-personale-dirigente-cessato-nel-2012-dal-servizio
 personale-a-tempo-indeterminato-e-personale-dirigente-cessato-nel-2013-dal-servizio
@@ -40657,6 +40741,7 @@ personale-a-tempo-indeterminato-in-telelavoro-anno-2020
 personale-a-tempo-indeterminato-in-telelavoro-anno-2021
 personale-a-tempo-indeterminato-in-telelavoro-anno-2022
 personale-a-tempo-indeterminato-in-telelavoro-anno-2023
+personale-a-tempo-indeterminato-in-telelavoro-anno-2024
 personale-a-tempo-indeterminato-in-telelavoro-serie-storica
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2014
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2015
@@ -40668,6 +40753,7 @@ personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2020
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2021
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2022
 personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2023
+personale-a-tempo-indeterminato-per-categoria-e-genere-anno-2024
 personale-a-tempo-indeterminato-per-categoria-e-genere-serie-storica
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2014
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2015
@@ -40679,6 +40765,7 @@ personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2020
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2021
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2022
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2023
+personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-anno-2024
 personale-a-tempo-indeterminato-per-fascia-di-eta-e-categoria-serie-storica
 personale-accademico-e-tecnico-amministrativo-delluniversita-di-trento
 personale-addetto-nelle-imprese-suddivise-per-forma-giuridica
@@ -40686,6 +40773,7 @@ personale-afam-serie-storica
 personale-assunto-con-contratto-a-tempo-determinato-anno-2021
 personale-assunto-con-contratto-a-tempo-determinato-anno-2022
 personale-assunto-con-contratto-a-tempo-determinato-anno-2023
+personale-assunto-con-contratto-a-tempo-determinato-anno-2024
 personale-assunto-con-contratto-a-tempo-determinato-serie-storica
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2014
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2015
@@ -40697,6 +40785,7 @@ personale-assunto-con-contratto-a-tempo-indeterminato-anno-2020
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2021
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2022
 personale-assunto-con-contratto-a-tempo-indeterminato-anno-2023
+personale-assunto-con-contratto-a-tempo-indeterminato-anno-2024
 personale-assunto-con-contratto-a-tempo-indeterminato-serie-storica
 personale-collaboratori-consulenti
 personale-comunale-anno-2010
@@ -40739,6 +40828,7 @@ personale-dipendente-del-comune-milano-anno-2020
 personale-dipendente-del-comune-milano-anno-2021
 personale-dipendente-del-comune-milano-anno-2022
 personale-dipendente-del-comune-milano-anno-2023
+personale-dipendente-del-comune-milano-anno-2024
 personale-dipendente-del-comune-milano-serie-storica
 personale-dipendente-delle-asl-aziende-ospedaliere-aziende-ospedaliere-universitarie-e-degli-ir
 personale-dislocazione-territoriale-per-provincia
@@ -41031,8 +41121,6 @@ piano-di-cassificazione-acustica-classi
 piano-di-gestione-del-rischio-alluvioni-del-fiume-po-direttiva-alluvioni-pgra-scenari-di-p-2022
 piano-di-localizzazione-dei-mezzi-e-degli-impianti-pubblicitari-pialmip
 piano-di-monitoraggio-acque-di-transizione
-piano-di-prelievo-selettivo-per-tipica-fauna-alpina
-piano-di-prelievo-selettivo-per-ungulati
 piano-di-protezione-civile
 piano-di-tutela-delle-acque-aree-idrogeologicamente-separate-del-sistema-acquifero-superficiale
 piano-di-tutela-delle-acque-dcr-n-32-09
@@ -42967,6 +43055,7 @@ potenza-totale-dei-pannelli-solari-fotovoltaici-per-1000-abitanti-serie-storica
 potenziale-archeologico
 potenziale-archeologico1
 potenziale-geotermico-a-bassa-entalpia-in-piemonte
+potenziale-solare-edifici
 potenziali-aree-di-collegamento-lineare-della-rete-dei-corsi-dacqua-citta-metropolitana-di-fire
 potenziali-aree-di-collegamento-lineare-della-rete-dei-corsi-dacqua-citta-metropolitana-di-fire1
 potenziali-focolai-larvali
@@ -45164,6 +45253,7 @@ provvedimenti-dirigenti-amministrativi-comune-di-valli-del-pasubio
 provvedimenti-dirigenti-amministrativi1
 provvedimenti-dirigenti-amministrativi2
 provvedimenti-dirigenti-amministrativi3
+provvedimenti-dirigenti-amministrativi4
 provvedimenti-dirigenziali-anno-2015
 provvedimenti-dirigenziali-anno-2016
 provvedimenti-dirigenziali-anno-2017
@@ -45184,6 +45274,7 @@ provvedimenti-organi-indirizzo-politico-universita-della-basilicata
 provvedimenti-organi-indirizzo-politico1
 provvedimenti-organi-indirizzo-politico2
 provvedimenti-organi-indirizzo-politico3
+provvedimenti-organi-indirizzo-politico4
 provvedimenti-organo-di-indirizzo-politico
 provvedimenti-organo-di-indirizzo-politico1
 provvedimenti-organo-indirizzo-politico
@@ -47146,6 +47237,7 @@ rating-di-legalita-maggio-2023
 rating-di-legalita-maggio-2024
 rating-di-legalita-marzo-2023
 rating-di-legalita-marzo-2024
+rating-di-legalita-marzo-2025
 rating-di-legalita-novembre-2023
 rating-di-legalita-novembre-2024
 rating-di-legalita-ottobre-2023
@@ -47156,6 +47248,7 @@ ravarino-popolazione-residente-per-eta-e-genere
 rcl-cammino-di-san-benedetto
 rcl-cammino-di-san-francesco
 rcl-rete-ciclabile-ligure-ed-2020
+rcl-via-francigena
 rdc-pdc-per-comune-numero-nuclei-richiedenti-per-comune-istat-incluso-soglia-di-povert224-2020
 real-time-air-quality-observation-coverage-heatmaps-in-the-cities-of-firenze-pisa-livorno
 real-time-air-quality-observation-in-tuscany-json-data-in-the-cities-of-firenze-pisa-livorno
@@ -47258,6 +47351,7 @@ redditi-persone-fisiche-per-modello-di-dichiarazione-e-classe-di-reddito-serie-s
 redditi-principali-tipologie-di-reddito
 redditi-principali-variabili-per-la-determinazione-dellimposta-irpef-e-addizionale-comunale-e-r
 redditi-societa-di-capitali-per-classe-di-reddito-anno-2021
+redditi-societa-di-capitali-per-classe-di-reddito-anno-2022
 redditi-societa-di-capitali-per-classe-di-reddito-serie-2019-2020
 redditi-societa-di-persone-per-classe-di-reddito-anno-2021
 redditi-societa-di-persone-per-classe-di-reddito-anno-2022
@@ -48909,7 +49003,9 @@ riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2014
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2015
 ricaricamobel
 ricariche-mensa-trasporto-scolastica-2019
+ricavi-da-pedaggio-per-segmento-di-mercato
 ricavi-da-raccolta-differenziata
+ricavi-medi-unitari-delle-imprese-ferroviarie-per-tipologia-di-servizio
 ricchezza-di-specie-per-gli-ambienti-aperti
 ricchezza-di-specie-per-gli-ambienti-perifluviali
 ricchezza-di-specie-per-i-boschi-di-conifere
@@ -51926,7 +52022,6 @@ siti-di-monitoraggio-pta-2022
 siti-di-probabile-reperimento-materiale-ornamentale-storico
 siti-di-probabile-reperimento-materiale-ornamentale-storico1
 siti-dimostrativi-del-progetto-life-aquor-life10-env-000380
-siti-e-monumenti-archeologici-in-emilia-romagna
 siti-inseriti-nella-lista-del-patrimonio-mondiale-unesco-i-paesaggi-vitivinicoli-del-piemonte-l
 siti-inseriti-nella-lista-del-patrimonio-mondiale-unesco-i-paesaggi-vitivinicoli-del-piemonte-l-1
 siti-inseriti-nella-lista-del-patrimonio-mondiale-unesco-i-paesaggi-vitivinicoli-del-piemonte-l-2
@@ -52669,6 +52764,7 @@ spd_gen_spe_pbs_amce2_01_2021_01
 spd_gen_spe_pbs_amce2_01_2022_01
 spd_gen_spe_pbs_amce2_01_2023_01
 spd_gen_spe_pbs_amce2_01_2024_01
+spd_gen_spe_pbs_amce2_01_2025_01
 spd_gen_spe_pbs_amice_01_2017_01
 spd_gen_spe_pbs_amice_01_2018_01
 spd_gen_spe_pbs_amice_01_2019_01
@@ -52677,6 +52773,7 @@ spd_gen_spe_pbs_amice_01_2021_01
 spd_gen_spe_pbs_amice_01_2022_01
 spd_gen_spe_pbs_amice_01_2023_01
 spd_gen_spe_pbs_amice_01_2024_01
+spd_gen_spe_pbs_amice_01_2025_01
 spd_gen_spe_pbs_ammce_01_2017_01
 spd_gen_spe_pbs_ammce_01_2018_01
 spd_gen_spe_pbs_ammce_01_2019_01
@@ -52685,6 +52782,7 @@ spd_gen_spe_pbs_ammce_01_2021_01
 spd_gen_spe_pbs_ammce_01_2022_01
 spd_gen_spe_pbs_ammce_01_2023_01
 spd_gen_spe_pbs_ammce_01_2024_01
+spd_gen_spe_pbs_ammce_01_2025_01
 spd_gen_spe_pbs_cece2_01_2017_01
 spd_gen_spe_pbs_cece2_01_2018_01
 spd_gen_spe_pbs_cece2_01_2019_01
@@ -52693,6 +52791,7 @@ spd_gen_spe_pbs_cece2_01_2021_01
 spd_gen_spe_pbs_cece2_01_2022_01
 spd_gen_spe_pbs_cece2_01_2023_01
 spd_gen_spe_pbs_cece2_01_2024_01
+spd_gen_spe_pbs_cece2_01_2025_01
 spd_gen_spe_pbs_micgs_01_2017_01
 spd_gen_spe_pbs_micgs_01_2018_01
 spd_gen_spe_pbs_micgs_01_2019_01
@@ -52701,6 +52800,7 @@ spd_gen_spe_pbs_micgs_01_2021_01
 spd_gen_spe_pbs_micgs_01_2022_01
 spd_gen_spe_pbs_micgs_01_2023_01
 spd_gen_spe_pbs_micgs_01_2024_01
+spd_gen_spe_pbs_micgs_01_2025_01
 spd_gen_spe_pbs_mis_01_2017_01
 spd_gen_spe_pbs_mis_01_2018_01
 spd_gen_spe_pbs_mis_01_2019_01
@@ -52709,6 +52809,7 @@ spd_gen_spe_pbs_mis_01_2021_01
 spd_gen_spe_pbs_mis_01_2022_01
 spd_gen_spe_pbs_mis_01_2023_01
 spd_gen_spe_pbs_mis_01_2024_01
+spd_gen_spe_pbs_mis_01_2025_01
 spd_gen_spe_pbs_misam_01_2017_01
 spd_gen_spe_pbs_misam_01_2018_01
 spd_gen_spe_pbs_misam_01_2019_01
@@ -52717,6 +52818,7 @@ spd_gen_spe_pbs_misam_01_2021_01
 spd_gen_spe_pbs_misam_01_2022_01
 spd_gen_spe_pbs_misam_01_2023_01
 spd_gen_spe_pbs_misam_01_2024_01
+spd_gen_spe_pbs_misam_01_2025_01
 spd_gen_spe_pbs_misce_01_2017_01
 spd_gen_spe_pbs_misce_01_2018_01
 spd_gen_spe_pbs_misce_01_2019_01
@@ -52725,6 +52827,7 @@ spd_gen_spe_pbs_misce_01_2021_01
 spd_gen_spe_pbs_misce_01_2022_01
 spd_gen_spe_pbs_misce_01_2023_01
 spd_gen_spe_pbs_misce_01_2024_01
+spd_gen_spe_pbs_misce_01_2025_01
 spd_giu_spe_pbs_amce2_01_2016_01
 spd_giu_spe_pbs_amce2_01_2017_01
 spd_giu_spe_pbs_amce2_01_2018_01
@@ -53301,6 +53404,7 @@ spd_mop_gar_mon_reg19_01_9999
 spd_mop_gar_mon_reg20_01_9999
 spd_mop_loc_mon_local_01_9999
 spd_mop_pdc_mon_reg00_01_9999
+spd_mop_pdc_mon_reg01_01_9999
 spd_mop_pdc_mon_reg02_01_9999
 spd_mop_pdc_mon_reg03_01_9999
 spd_mop_pdc_mon_reg04_01_9999
@@ -54012,6 +54116,7 @@ spd_rnd_ent_sio_reg06_01_2025
 spd_rnd_ent_sio_reg07_01_2014
 spd_rnd_ent_sio_reg07_01_2015
 spd_rnd_ent_sio_reg07_01_2016
+spd_rnd_ent_sio_reg07_01_2017
 spd_rnd_ent_sio_reg07_01_2018
 spd_rnd_ent_sio_reg07_01_2019
 spd_rnd_ent_sio_reg07_01_2020
@@ -55649,7 +55754,6 @@ stabilimenti-balneari6
 stabilimenti-della-regione-emilia-romagna-soggetti-a-d-l-vo-334-99-e-s-m-agg-01-2025
 stabilimenti-della-regione-emilia-romagna-soggetti-a-d-l-vo-334-99-e-s-m-punti-agg-01-2025
 stabilimenti-di-imbottigliamento-e-termali
-stabilimenti-e-fonti-termali-in-emilia-romagna
 stabilimenti-italiani-per-gli-alimenti-di-origine-animale
 stabilimenti-italiani-per-i-sottoprodotti-di-origine-animale
 stabilimenti-per-gli-alimenti-di-origine-animale
@@ -55872,7 +55976,6 @@ statistiche-sito-parole-chiave-di-ricerca-sul-sito-2022
 statistiche-sito-tipo-dispositivo-2022
 statistiche-sito-url-delle-pagine-2022
 statistiche-stranieri-per-stato-civile1
-statistiche-sui-cacciatori
 statistiche-sull-irap-aliquote-dichiarate-per-soggetto-privato
 statistiche-sull-irap-attribuita-al-lazio
 statistiche-sull-irap-in-base-al-settore-di-attivita-economica
@@ -56571,6 +56674,7 @@ stranieri-per-area-di-provenienza-2022
 stranieri-per-area-di-provenienza-serie-storica
 stranieri-per-circoscrizione
 stranieri-per-cittadinanza
+stranieri-per-localita-di-nascita-e-attivita-economica-delle-imprese
 stranieri-per-quartiere-comune-di-treviso-anno-2019
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
 stranieri-per-quartiere-e-cittad-comune-di-gambellara
@@ -56611,6 +56715,7 @@ stranieri-popolazione-da-45-a-64-anni
 stranieri-popolazione-femminile
 stranieri-popolazione-maschile
 stranieri-popolazione-residente-media-dellanno
+stranieri-presenti-nelle-imprese-dei-comuni-per-attivita-economica
 stranieri-residenti
 stranieri-residenti-a-palermo-al-31-12-2018-per-circoscrizione-e-area-geopolitica
 stranieri-residenti-a-palermo-al-31-12-2018-per-circoscrizione-e-cittadinanza
@@ -57093,6 +57198,13 @@ strutture-sanitarie-con-codice-di-accreditamento
 strutture-sanitarie-dwarpe_r030
 strutture-sanitarie-equiparate
 strutture-sanitarie-geriatriche-di-riabilitazione-nel-comune-di-milano
+strutture-sanitarie-private-accreditate-ambulatoriale
+strutture-sanitarie-private-accreditate-laboratorio
+strutture-sanitarie-private-accreditate-medicina-sportiva
+strutture-sanitarie-private-accreditate-neuropsichiatria
+strutture-sanitarie-private-accreditate-odontoiatria
+strutture-sanitarie-private-accreditate-psichiatria
+strutture-sanitarie-private-accreditate-ricovero-e-cura
 strutture-sanitarie-private-ambulatori-e-case-di-cura
 strutture-sanitarie-private-centri-di-riabilitazione
 strutture-sanitarie-private-non-ospedaliere
@@ -57100,10 +57212,12 @@ strutture-sanitarie-private-termali
 strutture-sanitarie-pubbliche
 strutture-sanitarie-pubbliche-e-accreditate
 strutture-sanitarie-pubbliche-e-ospedali-privati
+strutture-sanitarie-pubbliche1
 strutture-sanitarie-residenziali-per-anziani-non-autosufficienti
 strutture-semiresidenziali1
 strutture-socio-assistenziali
 strutture-socio-educative-per-la-prima-infanzia
+strutture-socio-sanitarie-private-accreditate
 strutture-socioassistenziali
 strutture-tecniche-competenti-in-materia-sismica
 strutture-termali
@@ -57963,6 +58077,7 @@ subaree-verdi
 subaree-verdi1
 subentro-liste-elettorali
 suddivisione-dei-sedimi-per-categoria-2017
+suddivisione-della-rete-autostradale-a-pedaggio-trafori-esclusi
 suddivisione-delle-aziende-per-macrouso-e-comune
 suddivisione-orografica-internazionale-unificata-del-sistema-alpino-soiusa
 sue-classificazione-degli-interventi
@@ -58825,6 +58940,7 @@ tassi-di-assenza-personale-non-docente-delle-scuole-statali
 tassi-di-assenza1
 tassi-di-assenza2
 tassi-di-assenza3
+tassi-di-assenza4
 tassi-di-assenze-personale-asl-taranto-2009
 tassi-di-assenze-personale-asl-taranto-2010
 tassi-di-assenze-personale-asl-taranto-2011
@@ -59103,7 +59219,6 @@ teatri-e-luoghi-per-eventi
 teatri-e-luoghi-per-eventi1
 teatri-privati-gennaio-dicembre-2016
 teatri-privati-gennaio-settembre-2016
-teatri-storici-in-emilia-romagna
 teatri-storici-in-umbria
 teatri1
 teatri10
@@ -59333,6 +59448,7 @@ tipi-forestali-della-regione-liguria-sc-1-10000-ed-2024
 tipi-forestali-della-regione-liguria-sc-1-25000-ed-2010
 tipi-forestali-della-regione-liguria-sc-1-25000-ed-2013
 tipi-forestali-pat-integrati-elaborazione-statica-non-aggiornata-con-continuita
+tipi-forestali-sigfat
 tipi-strutturali-pgf-piani-di-gestione-forestale-ex-pfa
 tipo-connotativo-degli-edifici-del-centro-storico
 tipo-di-dispositivo-giugno-2023
@@ -59811,6 +59927,7 @@ tipologie-di-procedimento-vice-segretario
 tipologie-di-procedimento-vigilanza-urbana
 tipologie-di-procedimento-vigili-urbani
 tipologie-di-procedimento1
+tipologie-di-procedimento2
 tipologie-di-ristorante-del-comune-di-trento
 tipologie-di-servizio-offerto-dai-locali-del-comune-di-trento
 tipologie-di-struttura-del-comune-di-trento
@@ -60118,6 +60235,7 @@ traffico-medio-giornaliero-sensori
 traffico-merci-passeggeri-porti
 traffico-pubblico-locale-km-percorsi-e-validazioni
 traffico-viali-bologna
+trafori-internazionali
 traghetto-messina-reggio-calabria
 transizione-illuminazione-da-tradizionale-a-led
 transizioni-digitali-2021-22-comune-di-castelfranco-veneto
@@ -61629,6 +61747,7 @@ votazioni-consiglio-comunale-2017
 votazioni-consiglio-comunale-2018
 votazioni-consiglio-comunale-2019
 votazioni-consiglio-comunale-2020
+voti-comunali-consiglieri-elezioni-reg-europee-2024
 voticomunaliperlisteprovincialieuropee-2024
 vulnerabilita-acque
 vulnerabilita-alle-ondate-di-calore-comune-di-rovigo-2019-2020
