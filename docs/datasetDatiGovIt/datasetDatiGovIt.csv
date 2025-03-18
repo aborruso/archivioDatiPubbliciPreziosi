@@ -969,6 +969,7 @@ agenti-inquinanti-per-stazione-di-rilevazione-superamenti-dei-valori-di-no2-anni
 agenti-inquinanti-per-stazione-di-rilevazione-superamenti-dei-valori-di-pm10-anni-2010-2014
 agenzia-di-tutela-della-salute-della-val-padanda
 agenzia-provinciale-delle-foreste-demaniali-aprofod
+agenzia-tutela-salute-bergamo
 agenzie-autorizzate-alla-riscossione-tasse-auto
 agenzie-daffari
 agenzie-di-pratiche-automobilistiche
@@ -1088,6 +1089,7 @@ alberi-monumentali4
 alberi-prato
 alberi1
 alberi2
+alberi3
 albero-isolato-albero-060403
 albi-ed-elenchi-del-comun-general-de-fascia
 albi-ed-elenchi-del-comunita-della-paganella
@@ -2603,6 +2605,7 @@ andamento-competenza-entrata-per-titoli-comune-di-zenson-di-piave
 andamento-competenza-entrata-per-titoli-comune-di-zevio
 andamento-competenza-entrata-per-titoli-comune-di-zovencedo
 andamento-competenza-entrata-per-titoli-consiglio-di-bacino-laguna-di-venezia
+andamento-competenza-entrata-per-titoli-enna
 andamento-competenza-entrata-per-titoli-goro
 andamento-competenza-entrata-per-titoli-grigno
 andamento-competenza-entrata-per-titoli-magnano-in-riviera
@@ -2779,6 +2782,7 @@ andamento-competenza-uscita-per-titoli-comune-di-zenson-di-piave
 andamento-competenza-uscita-per-titoli-comune-di-zevio
 andamento-competenza-uscita-per-titoli-comune-di-zovencedo
 andamento-competenza-uscita-per-titoli-consiglio-di-bacino-laguna-di-venezia
+andamento-competenza-uscita-per-titoli-enna
 andamento-competenza-uscita-per-titoli-goro
 andamento-competenza-uscita-per-titoli-grigno
 andamento-competenza-uscita-per-titoli-magnano-in-riviera
@@ -8665,8 +8669,11 @@ cave_p
 cave_r
 cavita-sotterranee-artificiali-dataset
 cc023f347647f27cc6daee8a601fb48ad1f4b1be55f4ff82235a008cea7d3af5
+cdd
 cdda-report-2020-italia-dataaset
 cdda-report-2024-italia-dataaset
+cdi
+cdom
 cds-calendario-udienze
 cds-decreti
 cds-ordinanze
@@ -10694,6 +10701,7 @@ comune-di-adria-decessi-per-anno-sesso-e-residenza-anni-2018-2020
 comune-di-adria-decessi-per-mese-e-sesso-anni-2018-2020
 comune-di-adria-famiglie-per-numero-di-componenti-al-31-12-2019
 comune-di-adria-matrimoni-per-rito-sesso-e-stato-civile-degli-sposi-anni-2015-2019
+comune-di-alessandria
 comune-di-altidona-punti-interesse
 comune-di-amandola-punti-interesse
 comune-di-appignano-del-tronto-punti-interesse
@@ -11402,6 +11410,13 @@ comune-di-garbagnate-milanese-tassi-popolazione-residente
 comune-di-garbagnate-milanese-trend-demografico
 comune-di-genova
 comune-di-giovinazzo
+comune-di-grezzana
+comune-di-grezzana-bilancio-di-previsione-entrata
+comune-di-grezzana-bilancio-di-previsione-spesa
+comune-di-grezzana-conteggio-popolazione
+comune-di-grezzana-elenco-atti-amministrativi
+comune-di-grezzana-famiglie-per-numero-figli
+comune-di-grezzana-stranieri-per-stato-cittadinanza
 comune-di-grottammare-punti-interesse
 comune-di-grottazzolina-prg
 comune-di-grottazzolina-punti-interesse
@@ -15363,6 +15378,8 @@ covid19-andamento-comune-di-crispiano
 covid19-e-dinamiche-degli-scambi-commerciali-per-area-geografica
 covid19-e-dinamiche-degli-scambi-commerciali-per-settore
 coworking-nel-comune-di-milano
+cp-dom
+cp-res
 cpi-2022
 cpi-2023
 cpi-2024
@@ -15425,6 +15442,7 @@ crn-25000-vector-quadro-unione
 crocierismo
 cross-country-ski-routes-in-the-veneto-region
 crowd4roads-smartroadsense-condizioni-del-manto-stradale
+css
 ctr-10k-mosaico-roma40
 ctr-carta-tecnica-regionale-raster-1-10-000-1991-1995
 ctrn-10000-ed2
@@ -17713,6 +17731,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-zenson-di-piave
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-zevio
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-zovencedo
 dettaglio-entrate-per-capitolo-di-spesa-consiglio-di-bacino-laguna-di-venezia
+dettaglio-entrate-per-capitolo-di-spesa-enna
 dettaglio-entrate-per-capitolo-di-spesa-goro
 dettaglio-entrate-per-capitolo-di-spesa-grigno
 dettaglio-entrate-per-capitolo-di-spesa-magnano-in-riviera
@@ -17887,6 +17906,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-zenson-di-piave
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-zevio
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-zovencedo
 dettaglio-uscite-per-capitolo-di-spesa-consiglio-di-bacino-laguna-di-venezia
+dettaglio-uscite-per-capitolo-di-spesa-enna
 dettaglio-uscite-per-capitolo-di-spesa-goro
 dettaglio-uscite-per-capitolo-di-spesa-grigno
 dettaglio-uscite-per-capitolo-di-spesa-magnano-in-riviera
@@ -26372,6 +26392,7 @@ insegnamento-dei-corsi-di-studio
 insoddisfazione-per-la-qualita-del-paesaggio-del-luogo-di-vita
 insoddisfazione-per-la-qualita-del-paesaggio-del-luogo-di-vita-femmine
 insoddisfazione-per-la-qualita-del-paesaggio-del-luogo-di-vita-maschi
+int
 intelligenza-artificiale-per-il-patrimonio-documentale-di-antiche-civilta-assiriologia-digitale
 intensita-delle-precipitazioni-in-mm-nel-comune-di-firenze-per-mese-anni-2008-2015
 intensita-duso-di-internet
@@ -37231,6 +37252,7 @@ numeri-civici2-6
 numeri-civici2-7
 numeri-civici2-8
 numeri-civici2-9
+numeri-civici3
 numeri-civici4
 numeri-dei-punti-acqua-censiti-per-lapprovvigionamento-dei-mezzi-antincendio
 numeri-dellamministrazione-anno-2010
@@ -48465,6 +48487,7 @@ requisito-anagrafico-accesso-pensionamento-vecchiaia-ordinario-lavoratori-pubbli
 requisito-anagrafico-per-l39accesso-al-pensionamento-di-vecchiaia-ordinario
 requisito-anagrafico-per-l39accesso-al-pensionamento-di-vecchiaia-ordinario-1
 requisito-anagrafico-per-l39accesso-al-pensionamento-di-vecchiaia-ordinario-2
+res-assistita
 resid-per-quartiere-e-figli-in-fam-comune-di-creazzo
 resid-per-quartiere-e-figli-in-fam-comune-di-gambellara
 resid-per-quartiere-e-figli-in-fam-comune-di-monte-di-malo
@@ -48734,6 +48757,7 @@ residui-finali-per-esercizio-comune-di-zenson-di-piave
 residui-finali-per-esercizio-comune-di-zevio
 residui-finali-per-esercizio-comune-di-zovencedo
 residui-finali-per-esercizio-consiglio-di-bacino-laguna-di-venezia
+residui-finali-per-esercizio-enna
 residui-finali-per-esercizio-ersu-catania
 residui-finali-per-esercizio-flaibano
 residui-finali-per-esercizio-goro
@@ -48990,6 +49014,7 @@ rette-asili-nido-comunali-in-base-alle-fasce-di-reddito
 rette-asilo-nido-incassate-dal-comune-di-lecce-dal-2011-al-2018
 rettifiche
 rettifiche-mese-in-corso
+ria
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2005
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2006
 riassunto-rilievo-traffico-automatico-stazioni-fisse-anno-2007
@@ -50341,6 +50366,7 @@ rotta-fluviale
 rottamazione-d12-rott
 rotte-delle-autostrade-del-mare
 rps-regime-particolare-salmonicolo
+rsa
 rsa-case-di-riposo-e-residenze-protette
 rsa-case-di-riposo-e-residenze-protette1
 rsa-case-di-riposo-e-residenze-protette10
@@ -50987,6 +51013,7 @@ segnalazioni-fenomeni-geologici-particolari
 segnalazioni-fenomeni-geologici-particolari1
 segnalazioni-georeferenziate
 segnalazioni-municipium
+segnalazioni-municipium1
 segnalazioni-open-citizen-relationship-management-czrm
 segnalazioni-riguardanti-la-manutenzione-stradale-pervenute-nel-2015
 segnalazioni-riguardanti-la-manutenzione-stradale-pervenute-nel-2016
