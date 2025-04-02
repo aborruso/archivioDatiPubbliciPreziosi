@@ -1,84 +1,84 @@
 REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
-Abruzzo,Gasolio,SELF,1.677
-Abruzzo,Benzina,SELF,1.772
+Abruzzo,Gasolio,SELF,1.678
+Abruzzo,Benzina,SELF,1.773
 Abruzzo,GPL,SERVITO,0.726
 Abruzzo,Metano,SERVITO,1.490
 Basilicata,Gasolio,SELF,1.699
-Basilicata,Benzina,SELF,1.805
-Basilicata,GPL,SERVITO,0.727
-Basilicata,Metano,SERVITO,1.474
-Bolzano,Gasolio,SELF,1.741
+Basilicata,Benzina,SELF,1.806
+Basilicata,GPL,SERVITO,0.728
+Basilicata,Metano,SERVITO,1.472
+Bolzano,Gasolio,SELF,1.739
 Bolzano,Benzina,SELF,1.817
-Bolzano,GPL,SERVITO,0.802
+Bolzano,GPL,SERVITO,0.801
 Bolzano,Metano,SERVITO,1.566
-Calabria,Gasolio,SELF,1.682
-Calabria,Benzina,SELF,1.790
-Calabria,GPL,SERVITO,0.768
+Calabria,Gasolio,SELF,1.684
+Calabria,Benzina,SELF,1.792
+Calabria,GPL,SERVITO,0.767
 Calabria,Metano,SERVITO,1.552
-Campania,Gasolio,SELF,1.642
-Campania,Benzina,SELF,1.751
-Campania,GPL,SERVITO,0.689
-Campania,Metano,SERVITO,1.428
-Emilia Romagna,Gasolio,SELF,1.661
-Emilia Romagna,Benzina,SELF,1.756
+Campania,Gasolio,SELF,1.644
+Campania,Benzina,SELF,1.754
+Campania,GPL,SERVITO,0.690
+Campania,Metano,SERVITO,1.430
+Emilia Romagna,Gasolio,SELF,1.662
+Emilia Romagna,Benzina,SELF,1.758
 Emilia Romagna,GPL,SERVITO,0.725
-Emilia Romagna,Metano,SERVITO,1.514
+Emilia Romagna,Metano,SERVITO,1.510
 Friuli Venezia Giulia,Gasolio,SELF,1.688
-Friuli Venezia Giulia,Benzina,SELF,1.769
-Friuli Venezia Giulia,GPL,SERVITO,0.733
-Friuli Venezia Giulia,Metano,SERVITO,1.539
-Lazio,Gasolio,SELF,1.653
-Lazio,Benzina,SELF,1.753
+Friuli Venezia Giulia,Benzina,SELF,1.771
+Friuli Venezia Giulia,GPL,SERVITO,0.732
+Friuli Venezia Giulia,Metano,SERVITO,1.531
+Lazio,Gasolio,SELF,1.655
+Lazio,Benzina,SELF,1.756
 Lazio,GPL,SERVITO,0.736
-Lazio,Metano,SERVITO,1.684
-Liguria,Gasolio,SELF,1.689
-Liguria,Benzina,SELF,1.783
+Lazio,Metano,SERVITO,1.685
+Liguria,Gasolio,SELF,1.691
+Liguria,Benzina,SELF,1.785
 Liguria,GPL,SERVITO,0.804
-Liguria,Metano,SERVITO,1.511
-Lombardia,Gasolio,SELF,1.659
-Lombardia,Benzina,SELF,1.755
+Liguria,Metano,SERVITO,1.497
+Lombardia,Gasolio,SELF,1.661
+Lombardia,Benzina,SELF,1.758
 Lombardia,GPL,SERVITO,0.752
-Lombardia,Metano,SERVITO,1.489
+Lombardia,Metano,SERVITO,1.483
 Marche,Gasolio,SELF,1.655
-Marche,Benzina,SELF,1.754
-Marche,GPL,SERVITO,0.754
-Marche,Metano,SERVITO,1.492
+Marche,Benzina,SELF,1.755
+Marche,GPL,SERVITO,0.755
+Marche,Metano,SERVITO,1.486
 Molise,Gasolio,SELF,1.676
-Molise,Benzina,SELF,1.775
+Molise,Benzina,SELF,1.776
 Molise,GPL,SERVITO,0.738
 Molise,Metano,SERVITO,1.400
-Piemonte,Gasolio,SELF,1.651
-Piemonte,Benzina,SELF,1.750
+Piemonte,Gasolio,SELF,1.653
+Piemonte,Benzina,SELF,1.752
 Piemonte,GPL,SERVITO,0.721
-Piemonte,Metano,SERVITO,1.529
-Puglia,Gasolio,SELF,1.656
-Puglia,Benzina,SELF,1.774
+Piemonte,Metano,SERVITO,1.527
+Puglia,Gasolio,SELF,1.657
+Puglia,Benzina,SELF,1.778
 Puglia,GPL,SERVITO,0.704
 Puglia,Metano,SERVITO,1.563
-Sardegna,Gasolio,SELF,1.688
-Sardegna,Benzina,SELF,1.788
-Sardegna,GPL,SERVITO,0.824
+Sardegna,Gasolio,SELF,1.689
+Sardegna,Benzina,SELF,1.789
+Sardegna,GPL,SERVITO,0.822
 Sicilia,Gasolio,SELF,1.674
 Sicilia,Benzina,SELF,1.780
-Sicilia,GPL,SERVITO,0.791
+Sicilia,GPL,SERVITO,0.790
 Sicilia,Metano,SERVITO,1.784
-Toscana,Gasolio,SELF,1.666
-Toscana,Benzina,SELF,1.762
+Toscana,Gasolio,SELF,1.667
+Toscana,Benzina,SELF,1.764
 Toscana,GPL,SERVITO,0.725
 Toscana,Metano,SERVITO,1.586
 Trento,Gasolio,SELF,1.714
-Trento,Benzina,SELF,1.796
+Trento,Benzina,SELF,1.798
 Trento,GPL,SERVITO,0.756
-Trento,Metano,SERVITO,1.436
-Umbria,Gasolio,SELF,1.666
-Umbria,Benzina,SELF,1.764
+Trento,Metano,SERVITO,1.431
+Umbria,Gasolio,SELF,1.668
+Umbria,Benzina,SELF,1.766
 Umbria,GPL,SERVITO,0.741
 Umbria,Metano,SERVITO,1.495
-Valle d'Aosta,Gasolio,SELF,1.736
-Valle d'Aosta,Benzina,SELF,1.805
+Valle d'Aosta,Gasolio,SELF,1.735
+Valle d'Aosta,Benzina,SELF,1.808
 Valle d'Aosta,GPL,SERVITO,0.839
 Valle d'Aosta,Metano,SERVITO,1.419
-Veneto,Gasolio,SELF,1.651
-Veneto,Benzina,SELF,1.749
+Veneto,Gasolio,SELF,1.652
+Veneto,Benzina,SELF,1.751
 Veneto,GPL,SERVITO,0.727
-Veneto,Metano,SERVITO,1.457
+Veneto,Metano,SERVITO,1.456
