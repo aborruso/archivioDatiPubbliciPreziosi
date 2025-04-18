@@ -404,6 +404,7 @@ id
 68dd2d8755404aba533024b5bf7e1198b5539f5c49bfde6d96257b05f746afca
 6936764b2119b0efcede1bf0ff38fcea0fbc13467bf21950b570d3c33abb9f35
 6e274be8902e3cc8762397b6ff7f2debf6809c763fe1d9cb4ff266e068f801c5
+728ab9ee60ab6d48d1c2f0e5fb6ffd4acc1e2c5f60843cf64f0f86145acd5dd9
 73be9880298eddf3666b3895a906edc947b6c69d2959d9cdc560e9b99c9bb16a
 745edd39c00493f3b44a47fc3dbc177f4cdc89ba207b5c38c3d982df77013895
 7503d8c6414e5db8954e91488449a82bacd4504e0326e03af745c02f1d80a949
@@ -432,6 +433,7 @@ id
 9397d81a00e2b39295307857f9aca930da4e6e2473802e52d9ddfdb737aff3a9
 94d89325670f95db73e42e3a5c92add9723b81879864f0cca871ce44624d6730
 98c06eb63b8178c1501aff07e7d091ccb9a34021773e4d9f60ae8d568e2b8b93
+9adb806c723ea91bac02f90cfe96dd735cfd7e6f86d5ad74d8acd2849f510072
 9ed80a70c28136bd1be450b770b9b527e26e49ccd67eb5646a755d1e333308dc
 _elezioni-politiche-2018-senato-della-repubblica-dati-relativi-voti-alle-liste-collegio-sici-01
 a-museo-dimora-di-pojana-ptrc-2020
@@ -552,6 +554,7 @@ accessi-ai-servizi-online-di-regione-lombardia-e-altri-enti-2014
 accessi-ai-servizi-online-di-regione-lombardia-e-altri-enti-2015
 accessi-ai-servizi-online-di-regione-lombardia-e-altri-enti-secondo-semestre-2015
 accessi-al-pronto-soccorso-2017
+accessi-ambulatoriali
 accessi-ambulatoriali-2021
 accessi-ambulatoriali-2022
 accessi-ambulatoriali-2023
@@ -579,6 +582,7 @@ accessi-esterni-del-comune-di-vaiano1
 accessi-famiglie
 accessi-mensili-al-portale-istituzionale-del-comune-di-bari
 accessi-pedonali-stazioni-ferroviarie
+accessi-pronto-soccorso
 accessi-pronto-soccorso-2020
 accessi-pronto-soccorso-2021
 accessi-pronto-soccorso-2022
@@ -1046,6 +1050,7 @@ agro-centuriato-area
 agro-centuriato-area-1
 agro-centuriato-linee
 agro-centuriato-linee-1
+agro-clima
 aib-habitat-a-rischio
 aib-incendi-2001-2005-test-da-satellite
 aib-incendi-rilevati-con-gps-nei-parchi-nazionali
@@ -5106,6 +5111,7 @@ asst-di-lecco-presidi-ospedalieri
 asst-di-lecco-ricoveri-2021
 asst-di-lecco-ricoveri-2022
 asst-di-lecco-ricoveri-2023
+asst-ovest-milanese
 asst-spedali-civili-di-brescia
 assunti-lavoro-somministrato-2016
 assunti-lavoro-somministrato-2017
@@ -8078,6 +8084,7 @@ caratteristiche-dei-comuni-montani-del-lazio
 caratteristiche-dei-percorsi-iefp
 caratteristiche-delle-acque-lacustri-della-provincia-di-bolzano
 caratteristiche-metropolitana-linea-1
+caratteristiche-suolo-province-italiane
 carburanti-anagrafica-degli-impianti
 carcasse-autoveicoli-messina
 carceri
@@ -14074,6 +14081,7 @@ consiglio-comunale-in-carica-dal-01-01-2010-al-31-12-2010
 consiglio-comunale-in-carica-dal-01-01-2011-al-31-12-2011
 consiglio-regionale-calabria
 consiglio-regionale-campania
+consiglio-ricerca-agricoltura-analisi-economia-agraria
 consip
 consistenza-archivio
 consistenza-biblioteca-numero-e-tipologia
@@ -19288,6 +19296,7 @@ edizione-2016-della-maratona-di-firenze-collocazione-punti-di-spugnatura
 edizione-2016-della-maratona-di-firenze-collocazione-punti-di-spugnatura1
 edizione-2016-della-maratona-di-firenze-tracciato-percorsi
 edizione-2016-della-maratona-di-firenze-tracciato-percorsi1
+ee1cff499483234468d02bcab02d34b4fc99fd18a7554988c5692d8af68640f6
 efficientamento-energetico-edifici-pubblici
 efficienza-delle-reti-di-distribuzione-dellacqua-potabile
 elaborati-finali-tesi-di-laurea-dottorato-specializzazione
@@ -24259,6 +24268,7 @@ genova-ul-attive-e-addetti-per-comune-anno-2024
 genova-ul-attive-e-addetti-per-settore-e-forma-giuridica-anno-2024
 geo10k-coperture-quaternarie
 geocatalogo-pat
+geodatabase-pedoclimatico-italia
 geodati-gov-it-rndt
 geodati-hvd
 geographical-names
@@ -40053,6 +40063,7 @@ patrimonio-indisponibile-terreni-ex-comunione-delle-aa-ss-ll-comma-10
 patrimonio-indisponibile-terreni-fascia-costiera
 patrimonio-indisponibile-terreni-proveniente-da-enti-soppressi
 patrimonio-mobiliare-della-regione-lazio
+patrimonio-pedologico
 patrimonio-regionale-indisponibile-fabbricati-aree-naturali-protette
 patrimonio-scientifico-e-tecnologico-contenuti-negli-istituti-culturali-di-regione-lombardia
 patrimonio-scientifico-tecnologico-conservato-nei-musei
@@ -44053,6 +44064,7 @@ profili-professionali-aree-di-attivita-ada
 profili-professionali-codici-ateco
 profili-professionali-settori-economici-produttivi-sep
 profili-professionali-unita-di-competenze-uc
+profili-suolo-500m
 profilo-a-mare
 profilo-di-metadatazione-nel-catalogo-open-data-trentino
 profondita-m-tetto-falda-e
@@ -49066,6 +49078,7 @@ ricostruzione-scuole-opere-di-urbanizzazione1
 ricoverati-ammessi-dimessi-e-permanenza-in-reparti-ordinari-aou-careggi-anno-2012
 ricoverati-ammessi-dimessi-e-permanenza-in-reparti-ordinari-aou-careggi-anno-2013
 ricoverati-ammessi-dimessi-e-permanenza-in-reparti-ordinari-aou-careggi-anno-2014
+ricoveri
 ricoveri-2020
 ricoveri-2021
 ricoveri-20212
@@ -55194,6 +55207,7 @@ spd_ssn_cce_elb_voccn_01_2019
 spd_ssn_cce_elb_voccn_01_2020
 spd_ssn_cce_elb_voccn_01_2021
 spd_ssn_cce_elb_voccn_01_2022
+spd_ssn_cce_elb_voccn_01_2023
 spd_ssn_cce_naz_voccn_01_2012
 spd_ssn_cce_naz_voccn_01_2013
 spd_ssn_cce_naz_voccn_01_2014
@@ -55205,6 +55219,7 @@ spd_ssn_cce_naz_voccn_01_2019
 spd_ssn_cce_naz_voccn_01_2020
 spd_ssn_cce_naz_voccn_01_2021
 spd_ssn_cce_naz_voccn_01_2022
+spd_ssn_cce_naz_voccn_01_2023
 spd_ssn_cce_reg_voccn_01_2012
 spd_ssn_cce_reg_voccn_01_2013
 spd_ssn_cce_reg_voccn_01_2014
@@ -55216,14 +55231,15 @@ spd_ssn_cce_reg_voccn_01_2019
 spd_ssn_cce_reg_voccn_01_2020
 spd_ssn_cce_reg_voccn_01_2021
 spd_ssn_cce_reg_voccn_01_2022
-spd_ssn_cce_sfc_nazva_01_2022
-spd_ssn_cce_sfc_nazvp_01_2022
-spd_ssn_cce_sfc_regva_01_2022
-spd_ssn_cce_sfc_regvp_01_2022
-spd_ssn_cce_spf_nazva_01_2022
-spd_ssn_cce_spf_nazvp_01_2022
-spd_ssn_cce_spf_regva_01_2022
-spd_ssn_cce_spf_regvp_01_2022
+spd_ssn_cce_reg_voccn_01_2023
+spd_ssn_cce_sfc_nazva_01_2023
+spd_ssn_cce_sfc_nazvp_01_2023
+spd_ssn_cce_sfc_regva_01_2023
+spd_ssn_cce_sfc_regvp_01_2023
+spd_ssn_cce_spf_nazva_01_2023
+spd_ssn_cce_spf_nazvp_01_2023
+spd_ssn_cce_spf_regva_01_2023
+spd_ssn_cce_spf_regvp_01_2023
 spd_ssn_cce_t01_voccn_01_2012
 spd_ssn_cce_t01_voccn_01_2013
 spd_ssn_cce_t01_voccn_01_2014
@@ -55287,7 +55303,8 @@ spd_ssn_csp_elb_voccn_01_2019
 spd_ssn_csp_elb_voccn_01_2020
 spd_ssn_csp_elb_voccn_01_2021
 spd_ssn_csp_elb_voccn_01_2022
-spd_ssn_csp_idf_nazvp_01_2022
+spd_ssn_csp_elb_voccn_01_2023
+spd_ssn_csp_idf_nazvp_01_2023
 spd_ssn_csp_naz_voccn_01_2012
 spd_ssn_csp_naz_voccn_01_2013
 spd_ssn_csp_naz_voccn_01_2014
@@ -55299,7 +55316,8 @@ spd_ssn_csp_naz_voccn_01_2019
 spd_ssn_csp_naz_voccn_01_2020
 spd_ssn_csp_naz_voccn_01_2021
 spd_ssn_csp_naz_voccn_01_2022
-spd_ssn_csp_pfn_nazvp_01_2022
+spd_ssn_csp_naz_voccn_01_2023
+spd_ssn_csp_pfn_nazvp_01_2023
 spd_ssn_csp_reg_voccn_01_2012
 spd_ssn_csp_reg_voccn_01_2013
 spd_ssn_csp_reg_voccn_01_2014
@@ -55311,12 +55329,14 @@ spd_ssn_csp_reg_voccn_01_2019
 spd_ssn_csp_reg_voccn_01_2020
 spd_ssn_csp_reg_voccn_01_2021
 spd_ssn_csp_reg_voccn_01_2022
+spd_ssn_csp_reg_voccn_01_2023
 spd_ssn_lea_elb_voccn_01_2017
 spd_ssn_lea_elb_voccn_01_2018
 spd_ssn_lea_elb_voccn_01_2019
 spd_ssn_lea_elb_voccn_01_2020
 spd_ssn_lea_elb_voccn_01_2021
 spd_ssn_lea_elb_voccn_01_2022
+spd_ssn_lea_elb_voccn_01_2023
 spd_stm_aen_bdp_cdt_01
 spd_stm_aen_bdp_cis_01
 spd_stm_aen_bdp_dlg_01
@@ -58235,6 +58255,7 @@ sueperiodoeventi-20202
 sueperiodoeventi-20203
 sueperiodoeventi-20204
 sueperiodoeventi-20205
+suoli-italiani-colpiti-dal-sale
 suoli-non-recintati
 suolo-poligoni-militari-catasto
 suolo-siti-contaminati-catasto
@@ -61879,6 +61900,7 @@ zona-via
 zonazione-del-parco
 zonazione-della-disponibilita-idrica
 zonazione-della-disponibilita-idrica1
+zonazione-viticola-ed-olivicola-siena
 zone-30
 zone-30-limite-velocita
 zone-301
