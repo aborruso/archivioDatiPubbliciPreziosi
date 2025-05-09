@@ -404,6 +404,7 @@ id
 6-censimento-dellagricoltura-superficie-agricola-totale-e-utilizzata-per-comune-di-localiz-2010
 601d3507194f066c7701f09bcd1b2e8a652da44378a233e37f70a3ee21c5c23f
 60e77c0968d96b0a7d5c5e33e50d98ad243d43e87e825aa8a4ebe8abe50ec681
+613c51cb314b4bb13fa2ae751c9db7dc48f7db4850b84b77890d0bf2b637f194
 62ecc273e5981978a6db10ad659976a011d4b835d8a0e3e08a4ca8de392d2b0a
 62f553370e5e46a2b171f55bed460762c9d8ab11ef4a483851fa2ce822e13cd1
 63340d84ef673da15bd255f175692831a19f8577f36b5b9412aa5f6bb1ffde62
@@ -1177,8 +1178,13 @@ albo-delle-associazioni-per-la-protezione-degli-animali-della-regione-calabria
 albo-enti-primari-di-leva-civica-lombarda-volontaria
 albo-enti-secondari-di-leva-civica-lombarda-volontaria
 albo-fattorie-didattiche
+albo-fondi-pensione-negoziali
+albo-fondi-pensione-preesistenti-sez-speciale-1
+albo-fondi-pensione-preesistenti-sez-speciale-2
+albo-fondi-pensione-preesistenti-sez-speciale-3
 albo-fornitori-della-regione-lazio
 albo-periti-demaniali
+albo-piani-individuali-pensionistici
 albo-pretorio
 albo-pretorio-pubblicazioni-per-anno
 albo-pretorio-pubblicazioni-per-anno-1
@@ -7942,6 +7948,7 @@ c5-5-pericolosita-geologica-pai-modello-uml-1
 c564eb97b48754336da80ce238c1338a20c72ea0951743e6e3b90fbd8310e447
 c7500335d7a7af6db6a1d70401d7f77349ca69865ffa1383939b588c17cac50f
 c7673872ccf331150d58d587d550da1abf96fef61c2a4ee4d738af4f35768d04
+c7c8272d8691459421890adf299e7a8e404fa9b17c54aeb26412de302b47d811
 c9b4e8e2de415563cf7cc4b62ae6a18bdb2ba3e0414c3e7b4e601fba23a351db
 ca738aadb619a055c5272c9a454d65edfd8b0a975f191f100c0d9244316aecdd
 cableway-link
@@ -23374,6 +23381,7 @@ export-2
 export-dati-riconciliati-da-mypivot
 f1278d428be2fef7f4fcd82c71bb879e15af6140f154ad810ee0ae6664aeaf57
 f20b37d0cd56764f77e4c707cc62b528eeb48ff24cdb415174a0dd31b63cad0c
+f3a975235771983d159783c10be8435b169dc44f34cf1f3404a85ba4df8f815d
 f426_l_pup
 f436_p_pup
 f441_l_pup
@@ -24054,6 +24062,7 @@ fondi-chiusi-art-15-legge-157-1992
 fondi-fsc-2014-2020-patto-per-lo-sviluppo-della-regione-campania
 fondi-fsc-2014-2020-patto-per-lo-sviluppo-della-regione-campania-aggregato-per-provincia
 fondi-fsc-2014-2020-patto-per-lo-sviluppo-della-regione-campania1
+fondi-pensione-aperti
 fondi-poc-2014-2020
 fondi-por-campania-fesr-2014-2020
 fondi-por-campania-fondo-sociale-europeo-2014-2020
@@ -26518,6 +26527,9 @@ indicatori-raccolta-differenziata
 indicatori-rifiuti-a-partire-dal-2018
 indicatori-rifiuti-urbani
 indicatori-sdgs
+indicatori-sintetici-costi-fondi-pensione-aperti
+indicatori-sintetici-costi-fondi-pensione-negoziali
+indicatori-sintetici-costi-piani-individuali-pensionistici
 indicatori-statistici-copertura-broadband-livello-comunale
 indicatori-statistici-copertura-broadband-livello-nazionale
 indicatori-statistici-copertura-broadband-livello-provinciale
@@ -47357,6 +47369,9 @@ rendiconto_pubblicato_serie_storica_spese_aggregato_per_amministrazione_missione
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_classificazione_economica_titolo_catego
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_missione_programma_e_macroaggregato_new
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_titolo_e_macroaggregato_new
+rendimenti-fondi-pensione-aperti
+rendimenti-fondi-pensione-negoziali
+rendimenti-piani-individuali-pensionistici
 repellente
 repellenti-dati-storici
 reperti-archeologici-classificati-nei-musei-del-comune-di-milano
@@ -49552,6 +49567,10 @@ schede-catalografiche-della-regione-autonoma-della-sardegna
 schede-catalografiche-della-regione-veneto
 schede-catalografiche-delle-fotografie-storiche-della-provicia-autonoma-di-bolzano
 schede-catalografiche-di-beni-culturali-siti-nel-comune-di-milano
+schede-costi-fondi-pensione-aperti
+schede-costi-fondi-pensione-negoziali
+schede-costi-fondi-pensione-preesistenti
+schede-costi-piani-individuali-pensionistici
 schede-dei-beni-architettonici-nella-regione-lazio
 schede-descrittive-ambienti-direttiva-habitat
 schede-descrittive-di-produttore-darchivio-pubblicate-nel-sistema-informativo-partecipato-degli
@@ -58220,6 +58239,7 @@ tavole-dei-pgt-della-provincia-di-varese
 tavole-di-dettaglio-prg-piccinato
 tavole-di-mortalita-anni-2009-2010
 tavole-di-mortalita-per-la-popolazione-del-comune-di-reggio-emilia
+tavole-relazione-annuale-covip
 tavoli-di-crisi-aziendali
 taxi
 taxi-e-noleggio-con-conducente-di-matera
