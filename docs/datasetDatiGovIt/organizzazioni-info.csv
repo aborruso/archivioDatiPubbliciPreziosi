@@ -46,7 +46,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:58:55.822626,Città Metropolitana di Genova,1ff02784-3bcc-4991-a5b8-5befee9c0346,cmge,citta-metropolitana-di-genova,7,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-genova
 2024-03-08T18:18:11.519257,Città Metropolitana di Napoli,0c4fd6bf-a5dd-4e01-a2e1-424cd1019859,cmna,citta-metropolitana-di-napoli,91,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-napoli
 2024-10-21T13:42:00.409707,CNIT - Consorzio Nazionale Interuniversitario per le Telecomunicazioni,f0fff560-469a-42b7-b17d-21853d107bce,cnit,cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni,10,https://dati.gov.it/view-dataset?organization=cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni
-2025-02-10T15:06:58.100679,Commissione di Vigilanza Sui Fondi Pensione,92117c30-1626-4ee3-bb96-61460cc5b9b5,cvfp,commissione-di-vigilanza-sui-fondi-pensione,17,https://dati.gov.it/view-dataset?organization=commissione-di-vigilanza-sui-fondi-pensione
+2025-02-10T15:06:58.100679,Commissione di Vigilanza Sui Fondi Pensione,92117c30-1626-4ee3-bb96-61460cc5b9b5,cvfp,commissione-di-vigilanza-sui-fondi-pensione,0,https://dati.gov.it/view-dataset?organization=commissione-di-vigilanza-sui-fondi-pensione
 2025-04-14T12:01:59.480180,Comune di Alba Adriatica,37e8c82e-371f-4db7-a426-d81e80b4b30e,c_a125,comune-di-alba-adriatica,4,https://dati.gov.it/view-dataset?organization=comune-di-alba-adriatica
 2025-03-17T13:40:38.794427,Comune di Alessandria,82bf1957-ae6b-461f-8da0-9f20fabd7a6c,c_a182,comune-di-alessandria,4,https://dati.gov.it/view-dataset?organization=comune-di-alessandria
 2025-04-01T09:04:18.107021,Comune di Altamura,a94de7dd-d093-48c9-8f79-ea847690e3fe,c_a225,comune-di-altamura,7,https://dati.gov.it/view-dataset?organization=comune-di-altamura
@@ -101,7 +101,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-04-11T13:19:41.241055,Comune di Laterza,ee431584-8edf-43b2-b6e2-8a917dd3f851,c_e469,comune-di-laterza,0,https://dati.gov.it/view-dataset?organization=comune-di-laterza
 2025-04-14T09:09:22.152544,Comune di Lonate Pozzolo,fd8ad81b-a555-4d73-be28-90c3d23e7cb1,c_e666,comune-di-lonate-pozzolo,0,https://dati.gov.it/view-dataset?organization=comune-di-lonate-pozzolo
 2025-03-03T15:21:50.583516,Comune di Lonato del Garda,e6b7829d-2b34-4568-90fc-64d179a9edfa,c_e667,comune-di-lonato-del-garda,6,https://dati.gov.it/view-dataset?organization=comune-di-lonato-del-garda
-2025-04-08T09:54:55.453858,Comune di Luino,1cc4e791-0710-43ca-b3ee-c6a825b5447d,c_e734,comune-di-luino,10,https://dati.gov.it/view-dataset?organization=comune-di-luino
+2025-04-08T09:54:55.453858,Comune di Luino,1cc4e791-0710-43ca-b3ee-c6a825b5447d,c_e734,comune-di-luino,7,https://dati.gov.it/view-dataset?organization=comune-di-luino
 2025-02-18T16:31:20.938769,Comune di Magenta,cec23fa1-4efd-46d0-8948-b6cf4b83b5ef,c_e801,comune-di-magenta,32,https://dati.gov.it/view-dataset?organization=comune-di-magenta
 2025-02-06T10:35:46.615879,Comune di Magione,e38a5663-2b13-40a0-8be9-b6e1f05d09d4,c_e805,comune-di-magione,3,https://dati.gov.it/view-dataset?organization=comune-di-magione
 2025-04-14T10:43:04.033479,Comune di Mandello del Lario,42c175f4-59d4-4f23-85f6-e9d6e8c9f920,c_e879,comune-di-mandello-del-lario,1,https://dati.gov.it/view-dataset?organization=comune-di-mandello-del-lario
@@ -239,8 +239,8 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,780,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1518,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,9251,https://dati.gov.it/view-dataset?organization=regione-toscana
-2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,430,https://dati.gov.it/view-dataset?organization=regione-umbria
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10277,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,433,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6227,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,1,https://dati.gov.it/view-dataset?organization=sebastien-catalog
