@@ -99,6 +99,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,8,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
 2025-04-14T07:59:19.027568,Comune di Grottammare,c59b580b-8e17-459f-b532-db891593d4e6,c_e207,comune-di-grottammare,0,https://dati.gov.it/view-dataset?organization=comune-di-grottammare
 2025-04-29T07:47:45.384138,Comune di Guidonia Montecelio,728accb6-79a7-427c-aef8-ba404c8b606a,c_e263,comune-di-guidonia-montecelio,3,https://dati.gov.it/view-dataset?organization=comune-di-guidonia-montecelio
+2025-05-28T06:45:18.401677,Comune di Ivrea,621fbe81-488b-4f65-8db4-3bc6df177170,c_e379,comune-di-ivrea,11,https://dati.gov.it/view-dataset?organization=comune-di-ivrea
 2025-04-11T13:19:41.241055,Comune di Laterza,ee431584-8edf-43b2-b6e2-8a917dd3f851,c_e469,comune-di-laterza,0,https://dati.gov.it/view-dataset?organization=comune-di-laterza
 2025-04-14T09:09:22.152544,Comune di Lonate Pozzolo,fd8ad81b-a555-4d73-be28-90c3d23e7cb1,c_e666,comune-di-lonate-pozzolo,5,https://dati.gov.it/view-dataset?organization=comune-di-lonate-pozzolo
 2025-03-03T15:21:50.583516,Comune di Lonato del Garda,e6b7829d-2b34-4568-90fc-64d179a9edfa,c_e667,comune-di-lonato-del-garda,6,https://dati.gov.it/view-dataset?organization=comune-di-lonato-del-garda
@@ -110,6 +111,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-10-18T10:25:41.591456,Comune di Massa,3d6faeb4-ce86-4f91-b020-e5df6e9588aa,c_f023,comune-di-massa,4,https://dati.gov.it/view-dataset?organization=comune-di-massa
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,248,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
+2025-05-27T13:40:52.936853,Comune di Mentana,04294742-0d45-4507-b740-a70f75ccd6be,c_f127,comune-di-mentana,46,https://dati.gov.it/view-dataset?organization=comune-di-mentana
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
 2025-04-11T15:25:55.463465,Comune di Meta,c635426b-1b6e-46aa-a599-e6a1eba0b557,c_f162,comune-di-meta,0,https://dati.gov.it/view-dataset?organization=comune-di-meta
 2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2547,https://dati.gov.it/view-dataset?organization=comune-di-milano
@@ -131,6 +133,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1612,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,50,https://dati.gov.it/view-dataset?organization=comune-di-pescara
 2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,10,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
+2025-05-27T10:40:05.991849,Comune di Petilia Policastro,0d16adc8-4a2c-4a5c-b04f-8d544911dce0,c_g508,comune-di-petilia-policastro,0,https://dati.gov.it/view-dataset?organization=comune-di-petilia-policastro
 2024-11-18T09:13:07.729335,Comune di Piacenza,8f1999e8-8405-443f-a216-574808712990,c_g535,comune-di-piacenza,71,https://dati.gov.it/view-dataset?organization=comune-di-piacenza
 2024-11-14T12:08:12.301236,Comune di Pieve Emanuele,4ab04975-f03e-4402-951a-b5eab5c59747,c_g634,comune-di-pieve-emanuele,29,https://dati.gov.it/view-dataset?organization=comune-di-pieve-emanuele
 2025-02-24T14:05:25.933039,Comune di Pineto,1d92fe0b-49c7-45fe-9ab4-fed6e53f45d6,c_f831,comune-di-pineto,4,https://dati.gov.it/view-dataset?organization=comune-di-pineto
@@ -157,6 +160,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-10-08T10:09:27.470392,Comune di Sulmona,184af785-59d7-44b3-aa77-31a8d724dc2b,c_i804,comune-di-sulmona,3,https://dati.gov.it/view-dataset?organization=comune-di-sulmona
 2025-02-19T10:48:52.337631,Comune di Tarquinia,d56cf387-2ee3-4b03-a193-291be330486f,c_d024,comune-di-tarquinia,6,https://dati.gov.it/view-dataset?organization=comune-di-tarquinia
 2025-02-07T15:08:09.871704,Comune di Termoli,9c4f6260-2af7-4c64-b145-36b178760710,c_l113,comune-di-termoli,0,https://dati.gov.it/view-dataset?organization=comune-di-termoli
+2025-05-28T08:34:08.763606,Comune di Terralba,250720a6-46e3-4f10-abe7-ec9902a49dd7,c_l122,comune-di-terralba,0,https://dati.gov.it/view-dataset?organization=comune-di-terralba
 2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2060,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
 2025-02-13T16:26:10.993736,Comune di Tortona,70318d13-2c24-46ea-8944-12d58fa13ae3,c_l304,comune-di-tortona,3,https://dati.gov.it/view-dataset?organization=comune-di-tortona
