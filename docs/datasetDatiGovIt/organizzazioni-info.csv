@@ -99,10 +99,11 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T15:18:26.164181,Comune di Gildone,4bd8476a-047d-4254-afeb-900d8661e69c,c_e030,comune-di-gildone,0,https://dati.gov.it/view-dataset?organization=comune-di-gildone
 2025-03-07T15:29:16.641505,Comune di Giovinazzo,e1e9f349-ef2d-4894-91f4-d32f30db0a46,c_e047,comune-di-giovinazzo,4,https://dati.gov.it/view-dataset?organization=comune-di-giovinazzo
 2025-02-11T10:15:38.000771,Comune di Gravina di Catania,9efc13b8-1d90-40b8-9447-9a71823448f5,c_e156,comune-di-gravina-di-catania,3,https://dati.gov.it/view-dataset?organization=comune-di-gravina-di-catania
-2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,7,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
+2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,8,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
 2025-04-14T07:59:19.027568,Comune di Grottammare,c59b580b-8e17-459f-b532-db891593d4e6,c_e207,comune-di-grottammare,0,https://dati.gov.it/view-dataset?organization=comune-di-grottammare
 2025-04-29T07:47:45.384138,Comune di Guidonia Montecelio,728accb6-79a7-427c-aef8-ba404c8b606a,c_e263,comune-di-guidonia-montecelio,3,https://dati.gov.it/view-dataset?organization=comune-di-guidonia-montecelio
 2025-05-28T06:45:18.401677,Comune di Ivrea,621fbe81-488b-4f65-8db4-3bc6df177170,c_e379,comune-di-ivrea,10,https://dati.gov.it/view-dataset?organization=comune-di-ivrea
+2025-06-27T12:53:00.156331,Comune di La Spezia,aebbeaa2-70f6-4952-8ff6-e7579a1076ce,c_e463,comune-di-la-spezia,6,https://dati.gov.it/view-dataset?organization=comune-di-la-spezia
 2025-04-11T13:19:41.241055,Comune di Laterza,ee431584-8edf-43b2-b6e2-8a917dd3f851,c_e469,comune-di-laterza,0,https://dati.gov.it/view-dataset?organization=comune-di-laterza
 2025-04-14T09:09:22.152544,Comune di Lonate Pozzolo,fd8ad81b-a555-4d73-be28-90c3d23e7cb1,c_e666,comune-di-lonate-pozzolo,5,https://dati.gov.it/view-dataset?organization=comune-di-lonate-pozzolo
 2025-03-03T15:21:50.583516,Comune di Lonato del Garda,e6b7829d-2b34-4568-90fc-64d179a9edfa,c_e667,comune-di-lonato-del-garda,6,https://dati.gov.it/view-dataset?organization=comune-di-lonato-del-garda
@@ -113,10 +114,11 @@ created,display_name,id,identifier,name,package_count,URL
 2025-04-14T10:43:04.033479,Comune di Mandello del Lario,42c175f4-59d4-4f23-85f6-e9d6e8c9f920,c_e879,comune-di-mandello-del-lario,1,https://dati.gov.it/view-dataset?organization=comune-di-mandello-del-lario
 2025-06-19T13:05:02.529424,Comune di Maranello,38f13216-5f9e-4a57-bb7e-47b90a7c5e06,c_e904,comune-di-maranello,43,https://dati.gov.it/view-dataset?organization=comune-di-maranello
 2025-02-13T16:33:18.330352,Comune di Mariano Comense,3657a375-aae2-49d4-a97f-80c0d7031438,c_e951,comune-di-mariano-comense,42,https://dati.gov.it/view-dataset?organization=comune-di-mariano-comense
-2025-06-16T13:35:21.116471,Comune di Marigliano,3015de2f-2fcf-4b10-8167-6d3b2e25885b,c_e955,comune-di-marigliano,7,https://dati.gov.it/view-dataset?organization=comune-di-marigliano
+2025-06-16T13:35:21.116471,Comune di Marigliano,3015de2f-2fcf-4b10-8167-6d3b2e25885b,c_e955,comune-di-marigliano,9,https://dati.gov.it/view-dataset?organization=comune-di-marigliano
 2024-10-18T10:25:41.591456,Comune di Massa,3d6faeb4-ce86-4f91-b020-e5df6e9588aa,c_f023,comune-di-massa,4,https://dati.gov.it/view-dataset?organization=comune-di-massa
 2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,244,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
+2025-06-27T12:56:46.621139,Comune di Melzo,cd92d0da-a26b-42ce-ad92-ecb4e1737eb9,c_f119,comune-di-melzo,9,https://dati.gov.it/view-dataset?organization=comune-di-melzo
 2025-05-27T13:40:52.936853,Comune di Mentana,04294742-0d45-4507-b740-a70f75ccd6be,c_f127,comune-di-mentana,45,https://dati.gov.it/view-dataset?organization=comune-di-mentana
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
 2025-04-11T15:25:55.463465,Comune di Meta,c635426b-1b6e-46aa-a599-e6a1eba0b557,c_f162,comune-di-meta,0,https://dati.gov.it/view-dataset?organization=comune-di-meta
@@ -165,6 +167,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-24T08:21:58.749901,Comune di Sarezzo,f33d4b00-a1ab-4149-93a8-bbee9760f06d,c_i433,comune-di-sarezzo,42,https://dati.gov.it/view-dataset?organization=comune-di-sarezzo
 2025-02-13T16:21:23.940108,Comune di Sassari,5f8997d6-3acf-4de6-a07a-c46d5da2d47b,c_i452,comune-di-sassari,23,https://dati.gov.it/view-dataset?organization=comune-di-sassari
 2025-06-19T13:20:56.255262,Comune di Sassuolo,ddc73d4e-2069-4ac9-b79b-26e73b70b4b7,c_i462,comune-di-sassuolo,42,https://dati.gov.it/view-dataset?organization=comune-di-sassuolo
+2025-06-27T16:01:43.942788,Comune di Scorzè,70b5f10c-0798-4da6-a59f-f0b8bdd5e65e,c_i551,comune-di-scorze,0,https://dati.gov.it/view-dataset?organization=comune-di-scorze
 2025-02-18T17:23:06.976289,Comune di Seriate,7c469a7d-a1b9-4b7e-bdf9-85e21a4f7773,c_i628,comune-di-seriate,25,https://dati.gov.it/view-dataset?organization=comune-di-seriate
 2024-11-26T12:30:31.830985,Comune di Sesto Fiorentino,ec1c625f-0574-4455-a023-164014e53a19,c_i684,comune-di-sesto-fiorentino,50,https://dati.gov.it/view-dataset?organization=comune-di-sesto-fiorentino
 2025-03-27T08:26:25.130347,Comune di Sesto San Giovanni,9384baac-63eb-4730-8972-9776ad4bfd1d,c_i690,comune-di-sesto-san-giovanni,3,https://dati.gov.it/view-dataset?organization=comune-di-sesto-san-giovanni
@@ -202,7 +205,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-11T10:17:34.271846,Fondazione IRCCS Istituto Neurologico Carlo Besta,c432eac3-aef6-47aa-b088-216e3f4e4aff,fincbmi,fondazione-irccs-istituto-neurologico-carlo-besta,0,https://dati.gov.it/view-dataset?organization=fondazione-irccs-istituto-neurologico-carlo-besta
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
 2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8187,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
-2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,193,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
+2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,180,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,40,https://dati.gov.it/view-dataset?organization=inail
 2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2281,https://dati.gov.it/view-dataset?organization=inps
@@ -219,6 +222,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:54:36.322033,Ministero dei Beni Culturali,0c8ebe34-c765-43c0-8deb-67940890204a,m_bac,ministero-dei-beni-culturali,213,https://dati.gov.it/view-dataset?organization=ministero-dei-beni-culturali
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
 2025-02-19T10:39:30.240736,Ministero del Turismo,54503213-4f23-4c39-ba5f-c0b0bb78f900,WQF3ZW8F,ministero-del-turismo,16,https://dati.gov.it/view-dataset?organization=ministero-del-turismo
+2025-06-27T15:06:07.564881,Ministero dell'Ambiente e della Sicurezza Energetica,b9784816-dae8-49fe-9f30-d1fa8442a7b1,m_amte,ministero-dell-ambiente-e-della-sicurezza-energetica,0,https://dati.gov.it/view-dataset?organization=ministero-dell-ambiente-e-della-sicurezza-energetica
 2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3325,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,38,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,104,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
@@ -258,7 +262,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,778,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1499,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10042,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10289,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,440,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6250,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
