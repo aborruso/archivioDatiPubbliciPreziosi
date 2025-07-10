@@ -107,6 +107,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-05-28T06:45:18.401677,Comune di Ivrea,621fbe81-488b-4f65-8db4-3bc6df177170,c_e379,comune-di-ivrea,10,https://dati.gov.it/view-dataset?organization=comune-di-ivrea
 2025-06-27T12:53:00.156331,Comune di La Spezia,aebbeaa2-70f6-4952-8ff6-e7579a1076ce,c_e463,comune-di-la-spezia,6,https://dati.gov.it/view-dataset?organization=comune-di-la-spezia
 2025-04-11T13:19:41.241055,Comune di Laterza,ee431584-8edf-43b2-b6e2-8a917dd3f851,c_e469,comune-di-laterza,0,https://dati.gov.it/view-dataset?organization=comune-di-laterza
+2025-07-09T15:09:24.342703,Comune di Lentini,88d08051-7cd8-4349-bec5-7ba11a125587,c_e532,comune-di-lentini,0,https://dati.gov.it/view-dataset?organization=comune-di-lentini
 2025-04-14T09:09:22.152544,Comune di Lonate Pozzolo,fd8ad81b-a555-4d73-be28-90c3d23e7cb1,c_e666,comune-di-lonate-pozzolo,5,https://dati.gov.it/view-dataset?organization=comune-di-lonate-pozzolo
 2025-03-03T15:21:50.583516,Comune di Lonato del Garda,e6b7829d-2b34-4568-90fc-64d179a9edfa,c_e667,comune-di-lonato-del-garda,6,https://dati.gov.it/view-dataset?organization=comune-di-lonato-del-garda
 2025-04-08T09:54:55.453858,Comune di Luino,1cc4e791-0710-43ca-b3ee-c6a825b5447d,c_e734,comune-di-luino,7,https://dati.gov.it/view-dataset?organization=comune-di-luino
@@ -176,7 +177,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-18T13:54:44.879930,Comune di Signa,e9805ed5-d9d2-4b15-9ef2-67fa5314f10b,c_i728,comune-di-signa,16,https://dati.gov.it/view-dataset?organization=comune-di-signa
 2024-10-08T10:09:27.470392,Comune di Sulmona,184af785-59d7-44b3-aa77-31a8d724dc2b,c_i804,comune-di-sulmona,3,https://dati.gov.it/view-dataset?organization=comune-di-sulmona
 2025-02-19T10:48:52.337631,Comune di Tarquinia,d56cf387-2ee3-4b03-a193-291be330486f,c_d024,comune-di-tarquinia,6,https://dati.gov.it/view-dataset?organization=comune-di-tarquinia
-2025-02-07T15:08:09.871704,Comune di Termoli,9c4f6260-2af7-4c64-b145-36b178760710,c_l113,comune-di-termoli,0,https://dati.gov.it/view-dataset?organization=comune-di-termoli
+2025-02-07T15:08:09.871704,Comune di Termoli,9c4f6260-2af7-4c64-b145-36b178760710,c_l113,comune-di-termoli,3,https://dati.gov.it/view-dataset?organization=comune-di-termoli
 2025-05-28T08:34:08.763606,Comune di Terralba,250720a6-46e3-4f10-abe7-ec9902a49dd7,c_l122,comune-di-terralba,3,https://dati.gov.it/view-dataset?organization=comune-di-terralba
 2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2060,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
@@ -187,7 +188,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T15:12:26.885282,Comune di Valenzano,9de58538-7d17-40da-bbf8-b6a17d3820dc,c_l571,comune-di-valenzano,5,https://dati.gov.it/view-dataset?organization=comune-di-valenzano
 2025-02-17T09:12:57.959067,Comune di Valmadrera,0d12d4c1-640c-4d0f-b0b5-ade2aa7887d9,c_l634,comune-di-valmadrera,46,https://dati.gov.it/view-dataset?organization=comune-di-valmadrera
 2025-02-07T15:07:01.452594,Comune di Vecchiano,21c6292b-f32c-4fd1-9f8d-a3392fde8392,c_l702,comune-di-vecchiano,3,https://dati.gov.it/view-dataset?organization=comune-di-vecchiano
-2025-05-07T12:28:42.782433,Comune di Venafro,98dea997-f6bf-4e57-8111-87b4c50543e9,c_l725,comune-di-venafro,0,https://dati.gov.it/view-dataset?organization=comune-di-venafro
+2025-05-07T12:28:42.782433,Comune di Venafro,98dea997-f6bf-4e57-8111-87b4c50543e9,c_l725,comune-di-venafro,5,https://dati.gov.it/view-dataset?organization=comune-di-venafro
 2025-02-07T10:27:55.515585,Comune di Vieste,727baae0-0f4e-44cb-89a0-a75385d48a1d,c_l858,comune-di-vieste,0,https://dati.gov.it/view-dataset?organization=comune-di-vieste
 2025-04-11T08:19:19.505666,Comune di Vigonza,947662c1-5497-4c8e-a63a-f6330c842016,c_l900,comune-di-vigonza,26,https://dati.gov.it/view-dataset?organization=comune-di-vigonza
 2025-02-07T15:19:44.831761,Comunità Montana Valle Imagna,65d89bdc-7a64-4d28-b3de-87c8b58faa43,CMVI,comunita-montana-valle-imagna,3,https://dati.gov.it/view-dataset?organization=comunita-montana-valle-imagna
@@ -229,7 +230,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,38,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,105,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
 2024-03-08T19:00:41.997526,Ministero della Salute,593c0fab-b437-4181-b277-cbf5bc21d81c,m_sa,ministero-della-salute,51,https://dati.gov.it/view-dataset?organization=ministero-della-salute
-2025-04-14T10:08:03.017318,Ministero delle Imprese e del Made in Italy,49a01f53-cd1b-4629-9e2e-64f61a788e41,m_svec,ministero-delle-imprese-e-del-made-in-italy,0,https://dati.gov.it/view-dataset?organization=ministero-delle-imprese-e-del-made-in-italy
+2025-04-14T10:08:03.017318,Ministero delle Imprese e del Made in Italy,49a01f53-cd1b-4629-9e2e-64f61a788e41,m_svec,ministero-delle-imprese-e-del-made-in-italy,2,https://dati.gov.it/view-dataset?organization=ministero-delle-imprese-e-del-made-in-italy
 2024-03-08T21:13:55.607866,Ministero Infrastrutture e Trasporti,966c8ab2-9bb8-4e5b-9165-9d37a1af7333,m_inf,ministero-infrastrutture-e-trasporti,69,https://dati.gov.it/view-dataset?organization=ministero-infrastrutture-e-trasporti
 2024-03-08T21:16:17.075217,Ministero Università e Ricerca,bfe0080a-98b1-495f-a27c-a9ceffde3bf1,KH5RHFCV,ministero-universita-e-ricerca,63,https://dati.gov.it/view-dataset?organization=ministero-universita-e-ricerca
 2024-03-08T21:18:16.242463,PCM - Dipartimento Trasformazione Digitale,b59c46a8-b048-448a-ac68-4b158ad0aaac,pcm,pcm-dipartimento-trasformazione-digitale,35,https://dati.gov.it/view-dataset?organization=pcm-dipartimento-trasformazione-digitale
@@ -264,7 +265,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,791,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1550,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10286,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10327,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,436,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6280,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
