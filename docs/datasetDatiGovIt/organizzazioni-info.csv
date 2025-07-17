@@ -33,6 +33,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:36:46.893571,Azienda Ospedaliera di Rilievo Nazionale Antonio Cardarelli,9e6524d8-1e13-4a6c-97b4-11260c86ff67,aorn_063,azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli,10,https://dati.gov.it/view-dataset?organization=azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli
 2025-02-07T09:06:35.439896,Azienda Regionale per Il Diritto allo Studio Universitario di Venezia,1ff7edff-c9e3-4ab1-b094-c2dd93060644,arid_027,azienda-regionale-per-il-diritto-allo-studio-universitario-di-venezia,0,https://dati.gov.it/view-dataset?organization=azienda-regionale-per-il-diritto-allo-studio-universitario-di-venezia
 2024-11-26T10:50:36.033390,Azienda Sanitaria Locale VCO,13ebed9e-b041-46eb-8b1a-42e103ef4f66,asl14_vco,azienda-sanitaria-locale-vco,10,https://dati.gov.it/view-dataset?organization=azienda-sanitaria-locale-vco
+2025-07-15T08:22:06.670746,Azienda Sanitaria Regione Molise,982b093a-0926-4c5c-825a-c4146f301ac0,a_cb,azienda-sanitaria-regione-molise,3,https://dati.gov.it/view-dataset?organization=azienda-sanitaria-regione-molise
 2025-04-14T12:36:15.932186,Azienda Servizi Comunali alla Persona,b196c1f7-dc18-4bec-9e7b-cb5ceb21929d,F3BP8FZZ,azienda-servizi-comunali-alla-persona,0,https://dati.gov.it/view-dataset?organization=azienda-servizi-comunali-alla-persona
 2025-02-17T15:51:03.604260,Azienda Socio Sanitaria Territoriale della Brianza,8c5d1e2f-95c7-4bc4-aeaf-ec34a5b31313,asstv,azienda-socio-sanitaria-territoriale-della-brianza,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-della-brianza
 2025-02-24T14:11:29.637397,Azienda Socio Sanitaria Territoriale di Lecco,3fdcdae0-c903-46bf-8555-c254f71cbecc,asstl,azienda-socio-sanitaria-territoriale-di-lecco,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-di-lecco
@@ -90,11 +91,11 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,10,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
 2024-11-13T09:20:51.897034,Comune di Desenzano del Garda,1d853219-813f-469f-9382-1582ff3e5203,c_d284,comune-di-desenzano-del-garda,43,https://dati.gov.it/view-dataset?organization=comune-di-desenzano-del-garda
 2025-02-13T16:28:00.794424,Comune di Domodossola,b5cdcd76-e358-49ed-a833-a44102a7ece0,c_d332,comune-di-domodossola,3,https://dati.gov.it/view-dataset?organization=comune-di-domodossola
-2025-06-19T12:54:51.981234,Comune di Fiorano Modenese,17f43b8a-cc01-49a4-aea1-ddb5a7797f7b,c_d607,comune-di-fiorano-modenese,78,https://dati.gov.it/view-dataset?organization=comune-di-fiorano-modenese
+2025-06-19T12:54:51.981234,Comune di Fiorano Modenese,17f43b8a-cc01-49a4-aea1-ddb5a7797f7b,c_d607,comune-di-fiorano-modenese,79,https://dati.gov.it/view-dataset?organization=comune-di-fiorano-modenese
 2024-09-06T13:59:00.932559,Comune di Flero,9a8e1504-1866-47db-8588-d6068902f965,C_D634,comune-di-flero,53,https://dati.gov.it/view-dataset?organization=comune-di-flero
 2025-02-13T16:22:49.293970,Comune di Fonte Nuova,cf2d76c3-7883-4391-8002-dcba5c1dbdb0,c_m309,comune-di-fonte-nuova,3,https://dati.gov.it/view-dataset?organization=comune-di-fonte-nuova
-2025-06-19T12:57:49.299281,Comune di Formigine,8c45992c-9b8b-4be0-96ae-4643bdd88861,c_d711,comune-di-formigine,77,https://dati.gov.it/view-dataset?organization=comune-di-formigine
-2025-06-19T13:01:48.188864,Comune di Frassinoro,6ce38fa7-c69b-4416-8165-f5477ffec67a,c_d783,comune-di-frassinoro,41,https://dati.gov.it/view-dataset?organization=comune-di-frassinoro
+2025-06-19T12:57:49.299281,Comune di Formigine,8c45992c-9b8b-4be0-96ae-4643bdd88861,c_d711,comune-di-formigine,79,https://dati.gov.it/view-dataset?organization=comune-di-formigine
+2025-06-19T13:01:48.188864,Comune di Frassinoro,6ce38fa7-c69b-4416-8165-f5477ffec67a,c_d783,comune-di-frassinoro,42,https://dati.gov.it/view-dataset?organization=comune-di-frassinoro
 2025-02-13T16:34:19.519687,Comune di Gaggiano,33679cb9-991c-489d-aab4-04ae74a2ce00,c_d845,comune-di-gaggiano,46,https://dati.gov.it/view-dataset?organization=comune-di-gaggiano
 2025-02-13T16:24:12.167600,Comune di Garbagnate Milanese,d788d1b5-89b5-4280-af15-5d12eda0cdeb,c_d912,comune-di-garbagnate-milanese,34,https://dati.gov.it/view-dataset?organization=comune-di-garbagnate-milanese
 2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,157,https://dati.gov.it/view-dataset?organization=comune-di-genova
@@ -115,7 +116,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-18T16:31:20.938769,Comune di Magenta,cec23fa1-4efd-46d0-8948-b6cf4b83b5ef,c_e801,comune-di-magenta,32,https://dati.gov.it/view-dataset?organization=comune-di-magenta
 2025-02-06T10:35:46.615879,Comune di Magione,e38a5663-2b13-40a0-8be9-b6e1f05d09d4,c_e805,comune-di-magione,3,https://dati.gov.it/view-dataset?organization=comune-di-magione
 2025-04-14T10:43:04.033479,Comune di Mandello del Lario,42c175f4-59d4-4f23-85f6-e9d6e8c9f920,c_e879,comune-di-mandello-del-lario,1,https://dati.gov.it/view-dataset?organization=comune-di-mandello-del-lario
-2025-06-19T13:05:02.529424,Comune di Maranello,38f13216-5f9e-4a57-bb7e-47b90a7c5e06,c_e904,comune-di-maranello,78,https://dati.gov.it/view-dataset?organization=comune-di-maranello
+2025-06-19T13:05:02.529424,Comune di Maranello,38f13216-5f9e-4a57-bb7e-47b90a7c5e06,c_e904,comune-di-maranello,79,https://dati.gov.it/view-dataset?organization=comune-di-maranello
 2025-02-13T16:33:18.330352,Comune di Mariano Comense,3657a375-aae2-49d4-a97f-80c0d7031438,c_e951,comune-di-mariano-comense,42,https://dati.gov.it/view-dataset?organization=comune-di-mariano-comense
 2025-06-16T13:35:21.116471,Comune di Marigliano,3015de2f-2fcf-4b10-8167-6d3b2e25885b,c_e955,comune-di-marigliano,9,https://dati.gov.it/view-dataset?organization=comune-di-marigliano
 2024-10-18T10:25:41.591456,Comune di Massa,3d6faeb4-ce86-4f91-b020-e5df6e9588aa,c_f023,comune-di-massa,4,https://dati.gov.it/view-dataset?organization=comune-di-massa
@@ -132,7 +133,8 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-25T10:29:46.360740,Comune di Mola di Bari,9d4caa30-bcae-4df7-8ba0-ac85650bea46,c_f280,comune-di-mola-di-bari,3,https://dati.gov.it/view-dataset?organization=comune-di-mola-di-bari
 2025-02-07T10:23:12.200065,Comune di Molinella,7708bac3-06d7-48e1-98c2-788424425574,c_f288,comune-di-molinella,3,https://dati.gov.it/view-dataset?organization=comune-di-molinella
 2025-02-19T10:18:55.581624,Comune di Montale,0c4aafe0-74bc-47ad-9878-0a615e9ffc30,c_f410,comune-di-montale,3,https://dati.gov.it/view-dataset?organization=comune-di-montale
-2025-06-19T13:08:54.489523,Comune di Montefiorino,1de0abeb-bd36-419b-9946-9d4582857357,c_f503,comune-di-montefiorino,41,https://dati.gov.it/view-dataset?organization=comune-di-montefiorino
+2025-06-19T13:08:54.489523,Comune di Montefiorino,1de0abeb-bd36-419b-9946-9d4582857357,c_f503,comune-di-montefiorino,42,https://dati.gov.it/view-dataset?organization=comune-di-montefiorino
+2025-07-15T08:51:22.110226,Comune di Monterotondo,2a1644f1-58a6-43de-97e3-d15d9873bc64,c_f611,comune-di-monterotondo,8,https://dati.gov.it/view-dataset?organization=comune-di-monterotondo
 2025-04-07T09:29:05.973342,Comune di Morbegno,88563d4b-1955-4469-a796-e2030a63b13d,c_f712,comune-di-morbegno,9,https://dati.gov.it/view-dataset?organization=comune-di-morbegno
 2025-02-19T10:46:15.223716,Comune di Nave,8d28e8ca-f11b-4e47-a2c9-c6b226d92019,c_f851,comune-di-nave,40,https://dati.gov.it/view-dataset?organization=comune-di-nave
 2025-02-18T17:09:14.847562,Comune di Nembro,d042b660-0e38-4b3f-9463-1a23cf99d4d2,c_f864,comune-di-nembro,6,https://dati.gov.it/view-dataset?organization=comune-di-nembro
@@ -142,7 +144,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T10:26:05.167856,Comune di Occhiobello,fc889074-47de-4acb-9ea3-98af4b649e84,c_f994,comune-di-occhiobello,3,https://dati.gov.it/view-dataset?organization=comune-di-occhiobello
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
 2025-04-07T10:36:44.512738,Comune di Pagani,a1033ff4-b70e-4d7e-aa1e-5926c222801a,c_g230,comune-di-pagani,10,https://dati.gov.it/view-dataset?organization=comune-di-pagani
-2025-06-19T13:14:48.899635,Comune di Palagano,96b3bbb3-e7c9-46a1-b980-a16ef8591e07,c_g250,comune-di-palagano,43,https://dati.gov.it/view-dataset?organization=comune-di-palagano
+2025-06-19T13:14:48.899635,Comune di Palagano,96b3bbb3-e7c9-46a1-b980-a16ef8591e07,c_g250,comune-di-palagano,42,https://dati.gov.it/view-dataset?organization=comune-di-palagano
 2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1650,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,50,https://dati.gov.it/view-dataset?organization=comune-di-pescara
 2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,9,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
@@ -154,7 +156,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-06-19T07:50:46.058467,Comune di Pollenza,53a9ef87-7ecf-4743-a3a6-84c913a9b6d8,c_f567,comune-di-pollenza,0,https://dati.gov.it/view-dataset?organization=comune-di-pollenza
 2025-04-14T07:50:39.724552,Comune di Porto Cesareo,75656a6e-699f-49e3-ac14-e055835e9638,c_m263,comune-di-porto-cesareo,0,https://dati.gov.it/view-dataset?organization=comune-di-porto-cesareo
 2025-02-10T15:08:04.691659,Comune di Porto Viro,8fbd5333-6025-4b03-af96-8ec71ae76acf,c_g926,comune-di-porto-viro,0,https://dati.gov.it/view-dataset?organization=comune-di-porto-viro
-2025-06-19T13:17:22.536581,Comune di Prignano sulla Secchia,719d1cb4-a300-4451-ad5e-b99819c04c10,c_h061,comune-di-prignano-sulla-secchia,41,https://dati.gov.it/view-dataset?organization=comune-di-prignano-sulla-secchia
+2025-06-19T13:17:22.536581,Comune di Prignano sulla Secchia,719d1cb4-a300-4451-ad5e-b99819c04c10,c_h061,comune-di-prignano-sulla-secchia,42,https://dati.gov.it/view-dataset?organization=comune-di-prignano-sulla-secchia
 2025-04-14T08:07:37.142964,Comune di Rapallo,1377acf3-e741-43d1-a533-a695afadbcd3,c_h183,comune-di-rapallo,3,https://dati.gov.it/view-dataset?organization=comune-di-rapallo
 2024-03-08T18:28:23.244694,Comune di Rimini,f9546d88-5c6e-41d1-97b2-ebd9d0a77d21,00304260409,comune-di-rimini,72,https://dati.gov.it/view-dataset?organization=comune-di-rimini
 2025-04-15T14:40:46.400199,Comune di Rocca di Papa,e879fab1-9906-456a-995c-df320ac6ea54,c_h404,comune-di-rocca-di-papa,9,https://dati.gov.it/view-dataset?organization=comune-di-rocca-di-papa
@@ -169,7 +171,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T15:04:09.294507,Comune di Santo Stefano di Magra,d185a6e2-5d7c-4c61-afd2-edb9fa47f182,c_i363,comune-di-santo-stefano-di-magra,3,https://dati.gov.it/view-dataset?organization=comune-di-santo-stefano-di-magra
 2024-11-24T08:21:58.749901,Comune di Sarezzo,f33d4b00-a1ab-4149-93a8-bbee9760f06d,c_i433,comune-di-sarezzo,42,https://dati.gov.it/view-dataset?organization=comune-di-sarezzo
 2025-02-13T16:21:23.940108,Comune di Sassari,5f8997d6-3acf-4de6-a07a-c46d5da2d47b,c_i452,comune-di-sassari,23,https://dati.gov.it/view-dataset?organization=comune-di-sassari
-2025-06-19T13:20:56.255262,Comune di Sassuolo,ddc73d4e-2069-4ac9-b79b-26e73b70b4b7,c_i462,comune-di-sassuolo,79,https://dati.gov.it/view-dataset?organization=comune-di-sassuolo
+2025-06-19T13:20:56.255262,Comune di Sassuolo,ddc73d4e-2069-4ac9-b79b-26e73b70b4b7,c_i462,comune-di-sassuolo,80,https://dati.gov.it/view-dataset?organization=comune-di-sassuolo
 2025-06-27T16:01:43.942788,Comune di Scorzè,70b5f10c-0798-4da6-a59f-f0b8bdd5e65e,c_i551,comune-di-scorze,3,https://dati.gov.it/view-dataset?organization=comune-di-scorze
 2025-02-18T17:23:06.976289,Comune di Seriate,7c469a7d-a1b9-4b7e-bdf9-85e21a4f7773,c_i628,comune-di-seriate,25,https://dati.gov.it/view-dataset?organization=comune-di-seriate
 2024-11-26T12:30:31.830985,Comune di Sesto Fiorentino,ec1c625f-0574-4455-a023-164014e53a19,c_i684,comune-di-sesto-fiorentino,50,https://dati.gov.it/view-dataset?organization=comune-di-sesto-fiorentino
@@ -273,7 +275,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,1,https://dati.gov.it/view-dataset?organization=sebastien-catalog
 2025-02-07T09:12:21.222865,Unione Bassa Est Parmense,e0108f7b-6337-4715-8629-31b199daaaca,ubep_pr,unione-bassa-est-parmense,0,https://dati.gov.it/view-dataset?organization=unione-bassa-est-parmense
 2025-04-04T08:58:14.054919,Unione dei Comuni del Coros,f5799c0d-0f96-42ae-886b-4fe5117d238e,udcc_090,unione-dei-comuni-del-coros,6,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-coros
-2025-06-19T13:11:40.727621,Unione dei Comuni del Distretto Ceramico,b371a946-8d89-4548-b595-f40da8dbcec4,c_i462a,unione-dei-comuni-del-distretto-ceramico,7,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-distretto-ceramico
+2025-06-19T13:11:40.727621,Unione dei Comuni del Distretto Ceramico,b371a946-8d89-4548-b595-f40da8dbcec4,c_i462a,unione-dei-comuni-del-distretto-ceramico,8,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-distretto-ceramico
 2025-02-07T08:49:34.596408,Unione dei Comuni del Trasimeno,cbed8af0-eb12-43bf-a2f7-4ef4cb9238c3,udct,unione-dei-comuni-del-trasimeno,7,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-trasimeno
 2025-02-19T10:35:14.138484,Unione Dei Comuni Valdostani Evancon,561b129a-4c76-4ae9-912b-16d5e12082e7,ucve,unione-dei-comuni-valdostani-evancon,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-evancon
 2025-02-18T16:15:15.796623,Unione dei Comuni Valdostani Grand-Combin,d9d88285-3187-4d33-87f4-3aff4faf1b52,ucgc,unione-dei-comuni-valdostani-grand-combin,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-grand-combin

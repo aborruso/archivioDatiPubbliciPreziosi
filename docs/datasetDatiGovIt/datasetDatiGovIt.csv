@@ -6057,6 +6057,7 @@ avviso-pubblico-sostegno-alle-alleanze-per-linnovazione-in-puglianellambito-del-
 awc-capacita-di-acqua-disponibile
 azienda-consorziale-trasporti
 azienda-sanitaria-locale-vco
+azienda-sanitaria-regione-molise
 azienda-socio-sanitaria-territoriale-della-brianza
 azienda-socio-sanitaria-territoriale-di-lecco
 azienda-socio-sanitaria-territoriale-lariana
@@ -11896,6 +11897,7 @@ comune-di-fiorano-modenese-analisi-combinata-2024
 comune-di-fiorano-modenese-bandi-di-gara-e-contratti-aggiornato
 comune-di-fiorano-modenese-cognomi-piu-diffusi-residenti
 comune-di-fiorano-modenese-condizioni-lavorative
+comune-di-fiorano-modenese-consulenti-e-collaboratori-aggiornato
 comune-di-fiorano-modenese-conteggio-protocolli
 comune-di-fiorano-modenese-conteggio-protocolli-per-ufficio
 comune-di-fiorano-modenese-convocati
@@ -12008,6 +12010,7 @@ comune-di-formigine-analisi-combinata-2024
 comune-di-formigine-bandi-di-gara-e-contratti-aggiornato
 comune-di-formigine-cognomi-piu-diffusi-residenti
 comune-di-formigine-condizioni-lavorative
+comune-di-formigine-consulenti-e-collaboratori-aggiornato
 comune-di-formigine-conteggio-protocolli
 comune-di-formigine-conteggio-protocolli-per-ufficio
 comune-di-formigine-convocati
@@ -12018,6 +12021,7 @@ comune-di-formigine-elenco-decessi
 comune-di-formigine-elenco-divorzi
 comune-di-formigine-elenco-incidenti-con-dettaglio-tipi-veicolo-2024
 comune-di-formigine-elenco-incidenti-con-pedoni-coinvolti-2024
+comune-di-formigine-elenco-incidenti-polizia-locale-2024
 comune-di-formigine-elenco-infrazioni-commesse-in-incidenti-2024
 comune-di-formigine-elenco-iscritti
 comune-di-formigine-elenco-matrimoni
@@ -12085,6 +12089,7 @@ comune-di-frassinoro-aire-per-nazione
 comune-di-frassinoro-bandi-di-gara-e-contratti-aggiornato
 comune-di-frassinoro-cognomi-piu-diffusi-residenti
 comune-di-frassinoro-condizioni-lavorative
+comune-di-frassinoro-consulenti-e-collaboratori
 comune-di-frassinoro-conteggio-protocolli
 comune-di-frassinoro-conteggio-protocolli-per-ufficio
 comune-di-frassinoro-convocati
@@ -12326,6 +12331,7 @@ comune-di-maranello-analisi-combinata-2024
 comune-di-maranello-bandi-di-gara-e-contratti-aggiornato
 comune-di-maranello-cognomi-piu-diffusi-residenti
 comune-di-maranello-condizioni-lavorative
+comune-di-maranello-consulenti-e-collaboratori-aggiornato
 comune-di-maranello-conteggio-protocolli
 comune-di-maranello-conteggio-protocolli-per-ufficio
 comune-di-maranello-convocati
@@ -12644,6 +12650,7 @@ comune-di-montefiorino-aire-per-nazione
 comune-di-montefiorino-bandi-di-gara-e-contratti-aggiornato
 comune-di-montefiorino-cognomi-piu-diffusi-residenti
 comune-di-montefiorino-condizioni-lavorative
+comune-di-montefiorino-consulenti-e-collaboratori-aggiornato
 comune-di-montefiorino-conteggio-protocolli
 comune-di-montefiorino-conteggio-protocolli-per-ufficio
 comune-di-montefiorino-convocati
@@ -12685,6 +12692,15 @@ comune-di-montegallo-punti-interesse
 comune-di-montegiorgio-punti-interesse
 comune-di-monteprandone-prg
 comune-di-monteprandone-punti-interesse
+comune-di-monterotondo
+comune-di-monterotondo-bilancio-di-previsione-entrata
+comune-di-monterotondo-bilancio-di-previsione-spesa
+comune-di-monterotondo-conteggio-popolazione
+comune-di-monterotondo-conteggio-protocolli
+comune-di-monterotondo-elenco-pratiche
+comune-di-monterotondo-famiglie-per-numero-figli
+comune-di-monterotondo-procedimenti-amministrativi
+comune-di-monterotondo-stranieri-per-stato-cittadinanza
 comune-di-monterubbiano-punti-interesse
 comune-di-montirone-area-di-sosta-disabili
 comune-di-montirone-aree-verdi
@@ -12792,10 +12808,10 @@ comune-di-pagani-rendiconto-della-gestione-spesa
 comune-di-pagani-stranieri-per-stato-cittadinanza
 comune-di-palagano
 comune-di-palagano-aire-per-nazione
-comune-di-palagano-bandi-di-gara-e-contratti-aggiornato
+comune-di-palagano-bandi-di-gara-e-contratti
 comune-di-palagano-cognomi-piu-diffusi-residenti
 comune-di-palagano-condizioni-lavorative
-comune-di-palagano-consulenti-e-collaboratori
+comune-di-palagano-consulenti-e-collaboratori1
 comune-di-palagano-conteggio-protocolli
 comune-di-palagano-conteggio-protocolli-per-ufficio
 comune-di-palagano-convocati
@@ -12823,7 +12839,6 @@ comune-di-palagano-persone-giuridiche
 comune-di-palagano-popolazione-residente
 comune-di-palagano-popolazione-residente-per-anno-di-nascita-sesso-stato-civile-in-anagrafe
 comune-di-palagano-popolazione-straniera-residente-per-sesso-anno-di-nascita
-comune-di-palagano-provvedimenti-degli-organi-di-indirizzo-politico
 comune-di-palagano-provvedimenti-dirigenti-amministrativi
 comune-di-palagano-provvedimenti-organi-di-indirizzo-politico
 comune-di-palagano-residenti-titoli-di-studio
@@ -13105,6 +13120,7 @@ comune-di-prignano-sulla-secchia-aire-per-nazione
 comune-di-prignano-sulla-secchia-bandi-di-gara-e-contratti-aggiornato
 comune-di-prignano-sulla-secchia-cognomi-piu-diffusi-residenti
 comune-di-prignano-sulla-secchia-condizioni-lavorative
+comune-di-prignano-sulla-secchia-consulenti-e-collaboratori-aggiornato
 comune-di-prignano-sulla-secchia-conteggio-protocolli
 comune-di-prignano-sulla-secchia-conteggio-protocolli-per-ufficio
 comune-di-prignano-sulla-secchia-convocati
@@ -13308,6 +13324,7 @@ comune-di-sassuolo-analisi-combinata-2024
 comune-di-sassuolo-bandi-di-gara-e-contratti-aggiornato
 comune-di-sassuolo-cognomi-piu-diffusi-residenti
 comune-di-sassuolo-condizioni-lavorative
+comune-di-sassuolo-consulenti-e-collaboratori-aggiornato
 comune-di-sassuolo-conteggio-protocolli
 comune-di-sassuolo-conteggio-protocolli-per-ufficio-dal-2020
 comune-di-sassuolo-convocati
@@ -51868,6 +51885,9 @@ schede-di-calcolo-degli-indicatori-dellosservatorio-epidemiologico-regione-lomba
 schede-di-dimissione-ospedaliera-dimessi-in-regime-ordinario-per-azienda-di-ricovero-e-drg
 schede-di-dimissione-ospedaliera-dimessi-per-azienda-di-ricovero-e-regime-di-ricovero
 schede-di-dimissione-ospedaliera-tasso-standardizzato-di-ospedalizzazione-per-azienda-usl-di-re
+schede-di-dimissioni-ospedaliere-2023
+schede-di-dimissioni-ospedaliere-dato-demografico-popolazione-2023
+schede-di-dimissioni-ospedaliere-trasferimenti-2023
 schede-iaas
 schede-informative-del-comune-di-trento
 schede-infrastruttura
@@ -62089,6 +62109,7 @@ unione-dei-comuni-del-chianti-fiorentino-citta-metropolitana-di-firenze1
 unione-dei-comuni-del-coros
 unione-dei-comuni-del-distretto-ceramico
 unione-dei-comuni-del-distretto-ceramico-bandi-di-gara-e-contratti-aggiornato
+unione-dei-comuni-del-distretto-ceramico-consulenti-e-collaboratori-aggiornato
 unione-dei-comuni-del-distretto-ceramico-conteggio-protocolli
 unione-dei-comuni-del-distretto-ceramico-conteggio-protocolli-per-ufficio
 unione-dei-comuni-del-distretto-ceramico-convocati
