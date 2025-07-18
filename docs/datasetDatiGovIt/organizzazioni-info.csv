@@ -18,7 +18,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,anac,anac,64,https://dati.gov.it/view-dataset?organization=anac
 2024-12-04T19:25:34.119326,ARSAC - Azienda Regionale per lo Sviluppo dell’Agricoltura Calabrese,bc2358db-2de4-47e7-97d5-6e838bda23c9,arsac,arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese,2,https://dati.gov.it/view-dataset?organization=arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese
 2024-11-19T16:04:12.589435,ASBR - Azienda Speciale Servizi Bassa Reggiana,0fbdec27-b8fc-4696-8ec9-53a24adfb36e,assbre,asbr-azienda-speciale-servizi-bassa-reggiana,3,https://dati.gov.it/view-dataset?organization=asbr-azienda-speciale-servizi-bassa-reggiana
-2025-03-07T16:12:11.629737,ASP ambito 9,49f1740e-4b40-4bd1-8f47-34d270507718,_aspan,asp-ambito-9,1,https://dati.gov.it/view-dataset?organization=asp-ambito-9
+2025-03-07T16:12:11.629737,ASP ambito 9,49f1740e-4b40-4bd1-8f47-34d270507718,_aspan,asp-ambito-9,8,https://dati.gov.it/view-dataset?organization=asp-ambito-9
 2024-09-11T14:37:28.218872,ASPAL - Agenzia Sarda per le Politiche Attive del Lavoro,8b8cf2d9-cb93-4c83-b7ef-af40d0669369,aril_,aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro,13,https://dati.gov.it/view-dataset?organization=aspal-agenzia-sarda-per-le-politiche-attive-del-lavoro
 2025-02-07T15:12:20.270388,ASST Centro Specialistico Ortopedico Traumatologico Gaetano Pini Cto,dfa72f40-2d01-4d16-a164-b950ba1f33a1,asstgp,asst-centro-specialistico-ortopedico-traumatologico-gaetano-pini-cto,0,https://dati.gov.it/view-dataset?organization=asst-centro-specialistico-ortopedico-traumatologico-gaetano-pini-cto
 2025-02-07T15:15:27.319533,ASST Fatebenefratelli Sacco,7c195bc7-e5c2-4cea-8703-f5985de14972,afs,asst-fatebenefratelli-sacco,3,https://dati.gov.it/view-dataset?organization=asst-fatebenefratelli-sacco
@@ -192,6 +192,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-17T09:12:57.959067,Comune di Valmadrera,0d12d4c1-640c-4d0f-b0b5-ade2aa7887d9,c_l634,comune-di-valmadrera,46,https://dati.gov.it/view-dataset?organization=comune-di-valmadrera
 2025-02-07T15:07:01.452594,Comune di Vecchiano,21c6292b-f32c-4fd1-9f8d-a3392fde8392,c_l702,comune-di-vecchiano,3,https://dati.gov.it/view-dataset?organization=comune-di-vecchiano
 2025-05-07T12:28:42.782433,Comune di Venafro,98dea997-f6bf-4e57-8111-87b4c50543e9,c_l725,comune-di-venafro,5,https://dati.gov.it/view-dataset?organization=comune-di-venafro
+2025-07-18T08:43:05.599071,Comune di Vico del Gargano,927b88eb-98e4-4fea-b1d3-a8f7695013c2,c_l842,comune-di-vico-del-gargano,3,https://dati.gov.it/view-dataset?organization=comune-di-vico-del-gargano
 2025-02-07T10:27:55.515585,Comune di Vieste,727baae0-0f4e-44cb-89a0-a75385d48a1d,c_l858,comune-di-vieste,0,https://dati.gov.it/view-dataset?organization=comune-di-vieste
 2025-04-11T08:19:19.505666,Comune di Vigonza,947662c1-5497-4c8e-a63a-f6330c842016,c_l900,comune-di-vigonza,26,https://dati.gov.it/view-dataset?organization=comune-di-vigonza
 2025-02-07T15:19:44.831761,Comunità Montana Valle Imagna,65d89bdc-7a64-4d28-b3de-87c8b58faa43,CMVI,comunita-montana-valle-imagna,3,https://dati.gov.it/view-dataset?organization=comunita-montana-valle-imagna
