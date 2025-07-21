@@ -2,19 +2,19 @@ REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
 Abruzzo,Gasolio,SELF,1.677
 Abruzzo,Benzina,SELF,1.733
 Abruzzo,GPL,SERVITO,0.704
-Abruzzo,Metano,SERVITO,1.422
+Abruzzo,Metano,SERVITO,1.421
 Basilicata,Gasolio,SELF,1.686
 Basilicata,Benzina,SELF,1.759
 Basilicata,GPL,SERVITO,0.693
 Basilicata,Metano,SERVITO,1.476
 Bolzano,Gasolio,SELF,1.728
 Bolzano,Benzina,SELF,1.785
-Bolzano,GPL,SERVITO,0.781
+Bolzano,GPL,SERVITO,0.780
 Bolzano,Metano,SERVITO,1.549
 Calabria,Gasolio,SELF,1.683
 Calabria,Benzina,SELF,1.765
 Calabria,GPL,SERVITO,0.746
-Calabria,Metano,SERVITO,1.518
+Calabria,Metano,SERVITO,1.519
 Campania,Gasolio,SELF,1.652
 Campania,Benzina,SELF,1.722
 Campania,GPL,SERVITO,0.659
@@ -23,14 +23,14 @@ Emilia Romagna,Gasolio,SELF,1.664
 Emilia Romagna,Benzina,SELF,1.713
 Emilia Romagna,GPL,SERVITO,0.674
 Emilia Romagna,Metano,SERVITO,1.394
-Friuli Venezia Giulia,Gasolio,SELF,1.692
+Friuli Venezia Giulia,Gasolio,SELF,1.691
 Friuli Venezia Giulia,Benzina,SELF,1.749
-Friuli Venezia Giulia,GPL,SERVITO,0.691
+Friuli Venezia Giulia,GPL,SERVITO,0.689
 Friuli Venezia Giulia,Metano,SERVITO,1.438
 Lazio,Gasolio,SELF,1.656
 Lazio,Benzina,SELF,1.717
 Lazio,GPL,SERVITO,0.699
-Lazio,Metano,SERVITO,1.609
+Lazio,Metano,SERVITO,1.603
 Liguria,Gasolio,SELF,1.691
 Liguria,Benzina,SELF,1.739
 Liguria,GPL,SERVITO,0.782
@@ -44,7 +44,7 @@ Marche,Benzina,SELF,1.709
 Marche,GPL,SERVITO,0.724
 Marche,Metano,SERVITO,1.365
 Molise,Gasolio,SELF,1.674
-Molise,Benzina,SELF,1.739
+Molise,Benzina,SELF,1.738
 Molise,GPL,SERVITO,0.713
 Molise,Metano,SERVITO,1.463
 Piemonte,Gasolio,SELF,1.659
@@ -57,15 +57,15 @@ Puglia,GPL,SERVITO,0.673
 Puglia,Metano,SERVITO,1.503
 Sardegna,Gasolio,SELF,1.690
 Sardegna,Benzina,SELF,1.757
-Sardegna,GPL,SERVITO,0.805
+Sardegna,GPL,SERVITO,0.804
 Sicilia,Gasolio,SELF,1.681
 Sicilia,Benzina,SELF,1.757
 Sicilia,GPL,SERVITO,0.768
 Sicilia,Metano,SERVITO,1.764
-Toscana,Gasolio,SELF,1.665
+Toscana,Gasolio,SELF,1.666
 Toscana,Benzina,SELF,1.720
 Toscana,GPL,SERVITO,0.695
-Toscana,Metano,SERVITO,1.524
+Toscana,Metano,SERVITO,1.525
 Trento,Gasolio,SELF,1.692
 Trento,Benzina,SELF,1.757
 Trento,GPL,SERVITO,0.737
