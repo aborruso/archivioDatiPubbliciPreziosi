@@ -128,7 +128,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-05-27T13:40:52.936853,Comune di Mentana,04294742-0d45-4507-b740-a70f75ccd6be,c_f127,comune-di-mentana,45,https://dati.gov.it/view-dataset?organization=comune-di-mentana
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,100,https://dati.gov.it/view-dataset?organization=comune-di-messina
 2025-04-11T15:25:55.463465,Comune di Meta,c635426b-1b6e-46aa-a599-e6a1eba0b557,c_f162,comune-di-meta,0,https://dati.gov.it/view-dataset?organization=comune-di-meta
-2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2567,https://dati.gov.it/view-dataset?organization=comune-di-milano
+2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2568,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
 2025-04-14T12:26:03.595916,Comune di Militello in Val di Catania,ce57a0b9-b1e7-4fd0-bd0a-0ddd619fbb05,c_f209,comune-di-militello-in-val-di-catania,0,https://dati.gov.it/view-dataset?organization=comune-di-militello-in-val-di-catania
 2025-02-17T09:11:42.407328,Comune di Mogliano Veneto,c5ea01c8-cbef-41e4-9979-960f011bd72b,c_f269,comune-di-mogliano-veneto,42,https://dati.gov.it/view-dataset?organization=comune-di-mogliano-veneto
@@ -147,7 +147,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
 2025-04-07T10:36:44.512738,Comune di Pagani,a1033ff4-b70e-4d7e-aa1e-5926c222801a,c_g230,comune-di-pagani,10,https://dati.gov.it/view-dataset?organization=comune-di-pagani
 2025-06-19T13:14:48.899635,Comune di Palagano,96b3bbb3-e7c9-46a1-b980-a16ef8591e07,c_g250,comune-di-palagano,42,https://dati.gov.it/view-dataset?organization=comune-di-palagano
-2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1650,https://dati.gov.it/view-dataset?organization=comune-di-palermo
+2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1651,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,50,https://dati.gov.it/view-dataset?organization=comune-di-pescara
 2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,9,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
 2025-05-27T10:40:05.991849,Comune di Petilia Policastro,0d16adc8-4a2c-4a5c-b04f-8d544911dce0,c_g508,comune-di-petilia-policastro,0,https://dati.gov.it/view-dataset?organization=comune-di-petilia-policastro
@@ -213,7 +213,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-15T16:31:47.052910,Ente Autonomo Volturno Srl,4dc0cdde-3150-48ae-bacd-8552da668a74,eavs,ente-autonomo-volturno-srl,5,https://dati.gov.it/view-dataset?organization=ente-autonomo-volturno-srl
 2025-02-11T10:17:34.271846,Fondazione IRCCS Istituto Neurologico Carlo Besta,c432eac3-aef6-47aa-b088-216e3f4e4aff,fincbmi,fondazione-irccs-istituto-neurologico-carlo-besta,0,https://dati.gov.it/view-dataset?organization=fondazione-irccs-istituto-neurologico-carlo-besta
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
-2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8202,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8196,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,215,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,40,https://dati.gov.it/view-dataset?organization=inail
@@ -261,7 +261,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-07T10:23:04.452323,Provincia di Verona,6d38bd89-e867-40f2-be5e-4991acf327ca,p_vr,provincia-di-verona,3,https://dati.gov.it/view-dataset?organization=provincia-di-verona
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,212,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
-2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,338,https://dati.gov.it/view-dataset?organization=regione-campania
+2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,339,https://dati.gov.it/view-dataset?organization=regione-campania
 2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,2083,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,747,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,402,https://dati.gov.it/view-dataset?organization=regione-lazio
@@ -269,9 +269,9 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3276,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5440,https://dati.gov.it/view-dataset?organization=regione-marche
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,795,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1567,https://dati.gov.it/view-dataset?organization=regione-puglia
+2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1569,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10848,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,11126,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,447,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6281,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
