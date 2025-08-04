@@ -7,6 +7,7 @@ id
 04479b8cf22375ec99e4b378de716fcdc5f51f9db68e7a0e2d8c4261a25d37cb
 07215454fa011b27ac5c747fdfc0e1ec25bb9af4871911777c89dda551c74977
 07772111a88318ede0acd5e593cf639921d9a52c724473506f804ce4503e67a4
+08f7919533eda2b3ef0b174f035f698c7248a377c70a036bad67e466ef3bcdfa
 0a155118f92913e845ccf6fad00b7dfb69c419758b6f95fe32f01407e0ec139f
 10-parcheggi-comune-di-berlingo
 10-parcheggi-comune-di-manerbio
@@ -59,6 +60,7 @@ id
 1994-coperture-vettoriali-uso-del-suolo-di-dettaglio-edizione-20211
 1997-2001-personale-universitario
 1a26b312078e897e5d3706880aaf058636c6e8cfda9d581e81a0e19a74749f0b
+1b3169fb3d0490f3dd70999852c71f8bd8705f7846b15d205f6d32ecd0f80345
 2-lecce-opendata-contest-graduatorie
 2000-milano-carta-tecnica-comunale-scala-1-1000-serie-2000-milano-municipal-base-map-scale-1-10
 2002-2008-personale-universitario
@@ -414,6 +416,7 @@ id
 57f11dcc4a9ce3f38d6db84b06d0d3c2d20d8c53b588a6d720ac1041ec4f48ab
 58ecdff0882555cc3f10dd0fa36aa9046a600d49d96b17f4fb5ea9634ec17616
 5a44c022cffd2f65cf52895bc04cda406e07995cece2393b20eebcf87d2c8f38
+5b679bca9e6f5e82501ce1dedb8ecc3600926dddc3a12298885a7a2f311fce95
 5b9f130358446b1d98ad30ab85672594a4f67a6b26b76c67d8d7dbc15f36dccf
 5c2c9e7f2c80a9d1e3cfec3a650dc3c2e689b879fff52c88d18bd031dca384b3
 5cfa30c7830115e09dc26a890573843ddf74805a9ca28cbce9ed1ad83ef4341a
@@ -428,7 +431,9 @@ id
 613c51cb314b4bb13fa2ae751c9db7dc48f7db4850b84b77890d0bf2b637f194
 62ecc273e5981978a6db10ad659976a011d4b835d8a0e3e08a4ca8de392d2b0a
 62f553370e5e46a2b171f55bed460762c9d8ab11ef4a483851fa2ce822e13cd1
+6313c86f394eecbdba24b8c94512684edd70e63296ed6c1d4fbc1e6b75c7b4e2
 63340d84ef673da15bd255f175692831a19f8577f36b5b9412aa5f6bb1ffde62
+63bcb0a0ea012ce11abc0f92a472a54473551a28d519b055e9da71b3dd275542
 650dff9144bdb4d0d1f2d1803e4710da7d19aaae243c8d6648b1fc996e315ffa
 677bb9c38a04ef55de3ed4ef3f3461b9b9119016a0a65a84bd8318a35dd29ecc
 68a5790189e9a6646cee4505c9f3eaea052652b64e099bf36ae474d6017cbd39
@@ -450,6 +455,7 @@ id
 79a09b3a1c7f3407be542a33a09e0afe423b951af1a13c7625ff9f2055163df7
 79fb4dec625eedabbcc9b5d78fea88214c69765c4a7f2e56c45f695625d00ea1
 7a1b5dff99c5e4944a806328853c3ba7f24204d7e30894e9ac2721201bbc17b7
+7cc40c2e7e62115e7f3fde892351ec174ae4e5f16d0e3ee2ad0ee2c0fca9db17
 7d2487951046c75234f16acbf54aaca8e29f2ad6591096a06dce2006ed16fd39
 7d6d1ce2c42b3427cbd43042c9c8f4279332302604280cb8db7f00dfac28ceb7
 7dcc7846b4eb8c9cf5f71e7a28e174f2d908025e8fb62133867405fedf713415
@@ -554,6 +560,7 @@ a407_l_pup
 a4afd14578aaaf8ce9530c33a1ab8ca6858a2564c48628d95dcb917fc8d59fdc
 a649a96a5929f983963f2c63c88ed0f18b716b5442b1b7e70f21246454a366c2
 a66aabb34379ee39374aee5259bfb79d72cba91d5386b0bb3b8d42e770763188
+a6ba2aeea94e98fae90a39e0aeee3a09bbf8ab8363967f79f5112de40fdc772c
 a73c59167e231a667af896a0b6b8c028bf19c939759597c585a3980586d7bab7
 a7d03753259e5c7ec378e2bb79adb966cd80bfbad1540144e3f546a2439a865e
 a84217c5c8163a0b6875c93090ca10e7739a1e991f6cff7ead4b7d4ae300f3cb
@@ -638,6 +645,7 @@ accessi-esterni-del-comune-di-vaiano1
 accessi-esterni1
 accessi-esterni1-2
 accessi-esterni1-3
+accessi-esterni2-1
 accessi-esterni2-3
 accessi-famiglie
 accessi-interni-1
@@ -3545,7 +3553,6 @@ arbusti-in-aree-verdi-urbane
 archeologia
 archeologia-industriale-a-rovigo
 archeologia-industriale-in-emilia-romagna
-archeologia-industriale-ptrc-2020
 archeologia-subacquea
 archeologie-industriali-ai
 archi-ferroviari-1-10-000-edizione-del-1988
@@ -3600,7 +3607,6 @@ area-ad-alta-intensita-insediativa-ptrc-2020
 area-attrezzata-del-suolo-aatt-020206
 area-bagnata-di-corso-dacqua-ab_cda-040101-aree
 area-bagnata-di-corso-dacqua-ab_cda-040101-linee
-area-bellunese-feltrina
 area-c-accessi-giornalieri-2012
 area-c-accessi-giornalieri-2012-distinti-per-residenti
 area-c-accessi-giornalieri-2012-distinti-per-veicoli-di-servizio
@@ -6290,6 +6296,7 @@ b6d78dee6aafb348e61fd39b5dbafc7bc9a5e4a7da16bd5dc5ff38e81cb191b4
 b7657fa8731709ac9170b5b0e24ecb3e5b9416601288601cf72803fa0852283d
 b80f5288aa1611aba667709f48758f7803c20ef77be24226e4a55e84de69f5fe
 b898fa17db7b413f93025caf47e882a2e64921e5aa7e569a9e15adf3f293b802
+b9ef158444e118cd546c84e649e0dcabf53ff0b2539057cb37a6220408190939
 baby-pit-stop
 babyparking
 bacini-a-scolo-meccanico
@@ -6415,6 +6422,9 @@ banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2012
 banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2015
 banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2018
 banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2020
+banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2021
+banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2022
+banca-dati-della-carta-della-copertura-del-suolo-aggiornamento-2023
 banca-dati-della-carta-della-copertura-del-suolo-al-2012-solo-classe-1-della-corine-land-cover-
 banca-dati-della-copertura-del-suolo-della-regione-veneto
 banca-dati-delle-farfalle-ditalia
@@ -11238,13 +11248,16 @@ comune-di-altamura-stranieri-per-stato-cittadinanza
 comune-di-altidona-punti-interesse
 comune-di-amandola-punti-interesse
 comune-di-appignano-del-tronto-punti-interesse
+comune-di-arese
 comune-di-arese-accessi-al-sito-istituzionale
 comune-di-arese-accesso-civico-atti-e-segnalazioni
+comune-di-arese-aire-per-nazione
 comune-di-arese-andamento-iscrizioni-e-iscritti-scuole-dal-2015
 comune-di-arese-app-infoarese
 comune-di-arese-bacini-di-utenza-scuole-dellinfanzia
 comune-di-arese-bacini-di-utenza-scuole-primarie
 comune-di-arese-bacini-di-utenza-scuole-secondarie
+comune-di-arese-bandi-di-gara-e-contratti-aggiornati
 comune-di-arese-bilancio-di-previsione-2018-entrate-su-classificazione
 comune-di-arese-bilancio-di-previsione-2018-entrate-su-piano-finanziario
 comune-di-arese-bilancio-di-previsione-2018-uscite-ex-tuel
@@ -11256,13 +11269,45 @@ comune-di-arese-bilancio-di-previsione-2019-entrate-su-piano-finanziario
 comune-di-arese-bilancio-di-previsione-2019-uscite-ex-tuel
 comune-di-arese-bilancio-di-previsione-2019-uscite-su-classificazione
 comune-di-arese-bilancio-di-previsione-2019-uscite-su-piano-finanziario
+comune-di-arese-censimento-popolazione
+comune-di-arese-cognomi-piu-diffusi-residenti
 comune-di-arese-comunicati-stampa
+comune-di-arese-consulenti-e-collaboratori-aggiornato
+comune-di-arese-conteggio-protocolli
+comune-di-arese-conteggio-protocolli-per-ufficio
+comune-di-arese-convocati
+comune-di-arese-elenco-anagrafico-decessi-giornalieri
+comune-di-arese-elenco-cancellati
+comune-di-arese-elenco-decessi
+comune-di-arese-elenco-delle-aree-di-circolazione
+comune-di-arese-elenco-divorzi
+comune-di-arese-elenco-iscritti
+comune-di-arese-elenco-matrimoni
+comune-di-arese-elenco-nascite
+comune-di-arese-elenco-residenti
+comune-di-arese-elenco-residenti-allestero
+comune-di-arese-elenco-stato-civile-decessi-giornalieri
+comune-di-arese-famiglie-con-stranieri-per-via
+comune-di-arese-famiglie-per-numero-figli
+comune-di-arese-famiglie-residenti-per-via
+comune-di-arese-famiglie-totali
 comune-di-arese-impianti-sportivi
 comune-di-arese-iscritti-al-canale-telegram
 comune-di-arese-manifesti
+comune-di-arese-matrim-celebrati-per-rito
+comune-di-arese-media-componenti-famiglia
+comune-di-arese-movimento-anagrafico
+comune-di-arese-movimento-stranieri
 comune-di-arese-newsletter
+comune-di-arese-nomi-resid-iscritti-per-nascita
+comune-di-arese-nomi-resid-per-eta-e-sesso
 comune-di-arese-pagina-facebook-mi-piace
+comune-di-arese-popolazione-residente
 comune-di-arese-profilo-instagram-centro-civico-agora
+comune-di-arese-provvedimenti-degli-organi-di-indirizzo-politico
+comune-di-arese-provvedimenti-dei-dirigenti
+comune-di-arese-provvedimenti-dirigenti-amministrativi
+comune-di-arese-provvedimenti-organi-di-indirizzo-politico
 comune-di-arese-pubblicazione-materiale-editoriale
 comune-di-arese-rendiconto-2017-entrate-ex-tuel
 comune-di-arese-rendiconto-2017-entrate-su-classificazione
@@ -11281,7 +11326,17 @@ comune-di-arese-rendiconto-2020-entrate-su-classificazione
 comune-di-arese-rendiconto-2020-uscite-ex-tuel
 comune-di-arese-rendiconto-2020-uscite-su-classificazione
 comune-di-arese-rendiconto-2020-uscite-su-piano-finanziario
+comune-di-arese-resid-per-quartiere-e-figli-in-fam
+comune-di-arese-residenti-per-quartiere-ed-eta
+comune-di-arese-residenti-titoli-di-studio
 comune-di-arese-risorse-finanziarie-trasferite-alle-scuole
+comune-di-arese-saldi-movimento-anagrafico
+comune-di-arese-sovvenzioni-contributi-sussidi-vantaggi-economici-aggiornati
+comune-di-arese-stranieri-per-quartiere-e-cittad
+comune-di-arese-stranieri-per-sesso-ed-eta
+comune-di-arese-stranieri-per-stato-cittad
+comune-di-arese-tassi-popolazione-residente
+comune-di-arese-trend-demografico
 comune-di-arese-volantini-e-pieghevoli
 comune-di-arquata-del-tronto-punti-interesse
 comune-di-ascoli-piceno-punti-interesse
@@ -15197,6 +15252,7 @@ consumo-del-suolo-al-2011-della-provincia-di-bologna
 consumo-del-suolo1
 consumo-del-suolo1-1
 consumo-del-suolo1-3
+consumo-del-suolo2-2
 consumo-del-suolo2-3
 consumo-di-acqua-anno-2009-2010
 consumo-di-acqua-anno-2010-2011
@@ -16560,26 +16616,13 @@ corsi-attivi-serie-storica
 corsi-dacqua
 corsi-dacqua-di-interesse-regionale-ptrc-2020
 corsi-dacqua-esclusi-dal-vincolo-paesaggistico-della-provincia-di-padova-ai-sensi-del-d-42-2004
-corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-belluno-ai-sensi-42-2004
 corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-padova-ai-sensi-d-42-2004
-corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-rovigo-ai-sensi-d-42-2004
 corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-treviso-ai-sensi-42-2004
-corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-venezia-ai-sensi-42-2004
-corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-verona-ai-sensi-d-42-2004
-corsi-dacqua-interessati-dal-vincolo-paesaggistico-della-provincia-di-vicenza-ai-sensi-42-2004
-corsi-dacqua-non-interessati-dal-vincolo-paesaggistico-della-provincia-di-rovigo-ai-sen-42-2004
 corsi-dacqua-non-interessati-dal-vincolo-paesaggistico-della-provincia-di-treviso-ai-se-42-2004
-corsi-dacqua-non-interessati-dal-vincolo-paesaggistico-della-provincia-di-venezia-ai-se-42-2004
-corsi-dacqua-non-interessati-dal-vincolo-paesaggistico-della-provincia-di-verona-ai-sen-42-2004
-corsi-dacqua-non-interessati-dal-vincolo-paesaggistico-della-provincia-di-vicenza-ai-se-42-2004
 corsi-dacqua-non-vincolati-della-provincia-di-belluno-ai-sensi-del-d-lgs-42-2004
 corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-bell-42-2004
 corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-pado-42-2004
-corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-rovi-42-2004
 corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-trev-42-2004
-corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-vene-42-2004
-corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-vero-42-2004
-corsi-dacqua-parzialmente-interessati-dal-vincolo-paesaggistico-della-provincia-di-vice-42-2004
 corsi-dacqua-punti
 corsi-dacqua-strahler
 corsi-dacqua-tratti
@@ -17488,6 +17531,8 @@ dati-legge-190-2019
 dati-meteo-arpav-principali-variabili-meteorologiche-anni-1994-2022
 dati-meteo-giornalieri-del-comune-di-matera
 dati-meteo-mese-aprile-2025
+dati-meteo-mese-di-giugno-2025
+dati-meteo-mese-di-maggio-2025
 dati-meteo-mese-dicembre-2024
 dati-meteo-mese-febbraio-2025
 dati-meteo-mese-marzo-2025
@@ -19990,15 +20035,21 @@ dsm-last-lidar-con-risoluzione-a-terra-2-metri-regione-veneto
 dsm-passo-1m-alghero-anno-2008
 dsm-via-vione-del-padule
 dsm_hillshade
+dsm_piazza_carlo_alberto_dalla_chiesa
 dsm_piazza_sandro_pertini
 dsm_supercorta_monsummano_alto
+dsm_via_buriano
+dsm_via_campinelli
 dsm_via_dei_girasoli
 dsm_via_del_porto_dei_masoni
 dsm_via_della_resistenza
 dsm_via_di_melazzano
 dsm_via_francesca_vergine_dei_pini
 dsm_via_francesco_carrara
+dsm_via_monsummano_castello
+dsm_via_occhibelli
 dsm_via_pozzarello
+dsm_via_rubattorno
 dsm_via_vaticano
 dsm_via_vione_del_padule
 dsm_via_vione_del_padule_torrenti
@@ -20013,29 +20064,12 @@ dtm-2023
 dtm-40
 dtm-5x5
 dtm-abitato-le-colmate
-dtm-accumulo-di-flusso-flow-accumulation
-dtm-accumulo-di-flusso-flow-accumulation-metodo-d_infinito
-dtm-carta-di-suscettivita
-dtm-cartografia-delle-aree-esposte-a-frane-di-crollo-cartografia-raster-a-maglia-20x20m
-dtm-curvatura-in-pianta
-dtm-curvatura-lungo-il-profilo-metodo-qsm
-dtm-curvatura-tot-tangenziale-metodo-qsm
-dtm-dem-con-riempimento-di-depressioni-chiuse
-dtm-densita-di-drenaggio
-dtm-direzione-del-flusso-metodo-d_infinito
-dtm-durata-dellinsolazione
 dtm-e-dsm-passo-1-m-fascia-costiera-2008
 dtm-e-dsm-passo-1-m-relativi-alla-costa-della-gallura
 dtm-e-dsm-passo-1-m-relativi-alle-aree-critiche
 dtm-e-dsm-passo-1-m-relativi-alle-fasce-fluviali
 dtm-e-dsm-passo-1-metro-dei-centri-urbani-interni-della-sardegna-volo-2013
-dtm-esposizione-del-versante-metodo-qsm
-dtm-grado-di-saturazione-twi_d8
-dtm-grado-di-saturazione-twi_dinf
-dtm-inclinazione-del-versante
 dtm-indice-di-convergenza
-dtm-indice-di-irregolarita-morfologica
-dtm-indice-di-posizione-topografica
 dtm-lidar-con-risoluzione-a-terra-1-metro-area-dolomitica
 dtm-lidar-con-risoluzione-a-terra-1-metro-provincia-autonoma-di-bolzano
 dtm-lidar-con-risoluzione-a-terra-1-metro-regione-abruzzo
@@ -20078,8 +20112,6 @@ dtm-passo-10-metri
 dtm-passo-5-m-fascia-costiera-2008
 dtm-passo-5m-alghero-anno-2008
 dtm-piazza-sandro-pertini
-dtm-quantificazione-dellenergia-dacqua
-dtm-slf-lunghezza-e-inclinazione-su-versante
 dtm-supercorta
 dtm-terramare-con-risoluzione-a-terra-4-metri-amp-regione-calabria
 dtm-terramare-con-risoluzione-a-terra-4-metri-amp-regione-campania
@@ -20093,10 +20125,13 @@ dtm_01_pcrfvg
 dtm_10_pcrfvg
 dtm_10_rafvg2007
 dtm_hillshade
+dtm_via_campinelli
+dtm_via_castello_di_monsummano
 dtm_via_di_melazzano
 dtm_via_francesca_vergine_dei_pini
 dtm_via_porto_dei_masoni
 dtm_via_pozzarello
+dtm_via_rubattorno
 dtm_via_vaticano
 dtt-dizionario-toponomastico-trentino
 duc-distretti-urbani-del-commercio
@@ -20126,6 +20161,7 @@ e2-2a-b-c-ambiti-di-applicazione-della-disciplina-dei-servizi-e-delle-attrezzatu
 e2-2a-b-c-ambiti-di-applicazione-della-disciplina-dei-servizi-e-delle-attrezzature-modello-uml-1
 e2-3-a-b-c-ambiti-di-applicazione-della-disciplina-dei-tessuti-edilizi-e-degli-ambiti-di-trasfo
 e20f23b6a0f6f75f3fab5bb1991b6897522aa4fd714d8bf199b5cca1477244cd
+e27dec246bc7af8d3750db481f34ba096b95c087d69fdd8a61fd6c7384fa9793
 e3-1-vincoli-e-fasce-di-rispetto-modello-uml
 e3-1-vincoli-e-fasce-di-rispetto-modello-uml-1
 e3-2-ambiti-ed-aree-di-pertinenza-e-salvaguardia-modello-uml
@@ -20397,7 +20433,6 @@ elemento-stradale-el_str-010107
 elemento-viabilita-mista-secondaria-el_vms-010116
 elenchi-agenzie-di-viaggio-autorizzate
 elenchi-agenzie-sicure
-elenchi-alfanumerici-dei-corsi-dacqua-vincolati-ai-sensi-dellart-142-comma-1-lett-c-del-09-2013
 elenchi-anagrafe-siti-da-bonificare
 elenchi-degli-incarichi-conferiti-o-autorizzati-a-ciascun-dipendente
 elenchi-delibere-consiglio-comunale
@@ -24839,7 +24874,6 @@ fasce-di-rispetto-strade-classificazione-b
 fasce-di-rispetto-strade-classificazione-b1
 fasce-di-rispetto-strade-classificazione-c
 fasce-di-rispetto-strade-classificazione-c1
-fasce-eta-ogni-cinque-anni
 fasce-fluviali-psai-adb-campania-sud-ex-destra-sele
 fasce-fluviali-psai-adb-campania-sud-ex-sinistra-sele
 fasce-pertinenza-acustica1
@@ -25449,18 +25483,28 @@ genova-catasto-1907
 genova-compagna-ambiti-amministrativi-medievali
 genova-conestagie-ambiti-amministrativi-medievali-minori
 genova-imprese-artigiane-e-addetti-per-settore-e-forma-giuridica-anno-2024
+genova-imprese-artigiane-e-addetti-per-settore-e-forma-giuridica-anno-2025
 genova-imprese-attive-e-addetti-per-comune-anno-2024
+genova-imprese-attive-e-addetti-per-comune-anno-2025
 genova-imprese-femminili-attive-e-addetti-per-settore-e-forma-giuridica-anno-2024
+genova-imprese-femminili-attive-e-addetti-per-settore-e-forma-giuridica-anno-2025
 genova-imprese-giovanili-e-addetti-per-settore-e-forma-giuridica-anno-2024
+genova-imprese-giovanili-e-addetti-per-settore-e-forma-giuridica-anno-2025
 genova-imprese-straniere-e-addetti-per-settore-e-forma-giuridica-anno-2024
+genova-imprese-straniere-e-addetti-per-settore-e-forma-giuridica-anno-2025
 genova-iscrizioni-cessazioni-e-cessazioni-non-di-ufficio-per-settore-e-forma-giuridica-ann-2024
+genova-iscrizioni-cessazioni-e-cessazioni-non-di-ufficio-per-settore-e-forma-giuridica-ann-2025
 genova-luoghi-di-culto
 genova-mura-del-1414
 genova-palazzi-dei-rolli
 genova-sedi-di-impresa-e-addetti-per-settore-e-forma-giuridica-anno-2024
+genova-sedi-di-impresa-e-addetti-per-settore-e-forma-giuridica-anno-2025
 genova-titoli-protestati-per-mese-tipologia-di-effetto-e-importo-anno-2024
+genova-titoli-protestati-per-mese-tipologia-di-effetto-e-importo-anno-2025
 genova-ul-attive-e-addetti-per-comune-anno-2024
+genova-ul-attive-e-addetti-per-comune-anno-2025
 genova-ul-attive-e-addetti-per-settore-e-forma-giuridica-anno-2024
+genova-ul-attive-e-addetti-per-settore-e-forma-giuridica-anno-2025
 geo10k-coperture-quaternarie
 geocatalogo-pat
 geodatabase-pedoclimatico-italia
@@ -29123,6 +29167,7 @@ la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2022
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2023
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2024
+la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2025
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2020
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2021
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-3-trimest-2022
@@ -29532,6 +29577,7 @@ le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2021
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2024
+le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2025
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trim-2020
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trimestre-2021
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-3-trimestre-2022
@@ -29555,6 +29601,7 @@ le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2024
+le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2025
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-3-trimestre-2023
@@ -29579,6 +29626,7 @@ le-imprese-dei-comuni-della-provincia-di-lecce-1-trimestre-2025
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2024
+le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2025
 le-imprese-dei-comuni-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-3-trimestre-2023
 le-imprese-dei-comuni-della-provincia-di-lecce-3-trimestre-2024
@@ -29610,6 +29658,7 @@ le-imprese-della-provincia-di-lecce-2-trimestre-2021
 le-imprese-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-della-provincia-di-lecce-2-trimestre-2024
+le-imprese-della-provincia-di-lecce-2-trimestre-2025
 le-imprese-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-della-provincia-di-lecce-3-trimestre-2021
 le-imprese-della-provincia-di-lecce-3-trimestre-2022
@@ -29634,6 +29683,7 @@ le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2024
+le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2025
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-2020
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-2022
 le-imprese-femminili-della-provincia-di-lecce-3-trimestre-2023
@@ -29693,8 +29743,6 @@ lemina-alluvione-13-16-10-2000
 lente-di-ghiaie-cementate-e-conglomerati
 lepre-alpina-piano-faunistico-provinciale-2025
 lepre-comune-piano-faunistico-provinciale-2025
-let-mi-dataset-autori
-let-mi-dataset-citazioni-letterarie
 letti-per-struttura-sanitaria-di-ricovero
 lettura-di-libri-e-quotidiani
 lettura-di-libri-e-quotidiani-femmine
@@ -30141,6 +30189,7 @@ locazioni-turistiche
 locomotiva-da-manovra
 locomotive-alta-velocita
 locomotive-convenzionali
+loculi-cimiteriali-disponibili
 loreo-museo-galleggiante-ptrc-2020
 lotta-biologica-nei-castagneti-del-lazio
 lotti-convenzioni-aria
@@ -38599,7 +38648,6 @@ nozze-d-oro-2018
 nuclei-abitati-presenti-nel-territorio
 nuclei-didentita-locale-nil-vigenti-pgt-2030
 nuclei-e-agglomerati-edilizi-di-matrice-storica
-nuclei-famigliari-per-numero-di-componenti
 nuclei-familiari-con-componente-inabile-minorenne-o-maggiorenne-tab-15
 nuclei-familiari-con-componente-inabile-minori-e-non-tab-14
 nuclei-familiari-con-componente-inabile-tab-20a
@@ -39392,7 +39440,6 @@ numero-di-banche
 numero-di-beneficiari-di-congedo-parentale-per-anno-di-competenza-2010-2012
 numero-di-cani-domestici-per-comune-di-residenza
 numero-di-cani-domestici-per-razza
-numero-di-cave-attive-nella-regione-del-veneto
 numero-di-certificatori-degli-attestati-di-prestazione-energetica-ape-iscritti-al-sipee-e-suddi
 numero-di-cogeneratori-aggregati-per-comune-e-data-di-installazione
 numero-di-contribuenti-e-media-annua-del-numero-di-contribuenti-lavoratori-parasubord-2011-2016
@@ -40122,6 +40169,8 @@ nuvola_di_punti_3d_via_del_porto_dei_masoni
 nuvola_di_punti_3d_via_della_resistenza
 nuvola_di_punti_3d_via_francesca_vergine_dei_pini
 nuvola_di_punti_3d_via_francesco_carrara
+nuvola_di_punti_via_burianino
+nuvola_di_punti_via_rubattorno
 nuvole-punti-rilievo-lidar-rafvg-2017-2020
 o3-orario-ultimi-7-giorni1
 oasi-di-protezione
@@ -40135,11 +40184,15 @@ obj-modellazine_3d_via_vione_del_padule_torrenti
 obj-modellazione_3d_via_del_porto_dei_masoni
 obj-modellazione_3d_via_pozzarello
 obj_cava_grande
+obj_colle_monsummano_alto
 obj_modellazione_3d_via_antonio_labriola
 obj_modellazione_3d_via_dei_girasoli
 obj_modellazione_3d_via_della_resistenza
 obj_piazza_sandro_pertini
 obj_supercorta_aibi
+obj_via_burianino
+obj_via_campinelli
+obj_via_rubattorno
 observationparameter_voc_1
 observationparameter_voc_11
 obsoleto-orari-e-percorsi-bus-urbani-2015
@@ -41056,11 +41109,14 @@ ortofoto-reticolo-idrografico-fiume-reno-2021-rgb
 ortofoto-reticolo-idrografico-fiume-reno-2021-rgb-1
 ortofoto-val-di-sella-2007-rgb
 ortofoto-zona-soccorritori-piano-di-protezione-civile
+ortofoto_colle_monsummano_alto
 ortofoto_le_colmate
 ortofoto_le_colmate_torrenti
 ortofoto_piazza_dalla_chiesa
 ortofoto_piazza_sandro_pertini
 ortofoto_supercorta_cava
+ortofoto_via_campitelli_multispettrale
+ortofoto_via_campitelli_rgb
 ortofoto_via_dei_girasoli
 ortofoto_via_del_porto_dei_masoni
 ortofoto_via_della_resistenza
@@ -41069,6 +41125,7 @@ ortofoto_via_di_melazzano
 ortofoto_via_di_melazzano_controllo
 ortofoto_via_francesca_vergine_dei_pini
 ortofoto_via_francesco_carrara
+ortofoto_via_occhibelli
 ortofoto_via_orlandini
 ortofoto_via_pozzarello
 ortofoto_via_vaticano
@@ -42247,6 +42304,7 @@ percentuale-occupati-per-titolo-di-studio-sesso-e-regione-anno-2012-i-3-1-6
 percentuale-ore-autorizzate-totali-di-cig-per-ramo-e-classe-di-attivita-anni-2017-2018
 percentuale-ore-autorizzate-totali-di-cig-per-ramo-e-classe-di-attivita-anni-2019-2021
 percentuale-raccolta-differenziata
+percentuale-raccolta-differenziata1
 percettori-di-anf-distinti-per-categoria-e-zona-geografica-di-residenza-gestione-ex-inpdap-a-28
 percettori-di-contributi-economici-per-il-superamento-del-disagio-economico-per-tipo-2010-2013
 percettori-di-contributi-economici-per-popolazione-femminile-e-per-tipo-prestazione-econom-2010
@@ -42413,7 +42471,6 @@ perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-dettaglio-in-scala
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-dettaglio-in-scala-1-10000-pai1
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1-25000-pai
 perimetrazione-delle-aree-a-pericolosita-idraulica-livello-di-sintesi-in-scala-1-25000-pai1
-perimetrazione-delle-aree-boscate-del-veneto
 perimetrazione-delle-aree-boscate-del-veneto-2
 perimetrazione-delle-aree-boscate-del-veneto-con-copertura-inferiore-al-30
 perimetrazione-delle-aree-con-pericolosita-da-frana-derivate-dallinventario-dei-fenomeni-franos
@@ -45772,6 +45829,8 @@ prime-iscrizioni-veicoli-nuovi-nel-2022-autovetture-per-ente-territoriale
 prime-iscrizioni-veicoli-nuovi-nel-2022-autovetture-per-ente-territoriale-e-alimentazione
 prime-iscrizioni-veicoli-nuovi-nel-2023-autovetture-per-ente-territoriale
 prime-iscrizioni-veicoli-nuovi-nel-2023-autovetture-per-ente-territoriale-e-alimentazione
+prime-iscrizioni-veicoli-nuovi-nel-2024-autovetture-per-ente-territoriale
+prime-iscrizioni-veicoli-nuovi-nel-2024-autovetture-per-ente-territoriale-e-alimentazione
 primi-10-nomi-femminili-dei-nati-suddivisi-per-circoscrizione-serie-storica-dal-2015
 primi-10-nomi-maschili-dei-nati-suddivisi-per-circoscrizione-serie-storica-dal-2015
 principale-sistema-di-mobilita-livello-regionale
@@ -48293,6 +48352,8 @@ qualita-dellaria-biossido-di-zolfo-so2-anno-2011
 qualita-dellaria-campioni-inquinanti-dataset
 qualita-dellaria-materiale-particolato-pm10-anno-2010
 qualita-dellaria-materiale-particolato-pm10-anno-2011
+qualita-dellaria-mese-di-giugno-2025
+qualita-dellaria-mese-di-maggio-2025
 qualita-dellaria-ossido-di-carbonio-co-anno-2011
 qualita-dellaria-ozono-o3-anno-2010
 qualita-dellaria-ozono-o3-anno-2011
@@ -48919,6 +48980,8 @@ radiazioni-per-demolizione-nel-2022-autovetture-per-ente-territoriale
 radiazioni-per-demolizione-nel-2022-autovetture-per-ente-territoriale-e-classe-euro
 radiazioni-per-demolizione-nel-2023-autovetture-per-ente-territoriale
 radiazioni-per-demolizione-nel-2023-autovetture-per-ente-territoriale-e-classe-euro
+radiazioni-per-demolizione-nel-2024-autovetture-per-ente-territoriale
+radiazioni-per-demolizione-nel-2024-autovetture-per-ente-territoriale-e-classe-euro
 radiazioni-per-esportazione
 radiazioni-per-esportazione-1-semestre-2016-nei-comuni-della-regione-fvg
 radiazioni-per-esportazione-1-semestre-2017-nei-comuni-della-regione-fvg
@@ -50402,13 +50465,21 @@ rendiconto-spese-comunita-di-montagna-del-natisone-e-torre
 rendiconto-spese-comunita-di-montagna-della-carnia
 rendiconto-spese-magnifica-comunita-di-montagna-dolomiti-friulane-cavallo-e-cansiglio
 rendiconto_pubblicato_serie_storica_entrate_aggregato_per_titolo_e_categoria_new
+rendiconto_pubblicato_serie_storica_entrate_aggregato_per_titolo_e_categoria_new1
 rendiconto_pubblicato_serie_storica_entrate_aggregato_per_titolo_natura_tipologia_e_provento_ne
+rendiconto_pubblicato_serie_storica_entrate_aggregato_per_titolo_natura_tipologia_e_provento_ne1
 rendiconto_pubblicato_serie_storica_saldi_new
+rendiconto_pubblicato_serie_storica_saldi_new1
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_amministrazione_e_missione_new
+rendiconto_pubblicato_serie_storica_spese_aggregato_per_amministrazione_e_missione_new1
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_amministrazione_missione_programma_e_ma
+rendiconto_pubblicato_serie_storica_spese_aggregato_per_amministrazione_missione_programma_e_ma1
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_classificazione_economica_titolo_catego
+rendiconto_pubblicato_serie_storica_spese_aggregato_per_classificazione_economica_titolo_catego1
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_missione_programma_e_macroaggregato_new
+rendiconto_pubblicato_serie_storica_spese_aggregato_per_missione_programma_e_macroaggregato_new1
 rendiconto_pubblicato_serie_storica_spese_aggregato_per_titolo_e_macroaggregato_new
+rendiconto_pubblicato_serie_storica_spese_aggregato_per_titolo_e_macroaggregato_new1
 rendimenti-fondi-pensione-aperti
 rendimenti-fondi-pensione-negoziali
 rendimenti-piani-individuali-pensionistici
@@ -50905,7 +50976,6 @@ rete-gnss-puglia
 rete-gps-configurazione-fino-al-2012
 rete-gps-per-il-controllo-della-subsidenza
 rete-idrografica-regionale-giunzioni-funzionali-al-grafo
-rete-idrografica-regionale-giunzioni-funzionali-al-grafo-1
 rete-idrografica-regionale-nodi-accessori-funzionali-al-grafo
 rete-idroviaria
 rete-irrigua
@@ -55324,6 +55394,7 @@ spd_mag_spe_pbs_amce2_01_2021_01
 spd_mag_spe_pbs_amce2_01_2022_01
 spd_mag_spe_pbs_amce2_01_2023_01
 spd_mag_spe_pbs_amce2_01_2024_01
+spd_mag_spe_pbs_amce2_01_2025_01
 spd_mag_spe_pbs_amice_01_2016_01
 spd_mag_spe_pbs_amice_01_2017_01
 spd_mag_spe_pbs_amice_01_2018_01
@@ -55333,6 +55404,7 @@ spd_mag_spe_pbs_amice_01_2021_01
 spd_mag_spe_pbs_amice_01_2022_01
 spd_mag_spe_pbs_amice_01_2023_01
 spd_mag_spe_pbs_amice_01_2024_01
+spd_mag_spe_pbs_amice_01_2025_01
 spd_mag_spe_pbs_ammce_01_2016_01
 spd_mag_spe_pbs_ammce_01_2017_01
 spd_mag_spe_pbs_ammce_01_2018_01
@@ -55342,6 +55414,7 @@ spd_mag_spe_pbs_ammce_01_2021_01
 spd_mag_spe_pbs_ammce_01_2022_01
 spd_mag_spe_pbs_ammce_01_2023_01
 spd_mag_spe_pbs_ammce_01_2024_01
+spd_mag_spe_pbs_ammce_01_2025_01
 spd_mag_spe_pbs_cece2_01_2016_01
 spd_mag_spe_pbs_cece2_01_2017_01
 spd_mag_spe_pbs_cece2_01_2018_01
@@ -55351,6 +55424,7 @@ spd_mag_spe_pbs_cece2_01_2021_01
 spd_mag_spe_pbs_cece2_01_2022_01
 spd_mag_spe_pbs_cece2_01_2023_01
 spd_mag_spe_pbs_cece2_01_2024_01
+spd_mag_spe_pbs_cece2_01_2025_01
 spd_mag_spe_pbs_micgs_01_2016_01
 spd_mag_spe_pbs_micgs_01_2017_01
 spd_mag_spe_pbs_micgs_01_2018_01
@@ -55360,6 +55434,7 @@ spd_mag_spe_pbs_micgs_01_2021_01
 spd_mag_spe_pbs_micgs_01_2022_01
 spd_mag_spe_pbs_micgs_01_2023_01
 spd_mag_spe_pbs_micgs_01_2024_01
+spd_mag_spe_pbs_micgs_01_2025_01
 spd_mag_spe_pbs_mis_01_2016_01
 spd_mag_spe_pbs_mis_01_2017_01
 spd_mag_spe_pbs_mis_01_2018_01
@@ -55369,6 +55444,7 @@ spd_mag_spe_pbs_mis_01_2021_01
 spd_mag_spe_pbs_mis_01_2022_01
 spd_mag_spe_pbs_mis_01_2023_01
 spd_mag_spe_pbs_mis_01_2024_01
+spd_mag_spe_pbs_mis_01_2025_01
 spd_mag_spe_pbs_misam_01_2016_01
 spd_mag_spe_pbs_misam_01_2017_01
 spd_mag_spe_pbs_misam_01_2018_01
@@ -55378,6 +55454,7 @@ spd_mag_spe_pbs_misam_01_2021_01
 spd_mag_spe_pbs_misam_01_2022_01
 spd_mag_spe_pbs_misam_01_2023_01
 spd_mag_spe_pbs_misam_01_2024_01
+spd_mag_spe_pbs_misam_01_2025_01
 spd_mag_spe_pbs_misce_01_2016_01
 spd_mag_spe_pbs_misce_01_2017_01
 spd_mag_spe_pbs_misce_01_2018_01
@@ -55387,6 +55464,7 @@ spd_mag_spe_pbs_misce_01_2021_01
 spd_mag_spe_pbs_misce_01_2022_01
 spd_mag_spe_pbs_misce_01_2023_01
 spd_mag_spe_pbs_misce_01_2024_01
+spd_mag_spe_pbs_misce_01_2025_01
 spd_mar_spe_pbs_amce2_01_2016_01
 spd_mar_spe_pbs_amce2_01_2017_01
 spd_mar_spe_pbs_amce2_01_2018_01
@@ -55945,6 +56023,7 @@ spd_pca_anz_dip_ente_01_2019
 spd_pca_anz_dip_ente_01_2020
 spd_pca_anz_dip_ente_01_2021
 spd_pca_anz_dip_ente_01_2022
+spd_pca_anz_dip_ente_01_2023
 spd_pca_anz_dip_stor_01
 spd_pca_anz_dip_tent_01_2010
 spd_pca_anz_dip_tent_01_2011
@@ -55959,6 +56038,7 @@ spd_pca_anz_dip_tent_01_2019
 spd_pca_anz_dip_tent_01_2020
 spd_pca_anz_dip_tent_01_2021
 spd_pca_anz_dip_tent_01_2022
+spd_pca_anz_dip_tent_01_2023
 spd_pca_ass_dip_dett_01_2010
 spd_pca_ass_dip_dett_01_2011
 spd_pca_ass_dip_dett_01_2012
@@ -55972,6 +56052,7 @@ spd_pca_ass_dip_dett_01_2019
 spd_pca_ass_dip_dett_01_2020
 spd_pca_ass_dip_dett_01_2021
 spd_pca_ass_dip_dett_01_2022
+spd_pca_ass_dip_dett_01_2023
 spd_pca_ass_sto_causa_01
 spd_pca_ass_sto_contr_01
 spd_pca_ces_dip_dett_01_2010
@@ -55987,6 +56068,7 @@ spd_pca_ces_dip_dett_01_2019
 spd_pca_ces_dip_dett_01_2020
 spd_pca_ces_dip_dett_01_2021
 spd_pca_ces_dip_dett_01_2022
+spd_pca_ces_dip_dett_01_2023
 spd_pca_ces_sto_causa_01
 spd_pca_ces_sto_contr_01
 spd_pca_lvf_dip_stor_01
@@ -56003,6 +56085,7 @@ spd_pca_occ_dip_ente_01_2019
 spd_pca_occ_dip_ente_01_2020
 spd_pca_occ_dip_ente_01_2021
 spd_pca_occ_dip_ente_01_2022
+spd_pca_occ_dip_ente_01_2023
 spd_pca_occ_dip_stor_01
 spd_pca_occ_dip_stpt_01
 spd_pca_occ_dip_tent_01_2010
@@ -56018,6 +56101,7 @@ spd_pca_occ_dip_tent_01_2019
 spd_pca_occ_dip_tent_01_2020
 spd_pca_occ_dip_tent_01_2021
 spd_pca_occ_dip_tent_01_2022
+spd_pca_occ_dip_tent_01_2023
 spd_pca_oct_dip_ente_01_2010
 spd_pca_oct_dip_ente_01_2011
 spd_pca_oct_dip_ente_01_2012
@@ -56031,6 +56115,7 @@ spd_pca_oct_dip_ente_01_2019
 spd_pca_oct_dip_ente_01_2020
 spd_pca_oct_dip_ente_01_2021
 spd_pca_oct_dip_ente_01_2022
+spd_pca_oct_dip_ente_01_2023
 spd_pca_oct_dip_tent_01_2010
 spd_pca_oct_dip_tent_01_2011
 spd_pca_oct_dip_tent_01_2012
@@ -56044,6 +56129,7 @@ spd_pca_oct_dip_tent_01_2019
 spd_pca_oct_dip_tent_01_2020
 spd_pca_oct_dip_tent_01_2021
 spd_pca_oct_dip_tent_01_2022
+spd_pca_oct_dip_tent_01_2023
 spd_rnd_cce_ael_gfcce_01_2013
 spd_rnd_cce_ael_gfcce_01_2014
 spd_rnd_cce_ael_gfcce_01_2015
@@ -56120,6 +56206,7 @@ spd_rnd_ent_dpc_m00_01_2020
 spd_rnd_ent_dpc_m00_01_2021
 spd_rnd_ent_dpc_m00_01_2022
 spd_rnd_ent_dpc_m00_01_2023
+spd_rnd_ent_dpc_m00_01_2024
 spd_rnd_ent_elb_art_01_2011
 spd_rnd_ent_elb_art_01_2012
 spd_rnd_ent_elb_art_01_2013
@@ -56133,6 +56220,7 @@ spd_rnd_ent_elb_art_01_2020
 spd_rnd_ent_elb_art_01_2021
 spd_rnd_ent_elb_art_01_2022
 spd_rnd_ent_elb_art_01_2023
+spd_rnd_ent_elb_art_01_2024
 spd_rnd_ent_sio_reg01_01_2014
 spd_rnd_ent_sio_reg01_01_2015
 spd_rnd_ent_sio_reg01_01_2016
@@ -56750,6 +56838,7 @@ spd_rnd_spe_dpc_m00_01_2020
 spd_rnd_spe_dpc_m00_01_2021
 spd_rnd_spe_dpc_m00_01_2022
 spd_rnd_spe_dpc_m00_01_2023
+spd_rnd_spe_dpc_m00_01_2024
 spd_rnd_spe_dpc_m02_01_2016
 spd_rnd_spe_dpc_m02_01_2017
 spd_rnd_spe_dpc_m02_01_2018
@@ -56758,6 +56847,7 @@ spd_rnd_spe_dpc_m02_01_2020
 spd_rnd_spe_dpc_m02_01_2021
 spd_rnd_spe_dpc_m02_01_2022
 spd_rnd_spe_dpc_m02_01_2023
+spd_rnd_spe_dpc_m02_01_2024
 spd_rnd_spe_dpc_m03_01_2017
 spd_rnd_spe_dpc_m03_01_2018
 spd_rnd_spe_dpc_m03_01_2019
@@ -56765,6 +56855,7 @@ spd_rnd_spe_dpc_m03_01_2020
 spd_rnd_spe_dpc_m03_01_2021
 spd_rnd_spe_dpc_m03_01_2022
 spd_rnd_spe_dpc_m03_01_2023
+spd_rnd_spe_dpc_m03_01_2024
 spd_rnd_spe_dpc_m04_01_2017
 spd_rnd_spe_dpc_m04_01_2018
 spd_rnd_spe_dpc_m04_01_2019
@@ -56772,6 +56863,7 @@ spd_rnd_spe_dpc_m04_01_2020
 spd_rnd_spe_dpc_m04_01_2021
 spd_rnd_spe_dpc_m04_01_2022
 spd_rnd_spe_dpc_m04_01_2023
+spd_rnd_spe_dpc_m04_01_2024
 spd_rnd_spe_dpc_m05_01_2017
 spd_rnd_spe_dpc_m05_01_2018
 spd_rnd_spe_dpc_m05_01_2019
@@ -56779,6 +56871,7 @@ spd_rnd_spe_dpc_m05_01_2020
 spd_rnd_spe_dpc_m05_01_2021
 spd_rnd_spe_dpc_m05_01_2022
 spd_rnd_spe_dpc_m05_01_2023
+spd_rnd_spe_dpc_m05_01_2024
 spd_rnd_spe_dpc_m06_01_2017
 spd_rnd_spe_dpc_m06_01_2018
 spd_rnd_spe_dpc_m06_01_2019
@@ -56786,6 +56879,7 @@ spd_rnd_spe_dpc_m06_01_2020
 spd_rnd_spe_dpc_m06_01_2021
 spd_rnd_spe_dpc_m06_01_2022
 spd_rnd_spe_dpc_m06_01_2023
+spd_rnd_spe_dpc_m06_01_2024
 spd_rnd_spe_dpc_m07_01_2017
 spd_rnd_spe_dpc_m07_01_2018
 spd_rnd_spe_dpc_m07_01_2019
@@ -56793,6 +56887,7 @@ spd_rnd_spe_dpc_m07_01_2020
 spd_rnd_spe_dpc_m07_01_2021
 spd_rnd_spe_dpc_m07_01_2022
 spd_rnd_spe_dpc_m07_01_2023
+spd_rnd_spe_dpc_m07_01_2024
 spd_rnd_spe_dpc_m08_01_2017
 spd_rnd_spe_dpc_m08_01_2018
 spd_rnd_spe_dpc_m08_01_2019
@@ -56800,6 +56895,7 @@ spd_rnd_spe_dpc_m08_01_2020
 spd_rnd_spe_dpc_m08_01_2021
 spd_rnd_spe_dpc_m08_01_2022
 spd_rnd_spe_dpc_m08_01_2023
+spd_rnd_spe_dpc_m08_01_2024
 spd_rnd_spe_dpc_m09_01_2017
 spd_rnd_spe_dpc_m09_01_2018
 spd_rnd_spe_dpc_m09_01_2019
@@ -56807,6 +56903,7 @@ spd_rnd_spe_dpc_m09_01_2020
 spd_rnd_spe_dpc_m09_01_2021
 spd_rnd_spe_dpc_m09_01_2022
 spd_rnd_spe_dpc_m09_01_2023
+spd_rnd_spe_dpc_m09_01_2024
 spd_rnd_spe_dpc_m10_01_2017
 spd_rnd_spe_dpc_m10_01_2018
 spd_rnd_spe_dpc_m10_01_2019
@@ -56814,9 +56911,11 @@ spd_rnd_spe_dpc_m10_01_2020
 spd_rnd_spe_dpc_m10_01_2021
 spd_rnd_spe_dpc_m10_01_2022
 spd_rnd_spe_dpc_m10_01_2023
+spd_rnd_spe_dpc_m10_01_2024
 spd_rnd_spe_dpc_m11_01_2021
 spd_rnd_spe_dpc_m11_01_2022
 spd_rnd_spe_dpc_m11_01_2023
+spd_rnd_spe_dpc_m11_01_2024
 spd_rnd_spe_dpc_m12_01_2017
 spd_rnd_spe_dpc_m12_01_2018
 spd_rnd_spe_dpc_m12_01_2019
@@ -56824,6 +56923,7 @@ spd_rnd_spe_dpc_m12_01_2020
 spd_rnd_spe_dpc_m12_01_2021
 spd_rnd_spe_dpc_m12_01_2022
 spd_rnd_spe_dpc_m12_01_2023
+spd_rnd_spe_dpc_m12_01_2024
 spd_rnd_spe_dpc_m13_01_2017
 spd_rnd_spe_dpc_m13_01_2018
 spd_rnd_spe_dpc_m13_01_2019
@@ -56831,6 +56931,7 @@ spd_rnd_spe_dpc_m13_01_2020
 spd_rnd_spe_dpc_m13_01_2021
 spd_rnd_spe_dpc_m13_01_2022
 spd_rnd_spe_dpc_m13_01_2023
+spd_rnd_spe_dpc_m13_01_2024
 spd_rnd_spe_dpc_m14_01_2017
 spd_rnd_spe_dpc_m14_01_2018
 spd_rnd_spe_dpc_m14_01_2019
@@ -56838,6 +56939,7 @@ spd_rnd_spe_dpc_m14_01_2020
 spd_rnd_spe_dpc_m14_01_2021
 spd_rnd_spe_dpc_m14_01_2022
 spd_rnd_spe_dpc_m14_01_2023
+spd_rnd_spe_dpc_m14_01_2024
 spd_rnd_spe_dpc_m15_01_2017
 spd_rnd_spe_dpc_m15_01_2018
 spd_rnd_spe_dpc_m15_01_2019
@@ -56845,9 +56947,11 @@ spd_rnd_spe_dpc_m15_01_2020
 spd_rnd_spe_dpc_m15_01_2021
 spd_rnd_spe_dpc_m15_01_2022
 spd_rnd_spe_dpc_m15_01_2023
+spd_rnd_spe_dpc_m15_01_2024
 spd_rnd_spe_dpc_m16_01_2021
 spd_rnd_spe_dpc_m16_01_2022
 spd_rnd_spe_dpc_m16_01_2023
+spd_rnd_spe_dpc_m16_01_2024
 spd_rnd_spe_elb_cap_01_2011
 spd_rnd_spe_elb_cap_01_2012
 spd_rnd_spe_elb_cap_01_2013
@@ -56861,6 +56965,7 @@ spd_rnd_spe_elb_cap_01_2020
 spd_rnd_spe_elb_cap_01_2021
 spd_rnd_spe_elb_cap_01_2022
 spd_rnd_spe_elb_cap_01_2023
+spd_rnd_spe_elb_cap_01_2024
 spd_rnd_spe_elb_pig_01_2011
 spd_rnd_spe_elb_pig_01_2012
 spd_rnd_spe_elb_pig_01_2013
@@ -56874,6 +56979,7 @@ spd_rnd_spe_elb_pig_01_2020
 spd_rnd_spe_elb_pig_01_2021
 spd_rnd_spe_elb_pig_01_2022
 spd_rnd_spe_elb_pig_01_2023
+spd_rnd_spe_elb_pig_01_2024
 spd_rnd_spe_g8e_cap_01_2017
 spd_rnd_spe_g8e_cap_01_2018
 spd_rnd_spe_g8e_cap_01_2019
@@ -56881,6 +56987,7 @@ spd_rnd_spe_g8e_cap_01_2020
 spd_rnd_spe_g8e_cap_01_2021
 spd_rnd_spe_g8e_cap_01_2022
 spd_rnd_spe_g8e_cap_01_2023
+spd_rnd_spe_g8e_cap_01_2024
 spd_rnd_spe_pbs_amce2_01_2014
 spd_rnd_spe_pbs_amce2_01_2015
 spd_rnd_spe_pbs_amce2_01_2016
@@ -56891,6 +56998,7 @@ spd_rnd_spe_pbs_amce2_01_2020
 spd_rnd_spe_pbs_amce2_01_2021
 spd_rnd_spe_pbs_amce2_01_2022
 spd_rnd_spe_pbs_amce2_01_2023
+spd_rnd_spe_pbs_amce2_01_2024
 spd_rnd_spe_pbs_amice_01_2014
 spd_rnd_spe_pbs_amice_01_2015
 spd_rnd_spe_pbs_amice_01_2016
@@ -56901,6 +57009,7 @@ spd_rnd_spe_pbs_amice_01_2020
 spd_rnd_spe_pbs_amice_01_2021
 spd_rnd_spe_pbs_amice_01_2022
 spd_rnd_spe_pbs_amice_01_2023
+spd_rnd_spe_pbs_amice_01_2024
 spd_rnd_spe_pbs_ammce_01_2014
 spd_rnd_spe_pbs_ammce_01_2015
 spd_rnd_spe_pbs_ammce_01_2016
@@ -56911,6 +57020,7 @@ spd_rnd_spe_pbs_ammce_01_2020
 spd_rnd_spe_pbs_ammce_01_2021
 spd_rnd_spe_pbs_ammce_01_2022
 spd_rnd_spe_pbs_ammce_01_2023
+spd_rnd_spe_pbs_ammce_01_2024
 spd_rnd_spe_pbs_cece2_01_2014
 spd_rnd_spe_pbs_cece2_01_2015
 spd_rnd_spe_pbs_cece2_01_2016
@@ -56921,6 +57031,7 @@ spd_rnd_spe_pbs_cece2_01_2020
 spd_rnd_spe_pbs_cece2_01_2021
 spd_rnd_spe_pbs_cece2_01_2022
 spd_rnd_spe_pbs_cece2_01_2023
+spd_rnd_spe_pbs_cece2_01_2024
 spd_rnd_spe_pbs_micgs_01_2014
 spd_rnd_spe_pbs_micgs_01_2015
 spd_rnd_spe_pbs_micgs_01_2016
@@ -56931,6 +57042,7 @@ spd_rnd_spe_pbs_micgs_01_2020
 spd_rnd_spe_pbs_micgs_01_2021
 spd_rnd_spe_pbs_micgs_01_2022
 spd_rnd_spe_pbs_micgs_01_2023
+spd_rnd_spe_pbs_micgs_01_2024
 spd_rnd_spe_pbs_mis_01_2014
 spd_rnd_spe_pbs_mis_01_2015
 spd_rnd_spe_pbs_mis_01_2016
@@ -56941,6 +57053,7 @@ spd_rnd_spe_pbs_mis_01_2020
 spd_rnd_spe_pbs_mis_01_2021
 spd_rnd_spe_pbs_mis_01_2022
 spd_rnd_spe_pbs_mis_01_2023
+spd_rnd_spe_pbs_mis_01_2024
 spd_rnd_spe_pbs_misam_01_2014
 spd_rnd_spe_pbs_misam_01_2015
 spd_rnd_spe_pbs_misam_01_2016
@@ -56951,6 +57064,7 @@ spd_rnd_spe_pbs_misam_01_2020
 spd_rnd_spe_pbs_misam_01_2021
 spd_rnd_spe_pbs_misam_01_2022
 spd_rnd_spe_pbs_misam_01_2023
+spd_rnd_spe_pbs_misam_01_2024
 spd_rnd_spe_pbs_misce_01_2014
 spd_rnd_spe_pbs_misce_01_2015
 spd_rnd_spe_pbs_misce_01_2016
@@ -56961,6 +57075,7 @@ spd_rnd_spe_pbs_misce_01_2020
 spd_rnd_spe_pbs_misce_01_2021
 spd_rnd_spe_pbs_misce_01_2022
 spd_rnd_spe_pbs_misce_01_2023
+spd_rnd_spe_pbs_misce_01_2024
 spd_rnd_spe_sio_reg01_01_2014
 spd_rnd_spe_sio_reg01_01_2015
 spd_rnd_spe_sio_reg01_01_2016
@@ -58837,7 +58952,6 @@ stranieri-per-area-di-provenienza-2020
 stranieri-per-area-di-provenienza-2022
 stranieri-per-area-di-provenienza-serie-storica
 stranieri-per-circoscrizione
-stranieri-per-cittadinanza
 stranieri-per-localita-di-nascita-e-attivita-economica-delle-imprese
 stranieri-per-quartiere-comune-di-treviso-anno-2019
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
@@ -63153,6 +63267,7 @@ uso-del-suolo-catastale1
 uso-del-suolo-catastale1-1
 uso-del-suolo-catastale1-3
 uso-del-suolo-catastale2-1
+uso-del-suolo-catastale2-2
 uso-del-suolo-catastale2-3
 uso-del-suolo-comune-di-rovigo-2015-2018
 uso-del-suolo-della-regione-liguria-sc-1-10000-ed-2025
@@ -63614,6 +63729,7 @@ veicoli-circolanti-suddivisi-per-tipologia
 veicoli-circolanti-suddivisi-per-tipologia1
 veicoli-coinvolti-in-incidenti-stradali
 veicoli-coinvolti-in-incidenti-stradali-per-tipologia-anno-2014
+veicoli-di-proprita
 veicoli-e-autovetture-circolanti-anni-1991-2014
 veicoli-e-permessi-ztl-revocati
 veicoli-industriali-leggeri-distinti-per-provincia-alimentazione-fascia-di-cilindrata-e-categor
@@ -63876,7 +63992,6 @@ viii-censimento-industria-e-servizi
 viii-censimento-industria-e-servizi-imprese-e-addetti-per-classe-di-addetti
 viii-censimento-industria-e-servizi-imprese-e-addetti-per-forma-giurdica
 villa-contarini-libri-musica-e-teatro-ptrc-2020
-villa-del-palladio-ptrc-2020
 villa-draghi-ptrc-2020
 villa-monastero-censimento-arboreo
 villa-monastero-censimento-arbustivo
