@@ -647,8 +647,11 @@ accessi-esterni1-2
 accessi-esterni1-3
 accessi-esterni2-1
 accessi-esterni2-3
+accessi-esterni2-5
+accessi-esterni2-6
 accessi-famiglie
 accessi-interni-1
+accessi-interni-2
 accessi-interni1
 accessi-interno
 accessi-interno1
@@ -2514,6 +2517,7 @@ analisi-dipendenti-dellente-comune-di-santurbano
 analisi-dipendenti-dellente-comune-di-sarcedo
 analisi-dipendenti-dellente-comune-di-sernaglia-della-battaglia
 analisi-dipendenti-dellente-comune-di-soave
+analisi-dipendenti-dellente-comune-di-sona
 analisi-dipendenti-dellente-comune-di-torreglia
 analisi-dipendenti-dellente-comune-di-valdastico
 analisi-dipendenti-dellente-comune-di-velo-dastico
@@ -3857,6 +3861,8 @@ area-stradale3
 area-stradale3-1
 area-stradale3-3
 area-stradale4-3
+area-stradale4-5
+area-stradale4-6
 area-temporaneamente-priva-di-vegetazione-a_pveg-060104
 area-tributaria-della-laguna-di-venezia
 area-tutela-pozzi
@@ -4158,6 +4164,8 @@ aree-di-circolazione-ciclabili1
 aree-di-circolazione-ciclabili1-1
 aree-di-circolazione-ciclabili1-2
 aree-di-circolazione-ciclabili2-2
+aree-di-circolazione-ciclabili2-4
+aree-di-circolazione-ciclabili2-5
 aree-di-circolazione-pedonale
 aree-di-circolazione-pedonale-4
 aree-di-circolazione-pedonale-del-comune-di-vaiano
@@ -4178,6 +4186,8 @@ aree-di-circolazione-pedonale3
 aree-di-circolazione-pedonale3-1
 aree-di-circolazione-pedonale3-2
 aree-di-circolazione-pedonale4-3
+aree-di-circolazione-pedonale4-5
+aree-di-circolazione-pedonale4-6
 aree-di-circolazione-per-numero-civico-e-sezioni-di-censimento
 aree-di-circolazione-veicolare
 aree-di-circolazione-veicolare-4
@@ -4199,6 +4209,8 @@ aree-di-circolazione-veicolare3-1
 aree-di-circolazione-veicolare3-2
 aree-di-circolazione-veicolare3-3
 aree-di-circolazione-veicolare4-3
+aree-di-circolazione-veicolare4-5
+aree-di-circolazione-veicolare4-6
 aree-di-collegamento-ecologico-della-rete-dei-boschi-citta-metropolitana-di-firenze
 aree-di-collegamento-ecologico-della-rete-dei-boschi-citta-metropolitana-di-firenze1
 aree-di-collegamento-ecologico-della-rete-delle-aree-aperte-citta-metropolitana-di-firenze
@@ -9906,6 +9918,7 @@ citta-metropolitana-di-catania-sovvenzioni-contributi-sussidi-vantaggi-economici
 citta-metropolitana-di-catania-utenze
 citta-metropolitana-di-genova
 citta-metropolitana-di-milano-enti-pubblici-vigilati
+citta-metropolitana-di-milano-enti-pubblici-vigilati1
 citta-metropolitana-milano-2014-bilancio-demografico-popolazione-residente-al-31-12
 citta-metropolitana-milano-2015-bilancio-demografico-a-l-31-12
 citta-metropolitana-milano-2015-bilancio-demografico-cittadini-stanieri-al-31-12
@@ -9966,6 +9979,7 @@ citta-metropolitana-milano-disponibili-al-lavoro-per-genere
 citta-metropolitana-milano-dispositivi-accertamento-infrazioni-strade-provinciali
 citta-metropolitana-milano-elezioni-consiglio-regione-lombardia-voti-per-comune
 citta-metropolitana-milano-enti-diritto-privato-controllati
+citta-metropolitana-milano-enti-diritto-privato-controllati1-1
 citta-metropolitana-milano-eventi-politiche-sociali
 citta-metropolitana-milano-hotspot-wifi
 citta-metropolitana-milano-impianti-trattamento-smaltimento-e-recupero-rifiuti
@@ -10040,6 +10054,7 @@ citta-metropolitana-milano-serie-storica-per-ciascun-comune-con-il-numero-medio-
 citta-metropolitana-milano-serie-storica-per-ciascun-comune-con-il-numero-medio-di-compone-2022
 citta-metropolitana-milano-sintesi-rilievi-traffico-strade-provinciali-fino-al-2014
 citta-metropolitana-milano-societa-partecipate
+citta-metropolitana-milano-societa-partecipate1-1
 citta-metropolitana-milano-soggiacenza-indicativa-cmmi-marzo-2022
 citta-metropolitana-milano-soggiacenza-marzo-2022
 citta-metropolitana-milano-zone-omogenee
@@ -10371,9 +10386,12 @@ commercio-estero-della-provincia-di-lucca-per-settore-di-attivita-economica-anno
 commercio-estero-della-provincia-di-lucca-per-settore-di-attivita-economica-anno-2019
 commercio-estero-della-provincia-di-lucca-per-settore-di-attivita-economica-anno-2020
 commercio-in-sede-fissa
+commercio-in-sede-fissa-comune-di-azzano-decimo-2025
 commercio-in-sede-fissa-comune-di-buja
 commercio-in-sede-fissa-comune-di-caneva
+commercio-in-sede-fissa-comune-di-chions-2025
 commercio-in-sede-fissa-comune-di-cordenons-2022-2024
+commercio-in-sede-fissa-comune-di-pravisdomini-2025
 commercio-in-sede-fissa-comune-di-san-daniele-del-friuli
 commercio-in-sede-fissa-comune-di-tavagnacco-2022-2024
 commercio-in-sede-fissa-comune-di-treppo-grande
@@ -10387,6 +10405,9 @@ commercio-ingrosso-intermediari-del-commercio-e-settore-auto-per-comuni
 commercio-su-area-pubblica
 commercio-su-area-pubblica1
 commercio-su-aree-pubbliche-2022-2024-comune-di-cordenons
+commercio-su-aree-pubbliche-comune-di-azzano-decimo-2025
+commercio-su-aree-pubbliche-comune-di-chions-2025
+commercio-su-aree-pubbliche-comune-di-pravisdomini-2025
 commercio-su-aree-pubbliche-comune-di-udine
 commercio-su-aree-pubbliche-comune-di-udine-2022-2024
 commissione-di-vigilanza-sui-fondi-pensione
@@ -11795,8 +11816,10 @@ comune-di-civitavecchia
 comune-di-codogno-indice-completo-degli-archivi-comunali
 comune-di-colli-del-tronto-punti-interesse
 comune-di-cologno-monzese
+comune-di-cologno-monzese-aire-per-nazione
 comune-di-cologno-monzese-bandi-di-gara-e-contratti
 comune-di-cologno-monzese-calcolato-annuale
+comune-di-cologno-monzese-calcolato-annuale-osap
 comune-di-cologno-monzese-calcolato-annuale-rsu
 comune-di-cologno-monzese-censimento-popolazione
 comune-di-cologno-monzese-cognomi-piu-diffusi-residenti
@@ -11826,6 +11849,7 @@ comune-di-cologno-monzese-monitoraggio-dei-tempi-dei-procedimenti
 comune-di-cologno-monzese-movimento-anagrafico
 comune-di-cologno-monzese-nomi-iscritti-per-nascita
 comune-di-cologno-monzese-persone-giuridiche
+comune-di-cologno-monzese-pnrr-aggiornamento-a-giugno-2025
 comune-di-cologno-monzese-popolazione-residente
 comune-di-cologno-monzese-posas
 comune-di-cologno-monzese-provvedimenti-degli-organi-di-indirizzo-politico
@@ -11842,6 +11866,7 @@ comune-di-cologno-monzese-tassi-popolazione-residente
 comune-di-cologno-monzese-terreni-attivi
 comune-di-cologno-monzese-trend-demografico
 comune-di-cologno-monzese-utenze
+comune-di-cologno-monzese-utenze-osap
 comune-di-cologno-monzese-utenze-rsu
 comune-di-comunanza-punti-interesse
 comune-di-conceiso-quantita-rifiuti-prodotta
@@ -12296,6 +12321,7 @@ comune-di-grezzana-bilancio-di-previsione-entrata
 comune-di-grezzana-bilancio-di-previsione-spesa
 comune-di-grezzana-conteggio-popolazione
 comune-di-grezzana-conteggio-protocolli
+comune-di-grezzana-elenco-atti-amministrativi
 comune-di-grezzana-elenco-servizi-utenti
 comune-di-grezzana-famiglie-per-numero-figli
 comune-di-grezzana-procedimenti-amministrativi
@@ -12551,6 +12577,7 @@ comune-di-melzo-bilancio-di-previsione-entrata
 comune-di-melzo-bilancio-di-previsione-spesa
 comune-di-melzo-conteggio-popolazione
 comune-di-melzo-conteggio-protocolli
+comune-di-melzo-elenco-atti-amministrativi
 comune-di-melzo-famiglie-per-numero-figli
 comune-di-melzo-procedimenti-amministrativi
 comune-di-melzo-rendiconto-della-gestione-entrata
@@ -12777,6 +12804,7 @@ comune-di-monterotondo-bilancio-di-previsione-entrata
 comune-di-monterotondo-bilancio-di-previsione-spesa
 comune-di-monterotondo-conteggio-popolazione
 comune-di-monterotondo-conteggio-protocolli
+comune-di-monterotondo-elenco-atti-amministrativi
 comune-di-monterotondo-elenco-pratiche
 comune-di-monterotondo-famiglie-per-numero-figli
 comune-di-monterotondo-procedimenti-amministrativi
@@ -14892,6 +14920,7 @@ concorsi-comune-di-sarcedo
 concorsi-comune-di-selvazzano-dentro
 concorsi-comune-di-sernaglia-della-battaglia
 concorsi-comune-di-soave
+concorsi-comune-di-sona
 concorsi-comune-di-taglio-di-po
 concorsi-comune-di-tonezza-del-cimone
 concorsi-comune-di-val-liona
@@ -15254,6 +15283,8 @@ consumo-del-suolo1-1
 consumo-del-suolo1-3
 consumo-del-suolo2-2
 consumo-del-suolo2-3
+consumo-del-suolo2-5
+consumo-del-suolo2-6
 consumo-di-acqua-anno-2009-2010
 consumo-di-acqua-anno-2010-2011
 consumo-di-acqua-ed-energia-pro-capite-2000-2011
@@ -15536,6 +15567,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-sarcedo
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-sernaglia-dell
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-soave
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-sona
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-taglio-di-po
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-torreglia
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-valdastico
@@ -15628,6 +15660,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-sar
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-ser
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-soa
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-son
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-tag
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-tor
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-val
@@ -15729,6 +15762,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale1-82
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale1-83
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale1-9
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale2-82
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a-2
@@ -15827,6 +15861,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a1-88
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a1-89
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a1-9
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-88
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e-2
@@ -15927,6 +15962,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e1-89
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e1-9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e1-90
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s-2
@@ -16027,6 +16063,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s1-89
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s1-9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s1-90
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-90
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bond
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu
@@ -16113,6 +16150,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu-82
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu-83
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu-9
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu1-83
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cons
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-magn
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-oran
@@ -16173,6 +16211,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di-7
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di-8
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di-9
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-49
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-consiglio
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-magnano-i
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-marianopo
@@ -16549,6 +16588,7 @@ corpo-docente-2023
 corpo-elettorale
 corpo-elettorale-comune-di-aiello-del-friuli
 corpo-elettorale-comune-di-arba
+corpo-elettorale-comune-di-azzano-decimo
 corpo-elettorale-comune-di-bicinicco
 corpo-elettorale-comune-di-brugnera
 corpo-elettorale-comune-di-buja
@@ -16558,6 +16598,7 @@ corpo-elettorale-comune-di-campolongo-tapogliano
 corpo-elettorale-comune-di-caneva
 corpo-elettorale-comune-di-cavasso-nuovo
 corpo-elettorale-comune-di-cavasso-nuovo1
+corpo-elettorale-comune-di-chions
 corpo-elettorale-comune-di-cimolais-2024
 corpo-elettorale-comune-di-cividale-del-friuli
 corpo-elettorale-comune-di-claut-2024
@@ -16578,6 +16619,7 @@ corpo-elettorale-comune-di-montenars
 corpo-elettorale-comune-di-osoppo
 corpo-elettorale-comune-di-pavia-di-udine
 corpo-elettorale-comune-di-pinzano-al-tagliamento-2024
+corpo-elettorale-comune-di-pravisdomini
 corpo-elettorale-comune-di-prepotto
 corpo-elettorale-comune-di-pulfero
 corpo-elettorale-comune-di-ragogna
@@ -16795,6 +16837,7 @@ costo-del-personale-comune-di-santurbano
 costo-del-personale-comune-di-sarcedo
 costo-del-personale-comune-di-sernaglia-della-battaglia
 costo-del-personale-comune-di-soave
+costo-del-personale-comune-di-sona
 costo-del-personale-comune-di-taglio-di-po
 costo-del-personale-comune-di-torreglia
 costo-del-personale-comune-di-zevio
@@ -18984,6 +19027,8 @@ destinazione-duso-catastale1
 destinazione-duso-catastale1-1
 destinazione-duso-catastale1-3
 destinazione-duso-catastale2-3
+destinazione-duso-catastale2-5
+destinazione-duso-catastale2-6
 destinazione-duso-degli-spazi-dalla-s-2020-2021
 destinazione-duso-degli-spazi-negli-edifici-scolastici-scuole-statali-as-2020-2021
 destinazioni-funzionali-prevalenti-pgf-piani-di-gestione-forestale-ex-pfa
@@ -20258,6 +20303,8 @@ edificato-minore1
 edificato-minore1-1
 edificato-minore2
 edificato-minore3-1
+edificato-minore3-4
+edificato-minore3-5
 edificato-prato
 edificato-storico
 edificato-storico1
@@ -20374,6 +20421,8 @@ edificio3-2
 edificio4
 edificio4-8
 edificio5-3
+edificio5-5
+edificio5-6
 edilizia-ampliamenti-di-fabbricati-con-destinazione-duso-residenziale-2011-2023
 edilizia-e-qualita-scolastica
 edilizia-nuovi-fabbricati-con-destinazione-duso-residenziale-2010-2023
@@ -24256,6 +24305,8 @@ estensione-delle-proprieta1-1
 estensione-delle-proprieta1-3
 estensione-delle-proprieta2-1
 estensione-delle-proprieta2-3
+estensione-delle-proprieta2-5
+estensione-delle-proprieta2-6
 estesa-amministrativa-es_amm-030301-aree
 estesa-amministrativa-es_amm-030301-linee
 estratto-bilancio-conto-consuntivo-accertamenti
@@ -24874,6 +24925,7 @@ fasce-di-rispetto-strade-classificazione-b
 fasce-di-rispetto-strade-classificazione-b1
 fasce-di-rispetto-strade-classificazione-c
 fasce-di-rispetto-strade-classificazione-c1
+fasce-eta-ogni-cinque-anni1
 fasce-fluviali-psai-adb-campania-sud-ex-destra-sele
 fasce-fluviali-psai-adb-campania-sud-ex-sinistra-sele
 fasce-pertinenza-acustica1
@@ -31057,7 +31109,6 @@ mappa-numero-reperti-archeologici-conservati-nei-musei1
 mappa-numero-stampe-darte-antiche-conservate-nei-musei1
 mappa-orario-ferroviario-regionale-stops
 mappa-organizzazioni-di-volontariato1
-mappa-ostelli-della-gioventu1
 mappa-piste-da-sci
 mappa-regionale-fisica-sc-1-200000
 mappa-regionale-tematica-sc-1-200000
@@ -31912,6 +31963,8 @@ modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-altezza-del-geopotenziale-m-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-03-22-ore-00-utc
@@ -32105,6 +32158,7 @@ modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-altezza-della-tropopausa-m-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-03-22-ore-00-utc
@@ -32298,6 +32352,7 @@ modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-altezza-dello-zero-termico-m-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-03-22-ore-00-utc
@@ -32491,6 +32546,7 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-03-22-ore-00-utc
@@ -32684,6 +32740,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-07-21-ore-00-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-03-22-ore-00-utc
@@ -32876,6 +32934,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-07-20-ore-12-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-07-22-ore-00-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-basso-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-03-22-ore-00-utc
@@ -33069,6 +33129,8 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-07-21-ore-00-u
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-medio-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-03-22-ore-00-utc
@@ -33261,6 +33323,7 @@ modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-0
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-07-22-ore-00-utc
+modello-wrf-arw-a-3km-energia-potenziale-convettiva-disponibile-cape-j-kg-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-03-22-ore-00-utc
@@ -33454,6 +33517,8 @@ modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-inibizione-convettiva-cin-j-kg-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2025-03-22-ore-00-utc
@@ -33647,6 +33712,8 @@ modello-wrf-arw-a-3km-maschera-terra-acqua-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-maschera-terra-acqua-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-maschera-terra-acqua-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-03-22-ore-00-utc
@@ -33840,6 +33907,7 @@ modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-pressione-media-al-suolo-pa-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20-1
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-20-10
@@ -34033,6 +34101,8 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-208-6
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-208-7
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-208-9
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-209
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-corta-w-m2-209-1
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20-1
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-20-10
@@ -34226,6 +34296,8 @@ modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-ond
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-208-6
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-208-8
 modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-208-9
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-209
+modello-wrf-arw-a-3km-radiazione-globale-incidente-su-superficie-orizzontale-onda-lunga-w-m2-209-1
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-03-22-ore-00-utc
@@ -34419,6 +34491,7 @@ modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-raffiche-al-suolo-m-s-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-03-22-ore-00-utc
@@ -34612,6 +34685,8 @@ modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-a-2-metri-c-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-03-22-ore-00-utc
@@ -34805,6 +34880,7 @@ modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-al-suolo-c-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-03-22-ore-00-utc
@@ -34998,6 +35074,8 @@ modello-wrf-arw-a-3km-temperatura-c-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-c-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-temperatura-c-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-03-22-ore-00-utc
@@ -35190,6 +35268,7 @@ modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-07-20-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-07-22-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-del-suolo-c-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-03-22-ore-00-utc
@@ -35383,6 +35462,7 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2025-03-22-ore-00-utc
@@ -35576,6 +35656,8 @@ modello-wrf-arw-a-3km-topografia-m-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-topografia-m-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-topografia-m-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-03-22-ore-00-utc
@@ -35769,6 +35851,8 @@ modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-umidita-del-suolo-volumetrica-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2025-03-22-ore-00-utc
@@ -35962,6 +36046,8 @@ modello-wrf-arw-a-3km-umidita-relativa-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-03-22-ore-00-utc
@@ -36155,6 +36241,7 @@ modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-umidita-relativa-al-suolo-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-03-22-ore-00-utc
@@ -36348,6 +36435,8 @@ modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-07-21-o
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-a-10-metri-m-s-2025-08-08-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2025-03-20-ore-00-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2025-03-21-ore-12-utc
 modello-wrf-arw-a-3km-velocita-e-direzione-del-vento-m-s-2025-03-22-ore-00-utc
@@ -36734,6 +36823,8 @@ modello-wrf-arw-a-3km-visibilita-in-metri-2025-07-21-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2025-07-21-ore-12-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2025-07-22-ore-00-utc
 modello-wrf-arw-a-3km-visibilita-in-metri-2025-07-22-ore-12-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2025-08-07-ore-12-utc
+modello-wrf-arw-a-3km-visibilita-in-metri-2025-08-08-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-03-03-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-03-04-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-03-04-ore-12-utc
@@ -36985,6 +37076,7 @@ modello-ww3-a-10km-average-wave-direction-deg-2025-07-21-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-07-21-ore-12-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-07-22-ore-00-utc
 modello-ww3-a-10km-average-wave-direction-deg-2025-07-22-ore-12-utc
+modello-ww3-a-10km-average-wave-direction-deg-2025-08-07-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-03-03-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-03-04-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-03-04-ore-12-utc
@@ -37237,6 +37329,7 @@ modello-ww3-a-10km-average-wave-period-sec-2025-07-21-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-07-22-ore-00-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-07-22-ore-12-utc
 modello-ww3-a-10km-average-wave-period-sec-2025-07-23-ore-00-utc
+modello-ww3-a-10km-average-wave-period-sec-2025-08-07-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-03-03-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-03-04-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-03-04-ore-12-utc
@@ -37489,6 +37582,8 @@ modello-ww3-a-10km-significant-wave-height-m-2025-07-21-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-07-22-ore-00-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-07-22-ore-12-utc
 modello-ww3-a-10km-significant-wave-height-m-2025-07-23-ore-00-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-08-07-ore-12-utc
+modello-ww3-a-10km-significant-wave-height-m-2025-08-08-ore-00-utc
 modena-demografia-delle-imprese-della-provincia-di-modena-dal-1991-al-2023
 modena-esportazioni-macchine-e-apparecchiature-meccaniche-provincia-di-modena-dal-1993-al-2023
 modena-esportazioni-mezzi-di-trasporto-provincia-di-modena-dal-1993-al-2023
@@ -38648,6 +38743,7 @@ nozze-d-oro-2018
 nuclei-abitati-presenti-nel-territorio
 nuclei-didentita-locale-nil-vigenti-pgt-2030
 nuclei-e-agglomerati-edilizi-di-matrice-storica
+nuclei-famigliari-per-numero-di-componenti1
 nuclei-familiari-con-componente-inabile-minorenne-o-maggiorenne-tab-15
 nuclei-familiari-con-componente-inabile-minori-e-non-tab-14
 nuclei-familiari-con-componente-inabile-tab-20a
@@ -41259,7 +41355,6 @@ ostacoli-al-volo-ostacoli-puntuali
 ostelli-2016
 ostelli-2017
 ostelli-2020
-ostelli-della-gioventu
 ostelli-open-data
 osterie-tipiche-trentine
 ou
@@ -44929,6 +45024,7 @@ posti-per-cimitero-comune-di-saccolongo
 posti-per-cimitero-comune-di-salizzole
 posti-per-cimitero-comune-di-san-pietro-di-feletto
 posti-per-cimitero-comune-di-san-pietro-di-morubio
+posti-per-cimitero-comune-di-san-pietro-in-gu
 posti-per-cimitero-comune-di-sandrigo
 posti-per-cimitero-comune-di-saonara
 posti-per-cimitero-comune-di-sarcedo
@@ -46908,6 +47004,7 @@ provincia-di-novara-ordinanze-2020
 provincia-di-novara-ordinanze-2021
 provincia-di-novara-ordinanze-2022
 provincia-di-novara-ordinanze-2023
+provincia-di-novara-ordinanze-dal-2019-al-2023
 provincia-di-parma
 provincia-di-rovigo
 provincia-lecco-autorizzazioni-paesaggistiche
@@ -50277,6 +50374,7 @@ rendiconto-entrate-comune-di-aiello-del-friuli
 rendiconto-entrate-comune-di-arba-2018-2023
 rendiconto-entrate-comune-di-arta-terme
 rendiconto-entrate-comune-di-aviano-2018-2023
+rendiconto-entrate-comune-di-azzano-decimo-2024
 rendiconto-entrate-comune-di-bicinicco-2018-2023
 rendiconto-entrate-comune-di-brugnera-2018-2023
 rendiconto-entrate-comune-di-budoia
@@ -50288,6 +50386,7 @@ rendiconto-entrate-comune-di-carlino
 rendiconto-entrate-comune-di-cavasso-nuovo-2018-2023
 rendiconto-entrate-comune-di-cavazzo-carnico
 rendiconto-entrate-comune-di-cercivento
+rendiconto-entrate-comune-di-chions-2024
 rendiconto-entrate-comune-di-cimolais-2018-2023
 rendiconto-entrate-comune-di-cividale-del-friuli1
 rendiconto-entrate-comune-di-claut-2018-2023
@@ -50322,6 +50421,7 @@ rendiconto-entrate-comune-di-polcenigo
 rendiconto-entrate-comune-di-porcia
 rendiconto-entrate-comune-di-povoletto
 rendiconto-entrate-comune-di-prato-carnico
+rendiconto-entrate-comune-di-pravisdomini-2024
 rendiconto-entrate-comune-di-prepotto-2018-2023
 rendiconto-entrate-comune-di-pulfero
 rendiconto-entrate-comune-di-ragogna
@@ -50360,6 +50460,7 @@ rendiconto-entrate-comunita-di-montagna-canal-del-ferro-e-val-canale-2018-2023
 rendiconto-entrate-comunita-di-montagna-del-gemonese
 rendiconto-entrate-comunita-di-montagna-del-natisone-e-torre
 rendiconto-entrate-comunita-di-montagna-della-carnia
+rendiconto-entrate-comunita-sile-2024
 rendiconto-entrate-gonars
 rendiconto-entrate-magnifica-comunita-di-montagna-dolomiti-friulane-cavallo-e-cansiglio
 rendiconto-finanziario-2016
@@ -50380,6 +50481,7 @@ rendiconto-spese-comune-di-aiello-del-friuli
 rendiconto-spese-comune-di-arba-2018-2023
 rendiconto-spese-comune-di-arta-terme
 rendiconto-spese-comune-di-aviano-2018-2023
+rendiconto-spese-comune-di-azzano-decimo-2024
 rendiconto-spese-comune-di-bicinicco-2018-2023
 rendiconto-spese-comune-di-brugnera-2018-2023
 rendiconto-spese-comune-di-budoia
@@ -50391,6 +50493,7 @@ rendiconto-spese-comune-di-carlino
 rendiconto-spese-comune-di-cavasso-nuovo-2018-2023
 rendiconto-spese-comune-di-cavazzo-carnico
 rendiconto-spese-comune-di-cercivento
+rendiconto-spese-comune-di-chions-2024
 rendiconto-spese-comune-di-cimolais-2018-2023
 rendiconto-spese-comune-di-cividale-del-friuli
 rendiconto-spese-comune-di-claut-2018-2023
@@ -50424,6 +50527,7 @@ rendiconto-spese-comune-di-polcenigo
 rendiconto-spese-comune-di-porcia
 rendiconto-spese-comune-di-povoletto
 rendiconto-spese-comune-di-prato-carnico
+rendiconto-spese-comune-di-pravisdomini-2024
 rendiconto-spese-comune-di-prepotto-2018-2023
 rendiconto-spese-comune-di-pulfero
 rendiconto-spese-comune-di-ragogna
@@ -50463,6 +50567,7 @@ rendiconto-spese-comunita-di-montagna-canal-del-ferro-e-val-canale-2018-2023
 rendiconto-spese-comunita-di-montagna-del-gemonese
 rendiconto-spese-comunita-di-montagna-del-natisone-e-torre
 rendiconto-spese-comunita-di-montagna-della-carnia
+rendiconto-spese-comunita-sile-2024
 rendiconto-spese-magnifica-comunita-di-montagna-dolomiti-friulane-cavallo-e-cansiglio
 rendiconto_pubblicato_serie_storica_entrate_aggregato_per_titolo_e_categoria_new
 rendiconto_pubblicato_serie_storica_entrate_aggregato_per_titolo_e_categoria_new1
@@ -53310,6 +53415,7 @@ servizi-cimiteriali-comune-di-saccolongo
 servizi-cimiteriali-comune-di-salizzole
 servizi-cimiteriali-comune-di-san-pietro-di-feletto
 servizi-cimiteriali-comune-di-san-pietro-di-morubio
+servizi-cimiteriali-comune-di-san-pietro-in-gu
 servizi-cimiteriali-comune-di-sandrigo
 servizi-cimiteriali-comune-di-saonara
 servizi-cimiteriali-comune-di-sarcedo
@@ -58952,6 +59058,7 @@ stranieri-per-area-di-provenienza-2020
 stranieri-per-area-di-provenienza-2022
 stranieri-per-area-di-provenienza-serie-storica
 stranieri-per-circoscrizione
+stranieri-per-cittadinanza1
 stranieri-per-localita-di-nascita-e-attivita-economica-delle-imprese
 stranieri-per-quartiere-comune-di-treviso-anno-2019
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
@@ -62339,6 +62446,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-san-giorg
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-san-marti
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-san-pietr
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-san-pietr1-1
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-sanguinet
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-santelena
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-sarcedo
@@ -63138,6 +63246,8 @@ unita-volumetriche3
 unita-volumetriche3-3
 unita-volumetriche4
 unita-volumetriche5-3
+unita-volumetriche5-5
+unita-volumetriche5-6
 unitalocali-ict-nate-in-piemonte-anno-2011
 unitaorganizzative-funzionali-private-centri-di-riabilitazione
 unitaproduttive-sanitarie-pubbliche-tipologia-ospedaliera
@@ -63269,6 +63379,8 @@ uso-del-suolo-catastale1-3
 uso-del-suolo-catastale2-1
 uso-del-suolo-catastale2-2
 uso-del-suolo-catastale2-3
+uso-del-suolo-catastale2-5
+uso-del-suolo-catastale2-6
 uso-del-suolo-comune-di-rovigo-2015-2018
 uso-del-suolo-della-regione-liguria-sc-1-10000-ed-2025
 uso-del-suolo-dusaf-4-0-anno-2012
