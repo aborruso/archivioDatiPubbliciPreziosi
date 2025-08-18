@@ -148,11 +148,11 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
 2025-04-07T10:36:44.512738,Comune di Pagani,a1033ff4-b70e-4d7e-aa1e-5926c222801a,c_g230,comune-di-pagani,10,https://dati.gov.it/view-dataset?organization=comune-di-pagani
 2025-06-19T13:14:48.899635,Comune di Palagano,96b3bbb3-e7c9-46a1-b980-a16ef8591e07,c_g250,comune-di-palagano,42,https://dati.gov.it/view-dataset?organization=comune-di-palagano
-2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1651,https://dati.gov.it/view-dataset?organization=comune-di-palermo
+2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1652,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,50,https://dati.gov.it/view-dataset?organization=comune-di-pescara
 2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,9,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
 2025-05-27T10:40:05.991849,Comune di Petilia Policastro,0d16adc8-4a2c-4a5c-b04f-8d544911dce0,c_g508,comune-di-petilia-policastro,0,https://dati.gov.it/view-dataset?organization=comune-di-petilia-policastro
-2024-11-18T09:13:07.729335,Comune di Piacenza,8f1999e8-8405-443f-a216-574808712990,c_g535,comune-di-piacenza,93,https://dati.gov.it/view-dataset?organization=comune-di-piacenza
+2024-11-18T09:13:07.729335,Comune di Piacenza,8f1999e8-8405-443f-a216-574808712990,c_g535,comune-di-piacenza,92,https://dati.gov.it/view-dataset?organization=comune-di-piacenza
 2024-11-14T12:08:12.301236,Comune di Pieve Emanuele,4ab04975-f03e-4402-951a-b5eab5c59747,c_g634,comune-di-pieve-emanuele,29,https://dati.gov.it/view-dataset?organization=comune-di-pieve-emanuele
 2025-02-24T14:05:25.933039,Comune di Pineto,1d92fe0b-49c7-45fe-9ab4-fed6e53f45d6,c_f831,comune-di-pineto,4,https://dati.gov.it/view-dataset?organization=comune-di-pineto
 2025-04-11T14:19:59.766032,Comune di Pisticci,b50a950c-fd0c-44e8-bd82-2c75898abe04,c_g712,comune-di-pisticci,0,https://dati.gov.it/view-dataset?organization=comune-di-pisticci
@@ -214,7 +214,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-15T16:31:47.052910,Ente Autonomo Volturno Srl,4dc0cdde-3150-48ae-bacd-8552da668a74,eavs,ente-autonomo-volturno-srl,5,https://dati.gov.it/view-dataset?organization=ente-autonomo-volturno-srl
 2025-02-11T10:17:34.271846,Fondazione IRCCS Istituto Neurologico Carlo Besta,c432eac3-aef6-47aa-b088-216e3f4e4aff,fincbmi,fondazione-irccs-istituto-neurologico-carlo-besta,0,https://dati.gov.it/view-dataset?organization=fondazione-irccs-istituto-neurologico-carlo-besta
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
-2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8160,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8157,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,240,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,40,https://dati.gov.it/view-dataset?organization=inail
@@ -247,7 +247,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-19T10:44:21.556004,Politecnico di Torino,ab0d75c7-04eb-4b48-b811-d4ca97bf1406,pt,politecnico-di-torino,10,https://dati.gov.it/view-dataset?organization=politecnico-di-torino
 2024-03-08T21:24:58.710779,Progetto MISTRAL,6d977765-a0cc-4cfa-8ac5-29e202cc7318,Mistral,progetto-mistral,0,https://dati.gov.it/view-dataset?organization=progetto-mistral
 2024-03-08T21:26:19.519194,Provincia autonoma di Bolzano,4188f7ff-0b05-4dbf-982e-9a6d99da7bc6,p_bz,provincia-autonoma-di-bolzano,613,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
-2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,2276,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
+2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,2277,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
 2024-11-28T16:16:41.040994,Provincia di Alessandria,16e5aff3-27f1-489e-aa71-0fe3e4f50c3c,p_al,provincia-di-alessandria,0,https://dati.gov.it/view-dataset?organization=provincia-di-alessandria
 2025-02-07T15:13:51.355439,Provincia di Ascoli Piceno,f6d635e9-7801-4ef5-879e-39de89fece3a,p_ap,provincia-di-ascoli-piceno,0,https://dati.gov.it/view-dataset?organization=provincia-di-ascoli-piceno
 2024-09-17T08:42:01.577065,Provincia di Avellino,d62208e2-c944-4578-a792-7cec058137c0,p_av,provincia-di-avellino,1,https://dati.gov.it/view-dataset?organization=provincia-di-avellino
@@ -263,7 +263,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,214,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
 2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,339,https://dati.gov.it/view-dataset?organization=regione-campania
-2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,2094,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
+2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,2093,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,764,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,402,https://dati.gov.it/view-dataset?organization=regione-lazio
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
@@ -272,7 +272,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,795,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1579,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10591,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10942,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,447,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6295,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
