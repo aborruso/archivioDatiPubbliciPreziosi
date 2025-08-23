@@ -1,6 +1,6 @@
 created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:07:00.168891,ACI - Automobile Club Italia,28bccb62-da5a-4610-96f8-eb274abe4245,aci,aci,35,https://dati.gov.it/view-dataset?organization=aci
-2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,39,https://dati.gov.it/view-dataset?organization=agcm
+2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,40,https://dati.gov.it/view-dataset?organization=agcm
 2025-02-06T10:46:27.761875,Agenzia di Tutela della Salute dell'Insubria,6461fc81-dbf7-4790-9d8d-6efee4c0cb06,atsin,agenzia-di-tutela-della-salute-dell-insubria,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-dell-insubria
 2025-02-13T16:26:32.473301,Agenzia di Tutela della Salute della Brianza,fc47d219-e1e1-4df2-8b32-82b9a3642801,atsmb,agenzia-di-tutela-della-salute-della-brianza,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-brianza
 2024-11-14T15:24:06.603076,ATS - Agenzia di Tutela della Salute della Val Padana,0f63e7d6-119a-4a02-85e9-b11066fc5e58,atsvp,agenzia-di-tutela-della-salute-della-val-padana,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-val-padana
@@ -51,13 +51,13 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-10T15:06:58.100679,Commissione di Vigilanza Sui Fondi Pensione,92117c30-1626-4ee3-bb96-61460cc5b9b5,cvfp,commissione-di-vigilanza-sui-fondi-pensione,17,https://dati.gov.it/view-dataset?organization=commissione-di-vigilanza-sui-fondi-pensione
 2025-04-14T12:01:59.480180,Comune di Alba Adriatica,37e8c82e-371f-4db7-a426-d81e80b4b30e,c_a125,comune-di-alba-adriatica,4,https://dati.gov.it/view-dataset?organization=comune-di-alba-adriatica
 2025-03-17T13:40:38.794427,Comune di Alessandria,82bf1957-ae6b-461f-8da0-9f20fabd7a6c,c_a182,comune-di-alessandria,4,https://dati.gov.it/view-dataset?organization=comune-di-alessandria
-2025-04-01T09:04:18.107021,Comune di Altamura,a94de7dd-d093-48c9-8f79-ea847690e3fe,c_a225,comune-di-altamura,9,https://dati.gov.it/view-dataset?organization=comune-di-altamura
+2025-04-01T09:04:18.107021,Comune di Altamura,a94de7dd-d093-48c9-8f79-ea847690e3fe,c_a225,comune-di-altamura,10,https://dati.gov.it/view-dataset?organization=comune-di-altamura
 2025-04-11T09:46:18.409525,Comune di Andora,7fb0e504-e9a7-4797-a2d9-682199d3e955,c_a278,comune-di-andora,0,https://dati.gov.it/view-dataset?organization=comune-di-andora
 2025-07-31T15:59:38.037371,Comune di Arese,79884d6c-55d0-4987-9391-9aec2d3b7193,c_a389,comune-di-arese,44,https://dati.gov.it/view-dataset?organization=comune-di-arese
 2025-03-04T10:09:07.040681,Comune di Assisi,c7b4166e-36ae-4abb-9827-a9f580a02a2b,c_a475,comune-di-assisi,3,https://dati.gov.it/view-dataset?organization=comune-di-assisi
 2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,7,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
 2024-03-08T18:20:12.070830,Comune di Bari,df53accc-dc73-4f98-bd0e-66c32524eb6f,c_a662,comune-di-bari,148,https://dati.gov.it/view-dataset?organization=comune-di-bari
-2025-05-23T11:18:08.375374,Comune di Baronissi,8259142c-4490-49d3-8cee-6e039f74a7b0,c_a674,comune-di-baronissi,9,https://dati.gov.it/view-dataset?organization=comune-di-baronissi
+2025-05-23T11:18:08.375374,Comune di Baronissi,8259142c-4490-49d3-8cee-6e039f74a7b0,c_a674,comune-di-baronissi,10,https://dati.gov.it/view-dataset?organization=comune-di-baronissi
 2024-10-28T10:33:16.569782,Comune di Beinasco,bc5f05ae-4696-4db9-985a-88a78eab0da9,c_a734,comune-di-beinasco,3,https://dati.gov.it/view-dataset?organization=comune-di-beinasco
 2025-02-07T15:05:41.669280,Comune di Benevento,2e83f50b-b1a4-4668-a484-a8bfbdc936ed,c_a783,comune-di-benevento,0,https://dati.gov.it/view-dataset?organization=comune-di-benevento
 2025-02-19T10:19:30.000370,Comune di Besana in Brianza,30ba8004-fbdd-416c-a1a8-523207ff026b,c_a818,comune-di-besana-in-brianza,28,https://dati.gov.it/view-dataset?organization=comune-di-besana-in-brianza
@@ -107,7 +107,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,11,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
 2025-04-14T07:59:19.027568,Comune di Grottammare,c59b580b-8e17-459f-b532-db891593d4e6,c_e207,comune-di-grottammare,0,https://dati.gov.it/view-dataset?organization=comune-di-grottammare
 2025-04-29T07:47:45.384138,Comune di Guidonia Montecelio,728accb6-79a7-427c-aef8-ba404c8b606a,c_e263,comune-di-guidonia-montecelio,3,https://dati.gov.it/view-dataset?organization=comune-di-guidonia-montecelio
-2025-05-28T06:45:18.401677,Comune di Ivrea,621fbe81-488b-4f65-8db4-3bc6df177170,c_e379,comune-di-ivrea,10,https://dati.gov.it/view-dataset?organization=comune-di-ivrea
+2025-05-28T06:45:18.401677,Comune di Ivrea,621fbe81-488b-4f65-8db4-3bc6df177170,c_e379,comune-di-ivrea,11,https://dati.gov.it/view-dataset?organization=comune-di-ivrea
 2025-06-27T12:53:00.156331,Comune di La Spezia,aebbeaa2-70f6-4952-8ff6-e7579a1076ce,c_e463,comune-di-la-spezia,6,https://dati.gov.it/view-dataset?organization=comune-di-la-spezia
 2025-04-11T13:19:41.241055,Comune di Laterza,ee431584-8edf-43b2-b6e2-8a917dd3f851,c_e469,comune-di-laterza,0,https://dati.gov.it/view-dataset?organization=comune-di-laterza
 2025-07-23T12:39:34.471627,Comune di Latina,5bed28f9-a3fc-4dce-a24b-f8c7728e0dc5,c_e472,comune-di-latina,13,https://dati.gov.it/view-dataset?organization=comune-di-latina
@@ -138,7 +138,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-19T10:18:55.581624,Comune di Montale,0c4aafe0-74bc-47ad-9878-0a615e9ffc30,c_f410,comune-di-montale,3,https://dati.gov.it/view-dataset?organization=comune-di-montale
 2025-06-19T13:08:54.489523,Comune di Montefiorino,1de0abeb-bd36-419b-9946-9d4582857357,c_f503,comune-di-montefiorino,42,https://dati.gov.it/view-dataset?organization=comune-di-montefiorino
 2025-07-15T08:51:22.110226,Comune di Monterotondo,2a1644f1-58a6-43de-97e3-d15d9873bc64,c_f611,comune-di-monterotondo,9,https://dati.gov.it/view-dataset?organization=comune-di-monterotondo
-2025-04-07T09:29:05.973342,Comune di Morbegno,88563d4b-1955-4469-a796-e2030a63b13d,c_f712,comune-di-morbegno,9,https://dati.gov.it/view-dataset?organization=comune-di-morbegno
+2025-04-07T09:29:05.973342,Comune di Morbegno,88563d4b-1955-4469-a796-e2030a63b13d,c_f712,comune-di-morbegno,10,https://dati.gov.it/view-dataset?organization=comune-di-morbegno
 2025-02-19T10:46:15.223716,Comune di Nave,8d28e8ca-f11b-4e47-a2c9-c6b226d92019,c_f851,comune-di-nave,40,https://dati.gov.it/view-dataset?organization=comune-di-nave
 2025-02-18T17:09:14.847562,Comune di Nembro,d042b660-0e38-4b3f-9463-1a23cf99d4d2,c_f864,comune-di-nembro,6,https://dati.gov.it/view-dataset?organization=comune-di-nembro
 2025-02-13T16:29:02.599064,Comune di Nerviano,f5b11c42-03fe-44c0-8a8d-cd3451b77f75,c_f874,comune-di-nerviano,10,https://dati.gov.it/view-dataset?organization=comune-di-nerviano
@@ -150,9 +150,9 @@ created,display_name,id,identifier,name,package_count,URL
 2025-06-19T13:14:48.899635,Comune di Palagano,96b3bbb3-e7c9-46a1-b980-a16ef8591e07,c_g250,comune-di-palagano,42,https://dati.gov.it/view-dataset?organization=comune-di-palagano
 2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1652,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,50,https://dati.gov.it/view-dataset?organization=comune-di-pescara
-2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,9,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
+2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,10,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
 2025-05-27T10:40:05.991849,Comune di Petilia Policastro,0d16adc8-4a2c-4a5c-b04f-8d544911dce0,c_g508,comune-di-petilia-policastro,0,https://dati.gov.it/view-dataset?organization=comune-di-petilia-policastro
-2024-11-18T09:13:07.729335,Comune di Piacenza,8f1999e8-8405-443f-a216-574808712990,c_g535,comune-di-piacenza,92,https://dati.gov.it/view-dataset?organization=comune-di-piacenza
+2024-11-18T09:13:07.729335,Comune di Piacenza,8f1999e8-8405-443f-a216-574808712990,c_g535,comune-di-piacenza,93,https://dati.gov.it/view-dataset?organization=comune-di-piacenza
 2024-11-14T12:08:12.301236,Comune di Pieve Emanuele,4ab04975-f03e-4402-951a-b5eab5c59747,c_g634,comune-di-pieve-emanuele,29,https://dati.gov.it/view-dataset?organization=comune-di-pieve-emanuele
 2025-02-24T14:05:25.933039,Comune di Pineto,1d92fe0b-49c7-45fe-9ab4-fed6e53f45d6,c_f831,comune-di-pineto,4,https://dati.gov.it/view-dataset?organization=comune-di-pineto
 2025-04-11T14:19:59.766032,Comune di Pisticci,b50a950c-fd0c-44e8-bd82-2c75898abe04,c_g712,comune-di-pisticci,0,https://dati.gov.it/view-dataset?organization=comune-di-pisticci
@@ -162,11 +162,11 @@ created,display_name,id,identifier,name,package_count,URL
 2025-06-19T13:17:22.536581,Comune di Prignano sulla Secchia,719d1cb4-a300-4451-ad5e-b99819c04c10,c_h061,comune-di-prignano-sulla-secchia,42,https://dati.gov.it/view-dataset?organization=comune-di-prignano-sulla-secchia
 2025-04-14T08:07:37.142964,Comune di Rapallo,1377acf3-e741-43d1-a533-a695afadbcd3,c_h183,comune-di-rapallo,3,https://dati.gov.it/view-dataset?organization=comune-di-rapallo
 2024-03-08T18:28:23.244694,Comune di Rimini,f9546d88-5c6e-41d1-97b2-ebd9d0a77d21,00304260409,comune-di-rimini,72,https://dati.gov.it/view-dataset?organization=comune-di-rimini
-2025-04-15T14:40:46.400199,Comune di Rocca di Papa,e879fab1-9906-456a-995c-df320ac6ea54,c_h404,comune-di-rocca-di-papa,9,https://dati.gov.it/view-dataset?organization=comune-di-rocca-di-papa
+2025-04-15T14:40:46.400199,Comune di Rocca di Papa,e879fab1-9906-456a-995c-df320ac6ea54,c_h404,comune-di-rocca-di-papa,10,https://dati.gov.it/view-dataset?organization=comune-di-rocca-di-papa
 2025-04-11T08:27:43.931224,Comune di Rubano,2c930491-a1fc-4ec9-aa89-4175339bbf42,c_h625,comune-di-rubano,22,https://dati.gov.it/view-dataset?organization=comune-di-rubano
 2025-05-13T13:05:56.548396,Comune di San Gisueppe Vesuviano,c9595f4d-4d59-4d4e-852c-4f19d69f2b8e,c_h931,comune-di-san-gisueppe-vesuviano,0,https://dati.gov.it/view-dataset?organization=comune-di-san-gisueppe-vesuviano
 2025-04-11T13:55:15.361404,Comune di San Marco in Lamis,954a56b3-6ace-4e65-947b-e737b8824d9e,c_h985,comune-di-san-marco-in-lamis,3,https://dati.gov.it/view-dataset?organization=comune-di-san-marco-in-lamis
-2025-05-29T13:26:59.769276,Comune di San Martino Valle Caudina,4d725fa6-57d7-4217-8cf2-2da13777d27c,c_i016,comune-di-san-martino-valle-caudina,3,https://dati.gov.it/view-dataset?organization=comune-di-san-martino-valle-caudina
+2025-05-29T13:26:59.769276,Comune di San Martino Valle Caudina,4d725fa6-57d7-4217-8cf2-2da13777d27c,c_i016,comune-di-san-martino-valle-caudina,0,https://dati.gov.it/view-dataset?organization=comune-di-san-martino-valle-caudina
 2025-04-11T14:45:31.660497,Comune di San Nicola La Strada,08fcb3c4-80e9-469e-8dcc-58b81eb5c742,c_i056,comune-di-san-nicola-la-strada,0,https://dati.gov.it/view-dataset?organization=comune-di-san-nicola-la-strada
 2025-04-28T07:39:02.118754,Comune di Sant'Anastasia,b6b46590-aa67-42ba-9ee2-477087732473,c_i262,comune-di-sant-anastasia,0,https://dati.gov.it/view-dataset?organization=comune-di-sant-anastasia
 2025-02-13T16:29:59.972327,Comune di Sant'Antimo,cb76727a-8ac6-408d-80d8-8f4f1bb718d0,c_i293,comune-di-sant-antimo,10,https://dati.gov.it/view-dataset?organization=comune-di-sant-antimo
@@ -206,7 +206,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-20T14:57:35.924847,Consorzio BIM Vomano Tordino di Teramo,7e7b7ab2-54ec-4df4-8f4a-010b59a2f8d1,conbimte,consorzio-bim-vomano-tordino-di-teramo,4,https://dati.gov.it/view-dataset?organization=consorzio-bim-vomano-tordino-di-teramo
 2025-02-07T09:08:21.549830,Consorzio Dei Comuni della Valle D'Aosta Bacino Imbrifero Montano della Dora Baltea,11f2e211-b3ec-4eb2-a905-920eb858b14c,cdcvd_,consorzio-dei-comuni-della-valle-d-aosta-bacino-imbrifero-montano-della-dora-baltea,3,https://dati.gov.it/view-dataset?organization=consorzio-dei-comuni-della-valle-d-aosta-bacino-imbrifero-montano-della-dora-baltea
 2024-11-21T16:15:35.018017,Consorzio di Gestione Area Marina Protetta Torre del Cerrano,e386e812-c147-4f3c-a549-d92b24daaa32,cgatc_,consorzio-di-gestione-area-marina-protetta-torre-del-cerrano,3,https://dati.gov.it/view-dataset?organization=consorzio-di-gestione-area-marina-protetta-torre-del-cerrano
-2025-06-06T10:07:49.489166,Consorzio Intercomunale Servizi Sociali di Chivasso,d24601dc-4327-45e5-a2a1-28e91d50213a,ciss_chi,consorzio-intercomunale-servizi-sociali-di-chivasso,6,https://dati.gov.it/view-dataset?organization=consorzio-intercomunale-servizi-sociali-di-chivasso
+2025-06-06T10:07:49.489166,Consorzio Intercomunale Servizi Sociali di Chivasso,d24601dc-4327-45e5-a2a1-28e91d50213a,ciss_chi,consorzio-intercomunale-servizi-sociali-di-chivasso,7,https://dati.gov.it/view-dataset?organization=consorzio-intercomunale-servizi-sociali-di-chivasso
 2024-11-28T15:56:57.561842,Consorzio Intercomunale Servizi Socio Assistenziali di Pianezza,1f8c46e7-4335-40ae-b09e-95ee3003d42f,cissa_pi,consorzio-intercomunale-servizi-socio-assistenziali-di-pianezza,3,https://dati.gov.it/view-dataset?organization=consorzio-intercomunale-servizi-socio-assistenziali-di-pianezza
 2024-11-29T12:14:50.361487,Consorzio per la Ricerca sulla Filiera Lattiero Casearia,d93b6fc2-fd8f-498e-b3ec-bccb6c29ba65,clrfl_,consorzio-per-la-ricerca-sulla-filiera-lattiero-casearia,12,https://dati.gov.it/view-dataset?organization=consorzio-per-la-ricerca-sulla-filiera-lattiero-casearia
 2025-02-20T09:25:28.434285,Consorzio Universitario Piceno,4264b4df-ebbf-46bb-b2e8-9a5be149046f,co_unap,consorzio-universitario-piceno,3,https://dati.gov.it/view-dataset?organization=consorzio-universitario-piceno
@@ -274,7 +274,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10942,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,447,https://dati.gov.it/view-dataset?organization=regione-umbria
-2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6295,https://dati.gov.it/view-dataset?organization=regione-veneto
+2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6296,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,1,https://dati.gov.it/view-dataset?organization=sebastien-catalog
 2025-02-07T09:12:21.222865,Unione Bassa Est Parmense,e0108f7b-6337-4715-8629-31b199daaaca,ubep_pr,unione-bassa-est-parmense,0,https://dati.gov.it/view-dataset?organization=unione-bassa-est-parmense

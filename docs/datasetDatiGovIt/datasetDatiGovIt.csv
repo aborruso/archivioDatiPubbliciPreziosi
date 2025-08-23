@@ -11272,6 +11272,7 @@ comune-di-altamura-bilancio-di-previsione-entrata
 comune-di-altamura-bilancio-di-previsione-spesa
 comune-di-altamura-conteggio-popolazione
 comune-di-altamura-conteggio-protocolli
+comune-di-altamura-elenco-atti-amministrativi
 comune-di-altamura-famiglie-per-numero-figli
 comune-di-altamura-procedimenti-amministrativi
 comune-di-altamura-rendiconto-della-gestione-entrata
@@ -11382,6 +11383,7 @@ comune-di-baronissi-bilancio-di-previsione-entrata
 comune-di-baronissi-bilancio-di-previsione-spesa
 comune-di-baronissi-conteggio-popolazione
 comune-di-baronissi-conteggio-protocolli
+comune-di-baronissi-elenco-atti-amministrativi
 comune-di-baronissi-famiglie-per-numero-figli
 comune-di-baronissi-procedimenti-amministrativi
 comune-di-baronissi-rendiconto-della-gestione-entrata
@@ -12372,6 +12374,7 @@ comune-di-ivrea-bilancio-di-previsione-entrata
 comune-di-ivrea-bilancio-di-previsione-spesa
 comune-di-ivrea-conteggio-popolazione
 comune-di-ivrea-conteggio-protocolli
+comune-di-ivrea-elenco-atti-amministrativi
 comune-di-ivrea-elenco-pratiche
 comune-di-ivrea-famiglie-per-numero-figli
 comune-di-ivrea-procedimenti-amministrativi
@@ -12838,6 +12841,7 @@ comune-di-morbegno-bilancio-di-previsione-entrata
 comune-di-morbegno-bilancio-di-previsione-spesa
 comune-di-morbegno-conteggio-popolazione
 comune-di-morbegno-conteggio-protocolli
+comune-di-morbegno-elenco-atti-amministrativi
 comune-di-morbegno-famiglie-per-numero-figli
 comune-di-morbegno-procedimenti-amministrativi
 comune-di-morbegno-rendiconto-della-gestione-entrata
@@ -13036,6 +13040,7 @@ comune-di-peschiera-borromeo-bilancio-di-previsione-entrata
 comune-di-peschiera-borromeo-bilancio-di-previsione-spesa
 comune-di-peschiera-borromeo-conteggio-popolazione
 comune-di-peschiera-borromeo-conteggio-protocolli
+comune-di-peschiera-borromeo-elenco-atti-amministrativi
 comune-di-peschiera-borromeo-famiglie-per-numero-figli
 comune-di-peschiera-borromeo-procedimenti-amministrativi
 comune-di-peschiera-borromeo-rendiconto-della-gestione-entrata
@@ -13068,6 +13073,7 @@ comune-di-piacenza-dati-numero-posti-residenziali-al-2024
 comune-di-piacenza-dati-numero-pratiche-realizzate-online-da-cittadini-ed-imprese-al-2024
 comune-di-piacenza-dati-numero-segnalazioni-online-al-2024
 comune-di-piacenza-dati-numero-servizi-accessibili-online-al-2024
+comune-di-piacenza-dati-piantumazioni-al-2024
 comune-di-piacenza-dati-piste-ciclabili-al-2024
 comune-di-piacenza-dati-progetto-pedibus-al-2024
 comune-di-piacenza-dati-studenti-universitari-al-2024
@@ -13311,6 +13317,7 @@ comune-di-rocca-di-papa-bilancio-di-previsione-entrata
 comune-di-rocca-di-papa-bilancio-di-previsione-spesa
 comune-di-rocca-di-papa-conteggio-popolazione
 comune-di-rocca-di-papa-conteggio-protocolli
+comune-di-rocca-di-papa-elenco-atti-amministrativi
 comune-di-rocca-di-papa-famiglie-per-numero-figli
 comune-di-rocca-di-papa-procedimenti-amministrativi
 comune-di-rocca-di-papa-rendiconto-della-gestione-entrata
@@ -13381,9 +13388,6 @@ comune-di-san-donato-milanese-punti-ricarica-veicoli
 comune-di-san-donato-milanese-servizi-alla-persona
 comune-di-san-giovanni-lupatoto-vr-accessi-al-protocollo
 comune-di-san-martino-valle-caudina
-comune-di-san-martino-valle-caudina-elenco-pratiche
-comune-di-san-martino-valle-caudina-pratiche-presentate
-comune-di-san-martino-valle-caudina-valutazione-esperienza
 comune-di-san-vito-di-leguzzano-associazioni
 comune-di-san-vito-di-leguzzano-fontanelle
 comune-di-san-vito-di-leguzzano-impianti-sportivi
@@ -15196,6 +15200,7 @@ consorzio-intercomunale-servizi-sociali-di-chivasso
 consorzio-intercomunale-servizi-sociali-di-chivasso-bilancio-di-previsione-entrata
 consorzio-intercomunale-servizi-sociali-di-chivasso-bilancio-di-previsione-spesa
 consorzio-intercomunale-servizi-sociali-di-chivasso-conteggio-protocolli
+consorzio-intercomunale-servizi-sociali-di-chivasso-elenco-atti-amministrativi
 consorzio-intercomunale-servizi-sociali-di-chivasso-procedimenti-amministrativi
 consorzio-intercomunale-servizi-sociali-di-chivasso-rendiconto-della-gestione-entrata
 consorzio-intercomunale-servizi-sociali-di-chivasso-rendiconto-della-gestione-spesa
@@ -49009,6 +49014,7 @@ rastrelliere1
 rastrelliere2
 rating-di-legalita-agosto-2023
 rating-di-legalita-agosto-2024
+rating-di-legalita-agosto-2025
 rating-di-legalita-aprile-2023
 rating-di-legalita-aprile-2024
 rating-di-legalita-aprile-2025
@@ -61083,6 +61089,7 @@ tassi-di-assenza-2024
 tassi-di-assenza-20241
 tassi-di-assenza-2025
 tassi-di-assenza-del-comunita-della-valle-dei-laghi
+tassi-di-assenza-del-personale
 tassi-di-assenza-e-presenza-dei-dipendenti-comunali-2009
 tassi-di-assenza-e-presenza-dei-dipendenti-comunali-2010
 tassi-di-assenza-e-presenza-dei-dipendenti-comunali-2011
