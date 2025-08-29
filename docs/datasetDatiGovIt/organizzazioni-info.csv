@@ -105,7 +105,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,157,https://dati.gov.it/view-dataset?organization=comune-di-genova
 2025-02-07T15:18:26.164181,Comune di Gildone,4bd8476a-047d-4254-afeb-900d8661e69c,c_e030,comune-di-gildone,0,https://dati.gov.it/view-dataset?organization=comune-di-gildone
 2025-03-07T15:29:16.641505,Comune di Giovinazzo,e1e9f349-ef2d-4894-91f4-d32f30db0a46,c_e047,comune-di-giovinazzo,4,https://dati.gov.it/view-dataset?organization=comune-di-giovinazzo
-2025-02-11T10:15:38.000771,Comune di Gravina di Catania,9efc13b8-1d90-40b8-9447-9a71823448f5,c_e156,comune-di-gravina-di-catania,3,https://dati.gov.it/view-dataset?organization=comune-di-gravina-di-catania
+2025-02-11T10:15:38.000771,Comune di Gravina di Catania,9efc13b8-1d90-40b8-9447-9a71823448f5,c_e156,comune-di-gravina-di-catania,6,https://dati.gov.it/view-dataset?organization=comune-di-gravina-di-catania
 2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,11,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
 2025-04-14T07:59:19.027568,Comune di Grottammare,c59b580b-8e17-459f-b532-db891593d4e6,c_e207,comune-di-grottammare,0,https://dati.gov.it/view-dataset?organization=comune-di-grottammare
 2025-04-29T07:47:45.384138,Comune di Guidonia Montecelio,728accb6-79a7-427c-aef8-ba404c8b606a,c_e263,comune-di-guidonia-montecelio,3,https://dati.gov.it/view-dataset?organization=comune-di-guidonia-montecelio
@@ -166,6 +166,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:28:23.244694,Comune di Rimini,f9546d88-5c6e-41d1-97b2-ebd9d0a77d21,00304260409,comune-di-rimini,72,https://dati.gov.it/view-dataset?organization=comune-di-rimini
 2025-04-15T14:40:46.400199,Comune di Rocca di Papa,e879fab1-9906-456a-995c-df320ac6ea54,c_h404,comune-di-rocca-di-papa,10,https://dati.gov.it/view-dataset?organization=comune-di-rocca-di-papa
 2025-04-11T08:27:43.931224,Comune di Rubano,2c930491-a1fc-4ec9-aa89-4175339bbf42,c_h625,comune-di-rubano,22,https://dati.gov.it/view-dataset?organization=comune-di-rubano
+2025-08-27T09:49:40.851418,Comune di San Cesareo,fc5aa328-c830-4dbe-a1c3-b27c59a7faae,c_m295,comune-di-san-cesareo,0,https://dati.gov.it/view-dataset?organization=comune-di-san-cesareo
 2025-05-13T13:05:56.548396,Comune di San Gisueppe Vesuviano,c9595f4d-4d59-4d4e-852c-4f19d69f2b8e,c_h931,comune-di-san-gisueppe-vesuviano,0,https://dati.gov.it/view-dataset?organization=comune-di-san-gisueppe-vesuviano
 2025-04-11T13:55:15.361404,Comune di San Marco in Lamis,954a56b3-6ace-4e65-947b-e737b8824d9e,c_h985,comune-di-san-marco-in-lamis,3,https://dati.gov.it/view-dataset?organization=comune-di-san-marco-in-lamis
 2025-05-29T13:26:59.769276,Comune di San Martino Valle Caudina,4d725fa6-57d7-4217-8cf2-2da13777d27c,c_i016,comune-di-san-martino-valle-caudina,0,https://dati.gov.it/view-dataset?organization=comune-di-san-martino-valle-caudina
