@@ -1,6 +1,6 @@
 created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:07:00.168891,ACI - Automobile Club Italia,28bccb62-da5a-4610-96f8-eb274abe4245,aci,aci,35,https://dati.gov.it/view-dataset?organization=aci
-2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,40,https://dati.gov.it/view-dataset?organization=agcm
+2024-06-05T13:28:06.689464,Autorità Garante della Concorrenza e del Mercato,b153fe18-d340-4f24-b55b-fb0c140126f2,agcm_,agcm,41,https://dati.gov.it/view-dataset?organization=agcm
 2025-02-06T10:46:27.761875,Agenzia di Tutela della Salute dell'Insubria,6461fc81-dbf7-4790-9d8d-6efee4c0cb06,atsin,agenzia-di-tutela-della-salute-dell-insubria,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-dell-insubria
 2025-02-13T16:26:32.473301,Agenzia di Tutela della Salute della Brianza,fc47d219-e1e1-4df2-8b32-82b9a3642801,atsmb,agenzia-di-tutela-della-salute-della-brianza,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-brianza
 2024-11-14T15:24:06.603076,ATS - Agenzia di Tutela della Salute della Val Padana,0f63e7d6-119a-4a02-85e9-b11066fc5e58,atsvp,agenzia-di-tutela-della-salute-della-val-padana,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-val-padana
@@ -15,7 +15,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:35:08.510738,Agenzia Regionale per la Protezione dell'Ambiente della Campania,c09c0336-67e9-49ef-893c-64a455fde75e,arlpa_,agenzia-regionale-per-la-protezione-dell-ambiente-della-campania,36,https://dati.gov.it/view-dataset?organization=agenzia-regionale-per-la-protezione-dell-ambiente-della-campania
 2025-04-11T15:13:54.286754,Agenzia Regionale per la Protezione dell'Ambiente della Sardegna,6ea4dd4a-6874-435a-a545-7b60761f9e5f,arpas_ca,agenzia-regionale-per-la-protezione-dell-ambiente-della-sardegna,0,https://dati.gov.it/view-dataset?organization=agenzia-regionale-per-la-protezione-dell-ambiente-della-sardegna
 2024-12-05T14:26:20.386165,Agenzia veneta per i pagamenti - AVEPA,e5b9a715-0198-4770-a3ec-fba4c674e67f,AVEPA,agenzia-veneta-per-i-pagamenti-avepa,7,https://dati.gov.it/view-dataset?organization=agenzia-veneta-per-i-pagamenti-avepa
-2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,anac,anac,64,https://dati.gov.it/view-dataset?organization=anac
+2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,cvtiap,anac,64,https://dati.gov.it/view-dataset?organization=anac
 2024-12-04T19:25:34.119326,ARSAC - Azienda Regionale per lo Sviluppo dell’Agricoltura Calabrese,bc2358db-2de4-47e7-97d5-6e838bda23c9,arsac,arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese,2,https://dati.gov.it/view-dataset?organization=arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese
 2024-11-19T16:04:12.589435,ASBR - Azienda Speciale Servizi Bassa Reggiana,0fbdec27-b8fc-4696-8ec9-53a24adfb36e,assbre,asbr-azienda-speciale-servizi-bassa-reggiana,3,https://dati.gov.it/view-dataset?organization=asbr-azienda-speciale-servizi-bassa-reggiana
 2025-03-07T16:12:11.629737,ASP ambito 9,49f1740e-4b40-4bd1-8f47-34d270507718,_aspan,asp-ambito-9,8,https://dati.gov.it/view-dataset?organization=asp-ambito-9
@@ -27,7 +27,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-04T12:38:56.597024,ATS - Agenzia per la Tutela della Salute della Città Metropolitana di Milano,a9642632-cc67-477f-b66d-437a4fb7e03d,atsmetmi,ats-citta-metropolitana-di-milano,10,https://dati.gov.it/view-dataset?organization=ats-citta-metropolitana-di-milano
 2025-02-19T13:36:12.400099,ATS della Montagna,8daf7621-05b2-4f9e-8c12-f485eb388d61,atsm,ats-della-montagna,10,https://dati.gov.it/view-dataset?organization=ats-della-montagna
 2025-02-07T09:14:10.452115,Autorità d’Ambito n. 1 Verbano Cusio Ossola e Pianura Novarese,7ea82948-73b6-4e2c-89e2-b7710c487431,adanv,autorita-d-ambito-n-1-verbano-cusio-ossola-e-pianura-novarese,0,https://dati.gov.it/view-dataset?organization=autorita-d-ambito-n-1-verbano-cusio-ossola-e-pianura-novarese
-2025-03-11T11:20:25.155377,Autorità di regolazione dei trasporti,6f14896c-52ff-467b-9bda-2d2934ffbe18,art,autorita-di-regolazione-dei-trasporti,28,https://dati.gov.it/view-dataset?organization=autorita-di-regolazione-dei-trasporti
+2025-03-11T11:20:25.155377,Autorità di regolazione dei trasporti,6f14896c-52ff-467b-9bda-2d2934ffbe18,art,autorita-di-regolazione-dei-trasporti,31,https://dati.gov.it/view-dataset?organization=autorita-di-regolazione-dei-trasporti
 2024-10-17T12:27:39.926586,Autorità Idrica Toscana,15c50db6-58b4-4b9e-88f1-fa2394c7aefa,ait_048,autorita-idrica-toscana,10,https://dati.gov.it/view-dataset?organization=autorita-idrica-toscana
 2024-11-20T14:48:58.237141,Azienda Consorziale Trasporti,14f898b0-1004-46af-9a27-e083197006ed,actre,azienda-consorziale-trasporti,4,https://dati.gov.it/view-dataset?organization=azienda-consorziale-trasporti
 2025-02-13T16:36:46.893571,Azienda Ospedaliera di Rilievo Nazionale Antonio Cardarelli,9e6524d8-1e13-4a6c-97b4-11260c86ff67,aorn_063,azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli,10,https://dati.gov.it/view-dataset?organization=azienda-ospedaliera-di-rilievo-nazionale-antonio-cardarelli
@@ -41,7 +41,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:11:29.637397,Azienda Socio Sanitaria Territoriale di Lecco,3fdcdae0-c903-46bf-8555-c254f71cbecc,asstl,azienda-socio-sanitaria-territoriale-di-lecco,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-di-lecco
 2024-11-14T13:32:55.022206,Azienda Socio Sanitaria Territoriale Lariana,3954d7c6-fc2b-4dd1-aebf-e336a0e63b64,asstla,azienda-socio-sanitaria-territoriale-lariana,13,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-lariana
 2025-02-18T15:58:49.682074,Azienda Socio Sanitaria Territoriale Nord Milano,001fcb43-9490-4fc1-a434-526fe7f64a77,asstnm,azienda-socio-sanitaria-territoriale-nord-milano,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-nord-milano
-2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,493,https://dati.gov.it/view-dataset?organization=boxxapps
+2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,495,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-11-27T11:47:56.821882,Brescia Mobilità Spa,2769d5a0-f4ab-4337-b577-a3426d4f0752,bmspa,brescia-mobilita-spa,3,https://dati.gov.it/view-dataset?organization=brescia-mobilita-spa
 2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,65,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
 2024-11-07T10:06:41.673226,Camera di Commercio Industria Artigianato e Agricoltura di Roma,faab567c-7036-4090-87d2-bf7c558b43b9,cciaa_rm,camera-di-commercio-industria-artigianato-e-agricoltura-di-roma,13,https://dati.gov.it/view-dataset?organization=camera-di-commercio-industria-artigianato-e-agricoltura-di-roma
@@ -62,7 +62,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-05-23T11:18:08.375374,Comune di Baronissi,8259142c-4490-49d3-8cee-6e039f74a7b0,c_a674,comune-di-baronissi,10,https://dati.gov.it/view-dataset?organization=comune-di-baronissi
 2024-10-28T10:33:16.569782,Comune di Beinasco,bc5f05ae-4696-4db9-985a-88a78eab0da9,c_a734,comune-di-beinasco,3,https://dati.gov.it/view-dataset?organization=comune-di-beinasco
 2025-02-07T15:05:41.669280,Comune di Benevento,2e83f50b-b1a4-4668-a484-a8bfbdc936ed,c_a783,comune-di-benevento,0,https://dati.gov.it/view-dataset?organization=comune-di-benevento
-2025-02-19T10:19:30.000370,Comune di Besana in Brianza,30ba8004-fbdd-416c-a1a8-523207ff026b,c_a818,comune-di-besana-in-brianza,28,https://dati.gov.it/view-dataset?organization=comune-di-besana-in-brianza
+2025-02-19T10:19:30.000370,Comune di Besana in Brianza,30ba8004-fbdd-416c-a1a8-523207ff026b,c_a818,comune-di-besana-in-brianza,36,https://dati.gov.it/view-dataset?organization=comune-di-besana-in-brianza
 2025-04-07T10:38:28.480560,Comune di Biassono,d0749447-a25e-44ee-8fc0-05e19be3ea4f,c_f712,comune-di-biassono,9,https://dati.gov.it/view-dataset?organization=comune-di-biassono
 2025-04-14T10:24:26.641817,Comune di Bisignano,451287af-4856-48d9-af89-e389e67cc042,c_a887,comune-di-bisignano,5,https://dati.gov.it/view-dataset?organization=comune-di-bisignano
 2025-02-06T10:41:01.801186,Comune di Bitetto,dbd34fd7-3ed1-4223-bd2e-7c00df665195,c_a892,comune-di-bitetto,0,https://dati.gov.it/view-dataset?organization=comune-di-bitetto
@@ -91,7 +91,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-14T09:23:02.989205,Comune di Civitavecchia,81e7ba14-4b56-4b50-a681-8ba6f1e48b7e,c_c773,comune-di-civitavecchia,10,https://dati.gov.it/view-dataset?organization=comune-di-civitavecchia
 2025-07-04T09:05:57.298066,Comune di Collesalvetti,96e34688-2ce0-479b-8058-4c69ff8c09b6,c_c869,comune-di-collesalvetti,0,https://dati.gov.it/view-dataset?organization=comune-di-collesalvetti
 2024-11-13T11:45:17.097340,Comune di Cologno Monzese,92b0fbf4-d3f5-411e-afd5-e0b9bcadd3e8,c_c895,comune-di-cologno-monzese,52,https://dati.gov.it/view-dataset?organization=comune-di-cologno-monzese
-2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,3,https://dati.gov.it/view-dataset?organization=comune-di-corciano
+2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,4,https://dati.gov.it/view-dataset?organization=comune-di-corciano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,10,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
 2024-11-13T09:20:51.897034,Comune di Desenzano del Garda,1d853219-813f-469f-9382-1582ff3e5203,c_d284,comune-di-desenzano-del-garda,43,https://dati.gov.it/view-dataset?organization=comune-di-desenzano-del-garda
 2025-02-13T16:28:00.794424,Comune di Domodossola,b5cdcd76-e358-49ed-a833-a44102a7ece0,c_d332,comune-di-domodossola,3,https://dati.gov.it/view-dataset?organization=comune-di-domodossola
@@ -100,6 +100,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:22:49.293970,Comune di Fonte Nuova,cf2d76c3-7883-4391-8002-dcba5c1dbdb0,c_m309,comune-di-fonte-nuova,3,https://dati.gov.it/view-dataset?organization=comune-di-fonte-nuova
 2025-06-19T12:57:49.299281,Comune di Formigine,8c45992c-9b8b-4be0-96ae-4643bdd88861,c_d711,comune-di-formigine,79,https://dati.gov.it/view-dataset?organization=comune-di-formigine
 2025-06-19T13:01:48.188864,Comune di Frassinoro,6ce38fa7-c69b-4416-8165-f5477ffec67a,c_d783,comune-di-frassinoro,47,https://dati.gov.it/view-dataset?organization=comune-di-frassinoro
+2025-09-12T10:51:49.226218,Comune di Frattamaggiore,ff5e368a-250c-4a2f-9aa5-dbbc4dd537a3,c_d789,comune-di-frattamaggiore,9,https://dati.gov.it/view-dataset?organization=comune-di-frattamaggiore
 2025-02-13T16:34:19.519687,Comune di Gaggiano,33679cb9-991c-489d-aab4-04ae74a2ce00,c_d845,comune-di-gaggiano,46,https://dati.gov.it/view-dataset?organization=comune-di-gaggiano
 2025-02-13T16:24:12.167600,Comune di Garbagnate Milanese,d788d1b5-89b5-4280-af15-5d12eda0cdeb,c_d912,comune-di-garbagnate-milanese,34,https://dati.gov.it/view-dataset?organization=comune-di-garbagnate-milanese
 2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,157,https://dati.gov.it/view-dataset?organization=comune-di-genova
@@ -125,7 +126,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:33:18.330352,Comune di Mariano Comense,3657a375-aae2-49d4-a97f-80c0d7031438,c_e951,comune-di-mariano-comense,42,https://dati.gov.it/view-dataset?organization=comune-di-mariano-comense
 2025-06-16T13:35:21.116471,Comune di Marigliano,3015de2f-2fcf-4b10-8167-6d3b2e25885b,c_e955,comune-di-marigliano,9,https://dati.gov.it/view-dataset?organization=comune-di-marigliano
 2024-10-18T10:25:41.591456,Comune di Massa,3d6faeb4-ce86-4f91-b020-e5df6e9588aa,c_f023,comune-di-massa,4,https://dati.gov.it/view-dataset?organization=comune-di-massa
-2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,244,https://dati.gov.it/view-dataset?organization=comune-di-matera
+2024-03-08T18:23:42.911278,Comune di Matera,13739888-6a55-4d0c-8c07-829568bbe177,c_f052,comune-di-matera,249,https://dati.gov.it/view-dataset?organization=comune-di-matera
 2024-10-07T14:48:27.505874,Comune di Mediglia,fa43b4d9-57a0-4c6a-aa5e-d0dda9a3d7eb,c_f084,comune-di-mediglia,3,https://dati.gov.it/view-dataset?organization=comune-di-mediglia
 2025-06-27T12:56:46.621139,Comune di Melzo,cd92d0da-a26b-42ce-ad92-ecb4e1737eb9,c_f119,comune-di-melzo,10,https://dati.gov.it/view-dataset?organization=comune-di-melzo
 2025-05-27T13:40:52.936853,Comune di Mentana,04294742-0d45-4507-b740-a70f75ccd6be,c_f127,comune-di-mentana,45,https://dati.gov.it/view-dataset?organization=comune-di-mentana
@@ -141,6 +142,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-06-19T13:08:54.489523,Comune di Montefiorino,1de0abeb-bd36-419b-9946-9d4582857357,c_f503,comune-di-montefiorino,47,https://dati.gov.it/view-dataset?organization=comune-di-montefiorino
 2025-07-15T08:51:22.110226,Comune di Monterotondo,2a1644f1-58a6-43de-97e3-d15d9873bc64,c_f611,comune-di-monterotondo,11,https://dati.gov.it/view-dataset?organization=comune-di-monterotondo
 2025-04-07T09:29:05.973342,Comune di Morbegno,88563d4b-1955-4469-a796-e2030a63b13d,c_f712,comune-di-morbegno,10,https://dati.gov.it/view-dataset?organization=comune-di-morbegno
+2025-09-11T09:42:52.858715,Comune di Napoli,f3449752-6111-485b-95b1-aeaeefcf2db5,c_f839,comune-di-napoli,0,https://dati.gov.it/view-dataset?organization=comune-di-napoli
 2025-02-19T10:46:15.223716,Comune di Nave,8d28e8ca-f11b-4e47-a2c9-c6b226d92019,c_f851,comune-di-nave,40,https://dati.gov.it/view-dataset?organization=comune-di-nave
 2025-02-18T17:09:14.847562,Comune di Nembro,d042b660-0e38-4b3f-9463-1a23cf99d4d2,c_f864,comune-di-nembro,6,https://dati.gov.it/view-dataset?organization=comune-di-nembro
 2025-02-13T16:29:02.599064,Comune di Nerviano,f5b11c42-03fe-44c0-8a8d-cd3451b77f75,c_f874,comune-di-nerviano,10,https://dati.gov.it/view-dataset?organization=comune-di-nerviano
@@ -217,7 +219,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-15T16:31:47.052910,Ente Autonomo Volturno Srl,4dc0cdde-3150-48ae-bacd-8552da668a74,eavs,ente-autonomo-volturno-srl,5,https://dati.gov.it/view-dataset?organization=ente-autonomo-volturno-srl
 2025-02-11T10:17:34.271846,Fondazione IRCCS Istituto Neurologico Carlo Besta,c432eac3-aef6-47aa-b088-216e3f4e4aff,fincbmi,fondazione-irccs-istituto-neurologico-carlo-besta,0,https://dati.gov.it/view-dataset?organization=fondazione-irccs-istituto-neurologico-carlo-besta
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
-2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8168,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8233,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,271,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,40,https://dati.gov.it/view-dataset?organization=inail
@@ -236,7 +238,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
 2025-02-19T10:39:30.240736,Ministero del Turismo,54503213-4f23-4c39-ba5f-c0b0bb78f900,WQF3ZW8F,ministero-del-turismo,16,https://dati.gov.it/view-dataset?organization=ministero-del-turismo
 2025-06-27T15:06:07.564881,Ministero dell'Ambiente e della Sicurezza Energetica,b9784816-dae8-49fe-9f30-d1fa8442a7b1,m_amte,ministero-dell-ambiente-e-della-sicurezza-energetica,0,https://dati.gov.it/view-dataset?organization=ministero-dell-ambiente-e-della-sicurezza-energetica
-2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3378,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
+2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3397,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,38,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,105,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
 2024-03-08T19:00:41.997526,Ministero della Salute,593c0fab-b437-4181-b277-cbf5bc21d81c,m_sa,ministero-della-salute,51,https://dati.gov.it/view-dataset?organization=ministero-della-salute
@@ -249,7 +251,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:23:33.039196,Politecnico di Milano,de0b44d2-783e-4e91-8ec9-c79cca8a2299,PM,politecnico-di-milano,11,https://dati.gov.it/view-dataset?organization=politecnico-di-milano
 2025-02-19T10:44:21.556004,Politecnico di Torino,ab0d75c7-04eb-4b48-b811-d4ca97bf1406,pt,politecnico-di-torino,10,https://dati.gov.it/view-dataset?organization=politecnico-di-torino
 2024-03-08T21:24:58.710779,Progetto MISTRAL,6d977765-a0cc-4cfa-8ac5-29e202cc7318,Mistral,progetto-mistral,0,https://dati.gov.it/view-dataset?organization=progetto-mistral
-2024-03-08T21:26:19.519194,Provincia autonoma di Bolzano,4188f7ff-0b05-4dbf-982e-9a6d99da7bc6,p_bz,provincia-autonoma-di-bolzano,613,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
+2024-03-08T21:26:19.519194,Provincia autonoma di Bolzano,4188f7ff-0b05-4dbf-982e-9a6d99da7bc6,p_bz,provincia-autonoma-di-bolzano,622,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-bolzano
 2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,2278,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
 2024-11-28T16:16:41.040994,Provincia di Alessandria,16e5aff3-27f1-489e-aa71-0fe3e4f50c3c,p_al,provincia-di-alessandria,0,https://dati.gov.it/view-dataset?organization=provincia-di-alessandria
 2025-02-07T15:13:51.355439,Provincia di Ascoli Piceno,f6d635e9-7801-4ef5-879e-39de89fece3a,p_ap,provincia-di-ascoli-piceno,0,https://dati.gov.it/view-dataset?organization=provincia-di-ascoli-piceno
@@ -266,16 +268,16 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,214,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
 2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,340,https://dati.gov.it/view-dataset?organization=regione-campania
-2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,1993,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
+2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,1992,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,764,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,402,https://dati.gov.it/view-dataset?organization=regione-lazio
-2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,6,https://dati.gov.it/view-dataset?organization=regione-liguria
-2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3258,https://dati.gov.it/view-dataset?organization=regione-lombardia
+2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,14,https://dati.gov.it/view-dataset?organization=regione-liguria
+2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3279,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5440,https://dati.gov.it/view-dataset?organization=regione-marche
-2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,796,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1582,https://dati.gov.it/view-dataset?organization=regione-puglia
+2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,797,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1585,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,184,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,11008,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,11337,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,447,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6402,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,363,https://dati.gov.it/view-dataset?organization=roma-capitale
@@ -293,7 +295,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T15:13:55.041859,Unione dei Comuni Valdostani Valdigne-Mont-Blanc,8f03b401-6d17-4410-9dcb-9332966b7696,udcvvmb,unione-dei-comuni-valdostani-valdigne-mont-blanc,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-valdigne-mont-blanc
 2025-03-07T15:54:25.043291,Unione dei Comuni valdostani Walser,e8c2e2f1-1cf7-4e2f-a559-389ecaf779a7,CMWAVL,unione-dei-comuni-valdostani-walser,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-walser
 2025-02-18T10:30:25.445531,Unione di Comuni Terre di Vini e di Tartufi,cf70b8a1-7e49-4592-9dff-b350535c81ec,uctvt,unione-di-comuni-terre-di-vini-e-di-tartufi,1,https://dati.gov.it/view-dataset?organization=unione-di-comuni-terre-di-vini-e-di-tartufi
-2024-12-09T19:18:02.155400,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",aef1d1e0-3f4b-41cf-bebb-f34390847f42,UICCIAA,unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura,351,https://dati.gov.it/view-dataset?organization=unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura
+2024-12-09T19:18:02.155400,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",aef1d1e0-3f4b-41cf-bebb-f34390847f42,UICCIAA,unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura,352,https://dati.gov.it/view-dataset?organization=unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura
 2025-04-11T14:30:06.695555,Unione Montana Dei Monti Azzurri,21ae45f6-bc2a-410e-89ae-c78c9b2bbffb,umdma,unione-montana-dei-monti-azzurri,0,https://dati.gov.it/view-dataset?organization=unione-montana-dei-monti-azzurri
 2024-11-05T11:43:08.495052,Unione Pedemontana Parmense,29a696fa-00d5-4be1-b3e9-879992b90f8d,c_c852xf,unione-pedemontana-parmense,3,https://dati.gov.it/view-dataset?organization=unione-pedemontana-parmense
 2025-05-13T09:20:37.513248,Università degli Studi del Piemonte Orientale,90fc5ad2-237d-49fc-9246-c29a9956df4c,uni_por,universita-degli-studi-del-piemonte-orientale,13,https://dati.gov.it/view-dataset?organization=universita-degli-studi-del-piemonte-orientale
