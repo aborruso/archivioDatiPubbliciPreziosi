@@ -1,5 +1,5 @@
 _id,Codice_categoria,Nome_categoria,Tipologia_categoria,SFE,UTD,NSO,AOO,UO
-1,C17,Enti di Previdenza ed Assistenza Sociale in Conto Economico Consolidato privati ,Enti Nazionali di Previdenza ed Assistenza Sociale in Conto Economico Consolidato,P,A,P,A,P
+1,C17,Enti di Previdenza ed Assistenza Sociale in Conto Economico Consolidato privati ,Enti Nazionali di Previdenza ed Assistenza Sociale in Conto Economico Consolidato,P,P,P,A,P
 2,C16,Enti di Previdenza ed Assistenza Sociale in Conto Economico Consolidato pubblici,Enti Nazionali di Previdenza ed Assistenza Sociale in Conto Economico Consolidato,P,P,P,P,P
 3,L37,Gestori di Pubblici Servizi,Gestori di Pubblici Servizi,A,P,A,P,P
 4,SAG,Stazioni Appaltanti Gestori di Pubblici Servizi,Gestori di Pubblici Servizi,P,P,A,P,P
@@ -49,5 +49,6 @@ _id,Codice_categoria,Nome_categoria,Tipologia_categoria,SFE,UTD,NSO,AOO,UO
 48,L31,Teatri Stabili ad Iniziativa Pubblica,Pubbliche Amministrazioni,P,P,P,P,P
 49,L18,Unioni di Comuni e loro Consorzi e Associazioni,Pubbliche Amministrazioni,P,P,P,P,P
 50,L17,Universita' e Istituti di Istruzione Universitaria Pubblici,Pubbliche Amministrazioni,P,P,P,P,P
-51,S01,Societa' in Conto Economico Consolidato,Societa' in Conto Economico Consolidato,P,A,P,A,P
-52,SA,Stazioni Appaltanti,Stazioni Appaltanti,P,P,A,A,P
+51,S01G,Gestori di Pubblici Servizi,Societa' in Conto Economico Consolidato,P,P,P,A,P
+52,S01,Societa' in Conto Economico Consolidato,Societa' in Conto Economico Consolidato,P,P,P,A,P
+53,SA,Stazioni Appaltanti,Stazioni Appaltanti,P,P,A,A,P
