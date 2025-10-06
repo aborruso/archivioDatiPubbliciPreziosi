@@ -718,6 +718,7 @@ accessi-web-mensili-al-portale-open-data
 accessi-web-mensili-da-mobile-al-portale-istituzionale
 accessi-wifi
 accessibilita-dei-luoghi-culturali-presenti-a-miggiano
+accessibilita-luoghi-culturali
 accessibilita-per-persone-con-disabilita-motorie
 accesso-al-portale-istituzionale-anno-2016
 accesso-al-portale-istituzionale-anno-2017
@@ -1783,6 +1784,7 @@ ambienti-terrazzati
 ambiti-ad-eterogenea-integrita
 ambiti-amministrativi
 ambiti-amministrativi-area-regionale
+ambiti-amministrativi-comune-edizione-2021-100k
 ambiti-amministrativi-comuni
 ambiti-amministrativi-comuni-census-2000-storico
 ambiti-amministrativi-province
@@ -2185,8 +2187,10 @@ anagrafe-delle-aziende-aua
 anagrafe-delle-biblioteche-del-piemonte
 anagrafe-delle-biblioteche-italiane-iccu
 anagrafe-delle-discariche-autorizzate
-anagrafe-delle-scuole-del-comune-di-tortoreto
-anagrafe-delle-scuole-del-consorzio-bim-teramo
+anagrafe-delle-scuole-del-comune-di-tortoreto-2024-2025
+anagrafe-delle-scuole-del-comune-di-tortoreto-2025-2026
+anagrafe-delle-scuole-del-consorzio-bim-teramo-2024-2025
+anagrafe-delle-scuole-del-consorzio-bim-teramo-2025-2026
 anagrafe-delle-strutture-edilizie-delle-scuole-secondarie-superiori-anno-2017-citta-metropolita
 anagrafe-delle-strutture-edilizie-delle-scuole-secondarie-superiori-citta-metropolitana-di-fire
 anagrafe-distretti-socio-sanitari
@@ -2489,6 +2493,7 @@ analisi-dipendenti-dellente-comune-di-castelmassa
 analisi-dipendenti-dellente-comune-di-castelnovo-bariano
 analisi-dipendenti-dellente-comune-di-castelnuovo-del-garda
 analisi-dipendenti-dellente-comune-di-cavaso-del-tomba
+analisi-dipendenti-dellente-comune-di-cazzano-di-tramigna
 analisi-dipendenti-dellente-comune-di-cerea
 analisi-dipendenti-dellente-comune-di-cessalto
 analisi-dipendenti-dellente-comune-di-chiuppano
@@ -2643,6 +2648,7 @@ andamento-competenza-entrata-per-titoli-comune-di-castelmassa
 andamento-competenza-entrata-per-titoli-comune-di-castelnovo-bariano
 andamento-competenza-entrata-per-titoli-comune-di-castelnuovo-del-garda
 andamento-competenza-entrata-per-titoli-comune-di-cavaso-del-tomba
+andamento-competenza-entrata-per-titoli-comune-di-cazzano-di-tramigna
 andamento-competenza-entrata-per-titoli-comune-di-ceneselli
 andamento-competenza-entrata-per-titoli-comune-di-cerea
 andamento-competenza-entrata-per-titoli-comune-di-cessalto
@@ -2671,6 +2677,7 @@ andamento-competenza-entrata-per-titoli-comune-di-foza
 andamento-competenza-entrata-per-titoli-comune-di-fratta-polesine
 andamento-competenza-entrata-per-titoli-comune-di-gaiba
 andamento-competenza-entrata-per-titoli-comune-di-gallio
+andamento-competenza-entrata-per-titoli-comune-di-galzignano-terme
 andamento-competenza-entrata-per-titoli-comune-di-gazzo
 andamento-competenza-entrata-per-titoli-comune-di-gazzo-veronese
 andamento-competenza-entrata-per-titoli-comune-di-giavera-del-montello
@@ -2828,6 +2835,7 @@ andamento-competenza-uscita-per-titoli-comune-di-castelmassa
 andamento-competenza-uscita-per-titoli-comune-di-castelnovo-bariano
 andamento-competenza-uscita-per-titoli-comune-di-castelnuovo-del-garda
 andamento-competenza-uscita-per-titoli-comune-di-cavaso-del-tomba
+andamento-competenza-uscita-per-titoli-comune-di-cazzano-di-tramigna
 andamento-competenza-uscita-per-titoli-comune-di-ceneselli
 andamento-competenza-uscita-per-titoli-comune-di-cerea
 andamento-competenza-uscita-per-titoli-comune-di-cessalto
@@ -2856,6 +2864,7 @@ andamento-competenza-uscita-per-titoli-comune-di-foza
 andamento-competenza-uscita-per-titoli-comune-di-fratta-polesine
 andamento-competenza-uscita-per-titoli-comune-di-gaiba
 andamento-competenza-uscita-per-titoli-comune-di-gallio
+andamento-competenza-uscita-per-titoli-comune-di-galzignano-terme
 andamento-competenza-uscita-per-titoli-comune-di-gazzo
 andamento-competenza-uscita-per-titoli-comune-di-gazzo-veronese
 andamento-competenza-uscita-per-titoli-comune-di-giavera-del-montello
@@ -3031,6 +3040,7 @@ andamento-demografico-comune-di-castelmassa
 andamento-demografico-comune-di-castelnovo-bariano
 andamento-demografico-comune-di-castelnuovo-del-garda
 andamento-demografico-comune-di-cavaso-del-tomba
+andamento-demografico-comune-di-cazzano-di-tramigna
 andamento-demografico-comune-di-ceneselli
 andamento-demografico-comune-di-cerea
 andamento-demografico-comune-di-cessalto
@@ -3062,6 +3072,7 @@ andamento-demografico-comune-di-fratta-polesine
 andamento-demografico-comune-di-gaiba
 andamento-demografico-comune-di-galliera-veneta
 andamento-demografico-comune-di-gallio
+andamento-demografico-comune-di-galzignano-terme
 andamento-demografico-comune-di-gazzo
 andamento-demografico-comune-di-gazzo-veronese
 andamento-demografico-comune-di-giacciano-con-baruchella
@@ -3238,6 +3249,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-castelmassa
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-castelnovo-bariano
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-castelnuovo-del-garda
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cavaso-del-tomba
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cazzano-di-tramigna
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-ceneselli
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cerea
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cessalto
@@ -3266,6 +3278,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-foza
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-fratta-polesine
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-gaiba
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-gallio
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-galzignano-terme
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-gazzo
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-gazzo-veronese
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-giavera-del-montello
@@ -3647,6 +3660,8 @@ archivio-dei-prezzi-tasso-congiunturale
 archivio-dei-prezzi-tasso-tendenziale
 archivio-mappatura-fabbisogni-living-lab
 archivio-misure-dei-capisaldi-della-rete-di-controllo-della-subsidenza-periodo-1918-2005
+archivio-rivista-energia-ambiente-e-innovazione-2024
+archivio-rivista-energia-ambiente-e-innovazione-2025
 archivio-storico-del-comune-di-bolzano
 archivio-studi-di-pianificazione-territoriale
 arco-confine
@@ -4172,6 +4187,7 @@ aree-ammassamento
 aree-amministrative-bertiolo
 aree-amministrative-comune-di-asiago
 aree-amministrative-comune-di-galliera-veneta
+aree-amministrative-comune-di-galzignano-terme
 aree-amministrative-comune-di-lastebasse
 aree-amministrative-comune-di-lonigo
 aree-amministrative-comune-di-masi
@@ -4592,6 +4608,7 @@ aree-tutela-paesaggistica-interesse-regionale-soggette-competenza-provinciale
 aree-umide-life-colli-berici-natura-2000-08-nat-it-362
 aree-urbane-di-vicenza-servite-da-connessione-wifi-gratuita-offerta-dal-comune-e-nume-2017-2021
 aree-veicolari-dbt
+aree-verde-pubblico
 aree-verdi
 aree-verdi-comune-di-rovigo
 aree-verdi-ed-impianti-ricreativi-common1
@@ -4938,6 +4955,7 @@ articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelmassa
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelnovo-bariano
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-castelnuovo-del-garda
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-cavaso-del-tomba
+articolazione-degli-uffici-con-orari-al-pubblico-comune-di-cazzano-di-tramigna
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-ceneselli
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-cerea
 articolazione-degli-uffici-con-orari-al-pubblico-comune-di-cessalto
@@ -5563,6 +5581,7 @@ atti-amministrativi-comune-di-castello-di-godego
 atti-amministrativi-comune-di-castelmassa
 atti-amministrativi-comune-di-castelnovo-bariano
 atti-amministrativi-comune-di-castelnuovo-del-garda
+atti-amministrativi-comune-di-cazzano-di-tramigna
 atti-amministrativi-comune-di-ceneselli
 atti-amministrativi-comune-di-cerea
 atti-amministrativi-comune-di-cessalto
@@ -5593,6 +5612,7 @@ atti-amministrativi-comune-di-fratta-polesine
 atti-amministrativi-comune-di-gaiba
 atti-amministrativi-comune-di-galliera-veneta
 atti-amministrativi-comune-di-gallio
+atti-amministrativi-comune-di-galzignano-terme
 atti-amministrativi-comune-di-gazzo
 atti-amministrativi-comune-di-gazzo-veronese
 atti-amministrativi-comune-di-giacciano-con-baruchella
@@ -5726,6 +5746,7 @@ atti-amministrativi-istituto-regionale-ville-venete
 atti-amministrativi-istituzione-comunale-marsala-schola
 atti-amministrativi-jolanda-di-savoia
 atti-amministrativi-lagosanto
+atti-amministrativi-lizzanello
 atti-amministrativi-lusevera
 atti-amministrativi-magnano-in-riviera
 atti-amministrativi-maletto
@@ -7141,12 +7162,12 @@ biblio-sms-servizi-utenza-2013
 biblio-sms-servizi-utenza-2014
 biblio-sms-servizi-utenza-serie-storica
 bibliografia-di-studi-sul-turismo
-biblioteca-braidense-opere-date-in-prestito-1998-2022
+biblioteca-braidense-opere-date-in-prestito-1998-2023
 biblioteca-braidense-patrimonio
-biblioteca-braidense-personale-e-spese-di-gestione-1998-2022
-biblioteca-braidense-posti-a-sedere-1998-2022
-biblioteca-braidense-scaffalature-1998-2022
-biblioteca-braidense-utenti-ammessi-al-prestito-e-alla-consultazione-1998-2022
+biblioteca-braidense-personale-e-spese-di-gestione-1998-2023
+biblioteca-braidense-posti-a-sedere-1998-2023
+biblioteca-braidense-scaffalature-1998-2023
+biblioteca-braidense-utenti-ammessi-al-prestito-e-alla-consultazione-1998-2023
 biblioteca-gambalunga
 biblioteche
 biblioteche-ai-censimenti
@@ -8748,6 +8769,7 @@ carta-didentita-dellacqua-anno-2010
 carta-didentita-dellacqua-anno-2011
 carta-fisico-politica-dellemilia-romagna-1-250-000-colori-edizione-del-2016
 carta-fisico-politica-dellemilia-romagna-1-250-000-colori-edizione-del-2021
+carta-fisico-politica-dellemilia-romagna-1-250-000-colori-edizione-del-20211
 carta-fisico-politica-dellemilia-romagna-1-250-000-monocromatica-edizione-del-2016
 carta-fisico-politica-dellemilia-romagna-1-250-000-monocromatica-edizione-del-2021
 carta-fisico-politica-dellemilia-romagna-1-250-000-monocromatica-edizione-del-2024
@@ -9264,8 +9286,8 @@ catasto-georeferenziato-impianti-rifiuti
 catasto-grotte
 catasto-incendi
 catasto-microzone-censuarie
-catasto-nazionale-dei-rifiuti-serie-storica-2010-2022-dati-di-dettaglio
-catasto-nazionale-dei-rifiuti-serie-storica-2010-2022-dati-di-sintesi
+catasto-nazionale-dei-rifiuti-serie-storica-2010-2023-dati-di-sintesi
+catasto-nazionale-dei-rifiuti-serie-storica-2014-2023-dati-di-dettaglio
 catasto-particelle-graffe1
 catasto-particelle-uniche-validate1
 catasto-particelle1
@@ -10534,7 +10556,7 @@ comitato-di-indirizzo-2021-2026-polis-lombardia
 comitato-di-vigilanza_organismi-interni-l39amministrazione-e-gestione-dipendenti-pubblici
 commercianti-distribuzione-per-categoria-2010-2012
 commercio-al-dettaglio-al-di-fuori-di-negozi-banchi-e-mercati-per-numero-di-esercizi-anno-2015
-commercio-al-dettaglio-esercizi-commerciali-e-superficie-di-vendita
+commercio-al-dettaglio-esercizi-commerciali-e-superficie-di-vendita-2003-2023
 commercio-al-di-fuori-dei-negozi-nei-comuni
 commercio-allingrosso-per-numero-di-esercizi-anno-2015
 commercio-ambulante-per-numero-di-esercizi-2015
@@ -10708,6 +10730,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-c
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelnovo-baria
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-castelnuovo-del-
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cavaso-del-tomba
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cazzano-di-trami
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-ceneselli
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cerea
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cessalto
@@ -10739,6 +10762,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-f
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-gaiba
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-galliera-veneta
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-gallio
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-galzignano-terme
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-gazzo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-gazzo-veronese
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-giavera-del-mont
@@ -11722,6 +11746,16 @@ comune-di-bussolengo-tassi-popolazione-residente
 comune-di-bussolengo-trend-demografico
 comune-di-bussolengo-utenze-osap
 comune-di-bussolengo-utenze-rsu
+comune-di-bussoleno
+comune-di-bussoleno-bilancio-di-previsione-entrata
+comune-di-bussoleno-bilancio-di-previsione-spesa
+comune-di-bussoleno-conteggio-popolazione
+comune-di-bussoleno-conteggio-protocolli
+comune-di-bussoleno-famiglie-per-numero-figli
+comune-di-bussoleno-procedimenti-amministrativi
+comune-di-bussoleno-rendiconto-della-gestione-entrata
+comune-di-bussoleno-rendiconto-della-gestione-spesa
+comune-di-bussoleno-stranieri-per-stato-cittadinanza
 comune-di-calcinaia-famiglie-residenti
 comune-di-calcinaia-nati-e-morti
 comune-di-calcinaia-popolazione-residente-fasce-eta
@@ -12444,6 +12478,7 @@ comune-di-frattamaggiore-stranieri-per-stato-cittadinanza
 comune-di-gaggiano
 comune-di-gaggiano-aire-per-nazione
 comune-di-gaggiano-bandi-di-gara-e-contratti
+comune-di-gaggiano-calcolato-annuale
 comune-di-gaggiano-cognomi-piu-diffusi-residenti
 comune-di-gaggiano-condizioni-lavorative
 comune-di-gaggiano-consulenti-e-collaboratori
@@ -12466,6 +12501,7 @@ comune-di-gaggiano-famiglie-con-stranieri-per-via
 comune-di-gaggiano-famiglie-per-numero-figli
 comune-di-gaggiano-famiglie-residenti-per-via
 comune-di-gaggiano-famiglie-totali
+comune-di-gaggiano-impianti-pubblicitari
 comune-di-gaggiano-matrim-celebrati-per-rito
 comune-di-gaggiano-media-componenti-famiglia
 comune-di-gaggiano-movimento-anagrafico
@@ -15087,6 +15123,7 @@ concorsi-comune-di-castelmassa
 concorsi-comune-di-castelnovo-bariano
 concorsi-comune-di-castelnuovo-del-garda
 concorsi-comune-di-cavaso-del-tomba
+concorsi-comune-di-cazzano-di-tramigna
 concorsi-comune-di-ceneselli
 concorsi-comune-di-cerea
 concorsi-comune-di-cessalto
@@ -15729,6 +15766,25 @@ conto-annuale-2023-r-9813-personale-con-contratto-flessibile
 conto-annuale-2023-r-9813-personale-con-modalita-di-lavoro-flessibile
 conto-annuale-2023-r-9813-sede-di-lavoro
 conto-annuale-2023-r-9813-titolo-di-studio
+conto-annuale-2024-r-9813-anzianita-di-servizio
+conto-annuale-2024-r-9813-assenze
+conto-annuale-2024-r-9813-classi-di-eta
+conto-annuale-2024-r-9813-comandi_distacchi
+conto-annuale-2024-r-9813-differenziale-stipendiale
+conto-annuale-2024-r-9813-dotazione
+conto-annuale-2024-r-9813-oneri-costo-del-lavoro
+conto-annuale-2024-r-9813-oneri-costo-del-lavoro-elenco-istituzioni-ed-importi-rimborsi-effettu
+conto-annuale-2024-r-9813-oneri-costo-del-lavoro-elenco-istituzioni-ed-importi-rimborsi-ricevut
+conto-annuale-2024-r-9813-oneri-voci-indennita-accessori
+conto-annuale-2024-r-9813-oneri-voci-retributive
+conto-annuale-2024-r-9813-passaggi-di-categoria
+conto-annuale-2024-r-9813-personale-a-tempo-determinato
+conto-annuale-2024-r-9813-personale-assunzioni
+conto-annuale-2024-r-9813-personale-cessato
+conto-annuale-2024-r-9813-personale-con-contratto-flessibile
+conto-annuale-2024-r-9813-personale-con-modalita-di-lavoro-flessibile
+conto-annuale-2024-r-9813-sede-di-lavoro
+conto-annuale-2024-r-9813-titolo-di-studi
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-bagnaria-arsa
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-bondeno
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-alonte
@@ -15753,6 +15809,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-castelnovo-bar
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-castelnuovo-de
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cavaso-del-tom
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cazzano-di-tra
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cerea
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-cessalto
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-comune-di-colle-umberto
@@ -15846,6 +15903,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cas-5
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cas-6
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cav
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-caz
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-cer
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-ces
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-comune-di-chi
@@ -16006,6 +16064,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale1-9
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale2-54
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale2-82
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale2-84
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a-2
@@ -16107,6 +16166,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-58
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-66
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-88
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e-2
@@ -16210,6 +16270,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-57
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-67
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-90
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-94
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s-2
@@ -16312,6 +16373,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s1-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-56
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-66
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-88
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-90
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bond
@@ -16400,6 +16462,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu-83
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu-9
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu1-52
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu1-80
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-comu1-83
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-cons
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-magn
@@ -16463,6 +16526,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di-9
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-28
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-34
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-47
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-49
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-consiglio
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-magnano-i
@@ -17038,6 +17102,7 @@ costo-del-personale-comune-di-castelmassa
 costo-del-personale-comune-di-castelnovo-bariano
 costo-del-personale-comune-di-castelnuovo-del-garda
 costo-del-personale-comune-di-cavaso-del-tomba
+costo-del-personale-comune-di-cazzano-di-tramigna
 costo-del-personale-comune-di-cerea
 costo-del-personale-comune-di-cessalto
 costo-del-personale-comune-di-cogollo-del-cengio
@@ -17505,6 +17570,7 @@ dataset-dei-loculi-cimiteriali-disponibili
 dataset-della-dislocazione-delle-fontanelle-per-acqua-potabile-amap
 dataset-indicatori-marini
 dataset-interruzioni-volontarie-gravidanza
+dataset-isole-ecologiche
 dataset-of-administrative-and-environmental-places
 dataset-of-euring-protocol-engine-data-from-the-cni-ispra-bird-ringing-activity
 dataset-of-land-consumption-indicators
@@ -17514,6 +17580,7 @@ dataset-pagamenti-2022-regione-calabria
 dataset-parco-circolante-dei-veicoli
 dataset-personale-audit2023
 dataset-pubblicati
+dataset-punti-luce
 dataset-rmn
 dataset-ron
 dataset-territorio
@@ -17887,7 +17954,7 @@ dati-qualita-dellaria-2019-salerno
 dati-qualita-dellaria-aprile-2025
 dati-qualita-dellaria-febbraio-2025
 dati-qualita-dellaria-marzo-2025
-dati-raccolta-differenziata
+dati-raccolta-differenziata-2023
 dati-recenti-dei-campi-neve
 dati-recenti-delle-stazioni-meteorologiche-automatiche
 dati-registrata-dai-manutentori-ed-installatori-operanti-sul-portale-citcal-distinti-per-p-2022
@@ -18730,8 +18797,10 @@ dbtr2008-canale-di-scolo-canaletta-irrigua-csr_gli
 dbtr2008-caposaldo-cps_gpt
 dbtr2008-carta-tecnica-regionale-1-5000
 dbtr2008-carta-tecnica-regionale-1-5000-light
+dbtr2008-carta-tecnica-regionale-1-5000-light1
 dbtr2008-carta-tecnica-regionale-1-5000-versione-stampabile-con-cartiglio
 dbtr2008-carta-tecnica-regionale-1-5000-versione-stampabile-con-cartiglio1
+dbtr2008-carta-tecnica-regionale-1-50001
 dbtr2008-cassone-edilizio-fab_gpg
 dbtr2008-civico-ncv_gpt
 dbtr2008-civico-proiezione-ncv_proiez_gpt
@@ -19438,6 +19507,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-castelmassa
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-castelnovo-bariano
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-castelnuovo-del-garda
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cavaso-del-tomba
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-cazzano-di-tramigna
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-ceneselli
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cerea
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cessalto
@@ -19465,6 +19535,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-foza
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-fratta-polesine
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-gaiba
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-gallio
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-galzignano-terme
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-gazzo
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-gazzo-veronese
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-giavera-del-montello
@@ -19624,6 +19695,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-castelmassa
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-castelnovo-bariano
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-castelnuovo-del-garda
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cavaso-del-tomba
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-cazzano-di-tramigna
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-ceneselli
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cerea
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cessalto
@@ -19651,6 +19723,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-foza
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-fratta-polesine
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-gaiba
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-gallio
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-galzignano-terme
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-gazzo
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-gazzo-veronese
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-giavera-del-montello
@@ -20378,7 +20451,9 @@ dsm_via_vaticano
 dsm_via_vione_del_padule
 dsm_via_vione_del_padule_torrenti
 dtm-05x05m-rer-2022
+dtm-05x05m-rer-20221
 dtm-05x05m-rer-2023-24
+dtm-05x05m-rer-2023-241
 dtm-10m-altimetria-rev01
 dtm-10m-ombre-rev01
 dtm-2007
@@ -20388,6 +20463,8 @@ dtm-2023
 dtm-40
 dtm-5x5
 dtm-5x5-da-ctr-anni-70-90
+dtm-5x5-da-ctr-anni-70-901
+dtm-5x51
 dtm-abitato-le-colmate
 dtm-costa-adriatica-2019-adbpo
 dtm-e-dsm-passo-1-m-fascia-costiera-2008
@@ -20917,6 +20994,7 @@ elenco-associazioni-comune-di-torri-di-quartesolo
 elenco-associazioni-comune-di-valdastico
 elenco-associazioni-comune-di-zenson-di-piave
 elenco-associazioni-comune-di-zugliano
+elenco-associazioni-culturali-comune-di-montemesola
 elenco-associazioni-di-promozione-sociale
 elenco-associazioni-di-volontariato-autorizzate-e-iscritte-al-registro-regionale
 elenco-associazioni-grigno
@@ -20933,6 +21011,7 @@ elenco-attivita-e-pubblici-esercizi-prevenzione-impatto-atmosferico
 elenco-attivita-produttive-comune-di-badia-polesine
 elenco-attivita-produttive-comune-di-brendola
 elenco-attivita-produttive-comune-di-casale-sul-sile
+elenco-attivita-produttive-comune-di-cazzano-di-tramigna
 elenco-attivita-produttive-comune-di-cogollo-del-cengio
 elenco-attivita-produttive-comune-di-concamarise
 elenco-attivita-produttive-comune-di-ferrara-di-monte-baldo
@@ -21060,6 +21139,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelmassa
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelnovo-bariano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-castelnuovo-del-garda
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cavaso-del-tomba
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cazzano-di-tramigna
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-ceneselli
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cerea
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cessalto
@@ -21092,6 +21172,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-fratta-polesine
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gaiba
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-galliera-veneta
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gallio
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-galzignano-terme
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gazzo
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-gazzo-veronese
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-giacciano-con-baruchella
@@ -21362,6 +21443,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-comune-di-casier
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-castelmassa
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-castelnuovo-del-garda
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cavaso-del-tomba
+elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cazzano-di-tramigna
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cerea
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cessalto
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-chiuppano
@@ -21498,6 +21580,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelmassa
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelnovo-bariano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-castelnuovo-del-garda
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cavaso-del-tomba
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cazzano-di-tramigna
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-ceneselli
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cerea
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cessalto
@@ -21528,6 +21611,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-fratta-polesine
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-gaiba
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-galliera-veneta
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-gallio
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-galzignano-terme
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-gazzo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-gazzo-veronese
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-giavera-del-montello
@@ -21780,6 +21864,7 @@ elenco-delle-pubblicazioni-comune-di-castelcucco
 elenco-delle-pubblicazioni-comune-di-castelmassa
 elenco-delle-pubblicazioni-comune-di-castelnuovo-del-garda
 elenco-delle-pubblicazioni-comune-di-cavaso-del-tomba
+elenco-delle-pubblicazioni-comune-di-cazzano-di-tramigna
 elenco-delle-pubblicazioni-comune-di-cerea
 elenco-delle-pubblicazioni-comune-di-cessalto
 elenco-delle-pubblicazioni-comune-di-chiuppano
@@ -21810,6 +21895,7 @@ elenco-delle-pubblicazioni-comune-di-fratta-polesine
 elenco-delle-pubblicazioni-comune-di-gaiba
 elenco-delle-pubblicazioni-comune-di-galliera-veneta
 elenco-delle-pubblicazioni-comune-di-gallio
+elenco-delle-pubblicazioni-comune-di-galzignano-terme
 elenco-delle-pubblicazioni-comune-di-gazzo
 elenco-delle-pubblicazioni-comune-di-gazzo-veronese
 elenco-delle-pubblicazioni-comune-di-giacciano-con-baruchella
@@ -22425,6 +22511,7 @@ elenco-stazioni-di-monta-equina
 elenco-stazioni-di-monta-equina1
 elenco-stazioni-monta-naturale-equina-autorizzate
 elenco-strade
+elenco-stranieri
 elenco-strutture
 elenco-strutture-autorizzate-alla-conservazione-distribuzione-di-materiale-seminale-ed-embrioni
 elenco-strutture-autorizzate-per-diversamente-abili
@@ -24932,12 +25019,12 @@ famiglie-a-fine-anno
 famiglie-aggregate-per-numero-di-componenti-la-famiglia
 famiglie-ai-censimenti
 famiglie-ai-censimenti-1
-famiglie-anagrafiche-residenti-per-municipio-1999-2023
-famiglie-anagrafiche-residenti-per-nil-1999-2023
+famiglie-anagrafiche-residenti-per-municipio-1999-2024
+famiglie-anagrafiche-residenti-per-nil-1999-2024
 famiglie-anagrafiche-residenti-per-numero-di-componenti-2016
 famiglie-anagrafiche-residenti-per-numero-di-componenti-al-31-dicembre-2014
-famiglie-anagrafiche-tipologie-per-municipio-1999-2023
-famiglie-anagrafiche-tipologie-per-nil-1999-2023
+famiglie-anagrafiche-tipologie-per-municipio-1999-2024
+famiglie-anagrafiche-tipologie-per-nil-1999-2024
 famiglie-che-dichiarano-difficolta-di-collegamento-con-mezzi-pubblici-nella-zona-in-cui-risiedo
 famiglie-che-hanno-avuto-nel-corso-degli-ultimi-12-mesi-richieste-di-denaro-favori-o-altro-o-ch
 famiglie-che-hanno-avuto-nel-corso-degli-ultimi-3-anni-richieste-di-denaro-favori-o-altro-o-che
@@ -25255,7 +25342,6 @@ fasce-di-rispetto-strade-classificazione-b
 fasce-di-rispetto-strade-classificazione-b1
 fasce-di-rispetto-strade-classificazione-c
 fasce-di-rispetto-strade-classificazione-c1
-fasce-eta-ogni-cinque-anni1
 fasce-fluviali-psai-adb-campania-sud-ex-destra-sele
 fasce-fluviali-psai-adb-campania-sud-ex-sinistra-sele
 fasce-pertinenza-acustica1
@@ -25406,6 +25492,7 @@ fiere-e-mercati-comune-di-badia-polesine
 fiere-e-mercati-comune-di-brendola
 fiere-e-mercati-comune-di-casale-sul-sile
 fiere-e-mercati-comune-di-castel-dazzano
+fiere-e-mercati-comune-di-cazzano-di-tramigna
 fiere-e-mercati-comune-di-cogollo-del-cengio
 fiere-e-mercati-comune-di-fontaniva
 fiere-e-mercati-comune-di-giavera-del-montello
@@ -27290,7 +27377,7 @@ imu20201
 in-out-2017-2023
 inail
 inail-infortuni-sul-lavoro-denunciati-dalle-aziende-2004-2009
-inail-infortuni-sul-lavoro-denunciati-dalle-aziende-classi-deta
+inail-infortuni-sul-lavoro-denunciati-dalle-aziende-classi-deta-2010-2023
 inail-infortuni-sul-lavoro-denunciati-dalle-aziende-suddivisione-per-cittadinanza
 inail-infortuni-sul-lavoro-denunciati-dalle-aziende-suddivisione-per-genere
 inattivi-tra-i-15-e-i-64-anni
@@ -29445,10 +29532,10 @@ istruzione-scuola-dinfanzia-percentuale-totale-di-alunni-residenti-in-un-nil-div
 istruzione-scuola-primaria-percentuale-di-alunni-residenti-in-un-nil-diverso-rispetto-alla-scuo
 istruzione-scuola-primaria-percentuale-totale-di-alunni-residenti-in-un-nil-diverso-rispetto-al
 istruzione-scuola-secondaria-i-grado-percentuale-totale-di-alunni-residenti-in-un-nil-diverso-r
-istruzione-scuole-dellinfanzia-alunni-iscritti-per-cittadinanza-e-quartiere-della-scuola
-istruzione-scuole-dellinfanzia-caratteristiche-delle-scuole-e-degli-alunni-per-singola-scuola
-istruzione-scuole-dellinfanzia-unita-scolastiche-classi-e-alunni-per-zona-di-decentramento-e-ti
-istruzione-scuole-dellinfanzia-unita-scolastiche-e-alunni-iscritti-per-tipo-di-gestione-e-quart
+istruzione-scuole-dellinfanzia-alunni-iscritti-per-cittadinanza-e-quartiere-della-scu-2023-2024
+istruzione-scuole-dellinfanzia-caratteristiche-delle-scuole-e-degli-alunni-per-singol-2023-2024
+istruzione-scuole-dellinfanzia-unita-scolastiche-classi-e-alunni-per-municipio-e-tipo-2023-2024
+istruzione-scuole-dellinfanzia-unita-scolastiche-e-alunni-iscritti-per-tipo-di-gestio-2023-2024
 istruzione-scuole-paritarie-anagrafica-2015-2016
 istruzione-scuole-paritarie-anagrafica-2016-2017
 istruzione-scuole-paritarie-anagrafica-2017-2018
@@ -29456,15 +29543,15 @@ istruzione-scuole-paritarie-anagrafica-2018-2019
 istruzione-scuole-paritarie-anagrafica-2019-2020
 istruzione-scuole-paritarie-anagrafica-2020-2021
 istruzione-scuole-paritarie-infanzia-anagrafica-2021-2022
-istruzione-scuole-primarie-alunni-iscritti-per-cittadinanza-e-quartiere-della-scuola
-istruzione-scuole-primarie-caratteristiche-delle-scuole-e-degli-alunni-per-singola-scuola
-istruzione-scuole-primarie-unita-scolastiche-classi-e-alunni-per-zona-di-decentramento-e-tipolo
-istruzione-scuole-primarie-unita-scolastiche-e-alunni-iscritti-per-tipo-di-gestione-e-quartiere
-istruzione-scuole-secondarie-di-i-grado-alunni-iscritti-per-cittadinanza-e-quartiere-della-scuo
-istruzione-scuole-secondarie-di-i-grado-caratteristiche-delle-scuole-e-degli-alunni-per-singola
+istruzione-scuole-primarie-alunni-iscritti-per-cittadinanza-e-quartiere-della-scuola-2023-2024
+istruzione-scuole-primarie-caratteristiche-delle-scuole-e-degli-alunni-per-singola-sc-2023-2024
+istruzione-scuole-primarie-unita-scolastiche-classi-e-alunni-per-municipio-e-tipologi-2023-2024
+istruzione-scuole-primarie-unita-scolastiche-e-alunni-iscritti-per-tipo-di-gestione-e-2023-2024
+istruzione-scuole-secondarie-di-i-grado-alunni-iscritti-per-cittadinanza-e-quartiere-2023-2024
+istruzione-scuole-secondarie-di-i-grado-caratteristiche-delle-scuole-e-degli-alunni-p-2023-2024
 istruzione-scuole-secondarie-di-i-grado-percentuale-di-alunni-residenti-in-un-nil-diverso-rispe
-istruzione-scuole-secondarie-di-i-grado-unita-scolastiche-classi-e-alunni-per-zona-di-decentram
-istruzione-scuole-secondarie-di-i-grado-unita-scolastiche-e-alunni-iscritti-per-tipo-di-gestion
+istruzione-scuole-secondarie-di-i-grado-unita-scolastiche-classi-e-alunni-per-municip-2023-2024
+istruzione-scuole-secondarie-di-i-grado-unita-scolastiche-e-alunni-iscritti-per-tipo-2023-2024
 istruzione-scuole-secondarie-di-ii-grado-alunni-per-tipologia-di-studi-e-gestione-del-2023-2024
 istruzione-scuole-secondarie-di-ii-grado-unita-scolastiche-classi-e-alunni-per-indiri-2023-2024
 istruzione-scuole-secondarie-di-ii-grado-unita-scolastiche-classi-e-alunni-per-zona-d-2023-2024
@@ -29958,8 +30045,8 @@ lavoro-cessazioni-dati-annuali-citta-metropolitana-di-firenze
 lavoro-cessazioni-dati-mensili-citta-metropolitana-di-firenze
 lavoro-collocamento-mirato-dati-annuali-citta-metropolitana-di-firenze
 lavoro-collocamento-mirato-dati-mensili-citta-metropolitana-di-firenze
-lavoro-condizione-lavorativa-dei-residenti-di-15-anni-e-oltre-per-genere-2004-2023
-lavoro-condizione-lavorativa-dei-residenti-tra-i-15-ed-i-64-anni-per-genere-2004-2023
+lavoro-condizione-lavorativa-dei-residenti-di-15-anni-e-oltre-per-genere-2004-2024
+lavoro-condizione-lavorativa-dei-residenti-tra-i-15-ed-i-64-anni-per-genere-2004-2024
 lavoro-confronti-territoriali-tra-i-principali-indicatori-sulloccupazione-2004-2024
 lavoro-iscrizioni-dati-annuali-citta-metropolitana-di-firenze
 lavoro-minimo-di-cittadinanza
@@ -29968,9 +30055,9 @@ lavoro-mobilita-dati-mensili-citta-metropolitana-di-firenze
 lavoro-part-time
 lavoro-part-time-femmine
 lavoro-part-time-maschi
-lavoro-principali-indicatori-sulloccupazione-dei-residenti-di-15-anni-e-piu-per-gener-2004-2023
-lavoro-principali-indicatori-sulloccupazione-dei-residenti-tra-i-15-ed-i-64-anni-per-2004-2023
-lavoro-principali-indicatori-sulloccupazione-giovanile-per-genere-2004-2023
+lavoro-principali-indicatori-sulloccupazione-dei-residenti-di-15-anni-e-piu-per-gener-2004-2024
+lavoro-principali-indicatori-sulloccupazione-dei-residenti-tra-i-15-ed-i-64-anni-per-2004-2024
+lavoro-principali-indicatori-sulloccupazione-giovanile-per-genere-2004-2024
 lavoro-temporaneo
 lavoro-temporaneo-femmine
 lavoro-temporaneo-maschi
@@ -30641,6 +30728,7 @@ locazioni-passive-della-provincia-autonoma-di-trento
 locazioni-passive1
 locazioni-passive2
 locazioni-turistiche
+locazioni-turistiche-comune-di-muro-leccese
 locomotiva-da-manovra
 locomotive-alta-velocita
 locomotive-convenzionali
@@ -30676,6 +30764,8 @@ luoghi-di-culto-luoghi-di-culto-non-cattolico1
 luoghi-di-eccellenza-naturalistica-ptrc-2020
 luoghi-di-interesse
 luoghi-di-interesse-turistico-culturale-naturalistico-comune-di-crispiano
+luoghi-di-intrattenimento
+luoghi-di-intrattenimento-andrano
 luoghi-di-votazione-sedi-permanenti
 luoghi-e-architetture-del-novecento-linea-ptrc-2020
 luoghi-e-architetture-di-villa-del-palladio-linea-ptrc-2020
@@ -31551,6 +31641,7 @@ mappatura-dei-punti-acqua-di-ricarica-come-fontanelle-in-parchi-ricarica-borracc
 mappatura-dei-punti-di-entrata-e-uscita-nella-rete-di-raccolta-dei-deflussi-urbani-comune-2021
 mappatura-dei-punti-di-entrata-e-uscita-nella-rete-di-raccolta-dei-deflussi-urbani-comune-2021-1
 mappatura-dei-punti-di-entrata-ed-uscita-nella-rete-di-raccolta-dei-deflussi-urbani-nel-comune-
+mappatura-dei-punti-servizio-al-cittadino-comune-di-muro-leccese
 mappatura-dei-servizi-digitali-erogati-dal-comune-di-sternatia
 mappatura-della-rete-di-raccolta-dei-deflussi-urbani-comune-di-adria-2021
 mappatura-della-rete-di-raccolta-dei-deflussi-urbani-comune-di-villadose-2021
@@ -32106,11 +32197,11 @@ mobilita-giornaliera-bologna
 mobilita-in-uscita-2016
 mobilita-in-uscita-2017
 mobilita-in-uscita-2018
-mobilita-incidenti-stradali-e-persone-infortunate-per-mese-anni-2001-2023
-mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-cerchia-cittadina-2001-2023
-mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-natura-dellincidente-ann-2001-2023
-mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-veicoli-coinvolti-2001-2023
-mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-zona-di-decentramento-2001-2023
+mobilita-incidenti-stradali-e-persone-infortunate-per-mese-anni-2001-2024
+mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-cerchia-cittadina-2001-2024
+mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-natura-dellincidente-ann-2001-2024
+mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-veicoli-coinvolti-2001-2024
+mobilita-incidenti-stradali-e-persone-infortunate-per-mese-e-zona-di-decentramento-2001-2024
 mobilita-internazionale
 mobilita-localizzazione-dei-parcheggi-di-interscambio
 mobilita-localizzazione-dei-parcheggi-pubblici
@@ -38936,6 +39027,10 @@ molto-soddisfatti-per-le-relazioni-familiari
 molto-soddisfatti-per-le-relazioni-familiari-femmine
 molto-soddisfatti-per-le-relazioni-familiari-maschi
 monatswerte-temperaturen
+monitoraggi-arpa-concentrazione-di-attivita-di-radon-222-allinterno-di-edifici
+monitoraggi-arpa-concentrazione-di-attivita-di-radon-222-in-acqua
+monitoraggi-arpa-siti-di-monitoraggio-acustico
+monitoraggi-arpa-temperatura-permafrost-sito-di-cime-bianche-valtournenche
 monitoraggi-in-continuo-e-puntuale-campi-elettromagnetici
 monitoraggi-vegetazione-life-colli-berici-natura-2000-08-nat-it-362
 monitoraggio-acque-a-destinazione-funzionale
@@ -39551,7 +39646,7 @@ musei-per-soggetto-titolare
 musei-per-tipologia
 musei-riconosciuti-da-regione-lombardia
 musei-statali-prevendite-visite-guidate-audioguide-e-bookshop
-musei-statali-visitatori-ed-introiti
+musei-statali-visitatori-ed-introiti-1996-2024
 musei-visitatori-mensili-per-museo-nel-corso-dellanno
 musei1
 musei2
@@ -40057,7 +40152,6 @@ nozze-d-oro-2018
 nuclei-abitati-presenti-nel-territorio
 nuclei-didentita-locale-nil-vigenti-pgt-2030
 nuclei-e-agglomerati-edilizi-di-matrice-storica
-nuclei-famigliari-per-numero-di-componenti1
 nuclei-familiari-con-componente-inabile-minorenne-o-maggiorenne-tab-15
 nuclei-familiari-con-componente-inabile-minori-e-non-tab-14
 nuclei-familiari-con-componente-inabile-tab-20a
@@ -40127,6 +40221,7 @@ numerazione-civica2-7
 numerazione-civica2-8
 numerazione-civica2-9
 numerazione-civica3
+numerazione-civica4
 numeri-civici
 numeri-civici-2023-comune-di-asolo
 numeri-civici-2023-comune-di-borso-del-grappa
@@ -40236,6 +40331,7 @@ numeri-civici-comune-di-castelmassa
 numeri-civici-comune-di-castelnovo-bariano
 numeri-civici-comune-di-castelnuovo-del-garda
 numeri-civici-comune-di-cavaso-del-tomba
+numeri-civici-comune-di-cazzano-di-tramigna
 numeri-civici-comune-di-cencenighe-agordino
 numeri-civici-comune-di-ceneselli
 numeri-civici-comune-di-cento
@@ -40264,6 +40360,7 @@ numeri-civici-comune-di-foza
 numeri-civici-comune-di-fratta-polesine
 numeri-civici-comune-di-gaiba
 numeri-civici-comune-di-gallio
+numeri-civici-comune-di-galzignano-terme
 numeri-civici-comune-di-gazzo
 numeri-civici-comune-di-gazzo-veronese
 numeri-civici-comune-di-giavera-del-montello
@@ -40961,6 +41058,7 @@ numero-di-utenze-con-accesso-presso-le-stazioni-ecologiche-per-categoria-di-uten
 numero-di-utenze-con-accesso-presso-le-stazioni-ecologiche-per-categoria-di-utenza-e-per-m-2014
 numero-di-utenze-con-accesso-presso-le-stazioni-ecologiche-per-categoria-di-utenza-e-per-m-2015
 numero-di-utenze-con-accesso-presso-le-stazioni-ecologiche-per-categoria-di-utenza-e-per-m-2016
+numero-di-veicoli-di-proprieta-comunale-del-comune-di-montemesola
 numero-di-veicoli-totali-per-100-residenti
 numero-di-verbali-elevati-dalla-polizia-nellanno-2018-per-ogni-mese-dellanno
 numero-di-voucher-venduti-per-regione-agosto-2008-dicembre-2013-tav-7-8
@@ -41989,7 +42087,6 @@ opendata_mappa_ztl_vpolygon
 openfiber-pianificazione-e-stato-lavori-comune-di-matera
 openpnrr-comune-di-copertino
 openpnrr-comune-di-crispiano-ta
-openpnrr-puglia-ipres
 opentusk-regione-puglia-paniere-dataset
 opera-di-consolidamento
 opera-di-difesa-costiera
@@ -43012,7 +43109,7 @@ parcheggi-pubblici-del-comune-di-colceresa
 parcheggi-riservati-a-hotel-culto-giornalisti-dializzati
 parcheggi-riservati-forze-di-polizia
 parcheggi-scambiatori-andamento-passeggeri
-parcheggi-scambiatori-dettaglio-passeggeri-per-parcheggio
+parcheggi-scambiatori-corse-perse
 parcheggi-sosta-disabili
 parcheggi-strutture
 parcheggi-zona-blu
@@ -43092,8 +43189,8 @@ parco-culturale-e-letterario-ptrc-2020
 parco-delle-tradizioni-rurali-ptrc-2020
 parco-marino-delle-tegnue-di-caorle-di-chioggia-e-delle-praterie-di-posidonia-ptrc-2020
 parco-testimoniale-dei-casoni-del-nicesolo-ptrc-2020
-parco-veicolare-circolante-class-emissioni-inquinanti-standard-eu
-parco-veicolare-circolante-consistenza-immatricolazioni-e-radiazioni
+parco-veicolare-circolante-class-emissioni-inquinanti-standard-eu-2007-2024
+parco-veicolare-circolante-consistenza-immatricolazioni-e-radiazioni-2007-2024
 parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2011
 parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2012
 parco-veicolare-dei-residenti-a-milano-suddiviso-per-categoria-anno-2013
@@ -43451,6 +43548,7 @@ patrimonio-bibliotecario-polo-sbn-to0-anno-2023-argomenti-associati-alle-pubblic
 patrimonio-bibliotecario-polo-sbn-to0-anno-2023-numero-copie-per-isbn
 patrimonio-bibliotecario-polo-sbn-to0-anno-2023-titolo-e-autore-di-ciascun-volume-censito
 patrimonio-cimiteri
+patrimonio-culturale-comune-di-muro-leccese
 patrimonio-del-sistema-bibliotecario-urbano-2017
 patrimonio-dellumanita-ptrc-2020
 patrimonio-disponibile-abitativo-ex-comunione-delle-aa-ss-ll-comma-10
@@ -43472,7 +43570,6 @@ patrimonio-immobiliare-arca-puglia-centrale-anno-2024
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-demaniali
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-patrimoniali-disponibili
 patrimonio-immobiliare-citta-metropolitana-di-torino-beni-patrimoniali-indisponibili
-patrimonio-immobiliare-comune-di-latiano
 patrimonio-immobiliare-comune-di-matera-anno-2017
 patrimonio-immobiliare-del-comune-di-latiano
 patrimonio-immobiliare-della-provincia-autonoma-di-trento
@@ -45096,14 +45193,14 @@ popolazione-da-15-a-64-anni-ai-censimenti
 popolazione-da-20-a-64-anni-ai-censimenti
 popolazione-decessi-avvenuti-a-milano
 popolazione-decessi-avvenuti-a-milano-per-cause-di-morte-2003-2011
-popolazione-decessi-avvenuti-a-milano-per-cittadinanza-2021-2023
-popolazione-decessi-avvenuti-a-milano-per-genere-ed-eta-2021-2023
+popolazione-decessi-avvenuti-a-milano-per-cittadinanza-2021-2024
+popolazione-decessi-avvenuti-a-milano-per-genere-ed-eta-2021-2024
 popolazione-decessi-dei-residenti-a-milano-per-cause-di-morte-2012-2013
-popolazione-decessi-dei-residenti-a-milano-per-genere-ed-eta-2021-2023
+popolazione-decessi-dei-residenti-a-milano-per-genere-ed-eta-2021-2024
 popolazione-decessi-dei-residenti-a-milano-per-municipio
-popolazione-decessi-dei-residenti-a-milano-per-municipio-2021-2023
+popolazione-decessi-dei-residenti-a-milano-per-municipio-2021-2024
 popolazione-decessi-dei-residenti-a-milano-per-quartiere
-popolazione-decessi-dei-residenti-a-milano-per-quartiere-2021-2023
+popolazione-decessi-dei-residenti-a-milano-per-quartiere-2021-2024
 popolazione-dei-quartieri-di-lecce-per-sesso-eta-di-riferimento-e-fasce-di-eta
 popolazione-del-comune-di-conegliano-per-fascia-scolastica-e-per-via-al-15-07-2019
 popolazione-del-comune-di-conegliano-per-fascia-scolastica-per-presunta-sezione-elettor-07-2019
@@ -45221,29 +45318,29 @@ popolazione-maschile-per-singolo-anno-deta-2010
 popolazione-maschile-per-singolo-anno-deta-2012
 popolazione-maschile-per-singolo-anno-deta-2013
 popolazione-matrimoni-celebrati-a-milano
-popolazione-matrimoni-celebrati-a-milano-per-classi-di-eta-2021-2023
-popolazione-matrimoni-celebrati-a-milano-per-rito-e-cittadinanza-2021-2023
+popolazione-matrimoni-celebrati-a-milano-per-classi-di-eta-2021-2024
+popolazione-matrimoni-celebrati-a-milano-per-rito-e-cittadinanza-2021-2024
 popolazione-matrimoni-con-almeno-un-coniuge-residente-a-milano
-popolazione-matrimoni-con-almeno-un-coniuge-residente-a-milano-per-classi-di-eta-2021-2023
-popolazione-matrimoni-con-almeno-un-coniuge-residente-a-milano-per-rito-e-cittadinanz-2021-2023
+popolazione-matrimoni-con-almeno-un-coniuge-residente-a-milano-per-classi-di-eta-2021-2024
+popolazione-matrimoni-con-almeno-un-coniuge-residente-a-milano-per-rito-e-cittadinanz-2021-2024
 popolazione-media-nei-centri-abitati-escluso-il-centro-principale
 popolazione-media-nei-nuclei-abitati
 popolazione-nascite-avvenute-a-milano
-popolazione-nascite-avvenute-a-milano-per-cittadinanza-e-luogo-di-residenza-2021-2023
-popolazione-nascite-avvenute-a-milano-per-classi-di-eta-tipo-parto-e-filiazione-2021-2023
-popolazione-nascite-da-parti-gemellari-a-milano-1979-2023
-popolazione-nascite-dei-residenti-per-classi-di-eta-tipo-parto-e-filiazione-2021-2023
-popolazione-nascite-dei-residenti-per-municipio-2021-2023
-popolazione-nascite-dei-residenti-per-quartiere-2021-2023
+popolazione-nascite-avvenute-a-milano-per-cittadinanza-e-luogo-di-residenza-2021-2024
+popolazione-nascite-avvenute-a-milano-per-classi-di-eta-tipo-parto-e-filiazione-2021-2024
+popolazione-nascite-da-parti-gemellari-a-milano-1979-2024
+popolazione-nascite-dei-residenti-per-classi-di-eta-tipo-parto-e-filiazione-2021-2024
+popolazione-nascite-dei-residenti-per-municipio-2021-2024
+popolazione-nascite-dei-residenti-per-quartiere-2021-2024
 popolazione-nascite-per-municipio
 popolazione-nascite-per-quartiere
 popolazione-nel-comune-di-adria-per-quartieri-e-frazioni-al-31-12-2019
 popolazione-nel-comune-di-firenze-anni-1862-2012
 popolazione-nel-comune-di-firenze-valori-al-31-dicembre-degli-anni-1862-2024
 popolazione-non-comunitaria-residente-in-puglia-al-31-12-2023
-popolazione-numero-dei-residenti-allestero
-popolazione-numero-dei-residenti-allestero-per-motivo-di-iscrizione-2021-2023
-popolazione-numero-dei-residenti-allestero-per-nazione-di-residenza-2021-2023
+popolazione-numero-dei-residenti-allestero-2016-2020
+popolazione-numero-dei-residenti-allestero-per-motivo-di-iscrizione-2021-2022
+popolazione-numero-dei-residenti-allestero-per-nazione-di-residenza-2021-2022
 popolazione-per-ambiti-e-classi-di-eta
 popolazione-per-anno-di-nascita
 popolazione-per-anno-di-nascita-nazionalita-e-sesso-anno-2013
@@ -46150,7 +46247,7 @@ popolazione-tra-i-20-e-i-35-anni-immigrata-a-torino-nell-anno-2013
 popolazione-tra-i-20-e-i-35-anni-registrata-in-anagrafe-al-31122008-immigrati-nell-anno-2008
 popolazione-tra-i-20-e-i-35-anni-registrata-in-anagrafe-al-31122020-immigrati-nell-anno-2020
 popolazione-ufficiale1
-popolazione-unioni-civili-celebrate-a-milano-2016-2023
+popolazione-unioni-civili-celebrate-a-milano-2016-2024
 popolazione1
 popular-financial-report-2019
 popular-financial-reporting-2014-2015
@@ -46279,6 +46376,7 @@ posteggi-mercati-e-fiere-comune-di-badia-polesine
 posteggi-mercati-e-fiere-comune-di-brendola
 posteggi-mercati-e-fiere-comune-di-casale-sul-sile
 posteggi-mercati-e-fiere-comune-di-castel-dazzano
+posteggi-mercati-e-fiere-comune-di-cazzano-di-tramigna
 posteggi-mercati-e-fiere-comune-di-cogollo-del-cengio
 posteggi-mercati-e-fiere-comune-di-fontaniva
 posteggi-mercati-e-fiere-comune-di-giavera-del-montello
@@ -46353,6 +46451,7 @@ posti-per-cimitero-comune-di-castel-dazzano
 posti-per-cimitero-comune-di-castelcucco
 posti-per-cimitero-comune-di-castelmassa
 posti-per-cimitero-comune-di-castelnuovo-del-garda
+posti-per-cimitero-comune-di-cazzano-di-tramigna
 posti-per-cimitero-comune-di-ceneselli
 posti-per-cimitero-comune-di-cerea
 posti-per-cimitero-comune-di-cogollo-del-cengio
@@ -46737,6 +46836,7 @@ pratiche-edilizie-richieste-comune-di-castelmassa
 pratiche-edilizie-richieste-comune-di-castelnovo-bariano
 pratiche-edilizie-richieste-comune-di-castelnuovo-del-garda
 pratiche-edilizie-richieste-comune-di-cavaso-del-tomba
+pratiche-edilizie-richieste-comune-di-cazzano-di-tramigna
 pratiche-edilizie-richieste-comune-di-cerea
 pratiche-edilizie-richieste-comune-di-cessalto
 pratiche-edilizie-richieste-comune-di-chiuppano
@@ -46805,6 +46905,7 @@ pratiche-edilizie-rilasciate-comune-di-casale-sul-sile
 pratiche-edilizie-rilasciate-comune-di-casier
 pratiche-edilizie-rilasciate-comune-di-castel-dazzano
 pratiche-edilizie-rilasciate-comune-di-castelnuovo-del-garda
+pratiche-edilizie-rilasciate-comune-di-cazzano-di-tramigna
 pratiche-edilizie-rilasciate-comune-di-cerea
 pratiche-edilizie-rilasciate-comune-di-cordignano
 pratiche-edilizie-rilasciate-comune-di-crespadoro
@@ -49776,21 +49877,32 @@ quadro-di-unione-comune-di-bologna-2023-prodotti-lidar
 quadro-di-unione-comune-di-modena-2024-ortofoto
 quadro-di-unione-comune-di-modena-2024-prodotti-lidar
 quadro-di-unione-ctr-25k-edizione-1998-2000
+quadro-di-unione-ctr-25k-edizione-1998-20001
 quadro-di-unione-ctr-dbtr2008
+quadro-di-unione-ctr-dbtr20081
 quadro-di-unione-ctr-dbtr2013
+quadro-di-unione-ctr-dbtr20131
 quadro-di-unione-ctr5-edizione-1998
+quadro-di-unione-ctr5-edizione-19981
 quadro-di-unione-dei-mosaici-delle-ortofoto-dei-centri-matrice-della-sardegna
 quadro-di-unione-della-cartografia-igm-scala-1-100000
 quadro-di-unione-fogli-di-mappa-scala-1-2-000-ed50
 quadro-di-unione-parchi
 quadro-di-unione-parchi1
 quadro-di-unione-ptpr93-dissesto
+quadro-di-unione-ptpr93-dissesto1
 quadro-di-unione-ptpr93-tutele
+quadro-di-unione-ptpr93-tutele1
 quadro-di-unione-ptpr93-uso-reale-del-suolo
 quadro-di-unione-rer2022-ortofoto
+quadro-di-unione-rer2022-ortofoto1
 quadro-di-unione-rer2022-prodotti-lidar
+quadro-di-unione-rer2022-prodotti-lidar1
 quadro-di-unione-rer2023-24-ortofoto
+quadro-di-unione-rer2023-24-ortofoto1
 quadro-di-unione-rer2023-24-prodotti-lidar
+quadro-di-unione-rer2023-24-prodotti-lidar1
+quadro-di-unione-volo-rer-1976-78
 quadro-dunione-1-10-000
 quadro-dunione-1-2-5001
 quadro-dunione-1-5-0001
@@ -50208,7 +50320,7 @@ ra2015-tav-73-numero-prestatori-lavoro-accessorio-distinti-per-anno-di-attivit22
 ra2015-tav-74-numero-prestatori-lavoro-accessorio-distinti-per-anno-di-attivit224-e-s-2008-2015
 ra2015-tav-8-riscossioni-correnti-i-quadrimestre-2015-2016
 raccolta-differenziata-2000-2009
-raccolta-differenziata-2010-2022
+raccolta-differenziata-2010-2023
 raccolta-differenziata-2013-open-data
 raccolta-differenziata-2014-open-data
 raccolta-differenziata-2015-open-data
@@ -50385,6 +50497,8 @@ raccolta-differenziata-a-recupero-per-tipologia-dal-2010-al-2016-1
 raccolta-differenziata-a-smaltimento-per-tipologia-dal-2008-al-2016
 raccolta-differenziata-a-smaltimento-per-tipologia-dal-2010-al-2016
 raccolta-differenziata-a-smaltimento-per-tipologia-dal-2010-al-2016-1
+raccolta-differenziata-comune-di-montemesola-anno-2024
+raccolta-differenziata-comune-di-montemesola-anno-2025-1-semestre
 raccolta-differenziata-dei-metalli
 raccolta-differenziata-dei-rifiuti-urbani-tonnellate
 raccolta-differenziata-del-vetro
@@ -50514,7 +50628,8 @@ ragazzi-stranieri-per-anno-e-luogo-di-nascita
 raggiungibilita-degli-edifici-mezzi-pubblici-scuolabus
 raggiungibilita-degli-edifici-mezzi-pubblici-scuolabus-dalla-s-2020-2021
 raggiungibilita-degli-edifici-scolastici-scuole-statali-as-2020-2021
-rapporti-analisi-acque-di-balneazione-anno
+rapporti-analisi-acque-di-balneazione-2024
+rapporti-analisi-acque-di-balneazione-2025
 rapporti-del-comune-di-trento
 rapporti-di-lavoro-attivati
 rapporti-di-lavoro-attivati-per-i-lavoratori-stranieri-per-contratto-sesso-e-zona-geografica-13
@@ -50742,7 +50857,7 @@ redditi-da-pensione-2014
 redditi-da-pensione-2015
 redditi-da-pensione-2016
 redditi-di-lavoro-dipendente-e-assimilati-certificati-agli-amministrati
-redditi-distribuzione-del-reddito-complessivo-delle-persone-fisiche
+redditi-distribuzione-del-reddito-complessivo-delle-persone-fisiche-2008-2023
 redditi-e-variabili-irpef-su-base-comunale-2001-a-i-2000
 redditi-e-variabili-irpef-su-base-comunale-2002-a-i-2001
 redditi-e-variabili-irpef-su-base-comunale-2003-a-i-2002
@@ -50792,8 +50907,8 @@ redditi-per-area-statistica
 redditi-persone-fisiche-per-modello-di-dichiarazione-e-classe-di-reddito-anno-2021
 redditi-persone-fisiche-per-modello-di-dichiarazione-e-classe-di-reddito-anno-2022
 redditi-persone-fisiche-per-modello-di-dichiarazione-e-classe-di-reddito-serie-storic-2015-2020
-redditi-principali-tipologie-di-reddito
-redditi-principali-variabili-per-la-determinazione-dellimposta-irpef-e-addizionale-comunale-e-r
+redditi-principali-tipologie-di-reddito-2012-2023
+redditi-principali-variabili-per-la-determinazione-dellimposta-irpef-e-addizionale-co-2012-2023
 redditi-societa-di-capitali-per-classe-di-reddito-anno-2021
 redditi-societa-di-capitali-per-classe-di-reddito-anno-2022
 redditi-societa-di-capitali-per-classe-di-reddito-serie-2019-2020
@@ -52213,6 +52328,7 @@ residui-finali-per-esercizio-comune-di-castelmassa
 residui-finali-per-esercizio-comune-di-castelnovo-bariano
 residui-finali-per-esercizio-comune-di-castelnuovo-del-garda
 residui-finali-per-esercizio-comune-di-cavaso-del-tomba
+residui-finali-per-esercizio-comune-di-cazzano-di-tramigna
 residui-finali-per-esercizio-comune-di-ceneselli
 residui-finali-per-esercizio-comune-di-cerea
 residui-finali-per-esercizio-comune-di-cessalto
@@ -52242,6 +52358,7 @@ residui-finali-per-esercizio-comune-di-foza
 residui-finali-per-esercizio-comune-di-fratta-polesine
 residui-finali-per-esercizio-comune-di-gaiba
 residui-finali-per-esercizio-comune-di-gallio
+residui-finali-per-esercizio-comune-di-galzignano-terme
 residui-finali-per-esercizio-comune-di-gazzo
 residui-finali-per-esercizio-comune-di-gazzo-veronese
 residui-finali-per-esercizio-comune-di-giavera-del-montello
@@ -52835,7 +52952,6 @@ rifiuti-apparecchi-pcb-dichiarazioni
 rifiuti-bilancio-ambientale-comune-di-reggio-emilia-serie-dati-2006-2017
 rifiuti-conferiti-nelle-discariche-pubbliche
 rifiuti-da-pulizia-stradale-2013-2014
-rifiuti-discariche-attive-di-rifiuti-non-pericolosi-anno-2022
 rifiuti-esclusi-da-raccolta-differenziata-2013-2014
 rifiuti-impianti
 rifiuti-impianti-di-compostaggio-anno-2016
@@ -52852,12 +52968,9 @@ rifiuti-impianti-di-trattamento-attivi-anno-2019
 rifiuti-impianti-di-trattamento-attivi-anno-2020
 rifiuti-impianti-di-trattamento-attivi-anno-2021
 rifiuti-impianti-di-trattamento-attivi-anno-2022
-rifiuti-impianti-discariche-attive-di-rifiuti-non-pericolosi-anno-2023
 rifiuti-impianti-impianti-di-compostaggio-anno-2023
 rifiuti-impianti-impianti-di-trattamento-attivi-anno-2023
 rifiuti-impianti-inceneritori-attivi-anno-2023
-rifiuti-impianti-rifiuti-discariche-attive-di-rifiuti-non-pericolosi-anno-2016
-rifiuti-impianti-rifiuti-discariche-attive-di-rifiuti-non-pericolosi-anno-2021
 rifiuti-impianti-stazioni-ecologiche-anno-2023
 rifiuti-inceneritori-attivi-anno-2016
 rifiuti-inceneritori-attivi-anno-2017
@@ -53499,6 +53612,7 @@ rilevazione-velocita-del-vento-anno-2020
 rilevazione-velocita-del-vento-anno-2021
 rilevazione-velocita-del-vento-anno-2022
 rilevazioni-ambientali-inquinamento-atmosferico
+rilevazioni-gas-radon
 rilevazioni-meteo-meteomatera
 rilievi-auxometrici-nelle-foreste-di-lombardia
 rilievi-dati-di-traffico
@@ -54174,6 +54288,7 @@ sanzioni-codice-della-strada-comune-di-campo-san-martino
 sanzioni-codice-della-strada-comune-di-campolongo-maggiore
 sanzioni-codice-della-strada-comune-di-castel-dazzano
 sanzioni-codice-della-strada-comune-di-castelnuovo-del-garda
+sanzioni-codice-della-strada-comune-di-cazzano-di-tramigna
 sanzioni-codice-della-strada-comune-di-cordignano
 sanzioni-codice-della-strada-comune-di-crocetta-del-montello
 sanzioni-codice-della-strada-comune-di-gazzo
@@ -54214,11 +54329,9 @@ scenari-piano-emergenza-diga-ped-diga-di-fontanaluccia
 scenari-piano-emergenza-diga-ped-diga-di-isola-serafini
 scenari-piano-emergenza-diga-ped-diga-di-ligonchio
 scenari-piano-emergenza-diga-ped-diga-di-mignano
-scenari-piano-emergenza-diga-ped-diga-di-molato
 scenari-piano-emergenza-diga-ped-diga-di-ozola
 scenari-piano-emergenza-diga-ped-diga-di-pavana
 scenari-piano-emergenza-diga-ped-diga-di-quarto
-scenari-piano-emergenza-diga-ped-diga-di-ridracoli
 scenari-piano-emergenza-diga-ped-diga-di-riolunato
 scenari-piano-emergenza-diga-ped-diga-di-santa-maria-del-taro
 scenari-piano-emergenza-diga-ped-diga-di-suviana
@@ -54808,6 +54921,7 @@ servizi-cimiteriali-comune-di-castel-dazzano
 servizi-cimiteriali-comune-di-castelcucco
 servizi-cimiteriali-comune-di-castelmassa
 servizi-cimiteriali-comune-di-castelnuovo-del-garda
+servizi-cimiteriali-comune-di-cazzano-di-tramigna
 servizi-cimiteriali-comune-di-ceneselli
 servizi-cimiteriali-comune-di-cogollo-del-cengio
 servizi-cimiteriali-comune-di-colle-umberto
@@ -54895,6 +55009,7 @@ servizi-delle-aoo
 servizi-delle-biblioteche-comunali
 servizi-delle-unita-organizzative
 servizi-delle-uo
+servizi-di-assistenza-resi-da-enti-del-terzo-sett
 servizi-di-caching-wmts-wms-c-e-tms
 servizi-di-car-sharing-bike-sharing-scooter-sharing
 servizi-di-interesse-pubblico
@@ -54924,6 +55039,7 @@ servizi-erogati-piano-annuale-delle-attivita
 servizi-fatturazione-elettronica
 servizi-forniti-dallamministrazione-bertiolo
 servizi-forniti-dallamministrazione-comune-di-baone
+servizi-forniti-dallamministrazione-comune-di-galzignano-terme
 servizi-forniti-dallamministrazione-comune-di-gazzo
 servizi-forniti-dallamministrazione-comune-di-lastebasse
 servizi-forniti-dallamministrazione-comune-di-lonigo
@@ -55259,6 +55375,7 @@ servizio-mensa-scolastica-bondeno
 servizio-mensa-scolastica-comune-di-arsiero
 servizio-mensa-scolastica-comune-di-bergantino
 servizio-mensa-scolastica-comune-di-castel-dazzano
+servizio-mensa-scolastica-comune-di-cazzano-di-tramigna
 servizio-mensa-scolastica-comune-di-cordignano
 servizio-mensa-scolastica-comune-di-crespadoro
 servizio-mensa-scolastica-comune-di-grumolo-delle-abbadesse
@@ -55297,6 +55414,7 @@ servizio-trasporto-scolastico-comune-di-arsiero
 servizio-trasporto-scolastico-comune-di-borso-del-grappa
 servizio-trasporto-scolastico-comune-di-buttapietra
 servizio-trasporto-scolastico-comune-di-castel-dazzano
+servizio-trasporto-scolastico-comune-di-cazzano-di-tramigna
 servizio-trasporto-scolastico-comune-di-cessalto
 servizio-trasporto-scolastico-comune-di-cordignano
 servizio-trasporto-scolastico-comune-di-crespadoro
@@ -55365,7 +55483,7 @@ sezioni-di-censimento-2011-open-data
 sezioni-di-censimento-20111
 sezioni-di-censimento-20113
 sezioni-di-censimento-2021
-sezioni-di-censimento-al-1991
+sezioni-di-censimento-20211
 sezioni-di-censimento-al-1991-1
 sezioni-di-censimento-anno-2001
 sezioni-di-censimento-anno-2011
@@ -55633,11 +55751,11 @@ sisma-2000-ricostruzione-privati-interventi-finanziati-per-la-ricostruzione-di-e
 sisma-2009-ricostruzione-privati-interventi-finanziati-per-la-ricostruzione-di-edifici-privati-
 sistbib
 sistema-accreditamento-enti-formazione-e-orientamento-regione-lazio
-sistema-aeroportuale-di-milano-merci-e-posta-trasportate-da-servizi-aerei-commerciali-2003-2023
+sistema-aeroportuale-di-milano-merci-e-posta-trasportate-da-servizi-aerei-commerciali-2003-2024
 sistema-aeroportuale-di-milano-movimentazione-di-passeggeri
 sistema-aeroportuale-di-milano-movimenti-di-aerei-commerciali
-sistema-aeroportuale-di-milano-movimenti-di-aerei-commerciali-2003-2023
-sistema-aeroportuale-di-milano-passeggeri-trasportati-da-servizi-aerei-commerciali-2003-2023
+sistema-aeroportuale-di-milano-movimenti-di-aerei-commerciali-2003-2024
+sistema-aeroportuale-di-milano-passeggeri-trasportati-da-servizi-aerei-commerciali-2003-2024
 sistema-aeroportuale-di-milano-trasporti-low-cost-e-tradizionali
 sistema-agricolo
 sistema-aree-produttive
@@ -59802,7 +59920,7 @@ statistiche-incidenti-stradali-anno-2013
 statistiche-incidenti-stradali-anno-2014
 statistiche-incidenti-stradali-anno-2015
 statistiche-incidenti-stradali-anno-2016
-statistiche-incidenti-stradali-nei-comuni-del-consorzio-bim-teramo
+statistiche-incidenti-stradali-nei-comuni-del-consorzio-bim-teramo-2023
 statistiche-interventi-in-aula-crt
 statistiche-istanze-urbanistica
 statistiche-mensili-opendata
@@ -59890,6 +60008,7 @@ stato-avanzamento-piano-triennale-comune-di-carbonera
 stato-avanzamento-piano-triennale-comune-di-casale-sul-sile
 stato-avanzamento-piano-triennale-comune-di-castelnovo-bariano
 stato-avanzamento-piano-triennale-comune-di-castelnuovo-del-garda
+stato-avanzamento-piano-triennale-comune-di-cazzano-di-tramigna
 stato-avanzamento-piano-triennale-comune-di-cessalto
 stato-avanzamento-piano-triennale-comune-di-cinto-euganeo
 stato-avanzamento-piano-triennale-comune-di-cordignano
@@ -59901,6 +60020,7 @@ stato-avanzamento-piano-triennale-comune-di-fara-vicentino
 stato-avanzamento-piano-triennale-comune-di-foza
 stato-avanzamento-piano-triennale-comune-di-galliera-veneta
 stato-avanzamento-piano-triennale-comune-di-gallio
+stato-avanzamento-piano-triennale-comune-di-galzignano-terme
 stato-avanzamento-piano-triennale-comune-di-gazzo
 stato-avanzamento-piano-triennale-comune-di-giavera-del-montello
 stato-avanzamento-piano-triennale-comune-di-gorgo-al-monticano
@@ -59969,7 +60089,8 @@ stato-chimico-delle-acque-marino-costiere-colonna-dacqua-anni-2008-2022
 stato-chimico-delle-acque-marino-costiere-sedimenti-anni-2008-2022
 stato-chimico-ed-ecologico-delle-acque-marino-costiere-della-toscana-anni-2013-2022
 stato-civile-2023
-stato-civile-della-popolazione-nei-comuni-del-consorzio-bim-teramo
+stato-civile-della-popolazione-nei-comuni-del-consorzio-bim-teramo-2023
+stato-civile-della-popolazione-nei-comuni-del-consorzio-bim-teramo-2024
 stato-civile-eventi-demografici
 stato-civile-eventi-demografici-1
 stato-civile-eventi-demografici-2
@@ -60325,6 +60446,7 @@ stradario-comunale-comune-di-castelmassa
 stradario-comunale-comune-di-castelnovo-bariano
 stradario-comunale-comune-di-castelnuovo-del-garda
 stradario-comunale-comune-di-cavaso-del-tomba
+stradario-comunale-comune-di-cazzano-di-tramigna
 stradario-comunale-comune-di-ceneselli
 stradario-comunale-comune-di-cerea
 stradario-comunale-comune-di-cessalto
@@ -60351,6 +60473,7 @@ stradario-comunale-comune-di-foza
 stradario-comunale-comune-di-fratta-polesine
 stradario-comunale-comune-di-gaiba
 stradario-comunale-comune-di-gallio
+stradario-comunale-comune-di-galzignano-terme
 stradario-comunale-comune-di-gazzo
 stradario-comunale-comune-di-gazzo-veronese
 stradario-comunale-comune-di-giavera-del-montello
@@ -60597,7 +60720,6 @@ stranieri-per-area-di-provenienza-2020
 stranieri-per-area-di-provenienza-2022
 stranieri-per-area-di-provenienza-serie-storica
 stranieri-per-circoscrizione
-stranieri-per-cittadinanza1
 stranieri-per-localita-di-nascita-e-attivita-economica-delle-imprese
 stranieri-per-quartiere-comune-di-treviso-anno-2019
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
@@ -61027,7 +61149,6 @@ strutture-ricettive-alberghiere-6
 strutture-ricettive-alberghiere-7
 strutture-ricettive-alberghiere-8
 strutture-ricettive-alberghiere-9
-strutture-ricettive-alberghiere-e-extra-alberghiere-nel-comune-di-milano
 strutture-ricettive-allaperto
 strutture-ricettive-allaperto-1
 strutture-ricettive-allaperto-10
@@ -61040,12 +61161,14 @@ strutture-ricettive-allaperto-6
 strutture-ricettive-allaperto-7
 strutture-ricettive-allaperto-8
 strutture-ricettive-allaperto-9
+strutture-ricettive-caprarica
 strutture-ricettive-comune-di-acqualagna
 strutture-ricettive-comune-di-apecchio
 strutture-ricettive-comune-di-cerreto-d-esi
 strutture-ricettive-comune-di-chieri
 strutture-ricettive-comune-di-jesi
 strutture-ricettive-comune-di-monsano
+strutture-ricettive-comune-di-muro-leccese
 strutture-ricettive-comune-di-san-marcello
 strutture-ricettive-comune-zollino
 strutture-ricettive-del-comune-di-sternatia
@@ -61120,6 +61243,7 @@ strutture-ricettive-nel-comune-di-candela
 strutture-ricettive-open-data
 strutture-ricettive-presenti-nella-area-del-patto-didentita-territoriale
 strutture-ricettive-regione-piemonte
+strutture-ricettive-supersano
 strutture-ricettive1
 strutture-ricettive2
 strutture-ricettive3
@@ -61156,6 +61280,7 @@ strutture-termali
 strutture-termali-della-regione-umbria-anno-2013
 strutture-turistiche
 strutture-turistiche-nei-comuni-lombardi
+strutture-turistiche-nel-comune-di-milano
 strutture_ricettive
 strutture_ricettive_comune_di_belvedere_ostrense
 strutture_ricettive_comune_di_cagli
@@ -63955,6 +64080,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-casale-di
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-casale-su
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-castel-da
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-cazzano-d
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-cessalto
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-chiuppano
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-colle-umb
@@ -63967,6 +64093,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-fossalta-
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-foza
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-gaiba
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-galzignan
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-gazzo
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-grumolo-d
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-laghi
@@ -64404,7 +64531,7 @@ turismo-arrivi-e-presenze-nei-comuni-della-valle-del-savio
 turismo-arrivi-e-presenze-nel-comune-di-bagno-di-romagna
 turismo-arrivi-mensili-per-provenienza-2023
 turismo-arrivi-mensili-per-regioni
-turismo-arrivi-nelle-strutture-ricettive-per-provenienza-2000-2023
+turismo-arrivi-nelle-strutture-ricettive-per-provenienza-2000-2024
 turismo-arrivi-nelle-strutture-ricettive-per-provenienza-2005-2023
 turismo-arrivi-per-paese-di-provenienza-e-strutture-alberghiere
 turismo-arrivi-per-regione-e-strutture-alberghiere
@@ -64456,7 +64583,7 @@ turismo-presenze-di-turisti-italiani-per-regione-di-provenienza-e-tipologia-di-s
 turismo-presenze-di-turisti-stranieri-per-paese-di-provenienza-e-tipologia-di-struttu-2008-2023
 turismo-presenze-mensili-per-provenienza-2023
 turismo-presenze-mensili-per-regioni
-turismo-presenze-nelle-strutture-ricettive-per-provenienza-2000-2023
+turismo-presenze-nelle-strutture-ricettive-per-provenienza-2000-2024
 turismo-presenze-nelle-strutture-ricettive-per-provenienza-2005-2023
 turismo-presenze-per-paese-di-provenienza-e-strutture-alberghiere
 turismo-presenze-per-regione-e-strutture-alberghiere
@@ -64519,6 +64646,7 @@ uffici-anagrafici
 uffici-bertiolo
 uffici-comunali
 uffici-comunali-del-comune-di-cortina-dampezzo
+uffici-comune-di-galzignano-terme
 uffici-comune-di-lonigo
 uffici-comune-di-masi
 uffici-comune-di-pincara
@@ -65136,7 +65264,7 @@ valori-e-tutele-naturali-rete-ecologica-locale-aree
 valori-e-tutele-naturali-rete-ecologica-locale-linee
 valori-limite-per-agenti-inquinanti
 valori-rilevati-per-i-principali-inquinanti-acustici
-valori-rilevati-per-i-principali-inquinanti-dellaria
+valori-rilevati-per-i-principali-inquinanti-dellaria-2004-2023
 valutazione-dellaccessibilita-al-bosco
 valutazione-e-gestione-del-rischio-da-stress-lavoro-correlato-a-favore-del-personale-in-servizi
 valutazione-impatto-ambientale-via
@@ -65506,10 +65634,10 @@ verde-scolastico-comunale
 verde-sportivo-comunale
 verde-urbano-anni-2011-2013
 verde-urbano-aree-verdi
-verde-urbano-dal-2011-al-2023
 verde-urbano-nel-comune-di-rovigo-per-tipologia-anno-2017
 verde-urbano-nel-comune-di-rovigo-per-tipologia-anno-2018
 verde-urbano-nel-comune-di-rovigo-per-tipologia-anno-2019
+verde-urbano-serie-storica-dal-2011-al-2024
 verde-urbano-superficie-per-tipologia-valori-espressi-in-m2-anno-2010
 verifica-screening
 verifiche-edilizie-di-pronto-intervento-2018
@@ -65822,6 +65950,7 @@ visitatori-bologna-nuovi-e-ricorrenti
 visitatori-bologna-tempi-di-permanenza
 visitatori-del-multiportale-servizi
 visitatori-giornalieri-bologna
+visite-al-sito-istituzionale
 visite-fiscali-2016
 visite-fiscali-2017
 visite-fiscali-2018
@@ -66284,5 +66413,5 @@ ztl-notturna1
 ztl-zona-a-traffico-limitato
 ztl-zona-a-traffico-limitato-1
 ztl-zona-a-traffico-limitato-2
-ztl-ztm
+ztl-ztm1
 zvn-zone-vulnerabili-da-nitrati-di-origine-agricola
