@@ -25046,6 +25046,8 @@ famiglie-con-almeno-uno-straniero-2021
 famiglie-con-anziani
 famiglie-con-componenti-stranieri
 famiglie-con-connessione-a-banda-larga
+famiglie-con-figli
+famiglie-con-figli-minorenni
 famiglie-con-minori
 famiglie-con-stranieri-per-via-comune-di-creazzo
 famiglie-con-stranieri-per-via-comune-di-gambellara
@@ -25342,6 +25344,7 @@ fasce-di-rispetto-strade-classificazione-b
 fasce-di-rispetto-strade-classificazione-b1
 fasce-di-rispetto-strade-classificazione-c
 fasce-di-rispetto-strade-classificazione-c1
+fasce-eta-ogni-cinque-anni
 fasce-fluviali-psai-adb-campania-sud-ex-destra-sele
 fasce-fluviali-psai-adb-campania-sud-ex-sinistra-sele
 fasce-pertinenza-acustica1
@@ -40152,6 +40155,7 @@ nozze-d-oro-2018
 nuclei-abitati-presenti-nel-territorio
 nuclei-didentita-locale-nil-vigenti-pgt-2030
 nuclei-e-agglomerati-edilizi-di-matrice-storica
+nuclei-famigliari-per-numero-di-componenti
 nuclei-familiari-con-componente-inabile-minorenne-o-maggiorenne-tab-15
 nuclei-familiari-con-componente-inabile-minori-e-non-tab-14
 nuclei-familiari-con-componente-inabile-tab-20a
@@ -60720,6 +60724,7 @@ stranieri-per-area-di-provenienza-2020
 stranieri-per-area-di-provenienza-2022
 stranieri-per-area-di-provenienza-serie-storica
 stranieri-per-circoscrizione
+stranieri-per-cittadinanza
 stranieri-per-localita-di-nascita-e-attivita-economica-delle-imprese
 stranieri-per-quartiere-comune-di-treviso-anno-2019
 stranieri-per-quartiere-e-cittad-comune-di-creazzo
