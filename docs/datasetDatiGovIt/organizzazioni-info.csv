@@ -196,6 +196,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
 2025-02-13T16:26:10.993736,Comune di Tortona,70318d13-2c24-46ea-8944-12d58fa13ae3,c_l304,comune-di-tortona,3,https://dati.gov.it/view-dataset?organization=comune-di-tortona
 2025-02-18T16:39:02.958167,Comune di Tortoreto,8d8c41d3-a539-4f08-b489-a7fed178846a,c_l307,comune-di-tortoreto,5,https://dati.gov.it/view-dataset?organization=comune-di-tortoreto
+2025-10-07T15:49:27.740922,Comune di Treviglio,79d608ae-ea96-4736-9393-4154086f2e23,c_l400,comune-di-treviglio,44,https://dati.gov.it/view-dataset?organization=comune-di-treviglio
 2025-02-13T16:31:01.483473,Comune di Treviolo,9eb026f3-5803-44ca-b9fa-5aa17af242dc,c_l404,comune-di-treviolo,39,https://dati.gov.it/view-dataset?organization=comune-di-treviolo
 2025-02-17T16:22:34.201799,Comune di Trinitapoli,39324ee9-b942-4be6-ae26-0e882bb6cf70,c_b915,comune-di-trinitapoli,0,https://dati.gov.it/view-dataset?organization=comune-di-trinitapoli
 2025-02-07T15:12:26.885282,Comune di Valenzano,9de58538-7d17-40da-bbf8-b6a17d3820dc,c_l571,comune-di-valenzano,5,https://dati.gov.it/view-dataset?organization=comune-di-valenzano
@@ -258,7 +259,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:30:06.339036,Provincia Autonoma di Trento,90386224-173b-4a9a-b236-78faabe88307,p_TN,provincia-autonoma-di-trento,2278,https://dati.gov.it/view-dataset?organization=provincia-autonoma-di-trento
 2024-11-28T16:16:41.040994,Provincia di Alessandria,16e5aff3-27f1-489e-aa71-0fe3e4f50c3c,p_al,provincia-di-alessandria,0,https://dati.gov.it/view-dataset?organization=provincia-di-alessandria
 2025-02-07T15:13:51.355439,Provincia di Ascoli Piceno,f6d635e9-7801-4ef5-879e-39de89fece3a,p_ap,provincia-di-ascoli-piceno,0,https://dati.gov.it/view-dataset?organization=provincia-di-ascoli-piceno
-2024-09-17T08:42:01.577065,Provincia di Avellino,d62208e2-c944-4578-a792-7cec058137c0,p_av,provincia-di-avellino,1,https://dati.gov.it/view-dataset?organization=provincia-di-avellino
+2024-09-17T08:42:01.577065,Provincia di Avellino,d62208e2-c944-4578-a792-7cec058137c0,p_av,provincia-di-avellino,10,https://dati.gov.it/view-dataset?organization=provincia-di-avellino
 2024-05-22T14:26:56.234855,Provincia di Biella,8722baa5-6824-4009-86e3-57075b943c5e,p_bi,provincia-di-biella,5,https://dati.gov.it/view-dataset?organization=provincia-di-biella
 2024-11-28T16:04:02.855391,Provincia di Catanzaro,8da04a83-35e0-4f89-8dd2-fdba511e6f5f,p_cz,provincia-di-catanzaro,6,https://dati.gov.it/view-dataset?organization=provincia-di-catanzaro
 2025-02-13T16:36:26.700827,Provincia di Foggia,5123938d-993a-485a-b631-d72d05390429,p_fg,provincia-di-foggia,10,https://dati.gov.it/view-dataset?organization=provincia-di-foggia
