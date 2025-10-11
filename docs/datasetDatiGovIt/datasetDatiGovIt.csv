@@ -313,8 +313,8 @@ id
 2024_risultati_elezioni_regionali
 2024_risultati_preferenze_europee
 2024_risultati_preferenze_regionali
-2025_affluenze_referendum_quesito1
 2025_affluenze_referendum_quesito1-1
+2025_affluenze_referendum_quesito11
 2025_affluenze_referendum_quesito2
 2025_affluenze_referendum_quesito3
 2025_affluenze_referendum_quesito4
@@ -612,7 +612,7 @@ academy-aress-fad-2023
 accertamenti-liquidazioni-ici-2015
 accertamento-compatibilita-paesaggistica-comune-di-martinafranca
 accertato-lordo-percentuale-di-incremento-tra-valore-programmato-in-fase-di-previsione-2013-e-c
-access-point
+access-point1
 access-points-pubblici
 accessi
 accessi-a-pisa-wifi-anno-2016
@@ -2189,8 +2189,6 @@ anagrafe-delle-biblioteche-italiane-iccu
 anagrafe-delle-discariche-autorizzate
 anagrafe-delle-scuole-del-comune-di-tortoreto-2024-2025
 anagrafe-delle-scuole-del-comune-di-tortoreto-2025-2026
-anagrafe-delle-scuole-del-consorzio-bim-teramo-2024-2025
-anagrafe-delle-scuole-del-consorzio-bim-teramo-2025-2026
 anagrafe-delle-strutture-edilizie-delle-scuole-secondarie-superiori-anno-2017-citta-metropolita
 anagrafe-delle-strutture-edilizie-delle-scuole-secondarie-superiori-citta-metropolitana-di-fire
 anagrafe-distretti-socio-sanitari
@@ -2651,6 +2649,7 @@ andamento-competenza-entrata-per-titoli-comune-di-cavaso-del-tomba
 andamento-competenza-entrata-per-titoli-comune-di-cazzano-di-tramigna
 andamento-competenza-entrata-per-titoli-comune-di-ceneselli
 andamento-competenza-entrata-per-titoli-comune-di-cerea
+andamento-competenza-entrata-per-titoli-comune-di-cerro-veronese
 andamento-competenza-entrata-per-titoli-comune-di-cessalto
 andamento-competenza-entrata-per-titoli-comune-di-chiuppano
 andamento-competenza-entrata-per-titoli-comune-di-codogne
@@ -2838,6 +2837,7 @@ andamento-competenza-uscita-per-titoli-comune-di-cavaso-del-tomba
 andamento-competenza-uscita-per-titoli-comune-di-cazzano-di-tramigna
 andamento-competenza-uscita-per-titoli-comune-di-ceneselli
 andamento-competenza-uscita-per-titoli-comune-di-cerea
+andamento-competenza-uscita-per-titoli-comune-di-cerro-veronese
 andamento-competenza-uscita-per-titoli-comune-di-cessalto
 andamento-competenza-uscita-per-titoli-comune-di-chiuppano
 andamento-competenza-uscita-per-titoli-comune-di-codogne
@@ -2998,6 +2998,7 @@ andamento-demografico-bagnaria-arsa
 andamento-demografico-bondeno
 andamento-demografico-cefala-diana
 andamento-demografico-cefalu
+andamento-demografico-comune-di-agna
 andamento-demografico-comune-di-agugliaro
 andamento-demografico-comune-di-albaredo-dadige
 andamento-demografico-comune-di-albettone
@@ -3043,6 +3044,7 @@ andamento-demografico-comune-di-cavaso-del-tomba
 andamento-demografico-comune-di-cazzano-di-tramigna
 andamento-demografico-comune-di-ceneselli
 andamento-demografico-comune-di-cerea
+andamento-demografico-comune-di-cerro-veronese
 andamento-demografico-comune-di-cessalto
 andamento-demografico-comune-di-chieri
 andamento-demografico-comune-di-chiuppano
@@ -3252,6 +3254,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cavaso-del-tomba
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cazzano-di-tramigna
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-ceneselli
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cerea
+andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cerro-veronese
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-cessalto
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-chiuppano
 andamento-entrate-e-uscite-di-competenza-negli-anni-comune-di-codogne
@@ -4185,6 +4188,7 @@ aree-allagate-fonte-citizen-science
 aree-alluvionate-1994-2000
 aree-ammassamento
 aree-amministrative-bertiolo
+aree-amministrative-comune-di-agna
 aree-amministrative-comune-di-asiago
 aree-amministrative-comune-di-galliera-veneta
 aree-amministrative-comune-di-galzignano-terme
@@ -5127,7 +5131,7 @@ assegni-familiari_lavoratori-autonomi-numero-e-media-annua-beneficiari-e-importo
 assegni-maternit224-dello-stato-numero-beneficiari-per-classe-di-et224-e-area-geografica-2014
 assegni-maternit224-dello-stato-numero-beneficiari-per-regione-2014
 assegnisti-di-ricerca
-assegnisti-di-ricerca1
+assegnisti-di-ricerca2
 assemblee-2012
 assemblee-20121
 assemini-attivita-commerciali-via-roma
@@ -5540,6 +5544,7 @@ atti-amministrativi-bondeno
 atti-amministrativi-cavazzo-carnico
 atti-amministrativi-cefala-diana
 atti-amministrativi-cefalu
+atti-amministrativi-comune-di-agna
 atti-amministrativi-comune-di-agugliaro
 atti-amministrativi-comune-di-albaredo-dadige
 atti-amministrativi-comune-di-albettone
@@ -5585,6 +5590,7 @@ atti-amministrativi-comune-di-castelnuovo-del-garda
 atti-amministrativi-comune-di-cazzano-di-tramigna
 atti-amministrativi-comune-di-ceneselli
 atti-amministrativi-comune-di-cerea
+atti-amministrativi-comune-di-cerro-veronese
 atti-amministrativi-comune-di-cessalto
 atti-amministrativi-comune-di-chiuppano
 atti-amministrativi-comune-di-cinto-euganeo
@@ -6093,12 +6099,12 @@ audiolibri-anno-2017
 audiovisivi-del-sistema-sdiaf
 audit-di-sistema-por-calabria-2014-2020
 audit-system
-aule
 aule-broletto
 aule-eucentre
 aule-marelli
 aule-studio
 aule1
+aule2
 autismo-comune-di-oria
 autobus-a-basse-emissioni-utilizzati-per-il-trasporto-pubblico-locale-indicatore-per-100-autobu
 autobus-alimentati-a-gasolio-distinti-per-provincia-e-numero-di-posti-dati-e-statistiche-aci
@@ -6851,6 +6857,11 @@ bandi-gara-e-contratti-1
 bandi-gara-e-contratti-2
 bandi-gare-e-contratti
 bandi-per-finanziamenti-e-opportunita-pubblicati-dalla-regione-emilia-romagna
+bandi-per-gli-assegni-di-ricerca
+bandi-per-i-contratti-di-ricerca
+bandi-per-i-dottorati
+bandi-per-i-professori
+bandi-per-i-ricercatori-a-tempo-determinato
 bando-iscrizioni-asili-nido-a-s-2014-2015
 bando-iscrizioni-asili-nido-a-s-2016_2017
 bando-pubblico-per-esercizi-di-vicinato-nei-rioni-sassi
@@ -7973,6 +7984,7 @@ bilancio-di-previsione-2022-20241
 bilancio-di-previsione-2024-2026
 bilancio-di-previsione-2024-20262
 bilancio-di-previsione-2024-20262-1
+bilancio-di-previsione-2025-2027
 bilancio-di-previsione-2025-2027-parte-entrate
 bilancio-di-previsione-2025-2027-parte-uscite
 bilancio-di-previsione-annuale-2013
@@ -10694,6 +10706,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-bagnaria-ar
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-bondeno
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-cefala-diana
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-cefalu
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-agna
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-agugliaro
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-albaredo-dadige
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-albettone
@@ -10738,6 +10751,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-c
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cazzano-di-trami
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-ceneselli
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cerea
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cerro-veronese
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cessalto
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-cinto-euganeo
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-comune-di-codogne
@@ -11265,6 +11279,8 @@ comune-cinisello-balsamo-sezioni-di-censimento
 comune-cinisello-balsamo-stato-civile-e-sesso
 comune-cinisello-balsamo-zonizzazione-acustica
 comune-cinisello-balsamo-zonizzazione-impianti-pubblicitari
+comune-cino-elenco-toponimi-stradali
+comune-cino-numeri-civici
 comune-cino-pratiche-edilizie
 comune-cino-provvedimenti-degli-organi-di-indirizzo-politico
 comune-cino-provvedimenti-dei-dirigenti
@@ -13394,6 +13410,7 @@ comune-di-piacenza-stranieri-per-stato-cittad
 comune-di-piacenza-strasa
 comune-di-piacenza-tassi-popolazione-residente
 comune-di-piacenza-trend-demografico
+comune-di-piacenza-utenze
 comune-di-pieranica-elenco-immobili-di-proprieta
 comune-di-pieranica-elenco-impianti-di-depurazione
 comune-di-pieranica-parcheggi
@@ -13835,10 +13852,15 @@ comune-di-seriate-statistiche-demografiche-marzo-2025
 comune-di-seriate-strasa-2024
 comune-di-seriate-valutazione-customer-sportello-telematico
 comune-di-sesto-fiorentino
-comune-di-sesto-fiorentino-elenco-cancellati
+comune-di-sesto-fiorentino-assunti-nellanno
+comune-di-sesto-fiorentino-cessati-nellanno
+comune-di-sesto-fiorentino-in-servizio
+comune-di-sesto-fiorentino-strutture-ricettive
 comune-di-sesto-san-giovanni
 comune-di-signa
+comune-di-signa-assunti-nellanno
 comune-di-signa-bandi-di-gara-e-contratti
+comune-di-signa-cessati-nellanno
 comune-di-signa-consulenti-e-collaboratori
 comune-di-signa-conteggio-protocolli-2024
 comune-di-signa-conteggio-protocolli-per-ufficio-2024
@@ -13846,11 +13868,13 @@ comune-di-signa-convocati
 comune-di-signa-elenco-delle-aree-di-circolazione
 comune-di-signa-elenco-pratiche-2024
 comune-di-signa-fabbricati-attivi
+comune-di-signa-in-servizio
 comune-di-signa-monitoraggio-dei-tempi-dei-procedimenti
 comune-di-signa-provvedimenti-dei-dirigenti
 comune-di-signa-provvedimenti-dirigenti-amministrativi
 comune-di-signa-provvedimenti-organi-di-indirizzo-politico
 comune-di-signa-sovvenzioni-contributi-sussidi-vantaggi-economici
+comune-di-signa-strutture-imposta-di-soggiorno
 comune-di-signa-strutture-ricettive
 comune-di-signa-terreni-attivi
 comune-di-signa-versamenti-spontanei-2023
@@ -14543,7 +14567,6 @@ comune-sesto-fiorentino-stranieri-per-quartiere-e-cittad
 comune-sesto-fiorentino-stranieri-per-sesso-ed-eta
 comune-sesto-fiorentino-stranieri-per-stato-cittad
 comune-sesto-fiorentino-strasa
-comune-sesto-fiorentino-strutture
 comune-sesto-fiorentino-tassi-popolazione-residente
 comune-sesto-fiorentino-terreni-attivi
 comune-sesto-fiorentino-trend-demografico
@@ -15133,6 +15156,7 @@ concorsi-comune-di-cavaso-del-tomba
 concorsi-comune-di-cazzano-di-tramigna
 concorsi-comune-di-ceneselli
 concorsi-comune-di-cerea
+concorsi-comune-di-cerro-veronese
 concorsi-comune-di-cessalto
 concorsi-comune-di-chiuppano
 concorsi-comune-di-codogne
@@ -15221,6 +15245,7 @@ concorsi-del-comunita-rotaliana-konigsberg
 concorsi-del-comunita-valsugana-e-tesino
 concorsi-del-magnifica-comunita-degli-altipiani-cimbri
 concorsi-della-regione-basilicata
+concorsi-docenti
 concorsi-e-mobilita-fino-al-2017
 concorsi-grigno
 concorsi-istituto-regionale-ville-venete
@@ -16174,6 +16199,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a1-9
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-58
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-66
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-76
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-88
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e
@@ -16278,6 +16304,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e1-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-57
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-67
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-75
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-94
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s
@@ -16382,6 +16409,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s1-90
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-56
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-66
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-74
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-88
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s2-90
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
@@ -16535,6 +16563,7 @@ conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-conven
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di-9
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-28
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-34
+conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-41
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-47
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-comune-di1-49
 conto-annuale-personale-in-posizione-di-comando-distacco-fuori-ruolo-e-in-convenzione-consiglio
@@ -16762,7 +16791,7 @@ convenzioni-aria-prodotti
 convenzioni-e-accordi
 convenzioni-per-la-didattica
 convenzioni-per-la-ricerca
-convenzioni-tirocini-curriculari
+convenzioni-tirocini-curriculari1
 conviventi-per-quartiere
 convivenze-a-fine-anno
 convivenze-ai-censimenti
@@ -17034,9 +17063,9 @@ corsi-di-studio-attivati-dall-universita-degli-studi-di-torino
 corsi-di-studio-delle-scuole-trentine
 corsi-di-studio1
 corsi-di-studio2
-corsi-di-studio3
 corsi-di-studio4
 corsi-di-studio5
+corsi-di-studio6
 corsi-ordinari-scienze-biomediche
 corsi-ordinari-scienze-e-tecnologie
 corsi-ordinari-scienze-sociali
@@ -17963,7 +17992,7 @@ dati-qualita-dellaria-2019-salerno
 dati-qualita-dellaria-aprile-2025
 dati-qualita-dellaria-febbraio-2025
 dati-qualita-dellaria-marzo-2025
-dati-raccolta-differenziata-2023
+dati-raccolta-differenziata-del-comune-di-tortoreto-2023
 dati-recenti-dei-campi-neve
 dati-recenti-delle-stazioni-meteorologiche-automatiche
 dati-registrata-dai-manutentori-ed-installatori-operanti-sul-portale-citcal-distinti-per-p-2022
@@ -19519,6 +19548,7 @@ dettaglio-entrate-per-capitolo-di-spesa-comune-di-cavaso-del-tomba
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cazzano-di-tramigna
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-ceneselli
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cerea
+dettaglio-entrate-per-capitolo-di-spesa-comune-di-cerro-veronese
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-cessalto
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-chiuppano
 dettaglio-entrate-per-capitolo-di-spesa-comune-di-codogne
@@ -19707,6 +19737,7 @@ dettaglio-uscite-per-capitolo-di-spesa-comune-di-cavaso-del-tomba
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cazzano-di-tramigna
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-ceneselli
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cerea
+dettaglio-uscite-per-capitolo-di-spesa-comune-di-cerro-veronese
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-cessalto
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-chiuppano
 dettaglio-uscite-per-capitolo-di-spesa-comune-di-codogne
@@ -19931,12 +19962,12 @@ dinamica-demografica-mensile-5
 dinamica-demografica-mensile-6
 dinamica-occupati-nel-settore-pubblico
 diossine-statistiche
-dipartimenti
 dipartimenti-ats-della-montagna
 dipartimenti-di-ats-brescia
 dipartimenti-scuole
 dipartimenti-uniba
 dipartimenti1
+dipartimenti2
 dipartimento-programmazione-unitaria-contatti
 dipartimento-programmazione-unitaria-contatti-zes-calabria
 dipartimento-programmazione-unitaria-estensione-zes-calabria
@@ -21108,6 +21139,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-bagnaria-arsa
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-bondeno
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-cefala-diana
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-cefalu
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-agna
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-agugliaro
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-albaredo-dadige
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-albettone
@@ -21152,6 +21184,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cavaso-del-tomba
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cazzano-di-tramigna
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-ceneselli
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cerea
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cerro-veronese
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cessalto
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-chiuppano
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-comune-di-cinto-euganeo
@@ -21339,7 +21372,6 @@ elenco-comprensori-alpini-di-caccia-cac-di-regione-lombardia-anno-2021-2022
 elenco-comprensori-alpini-di-caccia-cac-di-regione-lombardia-anno-2022-2023-smaf
 elenco-comprensori-alpini-di-caccia-cac-di-regione-lombardia-anno-2024
 elenco-comuni-di-competenza-di-ats-brescia
-elenco-comuni-italiani-al-censimento-2021
 elenco-comuni-lombardi-che-prevedono-la-raccolta-riservata-di-funghi
 elenco-comunita-minori
 elenco-comunita-montane-di-regione-lombardia-anno-2018-2019
@@ -21455,6 +21487,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-comune-di-castelnuovo-del-garda
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cavaso-del-tomba
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cazzano-di-tramigna
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cerea
+elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cerro-veronese
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cessalto
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-chiuppano
 elenco-dei-fascicoli-suddivisi-per-anno-comune-di-cinto-euganeo
@@ -21548,6 +21581,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-amaro
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-bagnaria-arsa
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-bondeno
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-cavazzo-carnico
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-agna
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-agugliaro
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-albaredo-dadige
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-albettone
@@ -21593,6 +21627,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cavaso-del-tomba
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cazzano-di-tramigna
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-ceneselli
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cerea
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cerro-veronese
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cessalto
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-chiuppano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-comune-di-cinto-euganeo
@@ -21834,6 +21869,7 @@ elenco-delle-pubblicazioni-bondeno
 elenco-delle-pubblicazioni-castions-di-strada
 elenco-delle-pubblicazioni-cavazzo-carnico
 elenco-delle-pubblicazioni-cefala-diana
+elenco-delle-pubblicazioni-comune-di-agna
 elenco-delle-pubblicazioni-comune-di-agugliaro
 elenco-delle-pubblicazioni-comune-di-albaredo-dadige
 elenco-delle-pubblicazioni-comune-di-albettone
@@ -21876,6 +21912,7 @@ elenco-delle-pubblicazioni-comune-di-castelnuovo-del-garda
 elenco-delle-pubblicazioni-comune-di-cavaso-del-tomba
 elenco-delle-pubblicazioni-comune-di-cazzano-di-tramigna
 elenco-delle-pubblicazioni-comune-di-cerea
+elenco-delle-pubblicazioni-comune-di-cerro-veronese
 elenco-delle-pubblicazioni-comune-di-cessalto
 elenco-delle-pubblicazioni-comune-di-chiuppano
 elenco-delle-pubblicazioni-comune-di-cinto-euganeo
@@ -22594,10 +22631,6 @@ elettorato
 elettori
 elettori-residenti-allestero-da-elenchi-aggiunti-dei-consolati
 elettrodotto-220-kv-e-380-kv-ptrc-2020
-elezione-collegi-camera
-elezione-collegi-comuni-camera
-elezione-collegi-comuni-senato
-elezione-collegi-senato
 elezione-diretta-del-sindaco-e-del-consiglio-comunale-della-citta-di-matera-31-maggio-2015
 elezione-suppletiva-della-camera-dei-deputati-collegio-uninominale-n-10-anno-2004
 elezione-suppletiva-della-camera-dei-deputati-collegio-uninominale-n10-anno-2004
@@ -23492,7 +23525,6 @@ elezioni-comunali-2022-primo-turno-voti-sindaco
 elezioni-comunali-2023-affluenza
 elezioni-comunali-2023-voti-liste
 elezioni-comunali-2023-voti-sindaco
-elezioni-comunali-2024
 elezioni-comunali-2024-affluenza
 elezioni-comunali-2024-affluenze1
 elezioni-comunali-2024-preferenze-candidati-consiglieri
@@ -23801,7 +23833,6 @@ elezioni-europee-2024-seggi-elettorali-e-sezioni-corrispondenti
 elezioni-europee-2024-sezioni-e-sedi-elettorali
 elezioni-europee-2024-voti-di-preferenza1
 elezioni-europee-20241
-elezioni-europee-20242
 elezioni-europee-26-05-2014-liste
 elezioni-europee-26-05-2014-preferenze
 elezioni-europee-26-05-2014-votanti
@@ -24008,7 +24039,6 @@ elezioni-politiche-2022-voti-camera-collegio-uninominale-u02
 elezioni-politiche-2022-voti-senato-collegio-plurinominale
 elezioni-politiche-2022-voti-senato-collegio-uninominale
 elezioni-politiche-20221
-elezioni-politiche-20222
 elezioni-politiche-24-02-2013
 elezioni-politiche-24-02-2013-camera
 elezioni-politiche-24-02-2013-senato
@@ -24224,7 +24254,6 @@ elezioni-regionali-2022-dati-relativi-voti-alle-liste-provinciali
 elezioni-regionali-2022-dati-relativi-voti-alle-liste-provinciali-per-sezione
 elezioni-regionali-2022-dati-relativi-voti-alle-liste-regionali
 elezioni-regionali-2022-dati-relativi-voti-alle-liste-regionali-per-sezione
-elezioni-regionali-2023
 elezioni-regionali-2023-affluenza
 elezioni-regionali-2023-candidati-presidente-dati-ufficiosi-risultati-di-sezione
 elezioni-regionali-2023-candidati-presidente-dati-ufficiosi-voti-di-lista-per-sezione
@@ -26554,7 +26583,7 @@ immatricolati-al-i-anno-per-diploma-di-scuola-secondaria-titoli-stranieri-a-a-20
 immatricolati-al-i-anno-per-diploma-di-scuola-secondaria-titoli-stranieri-a-a-2013-2014
 immatricolati-al-i-anno-per-residenza-anno-accademico-2013-2014
 immatricolati-al-i-anno-per-residenza-e-scuola-anno-accademico-2013-2014
-immatricolati-corsi-di-laurea
+immatricolati-corsi-di-laurea1
 immatricolati-focus-studenti-internazionali
 immatricolati-nelle-universita-milanesi-anno-accademico-2010-2011
 immatricolati-nelle-universita-milanesi-anno-accademico-2011-2012
@@ -29075,7 +29104,7 @@ iscritti-alluniversita-per-sede-di-ateneo-a-rovigo-e-per-gruppo-tematico-2015-20
 iscritti-anagrafe
 iscritti-anagrafe-1
 iscritti-asili-nido-unite-grand-paradis-per-fasce-di-reddito-isee
-iscritti-corsi-di-laurea
+iscritti-corsi-di-laurea1
 iscritti-e-cancellati-per-trasferimento-di-residenza-anni-2007-2009
 iscritti-e-cancellati-per-trasferimento-di-residenza-anni-2007-2009-estero
 iscritti-e-cancellati-per-trasferimento-di-residenza-toscana-anni-2007-2022
@@ -40303,6 +40332,7 @@ numeri-civici-ascot-cividale-del-friuli
 numeri-civici-ascot-cormons
 numeri-civici-bondeno
 numeri-civici-cividale-del-friuli
+numeri-civici-comune-di-agna
 numeri-civici-comune-di-agordo
 numeri-civici-comune-di-agugliaro
 numeri-civici-comune-di-alano-di-piave
@@ -40353,6 +40383,7 @@ numeri-civici-comune-di-cencenighe-agordino
 numeri-civici-comune-di-ceneselli
 numeri-civici-comune-di-cento
 numeri-civici-comune-di-cerea
+numeri-civici-comune-di-cerro-veronese
 numeri-civici-comune-di-cesiomaggiore
 numeri-civici-comune-di-chiuppano
 numeri-civici-comune-di-cinto-euganeo
@@ -42470,7 +42501,7 @@ organi-politici-del-comunita-valsugana-e-tesino
 organi-politici-del-magnifica-comunita-degli-altipiani-cimbri
 organico-comune-di-bari
 organico-polizia-municipale-2017
-organigramma
+organigramma1
 organismi-associativi-partecipati-dalluniversita-degli-studi-di-bari
 organismi-di-ats-brescia
 organismi-di-certificazione-saldatura
@@ -45186,6 +45217,7 @@ popolazione-censimenti-storici-1881-2011-popolazione-per-eta
 popolazione-censimenti-storici-1886-2011-popolazione-per-stato-civile
 popolazione-censita-divisa-per-frazioni-e-luogo-di-nascita-1921
 popolazione-censita-residente-alfabetizzata-nel-comune-di-treviso-suddivisa-per-frazione-s-1921
+popolazione-censita-straniera-nei-comuni-del-consorzio-bim-teramo-nel-2024
 popolazione-censuaria-pugliese
 popolazione-complessiva-per-eta-quartieri-e-frazioni-comune-di-rovigo-al-31-12-2018
 popolazione-complessiva-per-eta-quartieri-e-frazioni-comune-di-rovigo-al-31-12-2019
@@ -45219,6 +45251,7 @@ popolazione-decessi-dei-residenti-a-milano-per-municipio
 popolazione-decessi-dei-residenti-a-milano-per-municipio-2021-2024
 popolazione-decessi-dei-residenti-a-milano-per-quartiere
 popolazione-decessi-dei-residenti-a-milano-per-quartiere-2021-2024
+popolazione-dei-comuni-del-consorzio-bim-nel-2024
 popolazione-dei-quartieri-di-lecce-per-sesso-eta-di-riferimento-e-fasce-di-eta
 popolazione-del-comune-di-conegliano-per-fascia-scolastica-e-per-via-al-15-07-2019
 popolazione-del-comune-di-conegliano-per-fascia-scolastica-per-presunta-sezione-elettor-07-2019
@@ -48153,7 +48186,7 @@ progetti-finanziati-fondo-per-lo-sviluppo-e-coesione-fsc-programmazione-2007-201
 progetti-finanziati-fondo-per-lo-sviluppo-e-la-coesione-fsc-nellambito-dellintesa-ist-2000-2006
 progetti-finanziati-nelle-aree-interne-regione-umbria-con-risorse-della-strategia-naz-2014-2020
 progetti-finanziati-ricerca-finalizzata
-progetti-formativi-tirocini-curriculari
+progetti-formativi-tirocini-curriculari1
 progetti-gestiti-da-aress
 progetti-in-abruzzo
 progetti-in-abruzzo-2007-2013
@@ -50689,8 +50722,8 @@ ragazzi-stranieri-per-anno-e-luogo-di-nascita
 raggiungibilita-degli-edifici-mezzi-pubblici-scuolabus
 raggiungibilita-degli-edifici-mezzi-pubblici-scuolabus-dalla-s-2020-2021
 raggiungibilita-degli-edifici-scolastici-scuole-statali-as-2020-2021
-rapporti-analisi-acque-di-balneazione-2024
-rapporti-analisi-acque-di-balneazione-2025
+rapporti-analisi-acque-di-balneazione-del-comune-di-tortoreto-2024
+rapporti-analisi-acque-di-balneazione-del-comune-di-tortoreto-2025
 rapporti-del-comune-di-trento
 rapporti-di-lavoro-attivati
 rapporti-di-lavoro-attivati-per-i-lavoratori-stranieri-per-contratto-sesso-e-zona-geografica-13
@@ -50856,6 +50889,7 @@ rating-di-legalita-novembre-2023
 rating-di-legalita-novembre-2024
 rating-di-legalita-ottobre-2023
 rating-di-legalita-ottobre-2024
+rating-di-legalita-ottobre-2025
 rating-di-legalita-settembre-2023
 rating-di-legalita-settembre-2024
 rating-di-legalita-settembre-2025
@@ -51953,6 +51987,7 @@ rendiconto-del-2014
 rendiconto-del-2015
 rendiconto-della-gestione
 rendiconto-della-gestione-2023
+rendiconto-della-gestione-dellesercizio-2024
 rendiconto-dellesercizio-finanziario-di-regione-piemonte-con-indicazione-delle-entrate
 rendiconto-dellesercizio-finanziario-di-regione-piemonte-con-indicazione-delle-uscite
 rendiconto-di-bilancio-del-consiglio-della-provincia-autonoma-di-trento
@@ -52392,6 +52427,7 @@ residui-finali-per-esercizio-comune-di-cavaso-del-tomba
 residui-finali-per-esercizio-comune-di-cazzano-di-tramigna
 residui-finali-per-esercizio-comune-di-ceneselli
 residui-finali-per-esercizio-comune-di-cerea
+residui-finali-per-esercizio-comune-di-cerro-veronese
 residui-finali-per-esercizio-comune-di-cessalto
 residui-finali-per-esercizio-comune-di-chiuppano
 residui-finali-per-esercizio-comune-di-codogne
@@ -59982,7 +60018,6 @@ statistiche-incidenti-stradali-anno-2013
 statistiche-incidenti-stradali-anno-2014
 statistiche-incidenti-stradali-anno-2015
 statistiche-incidenti-stradali-anno-2016
-statistiche-incidenti-stradali-nei-comuni-del-consorzio-bim-teramo-2023
 statistiche-interventi-in-aula-crt
 statistiche-istanze-urbanistica
 statistiche-mensili-opendata
@@ -60071,6 +60106,7 @@ stato-avanzamento-piano-triennale-comune-di-casale-sul-sile
 stato-avanzamento-piano-triennale-comune-di-castelnovo-bariano
 stato-avanzamento-piano-triennale-comune-di-castelnuovo-del-garda
 stato-avanzamento-piano-triennale-comune-di-cazzano-di-tramigna
+stato-avanzamento-piano-triennale-comune-di-cerro-veronese
 stato-avanzamento-piano-triennale-comune-di-cessalto
 stato-avanzamento-piano-triennale-comune-di-cinto-euganeo
 stato-avanzamento-piano-triennale-comune-di-cordignano
@@ -60472,6 +60508,7 @@ stradario-capannori
 stradario-comunale
 stradario-comunale-bondeno
 stradario-comunale-cefalu
+stradario-comunale-comune-di-agna
 stradario-comunale-comune-di-agugliaro
 stradario-comunale-comune-di-albaredo-dadige
 stradario-comunale-comune-di-albettone
@@ -60511,6 +60548,7 @@ stradario-comunale-comune-di-cavaso-del-tomba
 stradario-comunale-comune-di-cazzano-di-tramigna
 stradario-comunale-comune-di-ceneselli
 stradario-comunale-comune-di-cerea
+stradario-comunale-comune-di-cerro-veronese
 stradario-comunale-comune-di-cessalto
 stradario-comunale-comune-di-chiuppano
 stradario-comunale-comune-di-cinto-euganeo
@@ -64127,6 +64165,7 @@ titolari-di-incarichi-dirigenziali-dirigenti-non-generali-importi-di-viaggi-di-s
 titolari-di-incarichi-dirigenziali-dirigenti-non-generali-importi-di-viaggi-di-servizio-e-20232
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-bagnaria-arsa
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-bondeno
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-agna
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-agugliaro
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-alonte
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-arsiero
@@ -64144,6 +64183,7 @@ titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comu
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-casale-su
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-castel-da
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-cazzano-d
+titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-cerro-ver
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-cessalto
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-chiuppano
 titolari-di-incarichi-politici-di-amministrazione-di-direzione-o-di-governo-comune-di-colle-umb
@@ -64709,6 +64749,7 @@ uffici-anagrafici
 uffici-bertiolo
 uffici-comunali
 uffici-comunali-del-comune-di-cortina-dampezzo
+uffici-comune-di-agna
 uffici-comune-di-galzignano-terme
 uffici-comune-di-lonigo
 uffici-comune-di-masi
