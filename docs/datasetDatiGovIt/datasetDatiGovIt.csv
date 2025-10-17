@@ -3593,6 +3593,7 @@ aosta-imprese-valdostane-registrate-per-natura-giuridica-anno-2024
 aosta-imprese-valdostane-registrate-per-settore-anno-2024
 aosta-imprese-valdostane-registrate-per-status-e-localizzazioni-imprese-anno-2024
 ape-attestati-di-prestazione-energetica-anno-2017
+apertura-e-cessazione-attivita-commerciali
 aperture-procedure-concorsuali-in-italia-per-territorio-settore-ateco-e-tempo-flussi-mensi-2025
 aperture-procedure-concorsuali-in-italia-per-territorio-settore-ateco-e-tempo-flussi-mensili
 aperture-procedure-di-fallimento-in-italia-per-territorio-settore-ateco-e-tempo-flussi-men-2025
@@ -6250,6 +6251,7 @@ avviso-pubblico-relativo-a-progetti-di-ricerca-presentati-da-universita-e-centri
 avviso-pubblico-sostegno-alle-alleanze-per-linnovazione-in-puglianellambito-del-progetto-ilo2-f
 awc-capacita-di-acqua-disponibile
 azienda-consorziale-trasporti
+azienda-napoletana-mobilita
 azienda-ospedaliero-universitaria-pisana
 azienda-sanitaria-locale-vco
 azienda-sanitaria-regione-molise
@@ -9306,6 +9308,7 @@ catasto-nazionale-dei-rifiuti-serie-storica-2014-2023-dati-di-dettaglio
 catasto-particelle-graffe1
 catasto-particelle-uniche-validate1
 catasto-particelle1
+catasto-passi-carrai
 catasto-piano-rilievi
 catasto-punti-fiduciali
 catasto-punti-fiduciali-demoliti
@@ -16777,11 +16780,17 @@ controlli-del-rumore-con-almeno-un-superamento-dei-limiti-per-sorgente-controlla
 controlli-del-rumore-nei-quali-e-stato-rilevato-almeno-un-superamento-dei-limiti-anni-2012-2013
 controlli-del-rumore-per-tipo-di-sorgente-controllata-anno-2012
 controlli-del-rumore-per-tipo-di-sorgente-controllata-anno-2013
+controlli-della-polizia-locale
+controlli-di-polizia-giudiziaria-e-amministrativa
+controlli-di-polizia-stradale
 controlli-iaf-ud
 controlli-in-caso-di-incendi
+controlli-in-materia-di-edilizia
 controlli-legionella
 controlli-radar1
 controlli-rumore
+controlli-su-ambiente
+controlli-su-commercio-e-ambulantato
 controllo-acque-reflue-scarichi-industriali
 controllo-acque-reflue-scarichi-non-depurati
 controllo-applicazione-misure-fitosanitarie-aree-campionate
@@ -19229,6 +19238,7 @@ delibere-di-giunta-comunale-2012-comune-di-roncade
 delibere-di-giunta-comunale-2013
 delibere-di-giunta-comunale-2014
 delibere-di-giunta-comunale1
+delibere-di-giunta-comunale2
 delibere-di-giunta-pubblicate-comune-di-massafra-2024
 delibere-e-o-d-g-del-consiglio-comunale
 delibere-giunta-comune-di-giuggianello
@@ -21576,6 +21586,7 @@ elenco-dei-musei-del-lazio
 elenco-dei-musei-di-impresa
 elenco-dei-nodi-fermata-presenti-in-ogni-comune-della-regione-suddivisi-per-comune-provincia
 elenco-dei-parametri-di-campionamento-su-impianti-di-depurazione
+elenco-dei-parchi-cittadini
 elenco-dei-processi-valutativi
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-alessano
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-amaro
@@ -24818,6 +24829,7 @@ european-cycling-challenge-anno-2017
 european-database-of-seismogenic-faults-edsf
 european-fault-source-model-2020-efsm20-3d-triangular-meshes
 european-fault-source-model-2020-efsm20-online-data-on-fault-geometry-and-activity-parameters
+europee
 europee-1999-elezioni-parlamento-europeo
 europee-1999-indirizzi-seggi-elettorali
 europee-2004-elezioni-parlamento-europeo
@@ -27755,6 +27767,7 @@ incidenti-stradali6
 incidenti-stradali7
 incidenti-stradali8
 incidenti-stradali8-1
+incidenti-stradali9
 incidenti-strade
 incidenti-strade-coinvolte-versione-beta
 incidenti-veicoli-coinvolti-versione-beta
@@ -29235,6 +29248,7 @@ iscrizioni-asili-nido-unite-grand-paradis
 iscrizioni-corsi-propedeutici-aspiranti-guide-alpine-e-accompagnatori-di-media-montagna
 iscrizioni-di-strumenti-di-regolazione-della-crisi-e-dellinsolvenza-delle-imprese-in-itali-2025
 iscrizioni-di-strumenti-di-regolazione-della-crisi-e-dellinsolvenza-delle-imprese-in-italia-per
+iscrizioni-e-cancellazioni-anagrafiche
 iscrizioni-imprese-in-italia-per-territorio-settore-ateco-e-tempo-flussi-mensili
 iscrizioni-imprese-in-italia-per-territorio-settore-ateco-e-tempo-flussi-mensili-anni-dal-2025
 iscrizioni-primo-anno-istituti-primari-di-primo-grado-e-secondari-di-primo-grado-a-marzo
@@ -32069,6 +32083,7 @@ mercati-supermercati-ed-ipermercati-nel-comune-di-rovigo
 mercati-tematici-e-periodici
 mercati-tematici-per-quartiere
 merci-pericolose-presenti-sulla-rete-stradale-piemontese-sistema-5t
+merci-sequestrate
 mergo_edifici_pubblici
 mergo_vincoli_sorgenti
 messa-in-riserva-r13-mrs
@@ -39947,6 +39962,7 @@ numero-dei-pagamenti-programma-di-sviluppo-rurale-per-misura
 numero-dei-positivi-in-base-a-tipologia-di-tampone-open-data
 numero-dei-trattamenti-disoccupazione-non-agricola-requisiti-ridotti-divisi-per-anno-regio-2012
 numero-dei-trattamenti-politiche-passive-edili-trattamenti-divisi-per-anno-regione-e-class-2012
+numero-dei-visitatori-della-casina-pompeiana
 numero-del-personale-ospedaliero-e-universitario-aou-careggi-anni-2006-2014
 numero-delle-classi-e-dei-bambini-scuola-paritaria
 numero-delle-classi-e-dei-bambini-scuola-statale
@@ -40670,8 +40686,15 @@ numero-visiste-mediche-di-controllo-divisi-per-anno-area-classe-di-eta-ed-esito-
 numero-visiste-mediche-di-controllo-divisi-per-anno-area-sesso-comparto-anni-2016-2018
 numero-visiste-mediche-di-controllo-divisi-per-anno-area-sesso-comparto-anni-2016-2021
 numero-visiste-mediche-di-controllo-divisi-per-anno-regione-tipo-visita-ed-esito-anni-2016-2018
+numero-visitatori-al-complesso-archeologico-del-pausilypon
 numero-visitatori-dei-musei-dellamministrazione-comunale-anno-2010
 numero-visitatori-dei-musei-dellamministrazione-comunale-anno-2010-2011
+numero-visitatori-del-castel-dell-ovo
+numero-visitatori-del-palazzo-delle-arti-napoli-pan
+numero-visitatori-della-ex-real-casa-dellannunziata
+numero-visitatori-di-castel-nuovo-maschio-angioino
+numero-visitatori-di-san-domenico-maggiore
+numero-visitatori-di-san-severo-al-pendino
 numero-visite-mediche-di-controllo-divisi-per-anno-regione-tipo-visita-ed-esito-anni-2016-2021
 numero-visite-mediche-di-controllo-e-numero-di-giorni-di-prognosi
 numero-visite-mediche-di-controllo-e-numero-di-giorni-di-prognosi-1
@@ -42142,6 +42165,7 @@ parcheggi-8
 parcheggi-a-servizio-dei-consolati
 parcheggi-a-servizio-di-persone-disabili-h
 parcheggi-auto-zona-centro-chieri
+parcheggi-azienda-napoletana-di-mobilita
 parcheggi-car-sharing
 parcheggi-carico-scarico
 parcheggi-comune-di-thiene-aggiornato-al-03-05-2022
@@ -42645,6 +42669,7 @@ patrimonio-immobiliare-terreni
 patrimonio-immobiliare1
 patrimonio-immobiliare2
 patrimonio-immobiliare3
+patrimonio-immobiliare4
 patrimonio-indisponibile-fabbricati-e-sedi-istituzionali-proveniente-da-enti-soppressi
 patrimonio-indisponibile-fabbricati-ex-comunione-delle-aa-ss-ll-comma-10
 patrimonio-indisponibile-fabbricati-ex-comunione-delle-aa-ss-ll-comma-5
@@ -44036,6 +44061,7 @@ polis-piemonte-schede-informative-per-il-cittadino
 polisportivi
 politecnico-di-milano
 politecnico-di-torino
+politiche
 politiche-2001-voti-camera-collegio-uninominale-1
 politiche-2001-voti-camera-collegio-uninominale-2
 politiche-2001-voti-camera-collegio-uninominale-3
@@ -50051,6 +50077,7 @@ reddito-pensionistico-complessivo-annuo-beneficiari-prestazioni-assistenziali-di
 reddito-pensionistico-complessivo-annuo-beneficiari-prestazioni-assistenziali-divisi-2012-2017
 reddito-pensionistico-complessivo-annuo-in-milioni-di-euro-del-sistema-pensionistico-2012-2016
 reddito-pensionistico-complessivo-annuo-in-milioni-di-euro-del-sistema-pensionistico-2012-2016-1
+referendum
 referendum-04-12-2016-costituzionale
 referendum-17-04-2016-trivellazioni
 referendum-17-aprile-2016-durata-delle-trivellazioni-in-mare
@@ -59707,6 +59734,7 @@ stradario-comune-di-san-giovanni-lupatoto
 stradario-comune-feltre
 stradario-comune-verona
 stradario-del-comune-di-lecce-con-quartieri-frazioni-e-borghi-di-appartenenza
+stradario-del-comune-di-napoli
 stradario-del-comune-di-palermo-marzo-2021
 stradario-del-comune-di-palermo-marzo_2017
 stradario-del-comune-di-reggio-emilia
@@ -62107,6 +62135,7 @@ tassi-di-assenza-20241
 tassi-di-assenza-2025
 tassi-di-assenza-del-comunita-della-valle-dei-laghi
 tassi-di-assenza-del-personale
+tassi-di-assenza-del-personale1
 tassi-di-assenza-e-presenza-dei-dipendenti-comunali-2009
 tassi-di-assenza-e-presenza-dei-dipendenti-comunali-2010
 tassi-di-assenza-e-presenza-dei-dipendenti-comunali-2011
@@ -63627,6 +63656,7 @@ trga-trento-ricorsi-pervenuti-per-tipologia
 trga-trento-sentenze
 tribunale-e-giudici-di-pace-del-circondario-di-firenze-movimento-dei-procedimenti-civ-2012-2013
 tributi
+tributi-comunali-anni-2010-2011-2012-e-2013
 tributi-fasce-omogenee-per-lapplicazione-dei-valori-i-m-u
 tributi-fasce-omogenee-per-lapplicazione-dei-valori-i-m-u1
 tributi-imu-anno-2016-comune-di-mira
@@ -63724,6 +63754,7 @@ tutela-del-tursiope-mar-ligure-d-g-r-n-414-2023
 tutela_cimitero
 tutela_integrale_geol
 tutto-gare-appalti
+tweet-del-comune-di-napoli
 u-l-nei-servizi
 u-l-nellindustria
 u-l-per-km2
@@ -65050,6 +65081,7 @@ violazioni-ai-regolamenti-comunali-2016
 violazioni-ai-regolamenti-comunali-2017
 violazioni-ai-regolamenti-comunali-2018
 violazioni-ai-regolamenti-comunali-2019
+violazioni-al-codice-della-strada
 violazioni-al-codice-della-strada-2011
 violazioni-al-codice-della-strada-2012
 violazioni-al-codice-della-strada-2013
