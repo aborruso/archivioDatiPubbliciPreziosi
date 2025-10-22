@@ -575,6 +575,7 @@ a6ba2aeea94e98fae90a39e0aeee3a09bbf8ab8363967f79f5112de40fdc772c
 a73c59167e231a667af896a0b6b8c028bf19c939759597c585a3980586d7bab7
 a7d03753259e5c7ec378e2bb79adb966cd80bfbad1540144e3f546a2439a865e
 a84217c5c8163a0b6875c93090ca10e7739a1e991f6cff7ead4b7d4ae300f3cb
+a84fccd025171f667f075b5d65c550bc47273a88aeaf1da92aaa849bccedf679
 abbandoni-uniba-per-area-disciplinare-e-dipartimento
 abbandoni-uniba-per-corso-area-disciplinare-e-dipartimento
 abbattimenti-della-fauna-selvatica
@@ -612,6 +613,7 @@ academy-aress-fad-2023
 accertamenti-liquidazioni-ici-2015
 accertamento-compatibilita-paesaggistica-comune-di-martinafranca
 accertato-lordo-percentuale-di-incremento-tra-valore-programmato-in-fase-di-previsione-2013-e-c
+access-point
 access-points-pubblici
 accessi
 accessi-a-pisa-wifi-anno-2016
@@ -3473,10 +3475,6 @@ anni-2020-2022-i-nuovi-iscritti-al-sistema-bibliotecario-urbano-sbu
 anni-2020-2022-i-prestiti-nelle-biblioteche-del-sistema-bibliotecario-urbano-sbu
 anni-di-permanenza-alluscita-dal-progettone
 anno-2022-comunicazioni-obbligatorie
-anno-2023-24-gli-accessi-al-catalogo-online-bi-g-met-biblioteche-genova-metropolitana
-anno-2023-24-gli-utenti-fruitori-del-prestito-nelle-biblioteche-del-sistema-bibliotecario-urban
-anno-2023-24-i-movimenti-e-gli-utenti-della-biblioteca-digitale-del-polo-genova-metropolitana-g
-anno-2023-24-i-prestiti-nelle-biblioteche-del-sistema-bibliotecario-urbano-sbu
 anno-2023-comunicazioni-obbligatorie
 annotazioni-di-morte
 annuario-statistico-1975-citta-di-torino
@@ -5138,6 +5136,7 @@ assegni-familiari_lavoratori-autonomi-numero-e-media-annua-beneficiari-e-importo
 assegni-maternit224-dello-stato-numero-beneficiari-per-classe-di-et224-e-area-geografica-2014
 assegni-maternit224-dello-stato-numero-beneficiari-per-regione-2014
 assegnisti-di-ricerca
+assegnisti-di-ricerca1
 assemblee-2012
 assemblee-20121
 assemini-attivita-commerciali-via-roma
@@ -6104,6 +6103,7 @@ audiolibri-anno-2017
 audiovisivi-del-sistema-sdiaf
 audit-di-sistema-por-calabria-2014-2020
 audit-system
+aule
 aule-broletto
 aule-eucentre
 aule-marelli
@@ -6811,6 +6811,11 @@ bandi-gara-e-contratti-1
 bandi-gara-e-contratti-2
 bandi-gare-e-contratti
 bandi-per-finanziamenti-e-opportunita-pubblicati-dalla-regione-emilia-romagna
+bandi-per-gli-assegni-di-ricerca
+bandi-per-i-contratti-di-ricerca
+bandi-per-i-dottorati
+bandi-per-i-professori
+bandi-per-i-ricercatori-a-tempo-determinato
 bando-iscrizioni-asili-nido-a-s-2014-2015
 bando-iscrizioni-asili-nido-a-s-2016_2017
 bando-pubblico-per-esercizi-di-vicinato-nei-rioni-sassi
@@ -15209,6 +15214,7 @@ concorsi-del-comunita-rotaliana-konigsberg
 concorsi-del-comunita-valsugana-e-tesino
 concorsi-del-magnifica-comunita-degli-altipiani-cimbri
 concorsi-della-regione-basilicata
+concorsi-docenti
 concorsi-e-mobilita-fino-al-2017
 concorsi-grigno
 concorsi-istituto-regionale-ville-venete
@@ -16758,6 +16764,7 @@ convenzioni-aria-prodotti
 convenzioni-e-accordi
 convenzioni-per-la-didattica
 convenzioni-per-la-ricerca
+convenzioni-tirocini-curriculari
 conviventi-per-quartiere
 convivenze-a-fine-anno
 convivenze-ai-censimenti
@@ -17028,6 +17035,7 @@ corsi-di-studio-attivati-dall-universita-degli-studi-di-torino
 corsi-di-studio-delle-scuole-trentine
 corsi-di-studio1
 corsi-di-studio2
+corsi-di-studio3
 corsi-di-studio4
 corsi-di-studio5
 corsi-ordinari-scienze-biomediche
@@ -19926,6 +19934,7 @@ dinamica-demografica-mensile-5
 dinamica-demografica-mensile-6
 dinamica-occupati-nel-settore-pubblico
 diossine-statistiche
+dipartimenti
 dipartimenti-ats-della-montagna
 dipartimenti-di-ats-brescia
 dipartimenti-scuole
@@ -24023,7 +24032,6 @@ elezioni-politiche-anno-2008
 elezioni-politiche-anno-2008-affluenza-camera
 elezioni-politiche-anno-2008-affluenza-senato
 elezioni-politiche-anno-2013
-elezioni-politiche-anno-2022
 elezioni-politiche-camera-2013
 elezioni-politiche-camera-2018
 elezioni-politiche-camera-anno-2018
@@ -24257,7 +24265,6 @@ elezioni-regionali-anno-2005
 elezioni-regionali-anno-2010
 elezioni-regionali-anno-2015
 elezioni-regionali-anno-2020
-elezioni-regionali-anno-2024
 elezioni-regionali-della-campania-2010-2
 elezioni-regionali-e-referendum-costituzionale-2020-affluenza-domenica-ore-12-00
 elezioni-regionali-e-referendum-costituzionale-2020-affluenza-domenica-ore-19-00
@@ -24830,7 +24837,6 @@ europee-2019-voti-preferenza-candidati-partito-pirata
 europee-2019-voti-preferenza-candidati-popolari-per-l-italia
 europee-2024-elezioni-parlamento-europeo
 europee-2024-pinerolo
-europee-2024-risultati-ufficiosi
 europee-26-05-2014
 evapotraspirazione-potenziale-annua-clima-1961-1990-ed-2017
 evapotraspirazione-potenziale-annua-clima-1991-2015-ed-2017
@@ -26563,6 +26569,7 @@ immatricolati-al-i-anno-per-diploma-di-scuola-secondaria-titoli-stranieri-a-a-20
 immatricolati-al-i-anno-per-diploma-di-scuola-secondaria-titoli-stranieri-a-a-2013-2014
 immatricolati-al-i-anno-per-residenza-anno-accademico-2013-2014
 immatricolati-al-i-anno-per-residenza-e-scuola-anno-accademico-2013-2014
+immatricolati-corsi-di-laurea
 immatricolati-focus-studenti-internazionali
 immatricolati-nelle-universita-milanesi-anno-accademico-2010-2011
 immatricolati-nelle-universita-milanesi-anno-accademico-2011-2012
@@ -29074,7 +29081,6 @@ iscritti-alle-biblioteche
 iscritti-alle-gestioni-autonomi-dellinps-2012
 iscritti-alle-gestioni-dipendenti-dellinps-2012
 iscritti-alle-liste-di-mobilita
-iscritti-alle-scuole
 iscritti-alle-scuole-dinfanzia
 iscritti-alle-scuole-elementari
 iscritti-alle-scuole-medie-inferiori
@@ -29085,6 +29091,7 @@ iscritti-alluniversita-per-sede-di-ateneo-a-rovigo-e-per-gruppo-tematico-2015-20
 iscritti-anagrafe
 iscritti-anagrafe-1
 iscritti-asili-nido-unite-grand-paradis-per-fasce-di-reddito-isee
+iscritti-corsi-di-laurea
 iscritti-e-cancellati-per-trasferimento-di-residenza-anni-2007-2009
 iscritti-e-cancellati-per-trasferimento-di-residenza-anni-2007-2009-estero
 iscritti-e-cancellati-per-trasferimento-di-residenza-toscana-anni-2007-2022
@@ -41498,6 +41505,7 @@ organi-politici-del-comunita-valsugana-e-tesino
 organi-politici-del-magnifica-comunita-degli-altipiani-cimbri
 organico-comune-di-bari
 organico-polizia-municipale-2017
+organigramma
 organismi-associativi-partecipati-dalluniversita-degli-studi-di-bari
 organismi-di-ats-brescia
 organismi-di-certificazione-saldatura
@@ -47188,6 +47196,7 @@ progetti-finanziati-fondo-per-lo-sviluppo-e-coesione-fsc-programmazione-2007-201
 progetti-finanziati-fondo-per-lo-sviluppo-e-la-coesione-fsc-nellambito-dellintesa-ist-2000-2006
 progetti-finanziati-nelle-aree-interne-regione-umbria-con-risorse-della-strategia-naz-2014-2020
 progetti-finanziati-ricerca-finalizzata
+progetti-formativi-tirocini-curriculari
 progetti-gestiti-da-aress
 progetti-in-abruzzo
 progetti-in-abruzzo-2007-2013
@@ -50093,7 +50102,6 @@ referendum-2020-affluenza
 referendum-2020-riduzione-numero-parlamentari-affluenze
 referendum-2020-riduzione-numero-parlamentari-risultati
 referendum-2020-risultati-per-zona
-referendum-2020-risultati-ufficiosi
 referendum-2022-affluenza-domenica-ore-12-00
 referendum-2022-affluenza-domenica-ore-19-00
 referendum-2022-affluenza-finale
@@ -50104,7 +50112,6 @@ referendum-2022-quesito-02-limiti-alla-custodia-cautelare
 referendum-2022-quesito-03-separazione-delle-funzioni-dei-magistrati
 referendum-2022-quesito-04-equa-valutazione-dei-magistrati
 referendum-2022-quesito-05-riforma-del-c-s-m
-referendum-2022-risultati-ufficiosi
 referendum-2022-seggi-e-corrispondenti-sezioni-elettorali
 referendum-2025-civici-per-sezione-elettorale
 referendum-2025-quesito-1-stop-ai-licenziamenti-illegittimi-affluenza
@@ -53689,7 +53696,6 @@ scuole-statali-frequentanti-per-tipo-di-scuola-anno-scolastico-2010-2011
 scuole-statali-frequentanti-per-tipo-di-scuola-e-per-anno-anno-scolastico-2009-2010
 scuole-villafranca-di-verona-2022
 scuole1
-scuole2
 scuole3
 scuole3-1
 scuole4
@@ -60357,7 +60363,6 @@ strutture-ricettive-regione-piemonte
 strutture-ricettive-supersano
 strutture-ricettive1
 strutture-ricettive2
-strutture-ricettive3
 strutture-ricettive4
 strutture-sanitarie
 strutture-sanitarie-con-codice-di-accreditamento

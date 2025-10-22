@@ -56,7 +56,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-17T13:40:38.794427,Comune di Alessandria,82bf1957-ae6b-461f-8da0-9f20fabd7a6c,c_a182,comune-di-alessandria,4,https://dati.gov.it/view-dataset?organization=comune-di-alessandria
 2025-04-01T09:04:18.107021,Comune di Altamura,a94de7dd-d093-48c9-8f79-ea847690e3fe,c_a225,comune-di-altamura,10,https://dati.gov.it/view-dataset?organization=comune-di-altamura
 2025-04-11T09:46:18.409525,Comune di Andora,7fb0e504-e9a7-4797-a2d9-682199d3e955,c_a278,comune-di-andora,0,https://dati.gov.it/view-dataset?organization=comune-di-andora
-2025-09-19T07:19:02.331624,Comune di Arenzano,252d0ba0-2b2c-4e11-9d76-49c92dcda67e,c_a388,comune-di-arenzano,4,https://dati.gov.it/view-dataset?organization=comune-di-arenzano
+2025-09-19T07:19:02.331624,Comune di Arenzano,252d0ba0-2b2c-4e11-9d76-49c92dcda67e,c_a388,comune-di-arenzano,5,https://dati.gov.it/view-dataset?organization=comune-di-arenzano
 2025-07-31T15:59:38.037371,Comune di Arese,79884d6c-55d0-4987-9391-9aec2d3b7193,c_a389,comune-di-arese,44,https://dati.gov.it/view-dataset?organization=comune-di-arese
 2025-03-04T10:09:07.040681,Comune di Assisi,c7b4166e-36ae-4abb-9827-a9f580a02a2b,c_a475,comune-di-assisi,3,https://dati.gov.it/view-dataset?organization=comune-di-assisi
 2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,7,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
@@ -106,7 +106,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-09-12T10:51:49.226218,Comune di Frattamaggiore,ff5e368a-250c-4a2f-9aa5-dbbc4dd537a3,c_d789,comune-di-frattamaggiore,9,https://dati.gov.it/view-dataset?organization=comune-di-frattamaggiore
 2025-02-13T16:34:19.519687,Comune di Gaggiano,33679cb9-991c-489d-aab4-04ae74a2ce00,c_d845,comune-di-gaggiano,48,https://dati.gov.it/view-dataset?organization=comune-di-gaggiano
 2025-02-13T16:24:12.167600,Comune di Garbagnate Milanese,d788d1b5-89b5-4280-af15-5d12eda0cdeb,c_d912,comune-di-garbagnate-milanese,34,https://dati.gov.it/view-dataset?organization=comune-di-garbagnate-milanese
-2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,157,https://dati.gov.it/view-dataset?organization=comune-di-genova
+2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,145,https://dati.gov.it/view-dataset?organization=comune-di-genova
 2025-02-07T15:18:26.164181,Comune di Gildone,4bd8476a-047d-4254-afeb-900d8661e69c,c_e030,comune-di-gildone,0,https://dati.gov.it/view-dataset?organization=comune-di-gildone
 2025-03-07T15:29:16.641505,Comune di Giovinazzo,e1e9f349-ef2d-4894-91f4-d32f30db0a46,c_e047,comune-di-giovinazzo,4,https://dati.gov.it/view-dataset?organization=comune-di-giovinazzo
 2025-02-11T10:15:38.000771,Comune di Gravina di Catania,9efc13b8-1d90-40b8-9447-9a71823448f5,c_e156,comune-di-gravina-di-catania,6,https://dati.gov.it/view-dataset?organization=comune-di-gravina-di-catania
@@ -308,7 +308,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-20T13:48:29.268109,"Universita' degli Studi della Campania ""L. Vanvitelli""",7053f468-42ee-4814-8523-2bc19f0f896f,SEUNSTNA,universita-degli-studi-della-campania-l-vanvitelli,10,https://dati.gov.it/view-dataset?organization=universita-degli-studi-della-campania-l-vanvitelli
 2024-11-28T12:39:50.966058,Università degli Studi di Camerino,a1c6b7a1-4093-438f-a94b-e8e55b598cff,USC,universita-degli-studi-di-camerino,10,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-camerino
 2024-10-10T09:51:04.365141,Università degli Studi di Catania,a23ab1ea-4eba-4401-a013-267026452e44,uni_ct,universita-degli-studi-di-catania,30,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-catania
-2024-11-29T14:05:22.877045,Università degli Studi di Ferrara,81b7f05a-333b-41ea-82a5-172756e4313e,uni_fe,universita-degli-studi-di-ferrara,0,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-ferrara
+2024-11-29T14:05:22.877045,Università degli Studi di Ferrara,81b7f05a-333b-41ea-82a5-172756e4313e,uni_fe,universita-degli-studi-di-ferrara,16,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-ferrara
 2025-02-13T16:18:04.754265,Università degli Studi di Macerata,363bf31c-cfec-49bf-b4ca-4af78304983e,UNSTU_MC,universita-degli-studi-di-macerata,9,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-macerata
 2025-02-13T16:00:24.359281,Università degli Studi di Messina,eb41d753-1d8f-4c38-a7e0-8066258fe1cc,udsm_me,universita-degli-studi-di-messina,13,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-messina
 2025-04-14T08:58:24.487897,Università degli Studi di Napoli 'Parthenope',9c4fb242-0259-451d-baf2-54a51e5fd32c,uni_napa,universita-degli-studi-di-napoli-parthenope,0,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-napoli-parthenope
