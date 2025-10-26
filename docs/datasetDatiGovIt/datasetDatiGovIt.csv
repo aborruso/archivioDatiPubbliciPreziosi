@@ -621,6 +621,7 @@ accessi-pronto-soccorso-anno-20231
 accessi-pronto-soccorso-anno-20232
 accessi-pronto-soccorso-anno-2024
 accessi-pronto-soccorso-per-gravita-accettazione-anno-2021
+accessi-pronto-soccorso-per-gravita-accettazione-anno-2022
 accessi-pronto-soccorso-per-gravita-accettazione-anno-2023
 accessi-sito-progetto-museiscuola-2014-2017
 accessi-sportello-attivita-di-somministrazione-dal-2009-al-2011
@@ -3303,6 +3304,8 @@ anni-2020-2022-i-prestiti-nelle-biblioteche-del-sistema-bibliotecario-urbano-sbu
 anni-di-permanenza-alluscita-dal-progettone
 anno-2022-comunicazioni-obbligatorie
 anno-2023-comunicazioni-obbligatorie
+anno-2024-comunicazioni-obbligatorie
+anno-2024-comunicazioni-obbligatorie-analisi-sulle-assunzioni
 annotazioni-di-morte
 annuario-statistico-1975-citta-di-torino
 annuario-statistico-1977-citta-di-torino
@@ -3758,6 +3761,7 @@ area-stradale3-6
 area-stradale3-8
 area-stradale4-2
 area-stradale4-3
+area-stradale4-7
 area-temporaneamente-priva-di-vegetazione-a_pveg-060104
 area-tributaria-della-laguna-di-venezia
 area-tutela-pozzi
@@ -5817,6 +5821,7 @@ attivita-polizia-giudiziaria-anno-2014
 attivita-polizia-giudiziaria-anno-2015
 attivita-polizia-giudiziaria-anno-2016
 attivita-polizia-giudiziaria-anno-2017
+attivita-polizia-giudiziaria-e-urbanistica
 attivita-polizia-municipale-pianificazione-servizi
 attivita-polizia-municipale-pianificazione-servizi-anno-2014
 attivita-polizia-municipale-pianificazione-servizi-anno-2015
@@ -7939,9 +7944,9 @@ budget-degli-organismi-consiliari
 buffer-zone-dolomiti-unesco
 buildings
 buone-pratiche-dellaccoglienza-in-toscana
-buoni-servizio-disabili-e-anziani
 buoni-servizio-minori
 buoni-servizio-per-minori-anno-2017
+buoni-servizio-per-persone-con-disabilita-e-anziani
 buoni-spesa-erogati
 bus-turistici-fermate
 bus-turistici-itinerari
@@ -8962,7 +8967,7 @@ catalogo-della-biblioteca-delle-arti-anno-2015
 catalogo-delle-buone-pratiche-culturali-della-regione-lazio-ii
 catalogo-delle-fotografie-storiche-progetto-interreg-argento-vivo-fotografia-patrimonio-cultura
 catalogo-delle-opere-delle-biblioteche
-catalogo-disabili-e-anziani
+catalogo-dellofferta-di-servizi-per-persone-con-disabilita-e-anziani
 catalogo-e-inventario-della-biblioteca-della-giunta-regionale-del-lazio-altiero-spinelli
 catalogo-generale-dei-beni-culturali
 catalogo-generale-dei-beni-culturali-dataset-itinerari
@@ -9945,7 +9950,6 @@ clc-cambiamenti-2012-2018-dataset
 clever-cities-social-monitoring-methodology-milan-local-cluster
 clima-dati-sensori-2021-ii-sem
 clima-del-vento-alla-superfice-edizione-2005-2007
-clima-delle-correnti-superficiali-edizione-2005-2007
 clivaggio-scistosita
 clivaggio-scistosita1
 clivometria-dtm-25m1
@@ -17552,7 +17556,7 @@ destinazione-duso-degli-spazi-negli-edifici-scolastici-scuole-statali-as-2020-20
 destinazioni-funzionali-prevalenti-pgf-piani-di-gestione-forestale-ex-pfa
 destinazioni-urbanistiche-vigenti-comune-di-matera
 detentori-di-apparecchiature-e-fluidi-contenenti-pcb
-detenute-madri-con-figli-al-seguito-2016-2023
+detenute-madri-con-figli-al-seguito-2016-2024
 detenuti-giudicati-in-via-definitiva-presenti-nel-sistema-carcerario-milanese-per-ann-2010-2020
 detenuti-presenti-nel-sistema-carcerario-milanese-attivita-lavorative-e-iscritti-ai-c-2010-2020
 detenuti-presenti-nel-sistema-carcerario-milanese-per-genere-ed-eta-2010-2020
@@ -18753,6 +18757,7 @@ e2-3-a-b-c-ambiti-di-applicazione-della-disciplina-dei-tessuti-edilizi-e-degli-a
 e20f23b6a0f6f75f3fab5bb1991b6897522aa4fd714d8bf199b5cca1477244cd
 e27dec246bc7af8d3750db481f34ba096b95c087d69fdd8a61fd6c7384fa9793
 e3-1-vincoli-e-fasce-di-rispetto-modello-uml
+e3-1-vincoli-e-fasce-di-rispetto-modello-uml1-1
 e3-2-ambiti-ed-aree-di-pertinenza-e-salvaguardia-modello-uml
 e3-2-ambiti-ed-aree-di-pertinenza-e-salvaguardia-modello-uml-1
 e3-3-carta-del-grado-di-tutela-archeologica-modello-uml
@@ -18839,7 +18844,6 @@ edificato-20
 edificato-24
 edificato-43
 edificato-del-comune-di-vaiano
-edificato-del-comune-di-vaiano1
 edificato-edifici-e-manufatti
 edificato-minore
 edificato-minore-2
@@ -24544,7 +24548,6 @@ il-corpo-della-polizia-municipale-dirigenti-cat-d-cat-c-amministrativi-anno-2017
 il-dataset-contiene-i-dati-relativi-ai-servizi-degli-asili-nido-comunali-2018
 il-giro-a-firenze-2021
 il-paese-delle-fiabe-di-sarmede-ptrc-2020
-il-patrimonio-abitativo-nelle-utoe-e-sub-utoe
 il-patrimonio-abitativo-nelle-utoe-e-sub-utoe-1
 il-sistema-degli-istituti-tecnici-superiori-its-in-calabria
 immagine-termica-diurna-16-07-2023-temperatura-delle-superfici1
@@ -30706,7 +30709,6 @@ modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-08-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-09-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-09-ore-12-utc
-modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-10-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-10-ore-12-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-11-ore-00-utc
 modello-wrf-arw-a-3km-copertura-nuvolosa-totale-2025-06-11-ore-12-utc
@@ -30897,6 +30899,7 @@ modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-06-ore-00-ut
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-06-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-07-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-07-ore-12-utc
+modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-08-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-08-ore-12-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-09-ore-00-utc
 modello-wrf-arw-a-3km-copertura-totale-da-nubi-di-tipo-alto-2025-06-09-ore-12-utc
@@ -33242,6 +33245,7 @@ modello-wrf-arw-a-3km-temperatura-c-2025-06-09-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-06-10-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-06-10-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-06-11-ore-00-utc
+modello-wrf-arw-a-3km-temperatura-c-2025-06-11-ore-12-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-06-12-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-06-13-ore-00-utc
 modello-wrf-arw-a-3km-temperatura-c-2025-06-13-ore-12-utc
@@ -33812,7 +33816,6 @@ modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-10-03-ore-00-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-10-03-ore-12-utc
 modello-wrf-arw-a-3km-temperature-di-rugiada-c-2025-10-04-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-06-03-ore-12-utc
-modello-wrf-arw-a-3km-topografia-m-2025-06-05-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-06-05-ore-12-utc
 modello-wrf-arw-a-3km-topografia-m-2025-06-06-ore-00-utc
 modello-wrf-arw-a-3km-topografia-m-2025-06-06-ore-12-utc
@@ -39235,6 +39238,7 @@ open-data-rna-misura-2026-01
 open-data-rna-misura-2026-02
 open-data-rna-misura-2026-03
 open-data-rna-misura-2027-12
+open-data-set-origine-esercizi-commerciali-25
 open-data-suap-sue
 open-source-nella-pubblica-amministrazione
 open-wifi-2017-distribuzione-per-zona-degli-utenti-nuovi-e-ricorrenti
@@ -44209,7 +44213,7 @@ prezzario-regionale-2019
 prezzario-regionale-2021
 prezzario-regionale-2022-aggiornamento-infrannuale
 prezzario-regionale-2023
-prezzario-regione-puglia
+prezzario-regione-puglia-2022
 prezzario-regione-puglia-2024
 prezzario-regione-puglia-2025
 prezzi-al-consumo-agosto-2022-indice-nic-e-variaz-complessivi-e-per-divisione
@@ -45012,6 +45016,7 @@ progetti-di-caratterizzazione-con-risultati-validati-da-arpav
 progetti-di-caratterizzazione-presentati-acque
 progetti-di-caratterizzazione-valutati-in-conferenza-dei-servizi
 progetti-di-convivenza-civile-nelle-scuole-2017
+progetti-di-cooperazione-internazionale
 progetti-di-cooperazione-territoriale-europea-cte-vinti-da-enti-e-organizzazioni-del-lazio
 progetti-di-lavoro-2018
 progetti-di-messa-in-sicurezza-permanente-misp
@@ -45270,6 +45275,7 @@ programma-biennale-degli-acquisti
 programma-di-promozione-dei-prodotti-agroalimentari-pugliesi-di-qualita-ed-educazione-alimentar
 programma-di-riqualificazione-urbana-citta-rurale-2017
 programma-gare-regionali-lazio
+programma-interreg-ipa-sa-italia-albania-montenegro-2021-2027-progetto-sa-skills
 programma-pluriennale-della-ricerca
 programma-triennale-delle-oo-pp-206-2018-articolazione-copertura-finanziaria
 programma-triennale-delle-opere-pubbliche-2015-2017
@@ -48132,6 +48138,7 @@ regione-toscana-forme-carsiche-poligonali
 regione-toscana-forme-carsiche-puntuali
 regione-toscana-fotogrammi-anno-2021
 regione-toscana-fotogrammi-anno-2023
+regione-toscana-fotogrammi-anno-2024-2025
 regione-toscana-frane-iffi
 regione-toscana-freatimetri
 regione-toscana-geotopi-di-importanza-regionale
@@ -48182,6 +48189,7 @@ regione-toscana-orari-trasporto-pubblico
 regione-toscana-ortofoto-anni-1975-1976
 regione-toscana-ortofoto-anno-2021
 regione-toscana-ortofoto-anno-2023
+regione-toscana-ortofoto-anno-2024-2025
 regione-toscana-ortofoto-in-scala-1-2000-anni-2006-2017
 regione-toscana-ortofoto-volo-gai-1954-1956
 regione-toscana-ortofoto-volo-rossi-brescia
@@ -48225,7 +48233,6 @@ regione-toscana-psr-feasr-2014-2022-zone-eligibili-al-metodo-leader
 regione-toscana-quadri-di-unione-rilievi-iperspettrali
 regione-toscana-quadro-di-unione-dsm-2021
 regione-toscana-quadro-di-unione-lidar-non-di-proprieta-rt
-regione-toscana-quadro-di-unione-ortofoto-1975-1976
 regione-toscana-quadro-di-unione-ortofoto-2021
 regione-toscana-quadro-di-unione-ortofoto-2023
 regione-toscana-repertorio-toponomastico-regionale-retore
@@ -49692,31 +49699,9 @@ rifiuti-conferiti-nelle-discariche-pubbliche
 rifiuti-da-pulizia-stradale-2013-2014
 rifiuti-esclusi-da-raccolta-differenziata-2013-2014
 rifiuti-impianti
-rifiuti-impianti-di-compostaggio-anno-2016
-rifiuti-impianti-di-compostaggio-anno-2017
-rifiuti-impianti-di-compostaggio-anno-2018
-rifiuti-impianti-di-compostaggio-anno-2019
-rifiuti-impianti-di-compostaggio-anno-2020
-rifiuti-impianti-di-compostaggio-anno-2021
-rifiuti-impianti-di-compostaggio-anno-2022
-rifiuti-impianti-di-trattamento-attivi-anno-2016
-rifiuti-impianti-di-trattamento-attivi-anno-2017
-rifiuti-impianti-di-trattamento-attivi-anno-2018
-rifiuti-impianti-di-trattamento-attivi-anno-2019
-rifiuti-impianti-di-trattamento-attivi-anno-2020
-rifiuti-impianti-di-trattamento-attivi-anno-2021
-rifiuti-impianti-di-trattamento-attivi-anno-2022
-rifiuti-impianti-impianti-di-compostaggio-anno-2023
-rifiuti-impianti-impianti-di-trattamento-attivi-anno-2023
-rifiuti-impianti-inceneritori-attivi-anno-2023
 rifiuti-impianti-stazioni-ecologiche-anno-2023
-rifiuti-inceneritori-attivi-anno-2016
-rifiuti-inceneritori-attivi-anno-2017
-rifiuti-inceneritori-attivi-anno-2018
-rifiuti-inceneritori-attivi-anno-2019
 rifiuti-inceneritori-attivi-anno-2020
 rifiuti-inceneritori-attivi-anno-2021
-rifiuti-inceneritori-attivi-anno-2022
 rifiuti-ingombranti-2013-2014
 rifiuti-non-pericolosi-della-raccolta-differenziata-anni-2013-2014
 rifiuti-pericolosi-della-raccolta-differenziata-anni-2013-2014
@@ -51049,6 +51034,7 @@ scarpata-scarpt-050302-aree
 scarpata-scarpt-050302-contorni
 scarpata-scarpt-050302-linee
 scenari-piano-emergenza-diga-ped-cassa-di-espansione-del-fiume-crostolo
+scenari-piano-emergenza-diga-ped-cassa-di-espansione-del-fiume-secchia
 scenari-piano-emergenza-diga-ped-diga-di-boschi
 scenari-piano-emergenza-diga-ped-diga-di-brugneto
 scenari-piano-emergenza-diga-ped-diga-di-conca
@@ -51058,10 +51044,13 @@ scenari-piano-emergenza-diga-ped-diga-di-ligonchio
 scenari-piano-emergenza-diga-ped-diga-di-mignano
 scenari-piano-emergenza-diga-ped-diga-di-molato
 scenari-piano-emergenza-diga-ped-diga-di-ozola
+scenari-piano-emergenza-diga-ped-diga-di-paduli
 scenari-piano-emergenza-diga-ped-diga-di-pavana
 scenari-piano-emergenza-diga-ped-diga-di-quarto
 scenari-piano-emergenza-diga-ped-diga-di-riolunato
+scenari-piano-emergenza-diga-ped-diga-di-santa-maria
 scenari-piano-emergenza-diga-ped-diga-di-santa-maria-del-taro
+scenari-piano-emergenza-diga-ped-diga-di-scalere
 scenari-piano-emergenza-diga-ped-diga-di-suviana
 schede-catalografiche-dei-centri-storici-delle-regioni-basilicata-calabria-campania-e-puglia
 schede-catalografiche-dei-contenitori-fisici-e-giuridici-della-provicia-autonoma-di-bolzano
@@ -56493,7 +56482,6 @@ statistica-residenti-per-stato-civile-2016
 statistica-residenti-per-stato-civile-2017
 statistica-stranieri-per-nazionalita
 statistica-stranieri-per-nazionalita-2013
-statistica-stranieri-per-nazionalita-2014
 statistica-stranieri-per-nazionalita-2015
 statistica-stranieri-per-nazionalita-2016
 statistica-stranieri-per-nazionalita-2017
@@ -57707,6 +57695,7 @@ struttura-semiresidenziale-di-socializzazione
 struttura-semiresidenziale-per-anziani
 strutture
 strutture-accolta-disabili
+strutture-accreditate-specialistica-ambulatoriale
 strutture-agrituristiche-calabria
 strutture-alberghiere
 strutture-alberghiere-a-1-e-2-stelle
@@ -61168,14 +61157,14 @@ true-ortofoto-rafvg-2017-2020
 true-ortofoto-rafvg-2017-2020-quadro-unione
 tumore
 turismo-arrivi
-turismo-arrivi-di-turisti-italiani-per-regione-di-provenienza-e-tipologia-di-struttur-2008-2023
-turismo-arrivi-di-turisti-stranieri-per-paese-di-provenienza-e-tipologia-di-struttura-2008-2023
+turismo-arrivi-di-turisti-italiani-per-regione-di-provenienza-e-tipologia-di-struttur-2008-2024
+turismo-arrivi-di-turisti-stranieri-per-paese-di-provenienza-e-tipologia-di-struttura-2008-2024
 turismo-arrivi-e-presenze-nei-comuni-della-valle-del-savio
 turismo-arrivi-e-presenze-nel-comune-di-bagno-di-romagna
-turismo-arrivi-mensili-per-provenienza-2023
+turismo-arrivi-mensili-per-provenienza-2024
 turismo-arrivi-mensili-per-regioni
 turismo-arrivi-nelle-strutture-ricettive-per-provenienza-2000-2024
-turismo-arrivi-nelle-strutture-ricettive-per-provenienza-2005-2023
+turismo-arrivi-nelle-strutture-ricettive-per-provenienza-2005-2024
 turismo-arrivi-per-paese-di-provenienza-e-strutture-alberghiere
 turismo-arrivi-per-regione-e-strutture-alberghiere
 turismo-arrivi-totali-per-mese-serie-storica-2019-2024
@@ -61222,12 +61211,12 @@ turismo-luoghi-di-interesse-citta-metropolitana-di-firenze
 turismo-luoghi-di-interesse-pittogrammi
 turismo-pernottamenti1
 turismo-presenze
-turismo-presenze-di-turisti-italiani-per-regione-di-provenienza-e-tipologia-di-strutt-2008-2023
-turismo-presenze-di-turisti-stranieri-per-paese-di-provenienza-e-tipologia-di-struttu-2008-2023
-turismo-presenze-mensili-per-provenienza-2023
+turismo-presenze-di-turisti-italiani-per-regione-di-provenienza-e-tipologia-di-strutt-2008-2024
+turismo-presenze-di-turisti-stranieri-per-paese-di-provenienza-e-tipologia-di-struttu-2008-2024
+turismo-presenze-mensili-per-provenienza-2024
 turismo-presenze-mensili-per-regioni
 turismo-presenze-nelle-strutture-ricettive-per-provenienza-2000-2024
-turismo-presenze-nelle-strutture-ricettive-per-provenienza-2005-2023
+turismo-presenze-nelle-strutture-ricettive-per-provenienza-2005-2024
 turismo-presenze-per-paese-di-provenienza-e-strutture-alberghiere
 turismo-presenze-per-regione-e-strutture-alberghiere
 turismo-servizi-e-utilita-citta-metropolitana-di-firenze
