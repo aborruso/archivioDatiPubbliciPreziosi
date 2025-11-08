@@ -336,7 +336,9 @@ id
 3ae4565da41fcc2c02ddabd81f731ff26f2740c7b6860c21eef140cb0a87020b
 3d54a69b91f013c931683bb3b248e2918e6487a4b043025011aac0aabda93dba
 3d83ace9b9ba25febf683619870a8ea798c6ab6ae6560dada791fe693f06c3c5
+3e6fd8ee62bdd679c72f71398ad22df6c402fea6f9a6ef0c23b9eea69dfb83c4
 3f464ae0e682bac387c20dd0874003624501d6369bd920789835f36b13d46b71
+3fadc397e80906307d1eef0266d68fea7c4dd06683f6ad14939c2fe28c38a15c
 3fc05468cfcdefa768611ce780fa99ae9c7862a5fa4f8c41acf4dc12bca4090e
 41db8ce22845431a9e10b5672b99ca2341f353f8717de8aed5aa9d63f4a41334
 42-km-termal-bologna-marathon-2-marzo-2025
@@ -3463,6 +3465,7 @@ appendice-2-elenco-dei-piani-e-programmi-attuativi-e-il-loro-stato-di-attuazione
 appendice-2-elenco-dei-piani-e-programmi-attuativi-e-il-loro-stato-di-attuazione-tabella-1
 appesca-analisi-dello-stato-dei-porti-pugliesi
 applicativi-servizi-on-line-del-comune-di-trento
+applicazione-di-intelligenza-artificiale-per-valutazione-patrimonio-immobiliare
 approfondimento-tematico-della-carta-di-copertura-del-suolo-ccs-2007-versione-standard-plus
 approvazione-piano-dambito-2020-2045-pareremotivato
 appuntamento-per-carta-di-identita-elettronica-gennaio-aprile-2019
@@ -3780,6 +3783,7 @@ area-stradale3-2
 area-stradale3-3
 area-stradale3-6
 area-stradale3-8
+area-stradale4
 area-stradale4-2
 area-stradale4-3
 area-stradale4-7
@@ -6921,6 +6925,7 @@ beni-culturali-tutelati-elementi-puntuali-piano-strutturale-del-comune-di-bagno-
 beni-culturali-tutelati-immobili-ed-aree-di-notevole-interesse-piano-strutturale-del-comune-di-
 beni-culturali-viali-e-parchi-della-rimembranza-art-10-del-d-lgs-42-2004
 beni-culturali-viali-e-parchi-della-rimembranza-art-136-del-d-lgs-42-2004
+beni-culturali1
 beni-demaniali-pubblicati-su-amministrazione-trasparente
 beni-demaniali-regionali
 beni-di-interesse-culturale-variante-pup-2000
@@ -6934,6 +6939,7 @@ beni-immobili-comune-messina
 beni-immobili-della-regione-calabria-fabbricati
 beni-immobili-della-regione-calabria-fabbricati1
 beni-immobili-della-regione-calabria-terreni
+beni-immobili-dellex-riforma-fondiaria-oggetto-di-alienazione-con-procedura-di-asta-pubblica
 beni-immobili-tutelati-con-provvedimento-ministeriale1
 beni-mobili-2022_comune-di-lecce
 beni-monumentali-art-10-d-lgs-42-04-comune-di-matera
@@ -9892,6 +9898,9 @@ cimiteri4
 cimiteri4-1
 cimiteri5
 cimiteri5-2
+cimitero-di-magliano-in-toscana
+cimitero-di-montiano
+cimitero-di-pereta
 cimp
 cimp-violazioni
 cinema
@@ -11457,8 +11466,6 @@ comune-di-diano-marina-bandi-di-gara-e-contratti-aggiornati
 comune-di-diano-marina-consulenti-e-collaboratori-aggiornato
 comune-di-diano-marina-conteggio-protocolli
 comune-di-diano-marina-conteggio-protocolli-per-ufficio
-comune-di-diano-marina-provvedimenti-degli-organi-di-indirizzo-politico
-comune-di-diano-marina-provvedimenti-dei-dirigenti
 comune-di-domodossola
 comune-di-empoli-provvedimenti-degli-organi-di-indirizzo-politico
 comune-di-empoli-provvedimenti-dei-dirigenti
@@ -17994,6 +18001,7 @@ destinazione-duso-catastale-8
 destinazione-duso-catastale1
 destinazione-duso-catastale1-1
 destinazione-duso-catastale1-3
+destinazione-duso-catastale2
 destinazione-duso-catastale2-2
 destinazione-duso-catastale2-3
 destinazione-duso-catastale2-4
@@ -20903,6 +20911,7 @@ elenco-parafarmacie-regione-calabria
 elenco-parafarmacie1
 elenco-parcheggi-moto-comune-di-chieri
 elenco-parcheggi-zona-stazione-chieri
+elenco-parchi
 elenco-parchi-e-giardini
 elenco-particelle-percorse-dal-fuoco-anni-2004-2017
 elenco-particelle-vincolate-aree-di-rispetto-dei-pozzi-artesiani
@@ -20968,6 +20977,8 @@ elenco-procedimenti-scelta-contraente-per-affidamenti-anno-2019
 elenco-procedimenti-scelta-contraente-per-affidamenti-anno-2020
 elenco-procedimenti-scelta-contraente-per-affidamenti-anno-2021
 elenco-procedimenti-scelta-contraente-per-affidamenti-anno-2022
+elenco-prodotti-agroalimentari-dop-e-igp-regione-puglia
+elenco-prodotti-vitivinicoli-dop-e-igp-regione-puglia
 elenco-professionisti-e-collaudatori
 elenco-progetti-co-finanziati-dallunione-europea
 elenco-progetti-programma-formazione-riconosciuta-e-non-finanziata-rnf
@@ -23285,6 +23296,11 @@ estratto-bilancio-previsioni-di-competenza-entrate
 estratto-bilancio-previsioni-di-competenza-entrate-1
 estratto-bilancio-previsioni-di-competenza-uscite
 estratto-bilancio-previsioni-di-competenza-uscite-1
+estrazione-popolazione-complessiva-anno-2024
+estrazione-popolazione-complessiva-anno-2024-1
+estrazione-popolazione-complessiva-anno-2024-2
+estrazione-popolazione-straniera
+estrazione-popolazione-zone-statistiche
 et224-media-di-ritiro-dal-mercato-del-lavoro-secondo-il-genere-nei-paesi-dell39ue-a-1-2005-2010
 et224160-media-per-le-nuove-pensioni-2012
 eta-media-alla-morte-dei-maschi
@@ -23524,6 +23540,7 @@ fabbricati-2022_comune-di-lecce
 fabbricati-2023_comune-di-lecce
 fabbricati-attivi-comune-di-gambellara
 fabbricati-attivi-comune-di-montecchio-precalcino
+fabbricati-comune-di-magliano-in-toscana
 fabbricati-con-altezze-e-materiali-copertura1
 fabbricati-del-comune-di-pinerolo
 fabbricati-del-demanio-statale-anno-2014
@@ -23613,6 +23630,7 @@ famiglie-con-un-componente-per-classi-di-eta-centro-storico-del-comune-di-trevis
 famiglie-di-pinerolo-per-area-di-circolazione
 famiglie-di-pinerolo-per-numero-di-componenti
 famiglie-e-composizione-media-familiare-dal-1958
+famiglie-e-convivenze-anagrafiche-2024
 famiglie-e-convivenze-nel-camposampierese-periodo-2014-2020
 famiglie-e-residenti-per-via-comune-di-vicenza
 famiglie-esposte-a-rischio-alluvioni-dataset
@@ -30607,6 +30625,7 @@ modelli-3d-mod_sism_rer1
 modelli-altimetrici-rilievo-lidar-rafvg-2017-2020
 modelli-digitali-del-terreno-dtm-e-delle-superfici-dsm-della-sardegna
 modello-analisi-prezzo
+modello-di-riconoscimento-della-vegetazione-presente-su-beni-culturali
 modello-digitale-batimetrico-adriatico-rer
 modello-digitale-batimetrico-adriatico-rer-modello-digitale-batimetrico-rer-1953-54
 modello-digitale-batimetrico-adriatico-rer-modello-digitale-batimetrico-rer-1953-541
@@ -36891,6 +36910,8 @@ movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2023
 movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2024
 movimento-dei-clienti-negli-esercizi-ricettivi-per-comune-e-provenienza-toscana-anno-2016
 movimento-dei-clienti-negli-esercizi-ricettivi-toscana-anno-2017
+movimento-della-popolazione-2024
+movimento-della-popolazione-2024-1
 movimento-demografico-annuale-1931-2012-della-citta-di-matera
 movimento-demografico-annuale-1931-2013-della-citta-di-matera
 movimento-demografico-annuale-1931-2014-della-citta-di-matera
@@ -40866,6 +40887,7 @@ parcheggio-protetto-per-biciclette-open-data
 parchi
 parchi-aree-naturali-protette-siti-di-importanza-rilevante
 parchi-comunali-e-intercomunali
+parchi-con-giochi-per-bambini-nociglia
 parchi-denominati
 parchi-e-altre-aree-protette-pdgpo-2021-distretto-po
 parchi-e-aree-a-verde
@@ -43664,6 +43686,7 @@ popolazione-residente-per-stato-civile-per-quartiere-zona-area-statistica-serie-
 popolazione-residente-per-zona-comune-di-vicenza
 popolazione-residente-per-zona-e-sesso
 popolazione-residente-per-zona-sesso-e-classi-d-eta
+popolazione-residente-per-zona-statistica
 popolazione-residente-per-zone-urbane-al-31-dicembre-2014
 popolazione-residente-straniera-indicatori-di-struttura
 popolazione-residente-straniera-per-cittadinanza-sesso-quartiere-e-zona-serie-storica
@@ -48179,6 +48202,7 @@ rating-di-legalita-marzo-2024
 rating-di-legalita-marzo-2025
 rating-di-legalita-novembre-2023
 rating-di-legalita-novembre-2024
+rating-di-legalita-novembre-2025
 rating-di-legalita-ottobre-2023
 rating-di-legalita-ottobre-2024
 rating-di-legalita-ottobre-2025
@@ -55095,6 +55119,7 @@ spd_pas_ent_elb_art_01_2021
 spd_pas_ent_elb_art_01_2022
 spd_pas_ent_elb_art_01_2023
 spd_pas_ent_elb_art_01_2024
+spd_pas_ent_elb_art_01_2025
 spd_pas_spe_elb_cap_01_2011
 spd_pas_spe_elb_cap_01_2012
 spd_pas_spe_elb_cap_01_2013
@@ -55109,6 +55134,7 @@ spd_pas_spe_elb_cap_01_2021
 spd_pas_spe_elb_cap_01_2022
 spd_pas_spe_elb_cap_01_2023
 spd_pas_spe_elb_cap_01_2024
+spd_pas_spe_elb_cap_01_2025
 spd_pas_spe_elb_pig_01_2011
 spd_pas_spe_elb_pig_01_2012
 spd_pas_spe_elb_pig_01_2013
@@ -55123,6 +55149,7 @@ spd_pas_spe_elb_pig_01_2021
 spd_pas_spe_elb_pig_01_2022
 spd_pas_spe_elb_pig_01_2023
 spd_pas_spe_elb_pig_01_2024
+spd_pas_spe_elb_pig_01_2025
 spd_pas_spe_g8e_cap_01_2017
 spd_pas_spe_g8e_cap_01_2018
 spd_pas_spe_g8e_cap_01_2019
@@ -55131,6 +55158,7 @@ spd_pas_spe_g8e_cap_01_2021
 spd_pas_spe_g8e_cap_01_2022
 spd_pas_spe_g8e_cap_01_2023
 spd_pas_spe_g8e_cap_01_2024
+spd_pas_spe_g8e_cap_01_2025
 spd_pca_anz_dip_ente_01_2010
 spd_pca_anz_dip_ente_01_2011
 spd_pca_anz_dip_ente_01_2012
@@ -56447,6 +56475,7 @@ spd_set_spe_pbs_amce2_01_2021_01
 spd_set_spe_pbs_amce2_01_2022_01
 spd_set_spe_pbs_amce2_01_2023_01
 spd_set_spe_pbs_amce2_01_2024_01
+spd_set_spe_pbs_amce2_01_2025_01
 spd_set_spe_pbs_amice_01_2016_01
 spd_set_spe_pbs_amice_01_2017_01
 spd_set_spe_pbs_amice_01_2018_01
@@ -56456,6 +56485,7 @@ spd_set_spe_pbs_amice_01_2021_01
 spd_set_spe_pbs_amice_01_2022_01
 spd_set_spe_pbs_amice_01_2023_01
 spd_set_spe_pbs_amice_01_2024_01
+spd_set_spe_pbs_amice_01_2025_01
 spd_set_spe_pbs_ammce_01_2016_01
 spd_set_spe_pbs_ammce_01_2017_01
 spd_set_spe_pbs_ammce_01_2018_01
@@ -56465,6 +56495,7 @@ spd_set_spe_pbs_ammce_01_2021_01
 spd_set_spe_pbs_ammce_01_2022_01
 spd_set_spe_pbs_ammce_01_2023_01
 spd_set_spe_pbs_ammce_01_2024_01
+spd_set_spe_pbs_ammce_01_2025_01
 spd_set_spe_pbs_cece2_01_2016_01
 spd_set_spe_pbs_cece2_01_2017_01
 spd_set_spe_pbs_cece2_01_2018_01
@@ -56474,6 +56505,7 @@ spd_set_spe_pbs_cece2_01_2021_01
 spd_set_spe_pbs_cece2_01_2022_01
 spd_set_spe_pbs_cece2_01_2023_01
 spd_set_spe_pbs_cece2_01_2024_01
+spd_set_spe_pbs_cece2_01_2025_01
 spd_set_spe_pbs_micgs_01_2016_01
 spd_set_spe_pbs_micgs_01_2017_01
 spd_set_spe_pbs_micgs_01_2018_01
@@ -56483,6 +56515,7 @@ spd_set_spe_pbs_micgs_01_2021_01
 spd_set_spe_pbs_micgs_01_2022_01
 spd_set_spe_pbs_micgs_01_2023_01
 spd_set_spe_pbs_micgs_01_2024_01
+spd_set_spe_pbs_micgs_01_2025_01
 spd_set_spe_pbs_mis_01_2016_01
 spd_set_spe_pbs_mis_01_2017_01
 spd_set_spe_pbs_mis_01_2018_01
@@ -56492,6 +56525,7 @@ spd_set_spe_pbs_mis_01_2021_01
 spd_set_spe_pbs_mis_01_2022_01
 spd_set_spe_pbs_mis_01_2023_01
 spd_set_spe_pbs_mis_01_2024_01
+spd_set_spe_pbs_mis_01_2025_01
 spd_set_spe_pbs_misam_01_2016_01
 spd_set_spe_pbs_misam_01_2017_01
 spd_set_spe_pbs_misam_01_2018_01
@@ -56501,6 +56535,7 @@ spd_set_spe_pbs_misam_01_2021_01
 spd_set_spe_pbs_misam_01_2022_01
 spd_set_spe_pbs_misam_01_2023_01
 spd_set_spe_pbs_misam_01_2024_01
+spd_set_spe_pbs_misam_01_2025_01
 spd_set_spe_pbs_misce_01_2016_01
 spd_set_spe_pbs_misce_01_2017_01
 spd_set_spe_pbs_misce_01_2018_01
@@ -56510,6 +56545,7 @@ spd_set_spe_pbs_misce_01_2021_01
 spd_set_spe_pbs_misce_01_2022_01
 spd_set_spe_pbs_misce_01_2023_01
 spd_set_spe_pbs_misce_01_2024_01
+spd_set_spe_pbs_misce_01_2025_01
 spd_srs_spe_bil_spesr_01_2008
 spd_srs_spe_bil_spesr_01_2009
 spd_srs_spe_bil_spesr_01_2010
@@ -62599,6 +62635,7 @@ varchi-pedonali-27-giugno
 varchi-pedonali-27-giugno1
 varchi-pedonali-29-giugno
 varchi-pedonali-29-giugno1
+varchi-scudo-verde
 varchi-ztl
 varco-arginale
 varco-n-1-s-isaia-direzione-centro
@@ -62951,6 +62988,7 @@ verde-cimiteriale-comunale
 verde-privato-nel-territorio-urbanizzato
 verde-privato1
 verde-pubblico
+verde-pubblico-e-parchi-pubblici
 verde-pubblico-gestito-dal-comune-di-rovigo-in-mq-anno-2015
 verde-pubblico-gestito-dal-comune-di-rovigo-in-mq-anno-2016
 verde-pubblico-gestito-dal-comune-di-rovigo-in-mq-anno-2017
@@ -63035,6 +63073,7 @@ viabilita-di-crinale-piano-strutturale-del-comune-di-bagno-a-ripoli
 viabilita-di-interesse-silvo-pastorale-esistente
 viabilita-di-interesse-silvo-pastorale-proposta
 viabilita-di-progetto-dei-piani-di-gestione-forestale
+viabilita-e-parcheggi-pubblici
 viabilita-elemento-ferroviario
 viabilita-elemento-ferroviario1
 viabilita-ferroviaria-sc-1-10000-strati-prioritari-ctr-sc-1-10000-2003
@@ -63407,6 +63446,8 @@ wifi-a-reggio-emilia
 wifi-hotspot-pubblici-comune-di-rimini
 wifi-pubblica
 wifi1
+windcube
+windprofile
 wms-service-inspire-pab
 wms-wmts-und-wfs-mit-qgis
 workshop-bcn-isocrone-total
