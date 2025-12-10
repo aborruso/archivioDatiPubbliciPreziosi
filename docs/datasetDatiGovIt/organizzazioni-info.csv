@@ -240,6 +240,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-07-18T08:43:05.599071,Comune di Vico del Gargano,927b88eb-98e4-4fea-b1d3-a8f7695013c2,c_l842,comune-di-vico-del-gargano,3,https://dati.gov.it/view-dataset?organization=comune-di-vico-del-gargano
 2025-02-07T10:27:55.515585,Comune di Vieste,727baae0-0f4e-44cb-89a0-a75385d48a1d,c_l858,comune-di-vieste,5,https://dati.gov.it/view-dataset?organization=comune-di-vieste
 2025-04-11T08:19:19.505666,Comune di Vigonza,947662c1-5497-4c8e-a63a-f6330c842016,c_l900,comune-di-vigonza,26,https://dati.gov.it/view-dataset?organization=comune-di-vigonza
+2025-12-10T09:13:31.261056,Comunità Montana Alburni,1a88eae0-074a-49b8-af93-7f978d5ed886,cma_065,comunita-montana-alburni,0,https://dati.gov.it/view-dataset?organization=comunita-montana-alburni
 2025-02-07T15:19:44.831761,Comunità Montana Valle Imagna,65d89bdc-7a64-4d28-b3de-87c8b58faa43,CMVI,comunita-montana-valle-imagna,3,https://dati.gov.it/view-dataset?organization=comunita-montana-valle-imagna
 2025-04-16T09:52:07.924470,Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria,3370876b-1060-4337-a2de-9460d5ba3fb0,CRSA,consiglio-per-la-ricerca-in-agricoltura-e-l-analisi-dell-economia-agraria,8,https://dati.gov.it/view-dataset?organization=consiglio-per-la-ricerca-in-agricoltura-e-l-analisi-dell-economia-agraria
 2025-02-25T12:54:38.765871,Consiglio regionale della Calabria,855d68ca-973d-484a-9e94-5e6cf265438f,r_calabr,consiglio-regionale-della-calabria,34,https://dati.gov.it/view-dataset?organization=consiglio-regionale-della-calabria
@@ -357,4 +358,4 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:51:11.725431,Università della Calabria,ccc8eb67-5b1d-460c-be0c-1a698c9597aa,unical,universita-della-calabria,5,https://dati.gov.it/view-dataset?organization=universita-della-calabria
 2024-03-08T21:48:45.195677,Università di Bari,2faa23b0-90ad-49f2-998e-003f6100e279,uni_ba,universita-di-bari,105,https://dati.gov.it/view-dataset?organization=universita-di-bari
 2024-03-08T21:52:30.125101,Università di Bologna,f9cc510c-3548-4f1f-8b24-d0182de48f33,uni_bo,universita-di-bologna,34,https://dati.gov.it/view-dataset?organization=universita-di-bologna
-2025-02-06T10:32:07.319605,Università di Torino,d2009474-b069-4c09-98ab-53a72fe75f46,UNITO,universita-di-torino,1,https://dati.gov.it/view-dataset?organization=universita-di-torino
+2025-02-06T10:32:07.319605,Università di Torino,d2009474-b069-4c09-98ab-53a72fe75f46,UNITO,universita-di-torino,11,https://dati.gov.it/view-dataset?organization=universita-di-torino
