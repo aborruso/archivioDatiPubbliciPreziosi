@@ -15,6 +15,7 @@ id
 09dc26f567b1b78e5ba8bd426aa6576e507a6ed9fb6a23b4b8518be21108663f
 0a155118f92913e845ccf6fad00b7dfb69c419758b6f95fe32f01407e0ec139f
 0a725a4d2bc2b640003bf48ce486e4d013003e65b93832fdb15805d53a495cf2
+0c4e82b5ad8a83c99455d1dea9047c64fd2ce3eb2425c66c10427c9be7790c24
 0c6684e7c8ed5fa110f2d74898189425a48ae72bab9f1bcfa510c82259501961
 0c861e97770d0a1358fedf4aa68bd921c93bc28a77918d8916107e3017270eba
 0cd84d67c77b6f2f125c919efd137a298e31f5275ef0beaa515fe8d674ec6879
@@ -344,6 +345,7 @@ id
 2025_affluenze_referendum_quesito4
 2025_affluenze_referendum_quesito5
 2080be34c9b7eb12a8681e8c8059691e48e244c9fec581423f24bcf3ffd11a52
+20c105ff49379119e5e2155b6efef92347f3ea5ada25aa71e13c3ed7fcfc56e3
 21-km-run-tune-up-2-marzo-2025
 21534907c23a6a95c8870a306a616170711da651cc2e9557aa98a04242f352a2
 21987acc0d117ed151bfc3217acde1c8d648a23f3bc871c90c9ae693758b938e
@@ -571,6 +573,7 @@ id
 7e50a227d9f2573d93be258ee1a9449a65449bbea46327ebc2c02a19bbe2c3a2
 7eb2f2ff238e91fa70cd70e3a2d7157f6c63b5fff8743ed9da0e9dccd9df188a
 7fc90f439ef212a39573b761c30ad197afdc0e42740b09433248eaf21870e451
+7fe1de6cec64efe76ec14cf01a4b8a7f5270a2509066e0281ccde97e2a099463
 80392d53302ebd0349bd3f1227c8912d5353f6ffcfe9a538ac36af5cd97c4799
 80eb881ac13ed4b7283241e9af2a29fb726cdd38106fd309f8025f089c1896de
 81a8f4848f12f2b13ca74b672ad05154001b3765b13be2c72b16aa7e090e3e8f
@@ -610,6 +613,7 @@ id
 8e442756c07023a5333b2bea08bb3e5e427509fad83b416e2483e8677d5323e1
 8e4ab56365bf65c27b58fa1eb822d82b0c1991644406cac48a937830d941d3b3
 8e99c9bef00badc2808ce4109b2c415ee4be3d23f7a454dcf77ec6d29dc91c77
+8ec457aebe1ace93e7bc51be9117914d7eb94a031a868c52536ed1f3a2f9633e
 8ec78700b580c136b4c597efef30daf692663f5516cb6fdb38317c2ba66b377b
 8f10ffdd8bd07126e8d657bf48b71c6b115bf58e3b4152fb62e6523ebffa8b01
 90f9907a2a4938d12bb58f654211b6619a5b3f796ef27501dc7dbee2b92de08f
@@ -8431,6 +8435,7 @@ c7500335d7a7af6db6a1d70401d7f77349ca69865ffa1383939b588c17cac50f
 c7673872ccf331150d58d587d550da1abf96fef61c2a4ee4d738af4f35768d04
 c7c8272d8691459421890adf299e7a8e404fa9b17c54aeb26412de302b47d811
 c7dc8776ff31db2e7b7de5b264f5fa1ef9aadda421ad50b1c5904e315e043009
+c8473da82777030137e812a422b1219cff04a20aa4b45a215c85bd8be2f09a54
 c873f8ebed39c049ff14d7957cdedcee9501759b39e106394eced8c50e5d6e6e
 c90c7d4ac89188df860d80548ef4c9eaf37b7688c59e191d0850340308524875
 c97100faa58a6513bed28ee26f696a045384accdc3673e9ceb347983b4c50c6a
@@ -9420,6 +9425,8 @@ catalogo-servizi-pubblici-della-provincia-autonoma-di-trento
 catalogo-siti-web-esterni-open-data
 catalogo-telematico-dellofferta-di-servizi
 catania-ragusa-siracusa-elenco-startup-innovative-dicembre-2025
+catania-ragusa-siracusa-imprese-e-addetti-per-tipologia-e-forma-giuridica-iii-trimestre-2025
+catania-ragusa-siracusa-imprese-e-addetti-totali-per-settore-economico-iii-trimestre-2025
 catania-ragusa-siracusa-imprese-femminili-registrate-al-31-dicembre-2023
 catania-ragusa-siracusa-imprese-giovanili-registrate-al-31-dicembre-2023
 catania-ragusa-siracusa-imprese-giovanili-registrate-per-forma-giuridica-iii-trimestre-2025
@@ -9431,6 +9438,7 @@ catania-ragusa-siracusa-imprese-registrate-per-settore-economico-iii-trimestre-2
 catania-ragusa-siracusa-imprese-registrate-per-status-al-31-dicembre-2023
 catania-ragusa-siracusa-imprese-registrate-per-status-iii-trimestre-2025
 catania-ragusa-siracusa-imprese-straniere-registrate-al-31-dicembre-2023
+catania-ragusa-siracusa-imprese-straniere-registrate-per-forma-giuridica-iii-trimestre-2025
 catasti
 catasto
 catasto-caposaldo-di-livellazione
@@ -14129,6 +14137,7 @@ comune-di-piacenza-dati-finanziamenti-pnrr-ed-altre-fonti-al-2024
 comune-di-piacenza-dati-interventi-di-controllo-del-territorio-al-2024
 comune-di-piacenza-dati-musei-di-palazzo-farnese-al-2024
 comune-di-piacenza-dati-nidi-dinfanzia-al-2024
+comune-di-piacenza-dati-numero-alloggi-erp-del-comune-di-piacenza-a-giugno-2025
 comune-di-piacenza-dati-numero-collaborazioni-concesse-al-2024
 comune-di-piacenza-dati-numero-di-accessi-a-informafamigliebambini-al-2024
 comune-di-piacenza-dati-numero-di-accessi-a-informasociale-al-2024
@@ -22941,6 +22950,8 @@ elenco-delle-deliberazioni-della-giunta-regionale-adottate-distinte-per-dipartim
 elenco-delle-discariche
 elenco-delle-farmacie-comunali-di-roma
 elenco-delle-farmacie-regionali
+elenco-delle-istituzioni-socio-assistenziali-per-anziani
+elenco-delle-istituzioni-socio-assistenziali-per-inabili
 elenco-delle-linee-di-trasporto-pubblico-extraurbano-regionale-passanti-per-i-nodi-fermata
 elenco-delle-linee-di-trasporto-pubblico-extraurbano-regionale-suddivise-per-provincia
 elenco-delle-linee-di-trasporto-pubblico-extraurbano-regionale-suddiviso-per-comune-provincia
@@ -26183,6 +26194,7 @@ f805_n_pup
 f806_n_pup
 f84fd134a352d9a304aa7cb9e12443af8479329e0d6156a18900ce3b625632ae
 f9311ee8993988d33668e02faf2031f12f998122a6729d5ed0882e55c441c21c
+f93f52a72cb1d09027fd52167b584e7a7afb4f365012504fd87328a2c47c2cb5
 f9b5273282d6609018ad9fb724bf409b11345e1d7dcacc8152f39439d9dd9868
 fabbricanti-dispositivi-su-misura-campo-altro
 fabbricanti-dispositivi-su-misura-campo-odontotecnico
@@ -29697,6 +29709,7 @@ infrazioni-cds
 infrazioni-per-natura-sinistro-2021
 infrazioni_al_codice_stradale_2023
 ingressi-alle-frontiere
+ingressi-biblioteca
 ingressi-grotte
 ingressi-musei-comunali-anno-2015
 ingressi-musei-comunali-anno-2017
@@ -31513,13 +31526,21 @@ legge-104-e-congedo-straordinario-numero-beneficiari-per-tipologia-contrattuale-
 legge-104-e-congedo-straordinario-numero-beneficiari-per-tipologia-contrattuale-sesso-e-ar-2014
 legge-104-e-congedo-straordinario-numero-beneficiari-per-tipologia-contrattuale-tipo-prest-2014
 legge_di_bilancio_pubblicata_serie_storica_entrate_per_titolo_e_categoria
+legge_di_bilancio_pubblicata_serie_storica_entrate_per_titolo_e_categoria_new
 legge_di_bilancio_pubblicata_serie_storica_entrate_per_titolo_natura_tipologia_e_provento
+legge_di_bilancio_pubblicata_serie_storica_entrate_per_titolo_natura_tipologia_e_provento_new
 legge_di_bilancio_pubblicata_serie_storica_saldi
+legge_di_bilancio_pubblicata_serie_storica_saldi_new
 legge_di_bilancio_pubblicata_serie_storica_spese_per_amministrazione_e_missione
+legge_di_bilancio_pubblicata_serie_storica_spese_per_amministrazione_e_missione_new
 legge_di_bilancio_pubblicata_serie_storica_spese_per_amministrazione_missione_programma_macroag
+legge_di_bilancio_pubblicata_serie_storica_spese_per_amministrazione_missione_programma_macroag1
 legge_di_bilancio_pubblicata_serie_storica_spese_per_classificazione_economica_titolo_categoria
+legge_di_bilancio_pubblicata_serie_storica_spese_per_classificazione_economica_titolo_categoria1
 legge_di_bilancio_pubblicata_serie_storica_spese_per_missione_programma_macroaggregato
+legge_di_bilancio_pubblicata_serie_storica_spese_per_missione_programma_macroaggregato_new
 legge_di_bilancio_pubblicata_serie_storica_spese_per_titolo_e_macroaggregato
+legge_di_bilancio_pubblicata_serie_storica_spese_per_titolo_e_macroaggregato_new
 leggi-e-regolamenti-della-provincia-autonoma-di-trento
 leggi-e-regolamenti-della-regione-marche
 leggi-regionali-puglia
@@ -42568,6 +42589,7 @@ numero-posizioni-lavorative-per-classe-dimensionale-e-regione-2013-2014
 numero-posizioni-lavorative-per-impresa-per-sezione-ateco-2013-2014
 numero-posti-autorizzati-e-occupati-microcomunita-evancon
 numero-posti-autorizzati-ed-occupati-microcomunita-monte-cervino
+numero-posti-disponibili-e-copertura-microcomunita-unite-valdigne
 numero-pratiche-evase-dal-settore-servizi-sociali-del-comune-di-lecce_anno-2016
 numero-prestatori-di-lavoro-occasionale-accessorio-divisi-per-anno-area-cittadinanza-2013-2014
 numero-prestatori-di-lavoro-occasionale-accessorio-divisi-per-anno-regione-cittadinan-2013-2014
@@ -58390,6 +58412,7 @@ spd_lbf_ent_dpc_m00_01_2022
 spd_lbf_ent_dpc_m00_01_2023
 spd_lbf_ent_dpc_m00_01_2024
 spd_lbf_ent_dpc_m00_01_2025
+spd_lbf_ent_dpc_m00_01_2026
 spd_lbf_ent_elb_art_01_2011
 spd_lbf_ent_elb_art_01_2012
 spd_lbf_ent_elb_art_01_2013
@@ -58405,6 +58428,7 @@ spd_lbf_ent_elb_art_01_2022
 spd_lbf_ent_elb_art_01_2023
 spd_lbf_ent_elb_art_01_2024
 spd_lbf_ent_elb_art_01_2025
+spd_lbf_ent_elb_art_01_2026
 spd_lbf_not_aam_attam_01_2018
 spd_lbf_not_aam_attam_01_2019
 spd_lbf_not_aam_attam_01_2021
@@ -58491,6 +58515,7 @@ spd_lbf_spe_dpc_m00_01_2022
 spd_lbf_spe_dpc_m00_01_2023
 spd_lbf_spe_dpc_m00_01_2024
 spd_lbf_spe_dpc_m00_01_2025
+spd_lbf_spe_dpc_m00_01_2026
 spd_lbf_spe_dpc_m02_01_2017
 spd_lbf_spe_dpc_m02_01_2018
 spd_lbf_spe_dpc_m02_01_2019
@@ -58500,6 +58525,7 @@ spd_lbf_spe_dpc_m02_01_2022
 spd_lbf_spe_dpc_m02_01_2023
 spd_lbf_spe_dpc_m02_01_2024
 spd_lbf_spe_dpc_m02_01_2025
+spd_lbf_spe_dpc_m02_01_2026
 spd_lbf_spe_dpc_m03_01_2017
 spd_lbf_spe_dpc_m03_01_2018
 spd_lbf_spe_dpc_m03_01_2019
@@ -58509,6 +58535,7 @@ spd_lbf_spe_dpc_m03_01_2022
 spd_lbf_spe_dpc_m03_01_2023
 spd_lbf_spe_dpc_m03_01_2024
 spd_lbf_spe_dpc_m03_01_2025
+spd_lbf_spe_dpc_m03_01_2026
 spd_lbf_spe_dpc_m04_01_2017
 spd_lbf_spe_dpc_m04_01_2018
 spd_lbf_spe_dpc_m04_01_2019
@@ -58518,6 +58545,7 @@ spd_lbf_spe_dpc_m04_01_2022
 spd_lbf_spe_dpc_m04_01_2023
 spd_lbf_spe_dpc_m04_01_2024
 spd_lbf_spe_dpc_m04_01_2025
+spd_lbf_spe_dpc_m04_01_2026
 spd_lbf_spe_dpc_m05_01_2017
 spd_lbf_spe_dpc_m05_01_2018
 spd_lbf_spe_dpc_m05_01_2019
@@ -58527,6 +58555,7 @@ spd_lbf_spe_dpc_m05_01_2022
 spd_lbf_spe_dpc_m05_01_2023
 spd_lbf_spe_dpc_m05_01_2024
 spd_lbf_spe_dpc_m05_01_2025
+spd_lbf_spe_dpc_m05_01_2026
 spd_lbf_spe_dpc_m06_01_2017
 spd_lbf_spe_dpc_m06_01_2018
 spd_lbf_spe_dpc_m06_01_2019
@@ -58536,6 +58565,7 @@ spd_lbf_spe_dpc_m06_01_2022
 spd_lbf_spe_dpc_m06_01_2023
 spd_lbf_spe_dpc_m06_01_2024
 spd_lbf_spe_dpc_m06_01_2025
+spd_lbf_spe_dpc_m06_01_2026
 spd_lbf_spe_dpc_m07_01_2017
 spd_lbf_spe_dpc_m07_01_2018
 spd_lbf_spe_dpc_m07_01_2019
@@ -58545,6 +58575,7 @@ spd_lbf_spe_dpc_m07_01_2022
 spd_lbf_spe_dpc_m07_01_2023
 spd_lbf_spe_dpc_m07_01_2024
 spd_lbf_spe_dpc_m07_01_2025
+spd_lbf_spe_dpc_m07_01_2026
 spd_lbf_spe_dpc_m08_01_2017
 spd_lbf_spe_dpc_m08_01_2018
 spd_lbf_spe_dpc_m08_01_2019
@@ -58554,6 +58585,7 @@ spd_lbf_spe_dpc_m08_01_2022
 spd_lbf_spe_dpc_m08_01_2023
 spd_lbf_spe_dpc_m08_01_2024
 spd_lbf_spe_dpc_m08_01_2025
+spd_lbf_spe_dpc_m08_01_2026
 spd_lbf_spe_dpc_m09_01_2017
 spd_lbf_spe_dpc_m09_01_2018
 spd_lbf_spe_dpc_m09_01_2019
@@ -58563,6 +58595,7 @@ spd_lbf_spe_dpc_m09_01_2022
 spd_lbf_spe_dpc_m09_01_2023
 spd_lbf_spe_dpc_m09_01_2024
 spd_lbf_spe_dpc_m09_01_2025
+spd_lbf_spe_dpc_m09_01_2026
 spd_lbf_spe_dpc_m10_01_2017
 spd_lbf_spe_dpc_m10_01_2018
 spd_lbf_spe_dpc_m10_01_2019
@@ -58572,11 +58605,13 @@ spd_lbf_spe_dpc_m10_01_2022
 spd_lbf_spe_dpc_m10_01_2023
 spd_lbf_spe_dpc_m10_01_2024
 spd_lbf_spe_dpc_m10_01_2025
+spd_lbf_spe_dpc_m10_01_2026
 spd_lbf_spe_dpc_m11_01_2021
 spd_lbf_spe_dpc_m11_01_2022
 spd_lbf_spe_dpc_m11_01_2023
 spd_lbf_spe_dpc_m11_01_2024
 spd_lbf_spe_dpc_m11_01_2025
+spd_lbf_spe_dpc_m11_01_2026
 spd_lbf_spe_dpc_m12_01_2017
 spd_lbf_spe_dpc_m12_01_2018
 spd_lbf_spe_dpc_m12_01_2019
@@ -58586,6 +58621,7 @@ spd_lbf_spe_dpc_m12_01_2022
 spd_lbf_spe_dpc_m12_01_2023
 spd_lbf_spe_dpc_m12_01_2024
 spd_lbf_spe_dpc_m12_01_2025
+spd_lbf_spe_dpc_m12_01_2026
 spd_lbf_spe_dpc_m13_01_2017
 spd_lbf_spe_dpc_m13_01_2018
 spd_lbf_spe_dpc_m13_01_2019
@@ -58595,6 +58631,7 @@ spd_lbf_spe_dpc_m13_01_2022
 spd_lbf_spe_dpc_m13_01_2023
 spd_lbf_spe_dpc_m13_01_2024
 spd_lbf_spe_dpc_m13_01_2025
+spd_lbf_spe_dpc_m13_01_2026
 spd_lbf_spe_dpc_m14_01_2017
 spd_lbf_spe_dpc_m14_01_2018
 spd_lbf_spe_dpc_m14_01_2019
@@ -58604,6 +58641,7 @@ spd_lbf_spe_dpc_m14_01_2022
 spd_lbf_spe_dpc_m14_01_2023
 spd_lbf_spe_dpc_m14_01_2024
 spd_lbf_spe_dpc_m14_01_2025
+spd_lbf_spe_dpc_m14_01_2026
 spd_lbf_spe_dpc_m15_01_2017
 spd_lbf_spe_dpc_m15_01_2018
 spd_lbf_spe_dpc_m15_01_2019
@@ -58613,10 +58651,12 @@ spd_lbf_spe_dpc_m15_01_2022
 spd_lbf_spe_dpc_m15_01_2023
 spd_lbf_spe_dpc_m15_01_2024
 spd_lbf_spe_dpc_m15_01_2025
+spd_lbf_spe_dpc_m15_01_2026
 spd_lbf_spe_dpc_m16_01_2022
 spd_lbf_spe_dpc_m16_01_2023
 spd_lbf_spe_dpc_m16_01_2024
 spd_lbf_spe_dpc_m16_01_2025
+spd_lbf_spe_dpc_m16_01_2026
 spd_lbf_spe_elb_cap_01_2011
 spd_lbf_spe_elb_cap_01_2012
 spd_lbf_spe_elb_cap_01_2013
@@ -58632,6 +58672,7 @@ spd_lbf_spe_elb_cap_01_2022
 spd_lbf_spe_elb_cap_01_2023
 spd_lbf_spe_elb_cap_01_2024
 spd_lbf_spe_elb_cap_01_2025
+spd_lbf_spe_elb_cap_01_2026
 spd_lbf_spe_elb_pig_01_2011
 spd_lbf_spe_elb_pig_01_2012
 spd_lbf_spe_elb_pig_01_2013
@@ -58647,6 +58688,7 @@ spd_lbf_spe_elb_pig_01_2022
 spd_lbf_spe_elb_pig_01_2023
 spd_lbf_spe_elb_pig_01_2024
 spd_lbf_spe_elb_pig_01_2025
+spd_lbf_spe_elb_pig_01_2026
 spd_lbf_spe_g8e_cap_01_2017
 spd_lbf_spe_g8e_cap_01_2018
 spd_lbf_spe_g8e_cap_01_2019
@@ -58656,6 +58698,7 @@ spd_lbf_spe_g8e_cap_01_2022
 spd_lbf_spe_g8e_cap_01_2023
 spd_lbf_spe_g8e_cap_01_2024
 spd_lbf_spe_g8e_cap_01_2025
+spd_lbf_spe_g8e_cap_01_2026
 spd_lug_spe_pbs_amce2_01_2016_01
 spd_lug_spe_pbs_amce2_01_2017_01
 spd_lug_spe_pbs_amce2_01_2018_01
@@ -59136,6 +59179,7 @@ spd_nov_spe_pbs_ammce_01_2021_01
 spd_nov_spe_pbs_ammce_01_2022_01
 spd_nov_spe_pbs_ammce_01_2023_01
 spd_nov_spe_pbs_ammce_01_2024_01
+spd_nov_spe_pbs_ammce_01_2025_01
 spd_nov_spe_pbs_cece2_01_2016_01
 spd_nov_spe_pbs_cece2_01_2017_01
 spd_nov_spe_pbs_cece2_01_2018_01
@@ -59191,6 +59235,7 @@ spd_nv1_ent_elb_art_01_2022
 spd_nv1_ent_elb_art_01_2023
 spd_nv1_ent_elb_art_01_2024
 spd_nv1_ent_elb_art_01_2025
+spd_nv1_ent_elb_art_01_2026
 spd_nv1_spe_elb_cap_01_2011
 spd_nv1_spe_elb_cap_01_2012
 spd_nv1_spe_elb_cap_01_2013
@@ -59206,6 +59251,7 @@ spd_nv1_spe_elb_cap_01_2022
 spd_nv1_spe_elb_cap_01_2023
 spd_nv1_spe_elb_cap_01_2024
 spd_nv1_spe_elb_cap_01_2025
+spd_nv1_spe_elb_cap_01_2026
 spd_nv1_spe_elb_pig_01_2011
 spd_nv1_spe_elb_pig_01_2012
 spd_nv1_spe_elb_pig_01_2013
@@ -59221,6 +59267,7 @@ spd_nv1_spe_elb_pig_01_2022
 spd_nv1_spe_elb_pig_01_2023
 spd_nv1_spe_elb_pig_01_2024
 spd_nv1_spe_elb_pig_01_2025
+spd_nv1_spe_elb_pig_01_2026
 spd_nv2_ent_elb_art_01_2013
 spd_nv2_ent_elb_art_01_2014
 spd_nv2_ent_elb_art_01_2015
@@ -66289,6 +66336,7 @@ u-l-per-km2
 ubicazione-degli-interventi_ocdpc558_2018-aggiornato-a-dicembre-2019
 ubicazione-degli-interventi_ocdpc558_2018_piano_2020_art_1_co_1028_legge_145_2018
 ubicazione-degli-interventi_ocdpc558_piano_2020_art24-quater_dl_119_2018
+ubicazione-e-orari-di-apertura-microcomunita-unite-valdigne
 ubicazione-ed-orari-di-apertura-degli-asili-nido-dellunione-walser
 ubicazione-ed-orari-di-apertura-microcomunita-monte-cervino
 ubicazione-photored-territorio-comunale
