@@ -120,7 +120,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-14T09:23:02.989205,Comune di Civitavecchia,81e7ba14-4b56-4b50-a681-8ba6f1e48b7e,c_c773,comune-di-civitavecchia,10,https://dati.gov.it/view-dataset?organization=comune-di-civitavecchia
 2025-07-04T09:05:57.298066,Comune di Collesalvetti,96e34688-2ce0-479b-8058-4c69ff8c09b6,c_c869,comune-di-collesalvetti,0,https://dati.gov.it/view-dataset?organization=comune-di-collesalvetti
 2024-11-13T11:45:17.097340,Comune di Cologno Monzese,92b0fbf4-d3f5-411e-afd5-e0b9bcadd3e8,c_c895,comune-di-cologno-monzese,52,https://dati.gov.it/view-dataset?organization=comune-di-cologno-monzese
-2025-11-19T10:29:32.284647,Comune di Comacchio,f61bbd01-416b-4ce0-a6e1-4f4c3f76bdfe,c_c912,comune-di-comacchio,29,https://dati.gov.it/view-dataset?organization=comune-di-comacchio
+2025-11-19T10:29:32.284647,Comune di Comacchio,f61bbd01-416b-4ce0-a6e1-4f4c3f76bdfe,c_c912,comune-di-comacchio,50,https://dati.gov.it/view-dataset?organization=comune-di-comacchio
 2026-01-07T09:05:49.466573,Comune di Corbetta,b64dd82a-79fa-4527-a6c1-4ece2e547f79,c_c986,comune-di-corbetta,18,https://dati.gov.it/view-dataset?organization=comune-di-corbetta
 2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,6,https://dati.gov.it/view-dataset?organization=comune-di-corciano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,12,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
@@ -284,7 +284,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
 2025-09-29T15:10:55.790559,GAL Terra dei Messapi,5b9e346e-78a3-4923-b85b-c73a74cd7768,01796490744,gal-terra-dei-messapi,10,https://dati.gov.it/view-dataset?organization=gal-terra-dei-messapi
 2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8106,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
-2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,327,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
+2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,340,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,102,https://dati.gov.it/view-dataset?organization=inail
 2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2281,https://dati.gov.it/view-dataset?organization=inps
@@ -302,7 +302,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T19:02:04.435826,Ministero del Lavoro,cf59d4fe-9521-4f97-b463-c2e8f1d4e647,m_lps,ministero-del-lavoro,83,https://dati.gov.it/view-dataset?organization=ministero-del-lavoro
 2025-02-19T10:39:30.240736,Ministero del Turismo,54503213-4f23-4c39-ba5f-c0b0bb78f900,WQF3ZW8F,ministero-del-turismo,16,https://dati.gov.it/view-dataset?organization=ministero-del-turismo
 2025-06-27T15:06:07.564881,Ministero dell'Ambiente e della Sicurezza Energetica,b9784816-dae8-49fe-9f30-d1fa8442a7b1,m_amte,ministero-dell-ambiente-e-della-sicurezza-energetica,0,https://dati.gov.it/view-dataset?organization=ministero-dell-ambiente-e-della-sicurezza-energetica
-2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3508,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
+2024-11-07T11:59:45.755340,Ministero dell'Economia e delle Finanze,656fad7d-c016-477c-a24e-d441a71f1437,m_ef,ministero-dell-economia-e-delle-finanze,3516,https://dati.gov.it/view-dataset?organization=ministero-dell-economia-e-delle-finanze
 2024-03-08T21:08:34.148783,Ministero dell'Interno,b85fe2f8-59bf-40b9-af1c-9ee1801d8449,m_it,ministero-dell-interno,38,https://dati.gov.it/view-dataset?organization=ministero-dell-interno
 2024-03-08T21:11:28.638845,Ministero dell'Istruzione e del Merito,e4d3417e-3254-400a-9d80-6b4c890e1615,m_pi,ministero-dell-istruzione,105,https://dati.gov.it/view-dataset?organization=ministero-dell-istruzione
 2024-03-08T19:00:41.997526,Ministero della Salute,593c0fab-b437-4181-b277-cbf5bc21d81c,m_sa,ministero-della-salute,51,https://dati.gov.it/view-dataset?organization=ministero-della-salute
@@ -326,7 +326,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:36:26.700827,Provincia di Foggia,5123938d-993a-485a-b631-d72d05390429,p_fg,provincia-di-foggia,10,https://dati.gov.it/view-dataset?organization=provincia-di-foggia
 2025-11-13T13:58:53.251079,Provincia di Forlì Cesena,431d91aa-6e51-46ff-8481-de9649039d89,p_fc,provincia-di-forli-cesena,11,https://dati.gov.it/view-dataset?organization=provincia-di-forli-cesena
 2025-03-25T13:25:15.335726,Provincia di Isernia,6e3d98f6-cd37-4413-9085-eb4526542764,p_is,provincia-di-isernia,5,https://dati.gov.it/view-dataset?organization=provincia-di-isernia
-2025-11-24T16:29:52.273055,Provincia di Lodi,4cd6b877-e777-47cf-9bb7-6eca27571cde,p_lo,provincia-di-lodi,2,https://dati.gov.it/view-dataset?organization=provincia-di-lodi
+2025-11-24T16:29:52.273055,Provincia di Lodi,4cd6b877-e777-47cf-9bb7-6eca27571cde,p_lo,provincia-di-lodi,40,https://dati.gov.it/view-dataset?organization=provincia-di-lodi
 2024-11-20T12:23:37.817154,Provincia di Novara,c3234889-f512-4ab2-9ee8-0d7ec8a7cb6c,p_no,provincia-di-novara,48,https://dati.gov.it/view-dataset?organization=provincia-di-novara
 2025-02-06T10:48:03.748623,Provincia di Padova,53290502-f70e-43fc-9378-bab36bb0f55c,p_pd,provincia-di-padova,0,https://dati.gov.it/view-dataset?organization=provincia-di-padova
 2025-02-13T16:35:26.066601,Provincia di Parma,8e7b5d19-4a39-4d51-96c9-549ee2eda073,p_pr,provincia-di-parma,5,https://dati.gov.it/view-dataset?organization=provincia-di-parma
