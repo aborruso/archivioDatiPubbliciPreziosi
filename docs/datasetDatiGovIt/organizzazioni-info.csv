@@ -219,6 +219,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-18T08:46:43.989940,Comune di Ruvo di Puglia,fbdec4c2-891e-4e1f-828f-a9e86f31ae59,c_h645,comune-di-ruvo-di-puglia,5,https://dati.gov.it/view-dataset?organization=comune-di-ruvo-di-puglia
 2025-08-27T09:49:40.851418,Comune di San Cesareo,fc5aa328-c830-4dbe-a1c3-b27c59a7faae,c_m295,comune-di-san-cesareo,1,https://dati.gov.it/view-dataset?organization=comune-di-san-cesareo
 2026-01-12T11:26:22.757449,Comune di San Cesario di Lecce,b91100c9-76c3-4800-b54b-e04aef62dd3d,c_h793,comune-di-san-cesario-di-lecce,1,https://dati.gov.it/view-dataset?organization=comune-di-san-cesario-di-lecce
+2026-01-22T10:49:54.293347,Comune di San Gavino Monreale,0f053478-c0d4-40ce-9a8c-bcab9bbc0a40,c_h856,comune-di-san-gavino-monreale,0,https://dati.gov.it/view-dataset?organization=comune-di-san-gavino-monreale
 2025-05-13T13:05:56.548396,Comune di San Gisueppe Vesuviano,c9595f4d-4d59-4d4e-852c-4f19d69f2b8e,c_h931,comune-di-san-gisueppe-vesuviano,0,https://dati.gov.it/view-dataset?organization=comune-di-san-gisueppe-vesuviano
 2025-04-11T13:55:15.361404,Comune di San Marco in Lamis,954a56b3-6ace-4e65-947b-e737b8824d9e,c_h985,comune-di-san-marco-in-lamis,3,https://dati.gov.it/view-dataset?organization=comune-di-san-marco-in-lamis
 2025-05-29T13:26:59.769276,Comune di San Martino Valle Caudina,4d725fa6-57d7-4217-8cf2-2da13777d27c,c_i016,comune-di-san-martino-valle-caudina,0,https://dati.gov.it/view-dataset?organization=comune-di-san-martino-valle-caudina
@@ -345,7 +346,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,822,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1765,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,186,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,11821,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10426,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,453,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6553,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,364,https://dati.gov.it/view-dataset?organization=roma-capitale
