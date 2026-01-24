@@ -73,10 +73,10 @@ created,display_name,id,identifier,name,package_count,URL
 2024-10-28T10:33:16.569782,Comune di Beinasco,bc5f05ae-4696-4db9-985a-88a78eab0da9,c_a734,comune-di-beinasco,3,https://dati.gov.it/view-dataset?organization=comune-di-beinasco
 2025-02-07T15:05:41.669280,Comune di Benevento,2e83f50b-b1a4-4668-a484-a8bfbdc936ed,c_a783,comune-di-benevento,11,https://dati.gov.it/view-dataset?organization=comune-di-benevento
 2025-02-19T10:19:30.000370,Comune di Besana in Brianza,30ba8004-fbdd-416c-a1a8-523207ff026b,c_a818,comune-di-besana-in-brianza,36,https://dati.gov.it/view-dataset?organization=comune-di-besana-in-brianza
-2025-04-07T10:38:28.480560,Comune di Biassono,d0749447-a25e-44ee-8fc0-05e19be3ea4f,c_f712,comune-di-biassono,9,https://dati.gov.it/view-dataset?organization=comune-di-biassono
+2025-04-07T10:38:28.480560,Comune di Biassono,d0749447-a25e-44ee-8fc0-05e19be3ea4f,c_f712,comune-di-biassono,10,https://dati.gov.it/view-dataset?organization=comune-di-biassono
 2025-04-14T10:24:26.641817,Comune di Bisignano,451287af-4856-48d9-af89-e389e67cc042,c_a887,comune-di-bisignano,5,https://dati.gov.it/view-dataset?organization=comune-di-bisignano
 2025-02-06T10:41:01.801186,Comune di Bitetto,dbd34fd7-3ed1-4223-bd2e-7c00df665195,c_a892,comune-di-bitetto,4,https://dati.gov.it/view-dataset?organization=comune-di-bitetto
-2025-04-11T14:37:42.370883,Comune di Bitritto,76e0a090-f08c-4ff6-bdd6-bb8c258c5731,c_a894,comune-di-bitritto,0,https://dati.gov.it/view-dataset?organization=comune-di-bitritto
+2025-04-11T14:37:42.370883,Comune di Bitritto,76e0a090-f08c-4ff6-bdd6-bb8c258c5731,c_a894,comune-di-bitritto,5,https://dati.gov.it/view-dataset?organization=comune-di-bitritto
 2024-03-08T18:16:37.011539,Comune di Bologna,459fbd42-c496-4511-bac8-1f06e341d6ef,c_a944,comune-di-bologna,682,https://dati.gov.it/view-dataset?organization=comune-di-bologna
 2025-10-29T16:40:38.039017,Comune di Borgo a Mozzano,164c30fb-3f80-40f6-b579-6f6ade5cb08e,c_b007,comune-di-borgo-a-mozzano,2,https://dati.gov.it/view-dataset?organization=comune-di-borgo-a-mozzano
 2025-11-03T16:39:51.118411,Comune di Borgo San Lorenzo,305277c9-0b08-44a0-8ad7-abe8a8b80a07,c_b036,comune-di-borgo-san-lorenzo,37,https://dati.gov.it/view-dataset?organization=comune-di-borgo-san-lorenzo
@@ -88,7 +88,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-10-03T12:36:41.884115,Comune di Bussoleno,f3458141-a39c-49af-9397-aa765863aaec,c_b297,comune-di-bussoleno,9,https://dati.gov.it/view-dataset?organization=comune-di-bussoleno
 2025-12-18T14:06:48.087535,Comune di Cadoneghe,087252be-7d91-4f6e-aa2c-2f01e6128ce6,c_b345,comune-di-cadoneghe,0,https://dati.gov.it/view-dataset?organization=comune-di-cadoneghe
 2025-12-16T13:18:10.750682,Comune di Caerano di San Marco,7ba609b0-bc90-4f4b-aadc-8ece5794671c,c_b349,comune-di-caerano-di-san-marco,0,https://dati.gov.it/view-dataset?organization=comune-di-caerano-di-san-marco
-2026-01-07T13:48:37.771743,Comune di Campagna,b350a43c-e752-4d61-8b04-718141310786,c_b492,comune-di-campagna,6,https://dati.gov.it/view-dataset?organization=comune-di-campagna
+2026-01-07T13:48:37.771743,Comune di Campagna,b350a43c-e752-4d61-8b04-718141310786,c_b492,comune-di-campagna,0,https://dati.gov.it/view-dataset?organization=comune-di-campagna
 2025-04-14T08:16:26.013731,Comune di Campobasso,909b6335-a652-4fb1-a31e-2adc8dd5ed99,c_b519,comune-di-campobasso,0,https://dati.gov.it/view-dataset?organization=comune-di-campobasso
 2025-12-22T14:40:41.214158,Comune di Canino,f70946ef-1071-492e-bb55-c41ef2900372,c_b604,comune-di-canino,1,https://dati.gov.it/view-dataset?organization=comune-di-canino
 2025-10-30T11:50:59.469368,Comune di Capoterra,6e44f061-4fdf-4ddb-9040-095629a08a9b,c_b675,comune-di-capoterra,6,https://dati.gov.it/view-dataset?organization=comune-di-capoterra
@@ -203,7 +203,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:05:25.933039,Comune di Pineto,1d92fe0b-49c7-45fe-9ab4-fed6e53f45d6,c_f831,comune-di-pineto,4,https://dati.gov.it/view-dataset?organization=comune-di-pineto
 2025-12-19T10:38:59.993791,Comune di Piombino Dese,11abb820-f6d1-4339-a9df-d4771093a720,c_g688,comune-di-piombino-dese,3,https://dati.gov.it/view-dataset?organization=comune-di-piombino-dese
 2025-04-11T14:19:59.766032,Comune di Pisticci,b50a950c-fd0c-44e8-bd82-2c75898abe04,c_g712,comune-di-pisticci,8,https://dati.gov.it/view-dataset?organization=comune-di-pisticci
-2026-01-21T15:10:12.371628,Comune di Policoro,123b513b-62c4-4496-b5a1-0372ef6311c6,c_g786,comune-di-policoro,0,https://dati.gov.it/view-dataset?organization=comune-di-policoro
+2026-01-21T15:10:12.371628,Comune di Policoro,123b513b-62c4-4496-b5a1-0372ef6311c6,c_g786,comune-di-policoro,11,https://dati.gov.it/view-dataset?organization=comune-di-policoro
 2025-06-19T07:50:46.058467,Comune di Pollenza,53a9ef87-7ecf-4743-a3a6-84c913a9b6d8,c_f567,comune-di-pollenza,0,https://dati.gov.it/view-dataset?organization=comune-di-pollenza
 2025-04-14T07:50:39.724552,Comune di Porto Cesareo,75656a6e-699f-49e3-ac14-e055835e9638,c_m263,comune-di-porto-cesareo,3,https://dati.gov.it/view-dataset?organization=comune-di-porto-cesareo
 2025-02-10T15:08:04.691659,Comune di Porto Viro,8fbd5333-6025-4b03-af96-8ec71ae76acf,c_g926,comune-di-porto-viro,5,https://dati.gov.it/view-dataset?organization=comune-di-porto-viro
@@ -286,7 +286,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
 2025-09-29T15:10:55.790559,GAL Terra dei Messapi,5b9e346e-78a3-4923-b85b-c73a74cd7768,01796490744,gal-terra-dei-messapi,10,https://dati.gov.it/view-dataset?organization=gal-terra-dei-messapi
 2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8146,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
-2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,340,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
+2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,343,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,102,https://dati.gov.it/view-dataset?organization=inail
 2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale ,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2281,https://dati.gov.it/view-dataset?organization=inps
@@ -343,7 +343,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,19,https://dati.gov.it/view-dataset?organization=regione-liguria
 2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3360,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5440,https://dati.gov.it/view-dataset?organization=regione-marche
-2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,822,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,826,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1765,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,186,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10426,https://dati.gov.it/view-dataset?organization=regione-toscana

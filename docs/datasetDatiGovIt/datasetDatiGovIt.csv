@@ -1,5 +1,6 @@
 id
 00b03ad20487d6020c0edf46c61ada1c73befb9d1fb97f77065e9e2798eeaf45
+01e2c9e3530fe1d235358cc957367f5c364a423bea989627d02e39cfb54b66e0
 01fdfe7512771c21579b56de7c050d1faba4df92516d33f093aa4dfa8609f4b7
 030-convenzionata-atc-i
 030-spesa-e-consumi-dpc-per-atc
@@ -15,6 +16,7 @@ id
 09dc26f567b1b78e5ba8bd426aa6576e507a6ed9fb6a23b4b8518be21108663f
 0a155118f92913e845ccf6fad00b7dfb69c419758b6f95fe32f01407e0ec139f
 0a725a4d2bc2b640003bf48ce486e4d013003e65b93832fdb15805d53a495cf2
+0b18f520e80b3aa68c1c943f64530660bb478c1d3922d8befe305df545e92be7
 0b2c38ff5fec11535a311911fae4fa70a59275af11776ffada8373c241f0bfb9
 0c4e82b5ad8a83c99455d1dea9047c64fd2ce3eb2425c66c10427c9be7790c24
 0c6684e7c8ed5fa110f2d74898189425a48ae72bab9f1bcfa510c82259501961
@@ -47,6 +49,7 @@ id
 16-hotspot-wifi-comune-di-verolavecchia
 16a67e28cdf6e9a33b4f12f1d45e1acafb8f0b7981e80fd0614b1e3b89d91ab3
 16a7cc0dd1bd7a633d2092ec7ad3e313d50a6b9042edff694d6e3104b14c375a
+16bb2bfcfba74c0ad9fa1ee303f4d2269853936eca3e9e311f099aef5f2e89af
 1731442b25081baecf76d6a46786431bbd9bdf394725cc3701b768b6f75c82a2
 17832edcfc50e6dbb1456a6712aeb569fc735fc37840fbb49461681fd11a5fe3
 17f451f245b1f4ca3683b22b43d40b469114a7767b41db13f3a18e0dd24e485f
@@ -421,6 +424,7 @@ id
 33-area-di-sosta-per-disabili-comune-di-pezzaze
 33-aree-di-sosta-disabili-comune-di-manerbio
 33-aree-di-sosta-per-disabili-comune-di-berlingo
+3303bfd6d15d5f451e4e2e5900b089cb6927fe3ced9a0a0ddf298be7eedddedf
 330d6e68c599cb522a6bcab0f56f107d6be1f26625e4f0c318a83a651df9a558
 3406806e04773f5b7da1749b451aa0cc732770dfa24e87dfb4205d1d5d536b7f
 341cbb6771711cf61a3c3b9fd6744e9f60fc3f1ca635b22146d8fd101539779f
@@ -456,6 +460,7 @@ id
 3fadc397e80906307d1eef0266d68fea7c4dd06683f6ad14939c2fe28c38a15c
 3fba95100350de9d1fe7e64fd985ede7ee3f70d6e05ba10c68c9caba6af02d14
 3fc05468cfcdefa768611ce780fa99ae9c7862a5fa4f8c41acf4dc12bca4090e
+3fcc628e736a4c9a25eaa98704cb76e2402f2d04f715f560bfc14ff8ff9b031b
 405bda1ca4708a0a6d70fecdcadfa1a36a52252549e71abe5caabfa70cdb7847
 40fe104b575e6b5b2f5409b3672153b69de1e25fb269d8e66be8034592ac668f
 41-principali-infrazioni-al-codice-della-strada-comune-di-toscolano-maderno
@@ -474,6 +479,7 @@ id
 464e76f175c156a98c6d5cecd00dffaaf2b5328e7515cfaa48b036992c74699d
 46530cad10211a35794fdf5ff719ee85da2b04973a60660ad6d22561c16431ca
 46b0d35132f2e011c4947b4e8bb466273d438bb7b60c092ec48eed265896d5ff
+488160baf1cc183d40fdde849fc178b31d9da1a2e87fa079d2a98a48cbd75a8c
 490283a1fd8c063888ede8abeca8506deff665a7ec378ce9ed702fab1c5a7d48
 498a827ac303b737dd9251b2210be60c793a649b48ddea254042c9c779772da1
 49b8681572543cc49397ed98aef30e2b4730610f4b3c4fe9df5ba759fbee3d34
@@ -561,6 +567,7 @@ id
 76aa791191c1fd0595981c7c8c3cc1f1066369fd72851adca016ae9d9c333716
 776da8d115a01c02f779c9d724a1aadd9633ebb77282596cc0182b6644833fc2
 777ec6014de75ebfc0265da8fa76b2c32c407e4d1bc60f76827c05880368b441
+780e6bd4776f6c184f4a92f101c709aee58752bddcf38d0799b31424c55f2b3a
 78258016fca9441b9ad5d94ed4179a265210ef0c986e36a96fbc071ebc41956d
 7954be4b1b9328579edc68c260bc48749128fe3f35e3c0419c5abd6b757864b5
 795d59aa54e5996b61efb4acd4d0b482864b4ac76aa684578a67e36a4601d430
@@ -570,6 +577,7 @@ id
 7a1b5dff99c5e4944a806328853c3ba7f24204d7e30894e9ac2721201bbc17b7
 7a7194a2e92664ddf3a9ef34a07577b0785a55ec38e1553aad12a81067eaefba
 7b03cc0803cdf26028a1f9f27552e2bcd6fbe7c7e3aacbbbc4187c7c8e14529f
+7b75ee4fe6235076f3fbe9dc09517df70ccfcb163595effb2e857ebf00ef45cb
 7c03f972613614762525a4d62e5392117ab1e4215639036ee07c7e15b3f71fa1
 7cc40c2e7e62115e7f3fde892351ec174ae4e5f16d0e3ee2ad0ee2c0fca9db17
 7d2487951046c75234f16acbf54aaca8e29f2ad6591096a06dce2006ed16fd39
@@ -590,6 +598,7 @@ id
 854deba90c15681cbecf3ff2ae9fe44d86938bd342358d20245c1fdcd2e95ece
 858082121b69e48e5bb1a3bd02fec728eb69b97cbf6ad6ec03a255bc5fac6bff
 8646627dc5127ee90a7794bf4dc7b745684c86287ad9a047dbb7383239249e58
+8651af1261bdb127fde96656b784d073f9e14e41f162037a441e9ee5f6b70a1b
 86945b897703c3ec57d28451b0bf13f130b243dbc3fb86b72e6002ada07d86b9
 87d795cb05daea9511c2c8b6c7510698e25b8c1d4f0fc72dda74898b8c8a54c2
 880c0542e22838c5402f4a9bb51f540aa5490527dfb62159335de5797c7aa3c1
@@ -632,6 +641,7 @@ id
 940e7f5a1a7fe1d78b9c9d26f1014af2a9a0228d5bf6fdea6fca12b53d736d2a
 94d89325670f95db73e42e3a5c92add9723b81879864f0cca871ce44624d6730
 95038330fd3047c1f73c790169705bf76f78440f3189506248024914abebe66e
+950f7d489136283df7cba920e8cd868d560f876882de84476b67bdec4765abc7
 952509eade9c6b39a16c9aa6df7ee9155dee22b3eee562c3cdb14565850f16ea
 96ad5c85bd162fab1232a5043965a8ae8f29d08e6b24192b8be6593785000baf
 97e3f7c88cb91f565432691cbeab1c4ed4cddb2fe9c24e9d0daf82ba723384be
@@ -738,6 +748,7 @@ a73c59167e231a667af896a0b6b8c028bf19c939759597c585a3980586d7bab7
 a7d03753259e5c7ec378e2bb79adb966cd80bfbad1540144e3f546a2439a865e
 a84217c5c8163a0b6875c93090ca10e7739a1e991f6cff7ead4b7d4ae300f3cb
 a84fccd025171f667f075b5d65c550bc47273a88aeaf1da92aaa849bccedf679
+a8b506253c0fde7863ba6adac7b79b8f84b6e030c048fc47c3f4f3ef0b4baea4
 a8d1072e6788b85d955475f2264b5b2fc7815e1044e0d373a95d8a22d7e47a75
 aaba5f4284ca0e88c4849863faca5081f0d7fd12bd0f19597379d5f27aa70333
 abbandoni-uniba-per-area-disciplinare-e-dipartimento
@@ -4423,6 +4434,7 @@ aree-di-elevato-valore-naturalistico-della-rete-delle-aree-aperte-citta-metropol
 aree-di-elevato-valore-naturalistico-della-rete-delle-aree-aperte-citta-metropolitana-di-firenz1
 aree-di-elevato-valore-naturalistico-della-rete-delle-zone-umide-citta-metropolitana-di-firenze
 aree-di-elevato-valore-naturalistico-della-rete-delle-zone-umide-citta-metropolitana-di-firenze1
+aree-di-emergenza
 aree-di-immersione-materiali-di-dragaggio-dei-porti
 aree-di-influenza
 aree-di-insediamento-commerciale-consolidate-addensamenti-o-in-programmazione-localizzazioni
@@ -6562,6 +6574,7 @@ b3-8-carta-delle-velocita-idrauliche-modello-uml-1
 b3-9-carta-della-magnitudo-idraulica-modello-uml
 b3-9-carta-della-magnitudo-idraulica-modello-uml-1
 b337392ddb96261290931dfb2c424f87f8c7511122570a44255506202494cfcc
+b37bd97c32f1d4299a5c9e2dbd2285888e81da4ac41e28cba992cd9263d40553
 b3f44979a30b20def4515a8f5867c7403fbac645906a8f1e4e943b8498dffa3b
 b4-carta-delle-aree-a-pericolosita-sismica-locale-modello-uml
 b4-carta-delle-aree-a-pericolosita-sismica-locale-modello-uml-1
@@ -8378,6 +8391,7 @@ c5-5-pericolosita-geologica-pai-modello-uml
 c5-5-pericolosita-geologica-pai-modello-uml-1
 c564eb97b48754336da80ce238c1338a20c72ea0951743e6e3b90fbd8310e447
 c56a84fcd450ec0e2e97b412be55fa32d82ac57c57f3cf36b047f7a9284f4298
+c5f0e3443ab3877879d3f7efe73e5c5bd5b825778fcc7073359ab8b5d64e0b5f
 c7500335d7a7af6db6a1d70401d7f77349ca69865ffa1383939b588c17cac50f
 c7673872ccf331150d58d587d550da1abf96fef61c2a4ee4d738af4f35768d04
 c7c8272d8691459421890adf299e7a8e404fa9b17c54aeb26412de302b47d811
@@ -11932,6 +11946,7 @@ comune-di-biassono-bilancio-di-previsione-entrata
 comune-di-biassono-bilancio-di-previsione-spesa
 comune-di-biassono-conteggio-popolazione
 comune-di-biassono-conteggio-protocolli
+comune-di-biassono-elenco-servizi-utenti-2025
 comune-di-biassono-famiglie-per-numero-figli
 comune-di-biassono-procedimenti-amministrativi
 comune-di-biassono-rendiconto-della-gestione-entrata
@@ -12778,22 +12793,22 @@ comune-di-conegliano-eta-media-dei-cittadini-e-loro-numero-per-via-al-15-07-2019
 comune-di-conegliano-numero-di-abitanti-suddivisi-per-eta-al-15-07-2019
 comune-di-conegliano-popolazione-residente-al-15-07-2019-per-cittadinanza-maschi-femmine-e-tota
 comune-di-corbetta
-comune-di-corbetta-bilancio-di-previsione-entrata
 comune-di-corbetta-bilancio-di-previsione-entrata-2024
-comune-di-corbetta-bilancio-di-previsione-spesa
+comune-di-corbetta-bilancio-di-previsione-entrata-2025
 comune-di-corbetta-bilancio-di-previsione-spesa-2024
+comune-di-corbetta-bilancio-di-previsione-spesa-2025
 comune-di-corbetta-canone-unico-patrimoniale-utenze-2025
 comune-di-corbetta-canone-unico-patrimoniale-versamenti-spontanei-2025
 comune-di-corbetta-conteggio-popolazione
-comune-di-corbetta-conteggio-protocolli
 comune-di-corbetta-conteggio-protocolli-2024
-comune-di-corbetta-elenco-istanze-online
+comune-di-corbetta-conteggio-protocolli-2025
 comune-di-corbetta-elenco-istanze-online-2024
+comune-di-corbetta-elenco-istanze-online-2025
+comune-di-corbetta-elenco-servizi-utenti-2025
 comune-di-corbetta-imu-versamenti-spontanei-2025
-comune-di-corbetta-procedimenti-amministrativi
-comune-di-corbetta-rendiconto-della-gestione-entrata
+comune-di-corbetta-procedimenti-amministrativi-2024
+comune-di-corbetta-procedimenti-amministrativi-2025
 comune-di-corbetta-rendiconto-della-gestione-entrata-2024
-comune-di-corbetta-rendiconto-della-gestione-spesa
 comune-di-corbetta-rendiconto-della-gestione-spesa-2024
 comune-di-corbetta-stranieri-per-stato-cittadinanza
 comune-di-coreglia-ligure-p-u-c-delibera-c-c-n-16-2013
@@ -18445,11 +18460,13 @@ d-lgs-105-2015-stabilimenti-in-basilicata
 d0cb4213ac69e0f8be0e65f86ea5d59a5e7dddf59a27f215b541a4d6757dffc4
 d2-strategia-dello-sviluppo-schemi-descrittivi-modello-uml
 d208_p_pup
+d304679e5daa168b80a98e0f34c988938b0df4a42e8c2e1a0076107d4710666b
 d343300206b6d3ca407a3d41582c17d24a2041bca7d2fa6c70b464ac08a60da6
 d4-strategia-dello-sviluppo-utoe-modello-uml
 d4-strategia-dello-sviluppo-utoe-modello-uml-1
 d55ce021629e2561f9bb6a6d7bdb1d7720226da4b903caec943057db55cdff04
 d621a27ee1c7e45e51568287b7275a4cd6d7e2efab34878cef07401971df5e86
+d7376fb4a287ba4a854e4ae133d43c4f96eafb68c5148d14cf2361a0ec6dbb9d
 d8ce0eb73f9d7b2f295de3348f23a0b2603fb1652a5e94c5e6e230bb86c5c75d
 d8f44d43d0bcca8fd915c62061db19edcf067513f9c6286de104b55addf9baf6
 d96221acf3217ee52c5fd1d52e89333a93f93aad01a355d713bc8a567b0ac262
@@ -21721,6 +21738,7 @@ edifici-strategici-dei-48-ct-della-regione-calabria
 edifici-vincolati-l59-80
 edifici1
 edifici2
+edifici3
 edifici4
 edifici5
 edifici5-1
@@ -21962,7 +21980,6 @@ elenco-anagrafico-decessi-giornalieri-comune-di-valli-del-pasubio
 elenco-annuale-delle-opere-pubbliche-2015
 elenco-annuale-oo-pp-2016
 elenco-annuale-oo-pp-2019
-elenco-aree-amministrative-comune-di-campagna-agg-2025
 elenco-aree-verdi-disponibili-comune-di-copertino
 elenco-aree-verdi-ed-incolte-comune-di-san-giovanni-lupatoto
 elenco-artisti-cimitero-monumentale_1
@@ -22044,7 +22061,6 @@ elenco-associazioni-poggio-renatico
 elenco-associazioni-taipana
 elenco-asst-e-irccs-nel-territorio-di-ats-della-montagna
 elenco-asst-irccs
-elenco-atti-amministrativi-del-comune-di-campagna-con-cig
 elenco-atti-decisionali-del-comune-di-crispiano-anno-2023
 elenco-atti-del-dipartimento-transizione-digitale-ed-attivita-strategiche-con-specifica-del-set
 elenco-attivita-commerciali
@@ -22480,7 +22496,6 @@ elenco-dei-comuni-del-piemonte-classificati-in-aziende-turistiche-locali-atl-e-p
 elenco-dei-comuni-turistici-della-provincia-di-alessandria
 elenco-dei-comuni-veneti-in-possesso-di-area-ztl-con-accesso-controllato-da-varchi-elettronici
 elenco-dei-consorzi-turistici
-elenco-dei-contratti-per-la-concessione-lampade-votive-periodo-2019-2025
 elenco-dei-contratti-repertoriati-distinti-per-dipartimento
 elenco-dei-degustatori-di-vini-do-doc-e-docg-dellumbria
 elenco-dei-dipendenti-con-recapiti-telefonici-e-di-posta-elettronica
@@ -22848,6 +22863,7 @@ elenco-deliberazioni-di-giunta-comunale-anno-2024-2025-comune-di-montemesola
 elenco-delibere-anno-2023-secondo-semestre
 elenco-delibere-di-consiglio-anno-2023
 elenco-delibere-di-consiglio-anno-2024
+elenco-delibere-di-consiglio-anno-2025
 elenco-delibere-giunta-comunale
 elenco-delle-agenzie-di-viaggio-della-provincia-di-alessandria
 elenco-delle-amministrazioni-pubbliche-in-umbria
@@ -23473,7 +23489,6 @@ elenco-pratiche-scia-cil-cila-cel-dia
 elenco-pratiche-sportello-edilizia-produttiva-sep
 elenco-pratiche-sue
 elenco-pratiche-sue-presentate
-elenco-pratiche-trattate-dalla-polizia-municipale
 elenco-prezzi-opere-civili-non-edili-2009
 elenco-prezzi-opere-civili-non-edili-2010
 elenco-prezzi-opere-civili-non-edili-2011
@@ -23515,7 +23530,6 @@ elenco-progetti-programma-por-fse-asse-2
 elenco-progetti-programma-por-fse-asse-3
 elenco-progetti-programma-por-fse-asse-4
 elenco-progetti-programma-por-fse-asse-5
-elenco-protocolli-provvisti-di-allegati-dal-2011-al-2025
 elenco-provvedimenti-dei-dirigenti-amministrativi-anno-2024
 elenco-provvedimenti-rappresentante-legale
 elenco-pubblici-esercizi
@@ -23685,7 +23699,6 @@ elenco-ubicazione-tagli-boschivi
 elenco-ufficiale-aree-protette-euap
 elenco-unita-operative-di-cure-palliative-domiciliari-uocpdom-ucpdom
 elenco-utenti-che-si-sono-accreditati-presso-gli-sportelli-portafuturo
-elenco-utenze-idriche-2020-2025
 elenco-vaccini-prodotti
 elenco-valori-medi-settimanali-della-stazione-agrometeorologica-arsac-del-centro-sperimentale-d
 elenco-valori-medi-settimanali-della-stazione-agrometeorologica-arsac-del-centro-sperimentale-d1
@@ -26154,6 +26167,7 @@ fabbricati-residenziali-e-non-residenziali1
 fabbricati-sistema-ecografico-catastale-regione-umbria-2005-2010
 fabbricati-sistema-ecografico-catastale-regione-umbria-2005-20101
 fablab-milano-laboratori-di-fabbricazione-digitale
+facf15bde81fdf6223315d319300ec0dcfd03e68bc4c1163a377c6bc85aeb854
 facilitazione-formazione-per-fasce-di-eta
 facilitazione-formazione-per-fasce-di-eta-donne
 facilitazione-formazione-per-fasce-di-eta-uomini
@@ -40820,6 +40834,7 @@ numeri-civici-comune-di-zovencedo
 numeri-civici-comune-di-zugliano
 numeri-civici-con-coordinate-geografiche
 numeri-civici-cormons
+numeri-civici-dei-comuni-dellunione-del-pratomagno
 numeri-civici-del-comune-di-ferrara
 numeri-civici-del-comune-di-padova-2022
 numeri-civici-del-comune-di-siena
@@ -52258,6 +52273,7 @@ registro-degli-accessi-det-n-1309-del-28-12-2016-anac-al-31-12-2022
 registro-degli-accessi-det-n-1309-del-28-12-2016-anac-al-31-12-2023
 registro-dei-centri-di-formazione
 registro-dei-contributi-provincia-di-alessandria-anno-2024
+registro-dei-contributi-provincia-di-alessandria-anno-2025
 registro-dei-microbirrifici
 registro-delle-imprese-autorizzate-a-svolgere-lattivita-funebre
 registro-delle-persone-giuridiche
@@ -60201,6 +60217,8 @@ statistica-mineraria
 statistica-parco-veicoli-circolanti-nella-regione-lazio
 statistica-popolazione-residente-al-31-12-2023-suddivisa-per-fasce-di-eta
 statistica-popolazione-residente-al-31-12-2024-suddivisa-per-fasce-di-eta
+statistica-popolazione-residente-straniera-suddivisa-per-nazionalita-2025
+statistica-popolazione-residente-suddivisa-per-eta-al-31-12-2025
 statistica-popolazione-residente-suddivisa-per-eta-ottobre-2025
 statistica-popolazione-residente-suddivisa-per-vie-ottobre-2025
 statistica-residenti-per-stato-civile
