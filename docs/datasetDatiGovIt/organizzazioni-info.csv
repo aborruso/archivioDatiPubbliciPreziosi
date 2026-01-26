@@ -16,7 +16,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:35:08.510738,Agenzia Regionale per la Protezione dell'Ambiente della Campania,c09c0336-67e9-49ef-893c-64a455fde75e,arlpa_,agenzia-regionale-per-la-protezione-dell-ambiente-della-campania,38,https://dati.gov.it/view-dataset?organization=agenzia-regionale-per-la-protezione-dell-ambiente-della-campania
 2025-04-11T15:13:54.286754,Agenzia Regionale per la Protezione dell'Ambiente della Sardegna,6ea4dd4a-6874-435a-a545-7b60761f9e5f,arpas_ca,agenzia-regionale-per-la-protezione-dell-ambiente-della-sardegna,11,https://dati.gov.it/view-dataset?organization=agenzia-regionale-per-la-protezione-dell-ambiente-della-sardegna
 2024-12-05T14:26:20.386165,Agenzia veneta per i pagamenti - AVEPA,e5b9a715-0198-4770-a3ec-fba4c674e67f,AVEPA,agenzia-veneta-per-i-pagamenti-avepa,7,https://dati.gov.it/view-dataset?organization=agenzia-veneta-per-i-pagamenti-avepa
-2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,cvtiap,anac,67,https://dati.gov.it/view-dataset?organization=anac
+2024-03-08T17:56:48.105840,ANAC - Autorità Nazionale Anticorruzione,f3baf2b6-0106-4912-8ded-df2da4a10744,cvtiap,anac,68,https://dati.gov.it/view-dataset?organization=anac
 2024-12-04T19:25:34.119326,ARSAC - Azienda Regionale per lo Sviluppo dell’Agricoltura Calabrese,bc2358db-2de4-47e7-97d5-6e838bda23c9,arsac,arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese,7,https://dati.gov.it/view-dataset?organization=arsac-azienda-regionale-per-lo-sviluppo-dell-agricoltura-calabrese
 2024-11-19T16:04:12.589435,ASBR - Azienda Speciale Servizi Bassa Reggiana,0fbdec27-b8fc-4696-8ec9-53a24adfb36e,assbre,asbr-azienda-speciale-servizi-bassa-reggiana,3,https://dati.gov.it/view-dataset?organization=asbr-azienda-speciale-servizi-bassa-reggiana
 2025-03-07T16:12:11.629737,ASP ambito 9,49f1740e-4b40-4bd1-8f47-34d270507718,_aspan,asp-ambito-9,8,https://dati.gov.it/view-dataset?organization=asp-ambito-9
@@ -194,7 +194,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-05T11:31:58.481853,Comune di Osio Sotto,676f6ea8-fa44-40ae-a00e-a9d39e8fc536,c_g160,comune-di-osio-sotto,38,https://dati.gov.it/view-dataset?organization=comune-di-osio-sotto
 2025-04-07T10:36:44.512738,Comune di Pagani,a1033ff4-b70e-4d7e-aa1e-5926c222801a,c_g230,comune-di-pagani,10,https://dati.gov.it/view-dataset?organization=comune-di-pagani
 2025-06-19T13:14:48.899635,Comune di Palagano,96b3bbb3-e7c9-46a1-b980-a16ef8591e07,c_g250,comune-di-palagano,47,https://dati.gov.it/view-dataset?organization=comune-di-palagano
-2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1656,https://dati.gov.it/view-dataset?organization=comune-di-palermo
+2024-03-08T18:30:08.793193,Comune di Palermo,a28cb2eb-0bcc-4cb9-9d3e-6cebe2b4511c,c_g273,comune-di-palermo,1657,https://dati.gov.it/view-dataset?organization=comune-di-palermo
 2024-11-27T16:03:29.423953,Comune di Pescara,dfac1171-0922-4c4a-9a8f-a852860708d3,c_g482,comune-di-pescara,55,https://dati.gov.it/view-dataset?organization=comune-di-pescara
 2025-04-07T12:40:11.712842,Comune di Peschiera Borromeo,8c2e5c39-75ef-4c2e-8543-3a51137d8dd5,c_g488,comune-di-peschiera-borromeo,10,https://dati.gov.it/view-dataset?organization=comune-di-peschiera-borromeo
 2025-05-27T10:40:05.991849,Comune di Petilia Policastro,0d16adc8-4a2c-4a5c-b04f-8d544911dce0,c_g508,comune-di-petilia-policastro,10,https://dati.gov.it/view-dataset?organization=comune-di-petilia-policastro
@@ -249,7 +249,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-19T10:48:52.337631,Comune di Tarquinia,d56cf387-2ee3-4b03-a193-291be330486f,c_d024,comune-di-tarquinia,6,https://dati.gov.it/view-dataset?organization=comune-di-tarquinia
 2025-02-07T15:08:09.871704,Comune di Termoli,9c4f6260-2af7-4c64-b145-36b178760710,c_l113,comune-di-termoli,5,https://dati.gov.it/view-dataset?organization=comune-di-termoli
 2025-05-28T08:34:08.763606,Comune di Terralba,250720a6-46e3-4f10-abe7-ec9902a49dd7,c_l122,comune-di-terralba,3,https://dati.gov.it/view-dataset?organization=comune-di-terralba
-2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2059,https://dati.gov.it/view-dataset?organization=comune-di-torino
+2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2060,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
 2025-02-13T16:26:10.993736,Comune di Tortona,70318d13-2c24-46ea-8944-12d58fa13ae3,c_l304,comune-di-tortona,3,https://dati.gov.it/view-dataset?organization=comune-di-tortona
 2025-02-18T16:39:02.958167,Comune di Tortoreto,8d8c41d3-a539-4f08-b489-a7fed178846a,c_l307,comune-di-tortoreto,5,https://dati.gov.it/view-dataset?organization=comune-di-tortoreto
@@ -285,7 +285,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-11T10:17:34.271846,Fondazione IRCCS Istituto Neurologico Carlo Besta,c432eac3-aef6-47aa-b088-216e3f4e4aff,fincbmi,fondazione-irccs-istituto-neurologico-carlo-besta,0,https://dati.gov.it/view-dataset?organization=fondazione-irccs-istituto-neurologico-carlo-besta
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
 2025-09-29T15:10:55.790559,GAL Terra dei Messapi,5b9e346e-78a3-4923-b85b-c73a74cd7768,01796490744,gal-terra-dei-messapi,10,https://dati.gov.it/view-dataset?organization=gal-terra-dei-messapi
-2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8146,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
+2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,8648,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
 2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,343,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,102,https://dati.gov.it/view-dataset?organization=inail
@@ -337,16 +337,16 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,214,https://dati.gov.it/view-dataset?organization=regione-basilicata
 2024-03-08T21:32:58.809241,Regione Calabria,8c4b1fbd-cff7-4ec1-a4a0-8bfe778e1f89,regcal,regione-calabria,324,https://dati.gov.it/view-dataset?organization=regione-calabria
 2024-03-08T21:34:15.895928,Regione Campania,1419afad-d904-4313-957b-2c933ed3fd3b,r_campan,regione-campania,343,https://dati.gov.it/view-dataset?organization=regione-campania
-2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,2066,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
+2024-03-08T21:35:32.089864,Regione Emilia Romagna,c25963f5-2065-4819-9072-35a021ed3d11,r_emiro,regione-emilia-romagna,2074,https://dati.gov.it/view-dataset?organization=regione-emilia-romagna
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,793,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,402,https://dati.gov.it/view-dataset?organization=regione-lazio
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,19,https://dati.gov.it/view-dataset?organization=regione-liguria
-2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3360,https://dati.gov.it/view-dataset?organization=regione-lombardia
+2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3361,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5440,https://dati.gov.it/view-dataset?organization=regione-marche
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,826,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1765,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,186,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,10426,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12583,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,453,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6553,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,364,https://dati.gov.it/view-dataset?organization=roma-capitale
