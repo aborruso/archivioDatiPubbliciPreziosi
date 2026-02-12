@@ -54,6 +54,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:18:11.519257,Città Metropolitana di Napoli,0c4fd6bf-a5dd-4e01-a2e1-424cd1019859,cmna,citta-metropolitana-di-napoli,93,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-napoli
 2024-10-21T13:42:00.409707,CNIT - Consorzio Nazionale Interuniversitario per le Telecomunicazioni,f0fff560-469a-42b7-b17d-21853d107bce,cnit,cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni,10,https://dati.gov.it/view-dataset?organization=cnit-consorzio-nazionale-interuniversitario-per-le-telecomunicazioni
 2025-02-10T15:06:58.100679,Commissione di Vigilanza Sui Fondi Pensione,92117c30-1626-4ee3-bb96-61460cc5b9b5,cvfp,commissione-di-vigilanza-sui-fondi-pensione,18,https://dati.gov.it/view-dataset?organization=commissione-di-vigilanza-sui-fondi-pensione
+2026-02-11T13:52:16.967336,Comune Arzachena,d381b465-d6d5-47ee-b07e-99e121265655,c_a453,comune-arzachena,11,https://dati.gov.it/view-dataset?organization=comune-arzachena
 2025-04-14T12:01:59.480180,Comune di Alba Adriatica,37e8c82e-371f-4db7-a426-d81e80b4b30e,c_a125,comune-di-alba-adriatica,4,https://dati.gov.it/view-dataset?organization=comune-di-alba-adriatica
 2025-11-05T11:34:02.397568,Comune di Albenga,ae829261-e7c6-4192-a437-90742cbaf1bb,c_a145,comune-di-albenga,33,https://dati.gov.it/view-dataset?organization=comune-di-albenga
 2025-11-20T16:24:56.538846,Comune di Albino,d00a1361-e3a8-439d-93cd-59b299441763,c_a163,comune-di-albino,5,https://dati.gov.it/view-dataset?organization=comune-di-albino
@@ -355,7 +356,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,835,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1767,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,186,https://dati.gov.it/view-dataset?organization=regione-siciliana
-2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12606,https://dati.gov.it/view-dataset?organization=regione-toscana
+2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12608,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,452,https://dati.gov.it/view-dataset?organization=regione-umbria
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6555,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,364,https://dati.gov.it/view-dataset?organization=roma-capitale
