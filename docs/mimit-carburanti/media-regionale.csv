@@ -5,16 +5,16 @@ Abruzzo,GPL,SERVITO,0.696
 Abruzzo,Metano,SERVITO,1.403
 Basilicata,Gasolio,SELF,1.721
 Basilicata,Benzina,SELF,1.690
-Basilicata,GPL,SERVITO,0.679
+Basilicata,GPL,SERVITO,0.678
 Basilicata,Metano,SERVITO,1.465
 Bolzano,Gasolio,SELF,1.772
-Bolzano,Benzina,SELF,1.706
+Bolzano,Benzina,SELF,1.705
 Bolzano,GPL,SERVITO,0.774
 Bolzano,Metano,SERVITO,1.596
 Calabria,Gasolio,SELF,1.713
 Calabria,Benzina,SELF,1.681
 Calabria,GPL,SERVITO,0.729
-Calabria,Metano,SERVITO,1.507
+Calabria,Metano,SERVITO,1.505
 Campania,Gasolio,SELF,1.678
 Campania,Benzina,SELF,1.649
 Campania,GPL,SERVITO,0.639
@@ -28,10 +28,10 @@ Friuli Venezia Giulia,Benzina,SELF,1.656
 Friuli Venezia Giulia,GPL,SERVITO,0.675
 Friuli Venezia Giulia,Metano,SERVITO,1.386
 Lazio,Gasolio,SELF,1.687
-Lazio,Benzina,SELF,1.633
+Lazio,Benzina,SELF,1.634
 Lazio,GPL,SERVITO,0.663
 Lazio,Metano,SERVITO,1.474
-Liguria,Gasolio,SELF,1.725
+Liguria,Gasolio,SELF,1.726
 Liguria,Benzina,SELF,1.669
 Liguria,GPL,SERVITO,0.772
 Liguria,Metano,SERVITO,1.454
@@ -50,17 +50,17 @@ Molise,Metano,SERVITO,1.410
 Piemonte,Gasolio,SELF,1.698
 Piemonte,Benzina,SELF,1.639
 Piemonte,GPL,SERVITO,0.667
-Piemonte,Metano,SERVITO,1.427
+Piemonte,Metano,SERVITO,1.426
 Puglia,Gasolio,SELF,1.692
 Puglia,Benzina,SELF,1.665
 Puglia,GPL,SERVITO,0.654
 Puglia,Metano,SERVITO,1.468
 Sardegna,Gasolio,SELF,1.719
 Sardegna,Benzina,SELF,1.662
-Sardegna,GPL,SERVITO,0.796
+Sardegna,GPL,SERVITO,0.797
 Sicilia,Gasolio,SELF,1.696
-Sicilia,Benzina,SELF,1.672
-Sicilia,GPL,SERVITO,0.759
+Sicilia,Benzina,SELF,1.671
+Sicilia,GPL,SERVITO,0.758
 Sicilia,Metano,SERVITO,1.734
 Toscana,Gasolio,SELF,1.697
 Toscana,Benzina,SELF,1.642
@@ -70,11 +70,11 @@ Trento,Gasolio,SELF,1.739
 Trento,Benzina,SELF,1.682
 Trento,GPL,SERVITO,0.727
 Trento,Metano,SERVITO,1.403
-Umbria,Gasolio,SELF,1.700
+Umbria,Gasolio,SELF,1.699
 Umbria,Benzina,SELF,1.645
 Umbria,GPL,SERVITO,0.690
 Umbria,Metano,SERVITO,1.327
-Valle d'Aosta,Gasolio,SELF,1.753
+Valle d'Aosta,Gasolio,SELF,1.752
 Valle d'Aosta,Benzina,SELF,1.689
 Valle d'Aosta,GPL,SERVITO,0.816
 Veneto,Gasolio,SELF,1.688
