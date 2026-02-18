@@ -38,4 +38,7 @@ if [ $code -eq 200 ]; then
 
   # estrai soltanto nomi organizzazioni
   <"$folder"/../../docs/"$nome"/organizzazioni.jsonl mlr --j2c cut -f name then sort -f name >"$folder"/../../docs/"$nome"/organizzazioni-name.csv
+
+  # costruisci storico ingressi/uscite dal log Git del file versionato
+  bash "$folder"/organizzazioniMembershipHistory.sh
 fi
