@@ -28,7 +28,8 @@ if [[ ! -s "$commits_file" ]]; then
   exit 1
 fi
 
-while IFS='|' read -r commit_hash commit_date; do
+while IFS='|' read -r commit_hash commit_date || [[ -n "${commit_hash:-}" ]]; do
+  [[ -z "${commit_hash:-}" ]] && continue
   git -C "$repo_root" show "${commit_hash}:${source_file}" \
     | jq -r '[.name, (.identifier // ""), (.site // ""), (.created // ""), (.region // "")] | @tsv' \
     | sort -u >"$curr_file"
