@@ -872,6 +872,7 @@ accessi-interni2-4
 accessi-interni2-5
 accessi-interni2-6
 accessi-interni2-8
+accessi-interni2-9
 accessi-interno
 accessi-interno1
 accessi-interno1-1
@@ -1558,6 +1559,7 @@ albo-regionale-delle-concessioni-demaniali-marittime-per-finalita-turistico-ricr
 albo-regionale-delle-cooperative-di-comunita-al-31-12-2023
 albo-regionale-delle-cooperative-di-comunita-al-31-12-2025
 albo-regionale-delle-cooperative-sociali
+albo-regionale-delle-cooperative-sociali-al-31-01-2026
 albo-regionale-delle-cooperative-sociali-al-31-12-2023
 albo-regionale-delle-cooperative-sociali1
 albo-regionale-delle-proloco
@@ -3239,6 +3241,7 @@ andamento-competenza-entrata-per-titoli-reana-del-rojale
 andamento-competenza-entrata-per-titoli-remanzacco
 andamento-competenza-entrata-per-titoli-san-leonardo
 andamento-competenza-entrata-per-titoli-sedilo
+andamento-competenza-entrata-per-titoli-spino-dadda
 andamento-competenza-entrata-per-titoli-taipana
 andamento-competenza-entrata-per-titoli-turri
 andamento-competenza-entrata-per-titoli-zanica
@@ -3436,6 +3439,7 @@ andamento-competenza-uscita-per-titoli-reana-del-rojale
 andamento-competenza-uscita-per-titoli-remanzacco
 andamento-competenza-uscita-per-titoli-san-leonardo
 andamento-competenza-uscita-per-titoli-sedilo
+andamento-competenza-uscita-per-titoli-spino-dadda
 andamento-competenza-uscita-per-titoli-taipana
 andamento-competenza-uscita-per-titoli-turri
 andamento-competenza-uscita-per-titoli-zanica
@@ -3671,6 +3675,7 @@ andamento-demografico-remanzacco
 andamento-demografico-romano-di-lombardia
 andamento-demografico-san-mauro-castelverde
 andamento-demografico-sedilo
+andamento-demografico-spino-dadda
 andamento-demografico-turri
 andamento-demografico-uta
 andamento-entrate-e-uscite-di-competenza-negli-anni-amaro
@@ -3876,6 +3881,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-romano-di-lombardia
 andamento-entrate-e-uscite-di-competenza-negli-anni-san-teodoro
 andamento-entrate-e-uscite-di-competenza-negli-anni-sedilo
 andamento-entrate-e-uscite-di-competenza-negli-anni-sesto-al-reghena
+andamento-entrate-e-uscite-di-competenza-negli-anni-spino-dadda
 andamento-entrate-e-uscite-di-competenza-negli-anni-taipana
 andamento-entrate-e-uscite-di-competenza-negli-anni-tolmezzo
 andamento-entrate-e-uscite-di-competenza-negli-anni-verzegnis
@@ -6257,6 +6263,7 @@ atti-amministrativi-san-leonardo
 atti-amministrativi-san-mauro-castelverde
 atti-amministrativi-sedilo
 atti-amministrativi-sesto-al-reghena
+atti-amministrativi-spino-dadda
 atti-amministrativi-taipana
 atti-amministrativi-tolmezzo
 atti-amministrativi-tresignana
@@ -10221,6 +10228,7 @@ censimento-dei-pubblici-esercizi-stagionali-bar-ristoranti
 censimento-dei-servizi-e-delle-procedure-digitalizzate-da-regione-puglia
 censimento-dei-siti-inquinati
 censimento-dei-siti-inquinati-2024
+censimento-dei-siti-inquinati-2025
 censimento-dei-siti-inquinati-cividale-del-friuli
 censimento-dei-tabaccai
 censimento-del-moscardino-muscardinus-avellanarius
@@ -10961,11 +10969,12 @@ cittadini-iscritti-alle-commissioni-della-circoscrizione-2-per-commissione-maggi
 cittadini-iscritti-alle-commissioni-della-circoscrizione-2-per-quartiere-maggio-2019
 cittadini-residenti-iscritti-nei-registri-anagrafici-dal-2006-al-2017
 cittadini-stranieri-bilancio-demografico-e-popolazione-residente-al-31-dicembre-anni-2009-2012
-cittadini-stranieri-cancellati-dallanagrafe-in-quanto-irreperibili-per-cittadinanza1
-cittadini-stranieri-emigrati-verso-altre-province-italiane-per-cittadinanza1
-cittadini-stranieri-emigrati-verso-comuni-della-provincia-di-forli-cesena-per-cittadinanza1
-cittadini-stranieri-emigrati-verso-i-paesi-dorigine-per-cittadinanza1
-cittadini-stranieri-emigrati-verso-paesi-esteri-diversi-dal-paese-dorigine-per-cittadinanza1
+cittadini-stranieri-immigrati-per-cittadinanza
+cittadini-stranieri-immigrati-provenienti-da-altre-province-italiane-per-cittadinanza
+cittadini-stranieri-immigrati-provenienti-da-comuni-della-provincia-di-forli-cesena-per-cittadi
+cittadini-stranieri-immigrati-provenienti-da-paesi-esteri-diversi-dal-paese-dorigine-per-cittad
+cittadini-stranieri-immigrati-provenienti-dai-paesi-dorigine-per-cittadinanza
+cittadini-stranieri-irreperibili-iscritti-in-anagrafe-per-cittadinanza
 cittadini-stranieri-nel-comune-di-treviso-divisi-per-quartiere-anno-2018
 cittadini-stranieri-residenti-al-31-12-2012
 cittadini-stranieri-residenti-per-nazionalita-2016
@@ -11612,6 +11621,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-remanzacco
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-romano-di-lombardia
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-san-mauro-castelverde
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-sedilo
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-spino-dadda
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-turri
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-uta
 composizione-giunta-delle-elezioni-xi-legislatura
@@ -19455,6 +19465,7 @@ database-geotopografico-2008-aggiornamento
 database-geotopografico-2010-aggiornamento
 database-geotopografico-2022-aggiornamento
 database-geotopografico-2022-aggiornamento-1
+database-geotopografico-2022-aggiornamento1-2
 database-geotopografico-aggiornamento
 database-geotopografico-aggiornamento-1
 database-geotopografico-aggiornamento-2
@@ -21593,6 +21604,7 @@ dettaglio-entrate-per-capitolo-di-spesa-reana-del-rojale
 dettaglio-entrate-per-capitolo-di-spesa-remanzacco
 dettaglio-entrate-per-capitolo-di-spesa-romano-di-lombardia
 dettaglio-entrate-per-capitolo-di-spesa-sedilo
+dettaglio-entrate-per-capitolo-di-spesa-spino-dadda
 dettaglio-entrate-per-capitolo-di-spesa-taipana
 dettaglio-entrate-per-capitolo-di-spesa-turri
 dettaglio-entrate-per-capitolo-di-spesa-zanica
@@ -21792,6 +21804,7 @@ dettaglio-uscite-per-capitolo-di-spesa-remanzacco
 dettaglio-uscite-per-capitolo-di-spesa-romano-di-lombardia
 dettaglio-uscite-per-capitolo-di-spesa-san-leonardo
 dettaglio-uscite-per-capitolo-di-spesa-sedilo
+dettaglio-uscite-per-capitolo-di-spesa-spino-dadda
 dettaglio-uscite-per-capitolo-di-spesa-taipana
 dettaglio-uscite-per-capitolo-di-spesa-turri
 dettaglio-uscite-per-capitolo-di-spesa-zanica
@@ -23394,6 +23407,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-reana-del-rojale
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-remanzacco
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-san-mauro-castelverde
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-sedilo
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-spino-dadda
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-turri
 elenco-collegi-regionali-maestri-di-sci-e-delle-guide-alpine-anno-2019-2020
 elenco-collegi-regionali-maestri-di-sci-e-delle-guide-alpine-anno-2020-2021
@@ -23630,6 +23644,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-orani
 elenco-dei-fascicoli-suddivisi-per-anno-poggio-renatico
 elenco-dei-fascicoli-suddivisi-per-anno-povoletto
 elenco-dei-fascicoli-suddivisi-per-anno-sedilo
+elenco-dei-fascicoli-suddivisi-per-anno-spino-dadda
 elenco-dei-fascicoli-suddivisi-per-anno-taipana
 elenco-dei-fascicoli-suddivisi-per-anno-turri
 elenco-dei-fascicoli-suddivisi-per-anno-zanica
@@ -23862,6 +23877,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-san-leonardo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-san-mauro-castelverde
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-san-teodoro
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-sedilo
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-spino-dadda
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-taipana
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-tolmezzo
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-turri
@@ -24176,6 +24192,7 @@ elenco-delle-pubblicazioni-romano-di-lombardia
 elenco-delle-pubblicazioni-san-leonardo
 elenco-delle-pubblicazioni-san-mauro-castelverde
 elenco-delle-pubblicazioni-sedilo
+elenco-delle-pubblicazioni-spino-dadda
 elenco-delle-pubblicazioni-taipana
 elenco-delle-pubblicazioni-tolmezzo
 elenco-delle-pubblicazioni-tresignana
@@ -28548,6 +28565,7 @@ gettiti-da-recupero-di-evasione-fiscale-anno-2021
 gettiti-da-recupero-di-evasione-fiscale-anno-2022
 gettiti-da-recupero-di-evasione-fiscale-anno-2023
 gettiti-da-recupero-di-evasione-fiscale-anno-2024
+gettiti-da-recupero-di-evasione-fiscale-anno-2025
 gettoni-2016
 gettoni-di-presenza-2011
 gettoni-di-presenza-2012
@@ -42122,6 +42140,7 @@ norme-tecniche-di-attuazione-del-piano-strutturale
 norme-tecniche-di-attuazione-del-regolamento-urbanistico
 norme-tecniche-di-attuazione1-10
 norme-tecniche-di-attuazione1-11
+norme-tecniche-di-attuazione1-19
 nota-prot-n-g1-2020-0038154
 nota_trimestrale___tabella_01___rapporti_di_lavoro_attivati_per_ripartizione_geografica_e_gener
 nota_trimestrale___tabella_02___rapporti_di_lavoro_attivati_per_per_genere_dei_lavoratori_inter
@@ -42550,6 +42569,7 @@ numeri-civici-sitc1-5
 numeri-civici-sitc1-6
 numeri-civici-sitc1-7
 numeri-civici-sitc1-8
+numeri-civici-spino-dadda
 numeri-civici-turri
 numeri-civici1
 numeri-civici2
@@ -43764,6 +43784,7 @@ occupati-in-imprese-culturali-e-creative
 occupati-in-imprese-culturali-e-creative-femmine
 occupati-in-imprese-culturali-e-creative-maschi
 occupati-in-possesso-di-laurea-breve-laurea-o-dottorato
+occupati-in-puglia
 occupati-nei-grandi-comuni-italiani
 occupati-nel-settore-pubblico
 occupati-nelle-imprese-attive-in-toscana-dati-asia-2015
@@ -44860,6 +44881,7 @@ organigramma
 organismi-associativi-partecipati-dalluniversita-degli-studi-di-bari
 organismi-di-ats-brescia
 organismi-di-certificazione-saldatura
+organismi-formativi-accreditati-regione-puglia
 organismi-nocivi-aleurodide-nero-aleurocanthus-spiniferus-d-d-n-417-2024
 organismi-nocivi-aree-delimitate-per-coleottero-scarabeide-del-giappone-popillia-japonica-europ
 organismi-nocivi-cancro-colorato-del-platano-ceratocystis-platani-d-d-n-4565-2025
@@ -54025,6 +54047,7 @@ regione-toscana-movimento-e-calcolo-della-popolazione-residente-in-toscana-2013
 regione-toscana-movimento-turistico-per-comune-e-provenienza-2013
 regione-toscana-musei
 regione-toscana-note-appropriatezza-e-erogabilita
+regione-toscana-numero-di-accessi-a-dottorati-di-ricerca-per-ateneo-per-anno-per-area-cun
 regione-toscana-oasi-di-protezione-2018-art-15l-r-3-94
 regione-toscana-opifici-manifatturieri-nella-toscana-del-xix-secolo
 regione-toscana-orari-trasporto-pubblico
@@ -54039,6 +54062,7 @@ regione-toscana-ortofoto-volo-rossi-brescia
 regione-toscana-paas
 regione-toscana-patrimonio-immobiliare-georeferenziato
 regione-toscana-pcca
+regione-toscana-percentuale-di-laureati-under-30-richiesti-dalle-imprese-toscane
 regione-toscana-piano-dazione-degli-assi-stradali-principali-2024-df7_10
 regione-toscana-piano-regionale-cave-aree-reperimento-materiali-storici-mos
 regione-toscana-piano-regionale-cave-giacimenti
@@ -54073,6 +54097,8 @@ regione-toscana-programmazione-rilievi-iperspettrali
 regione-toscana-programmazione-rilievi-multispettrali
 regione-toscana-psr-feasr-2014-2022-gruppi-di-azione-locale-gal
 regione-toscana-psr-feasr-2014-2022-zone-eligibili-al-metodo-leader
+regione-toscana-pubblicazioni-delle-universita-toscane-citate-da-brevetti-per-area-erc-della-pu
+regione-toscana-pubblicazioni-toscane-per-area-european-research-council
 regione-toscana-quadri-di-unione-rilievi-iperspettrali
 regione-toscana-quadro-di-unione-dsm-2021
 regione-toscana-quadro-di-unione-lidar-non-di-proprieta-rt
@@ -54264,6 +54290,7 @@ regione-toscana-strutture-coinvolte-progetto-ena-emergenza-nord-africa
 regione-toscana-strutture-di-sostegno-antiusura
 regione-toscana-strutture-di-sostegno-per-le-vittime-di-violenza-di-genere
 regione-toscana-strutture-sanitarie
+regione-toscana-tasso-di-attrattivita-netto-degli-atenei-toscani
 regione-toscana-termometri
 regione-toscana-terrazzamenti
 regione-toscana-territori-classificati-montani-ai-fini-regionali
@@ -54508,6 +54535,7 @@ rendiconto-di-gestione-rendiconto-entrate
 rendiconto-di-gestione-rendiconto-uscite
 rendiconto-entrate-agenzia-lavoro-sviluppoimpresa-2020-2023
 rendiconto-entrate-agenzia-regionale-per-il-diritto-allo-studio-ardis-2018-2023
+rendiconto-entrate-agenzia-regionale-per-il-diritto-allo-studio-ardis-2024
 rendiconto-entrate-bim-consorzio-dei-comuni-del-bacino-imbrifero-montano-del-tagliamento-nelle-
 rendiconto-entrate-comune-di-aiello-del-friuli
 rendiconto-entrate-comune-di-andreis-2024
@@ -54539,6 +54567,7 @@ rendiconto-entrate-comune-di-clauzetto-2018-2023
 rendiconto-entrate-comune-di-codroipo
 rendiconto-entrate-comune-di-comeglians
 rendiconto-entrate-comune-di-cormons-2018-2023
+rendiconto-entrate-comune-di-cormons-2024
 rendiconto-entrate-comune-di-corno-di-rosazzo
 rendiconto-entrate-comune-di-corno-di-rosazzo-2018-2023
 rendiconto-entrate-comune-di-doberdo-del-lago-2018-2023
@@ -54595,6 +54624,7 @@ rendiconto-entrate-comune-di-tramonti-di-sopra-2024
 rendiconto-entrate-comune-di-tramonti-di-sotto-2018-2023
 rendiconto-entrate-comune-di-treppo-grande
 rendiconto-entrate-comune-di-udine-2018-2023
+rendiconto-entrate-comune-di-udine-2024
 rendiconto-entrate-comune-di-varmo
 rendiconto-entrate-comune-di-verzegnis
 rendiconto-entrate-comune-di-villa-santina
@@ -54604,6 +54634,7 @@ rendiconto-entrate-comune-ditramonti-di-sotto-2024
 rendiconto-entrate-comunita-collinare-del-friuli-di-colloredo-di-m-albano
 rendiconto-entrate-comunita-collinare-del-friuli-di-colloredo-di-m-albano-2018-2023
 rendiconto-entrate-comunita-del-collio-2018-2023
+rendiconto-entrate-comunita-del-collio-2024
 rendiconto-entrate-comunita-della-riviera-friulana
 rendiconto-entrate-comunita-di-montagna-canal-del-ferro-e-val-canale-2018-2023
 rendiconto-entrate-comunita-di-montagna-del-gemonese
@@ -54628,6 +54659,7 @@ rendiconto-gruppi-consiliari-dal-2013
 rendiconto-situazione-economico-patrimoniale-divisa-per-anno-e-aggregato-valori-assoluti-e-perc
 rendiconto-spese-agenzia-lavoro-sviluppoimpresa-2020-2023
 rendiconto-spese-agenzia-regionale-per-il-diritto-allo-studio-ardis-2018-2023
+rendiconto-spese-agenzia-regionale-per-il-diritto-allo-studio-ardis-2024
 rendiconto-spese-bim-consorzio-dei-comuni-del-bacino-imbrifero-montano-del-tagliamento-nelle-pr
 rendiconto-spese-comune-di-aiello-del-friuli
 rendiconto-spese-comune-di-andreis-2024
@@ -54659,6 +54691,7 @@ rendiconto-spese-comune-di-clauzetto-2018-2023
 rendiconto-spese-comune-di-codroipo
 rendiconto-spese-comune-di-comeglians
 rendiconto-spese-comune-di-cormons-2018-2023
+rendiconto-spese-comune-di-cormons-2024
 rendiconto-spese-comune-di-corno-di-rosazzo
 rendiconto-spese-comune-di-corno-di-rosazzo-2018-2023
 rendiconto-spese-comune-di-doberdo-del-lago-2018-2023
@@ -54715,6 +54748,7 @@ rendiconto-spese-comune-di-tramonti-di-sotto-2018-2023
 rendiconto-spese-comune-di-tramonti-di-sotto-2024
 rendiconto-spese-comune-di-treppo-grande
 rendiconto-spese-comune-di-udine-2018-2023
+rendiconto-spese-comune-di-udine-2024
 rendiconto-spese-comune-di-varmo
 rendiconto-spese-comune-di-verzegnis
 rendiconto-spese-comune-di-villa-santina
@@ -54724,6 +54758,7 @@ rendiconto-spese-comune-lauco
 rendiconto-spese-comunita-collinare-del-friuli-di-colloredo-di-m-albano
 rendiconto-spese-comunita-collinare-del-friuli-di-colloredo-di-m-albano-2018-2023
 rendiconto-spese-comunita-del-collio-2018-2023
+rendiconto-spese-comunita-del-collio-2024
 rendiconto-spese-comunita-della-riviera-friulana
 rendiconto-spese-comunita-di-montagna-canal-del-ferro-e-val-canale-2018-2023
 rendiconto-spese-comunita-di-montagna-del-gemonese
@@ -55126,6 +55161,7 @@ residui-finali-per-esercizio-rive-darcano
 residui-finali-per-esercizio-romano-di-lombardia
 residui-finali-per-esercizio-san-teodoro
 residui-finali-per-esercizio-sedilo
+residui-finali-per-esercizio-spino-dadda
 residui-finali-per-esercizio-taipana
 residui-finali-per-esercizio-tolmezzo
 residui-finali-per-esercizio-turri
@@ -55703,6 +55739,7 @@ rifiuti-impianti-discariche-attive-di-rifiuti-non-pericolosi-anno-2020
 rifiuti-impianti-discariche-attive-di-rifiuti-non-pericolosi-anno-2021
 rifiuti-impianti-discariche-attive-di-rifiuti-non-pericolosi-anno-2022
 rifiuti-impianti-discariche-attive-di-rifiuti-non-pericolosi-anno-2023
+rifiuti-impianti-discariche-attive-di-rifiuti-non-pericolosi-anno-2024
 rifiuti-impianti-gestione-rifiuti
 rifiuti-impianti-impianti-di-compostaggio-anno-2016
 rifiuti-impianti-impianti-di-compostaggio-anno-2017
@@ -55727,6 +55764,7 @@ rifiuti-impianti-inceneritori-attivi-anno-2019
 rifiuti-impianti-inceneritori-attivi-anno-2022
 rifiuti-impianti-inceneritori-attivi-anno-2023
 rifiuti-impianti-stazioni-ecologiche-anno-2023
+rifiuti-impianti-stazioni-ecologiche-anno-2024
 rifiuti-inceneritori-attivi-anno-2020
 rifiuti-inceneritori-attivi-anno-2021
 rifiuti-inceneritori-catasto
@@ -63653,6 +63691,7 @@ stradario-comunale-sedilo
 stradario-comunale-sesto-al-reghena
 stradario-comunale-sitc
 stradario-comunale-sitc-1
+stradario-comunale-spino-dadda
 stradario-comunale1
 stradario-comunale2
 stradario-comune-di-genova
@@ -68777,6 +68816,7 @@ verona-interscambio-commerciale-per-provincia-valori-in-euro-italia-anno-2023-20
 verona-localizzazioni-attive-e-addetti-alle-localizzazioni-per-comune-anno-2024
 verona-localizzazioni-di-impresa-nel-2023
 versamenti-di-spettanza-regionale-effettuati-tramite-il-modello-di-pagamento-f24-anno-2024
+versamenti-di-spettanza-regionale-effettuati-tramite-il-modello-di-pagamento-f24-anno-2025
 versamenti-di-spettanza-regionale-effettuati-tramite-il-modello-di-pagamento-f24-serie-storica-
 vertice-di-rete-v_rete-000101
 vertici-di-appoggio-triangolazione-aerea-nuovo-sistema-cartografico-regionale
