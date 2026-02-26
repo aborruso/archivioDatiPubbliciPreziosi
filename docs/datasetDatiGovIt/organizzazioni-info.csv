@@ -70,7 +70,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-04T10:09:07.040681,Comune di Assisi,c7b4166e-36ae-4abb-9827-a9f580a02a2b,c_a475,comune-di-assisi,6,https://dati.gov.it/view-dataset?organization=comune-di-assisi
 2025-12-18T13:11:27.283070,Comune di Bagno a Ripoli,7d75d1bf-18c1-4f06-975d-8e0ec62ca8c4,c_a564,comune-di-bagno-a-ripoli,26,https://dati.gov.it/view-dataset?organization=comune-di-bagno-a-ripoli
 2025-11-04T15:13:59.709624,Comune di Baiso,f168d8ec-f6c5-4b44-8d90-fb343ccb0806,c_a586,comune-di-baiso,35,https://dati.gov.it/view-dataset?organization=comune-di-baiso
-2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,7,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
+2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,14,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
 2025-11-20T16:15:21.950445,Comune di Barga,293fb0bd-8583-45df-8b52-d682755d6027,c_a657,comune-di-barga,1,https://dati.gov.it/view-dataset?organization=comune-di-barga
 2024-03-08T18:20:12.070830,Comune di Bari,df53accc-dc73-4f98-bd0e-66c32524eb6f,c_a662,comune-di-bari,150,https://dati.gov.it/view-dataset?organization=comune-di-bari
 2025-05-23T11:18:08.375374,Comune di Baronissi,8259142c-4490-49d3-8cee-6e039f74a7b0,c_a674,comune-di-baronissi,25,https://dati.gov.it/view-dataset?organization=comune-di-baronissi
@@ -98,7 +98,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-04-14T08:16:26.013731,Comune di Campobasso,909b6335-a652-4fb1-a31e-2adc8dd5ed99,c_b519,comune-di-campobasso,0,https://dati.gov.it/view-dataset?organization=comune-di-campobasso
 2026-01-30T13:35:07.900968,Comune di Campomarino,160858a8-41d6-4c3b-b30f-98e785aa3dc4,c_b550,comune-di-campomarino,1,https://dati.gov.it/view-dataset?organization=comune-di-campomarino
 2025-12-22T14:40:41.214158,Comune di Canino,f70946ef-1071-492e-bb55-c41ef2900372,c_b604,comune-di-canino,1,https://dati.gov.it/view-dataset?organization=comune-di-canino
-2025-10-30T11:50:59.469368,Comune di Capoterra,6e44f061-4fdf-4ddb-9040-095629a08a9b,c_b675,comune-di-capoterra,6,https://dati.gov.it/view-dataset?organization=comune-di-capoterra
+2025-10-30T11:50:59.469368,Comune di Capoterra,6e44f061-4fdf-4ddb-9040-095629a08a9b,c_b675,comune-di-capoterra,12,https://dati.gov.it/view-dataset?organization=comune-di-capoterra
 2024-11-14T15:09:34.834499,Comune di Carovigno,c87c64da-568e-42fa-870f-7fae083db0a5,c_b809,comune-di-carovigno,58,https://dati.gov.it/view-dataset?organization=comune-di-carovigno
 2025-02-10T11:14:17.193980,Comune di Carugate,d39bb41e-5dc3-46e2-b9be-ba2ac2a1b72c,c_b850,comune-di-carugate,0,https://dati.gov.it/view-dataset?organization=comune-di-carugate
 2025-11-04T15:18:21.397153,Comune di Casalgrande,c1a6870b-08d7-422e-af9a-5d2b5c0c9db1,c_b893,comune-di-casalgrande,28,https://dati.gov.it/view-dataset?organization=comune-di-casalgrande

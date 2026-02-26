@@ -456,6 +456,7 @@ id
 3ae4565da41fcc2c02ddabd81f731ff26f2740c7b6860c21eef140cb0a87020b
 3b44426f6f54180ebf5f9729036c01b02e1fc7e1dd3a129f3b8b2c4169c600a7
 3c5a1b1509614b9ef7307a063a2db45a22fd1290cdfd4d778a2029bf3134c3db
+3d21b9a6745c27324002026d443d856c4f3cc216948ca441daee10fb7be94a78
 3d54a69b91f013c931683bb3b248e2918e6487a4b043025011aac0aabda93dba
 3d83ace9b9ba25febf683619870a8ea798c6ab6ae6560dada791fe693f06c3c5
 3e27e24fbcb643ed04461a5a9a2f24571a7a8ae7b09bcf27101ad6b9419a54f2
@@ -556,6 +557,7 @@ id
 68dd2d8755404aba533024b5bf7e1198b5539f5c49bfde6d96257b05f746afca
 6936764b2119b0efcede1bf0ff38fcea0fbc13467bf21950b570d3c33abb9f35
 6a121923c4763fd5b3b3c49932c85ca4ec72e87ac55ab99a738710e5c9e3af8a
+6c651e6ccf8f07d34df618cd00f69997363e46be6c43c29bea993b19b189766b
 6c9b390d18ddbb68484ae3733931605326502184b8c2f096cbc65301d9326b4b
 6d22b61451373899e7898ef5cbf0d6eb59ff27946ed94f253aa3f12bba000466
 6d3c2ff7e32e03ac96d2cf6f49e54d4672f221b2000018222e1e63c0e200370d
@@ -572,6 +574,7 @@ id
 73be9880298eddf3666b3895a906edc947b6c69d2959d9cdc560e9b99c9bb16a
 7449b62551160388f7b9865ca70f4cc52008f1411ae9ce5bd912207fa37b9f06
 745edd39c00493f3b44a47fc3dbc177f4cdc89ba207b5c38c3d982df77013895
+74a9935135de1a08c875c033af5aab31b0f8c029026c702ffe6f175874941bb4
 7503d8c6414e5db8954e91488449a82bacd4504e0326e03af745c02f1d80a949
 751ecdb6c94f1a1e15347ef38c51341c0e3eabc0e5c4120cc340a4ea1291bbe3
 76aa791191c1fd0595981c7c8c3cc1f1066369fd72851adca016ae9d9c333716
@@ -598,6 +601,7 @@ id
 7fc90f439ef212a39573b761c30ad197afdc0e42740b09433248eaf21870e451
 7fe1de6cec64efe76ec14cf01a4b8a7f5270a2509066e0281ccde97e2a099463
 80392d53302ebd0349bd3f1227c8912d5353f6ffcfe9a538ac36af5cd97c4799
+80d933bd7ad5c220227ca97e3876f5493aaf12effc8dc02abb9df5a7e1a9177b
 80eb881ac13ed4b7283241e9af2a29fb726cdd38106fd309f8025f089c1896de
 81a8f4848f12f2b13ca74b672ad05154001b3765b13be2c72b16aa7e090e3e8f
 82634d6030a635eabd427b66cc4abc826add003be4c1b607fedcc7220d8d94eb
@@ -8415,7 +8419,7 @@ bilancio-consuntivo-rendiconto-spese-per-tutela-e-valorizzazione-beni-e-attivita
 bilancio-consuntivo-rendiconto-totale-generale-delle-spese1
 bilancio-consuntivo-rendiconto-totale-generale-delle-spese1-1
 bilancio-consuntivo1
-bilancio-consuntivo2
+bilancio-consuntivo3
 bilancio-dati-di-sintesi-previsione-2000
 bilancio-dati-di-sintesi-previsione-2001
 bilancio-del-comune-di-palermo-entrate-anno-2009
@@ -8573,7 +8577,7 @@ bilancio-preventivo-e-consuntivo2
 bilancio-preventivo-e-consuntivo3
 bilancio-preventivo-e-consuntivo4
 bilancio-preventivo1
-bilancio-preventivo2
+bilancio-preventivo3
 bilancio-previsionale-2013
 bilancio-previsione-2020-entrate-comune-di-rovigo
 bilancio-previsione-2020-spesa-comune-di-rovigo
@@ -19085,6 +19089,8 @@ costo-del-personale-reana-del-rojale
 costo-del-personale-san-teodoro
 costo-del-personale-sesto-al-reghena
 costo-di-gestione-dei-rifiuti-per-chilogrammo
+costo-personale-tempo-indeterminato-anno-2023
+costo-personale-tempo-indeterminato-anno-2024
 costruzioni-1-1000
 costruzioni-1-1000-1
 costruzioni-1-50001
@@ -19392,6 +19398,7 @@ d-474
 d-475
 d-476
 d-lgs-105-2015-stabilimenti-in-basilicata
+d069a5ee92c36f687dae025c2c50d36a0249cf1e4fab1243b7c4181a0abc1060
 d0cb4213ac69e0f8be0e65f86ea5d59a5e7dddf59a27f215b541a4d6757dffc4
 d2-strategia-dello-sviluppo-schemi-descrittivi-modello-uml
 d208_p_pup
@@ -19843,6 +19850,9 @@ dati-numero-incidenti-stradali-per-comune
 dati-occupazionali-progettone
 dati-opencup-regione-siciliana
 dati-openstreetmap-per-studio-citta-in-15-minuti
+dati-pagamenti-1-trimestre-anno-2025
+dati-pagamenti-2-trimestre-anno-2025
+dati-pagamenti-3-trimestre-anno-2025
 dati-particellari-dei-piani-di-assestamento-forestali-vigenti
 dati-per-bilancio-di-genere
 dati-popolazione
@@ -22578,6 +22588,7 @@ e5-3-1-fattibilita-geologica-idraulica-e-sismica-degli-interventi-modello-uml
 e535d7c56bc4051869db6b4d528d1cd2bcc304b5f7e6ee6eeb1bcf5a8b0b117c
 e5c79f4943657d42b9a41ffb6310352721386de513ac51bd5e4511bc19d3b2d8
 e5e963fce87b2e3730346eee51bb5f1773025019ae2bff23cdb18c76e9a40ba2
+e6adb2b499387b4260a2b7f51b478f077ca0c19090a1b3e008c8d77ba99cf70b
 e7420d57abf039cae3074f15ba68bc1f3789550c05cce3141bd9b500d751154b
 e7864a43b22376988a22ff09ec0b7a3eddabc957c8dae59cd670f31d32e2d664
 e85546c4943bf97304a281c928f078a462429b979f366475a52035df195cb734
@@ -27727,6 +27738,7 @@ fauna-mammiferi
 fauna-rettili-e-anfibi
 fauna-uccelli
 fauna-urbana-bilancio-ambientale-comune-di-reggio-emilia-serie-dati-2006-2017
+fb8fb1b2a0593c30753ddfd4cb565230f2179ec5a371e642552e5be5fa9475c3
 fba95cb1f6c8250562e571a45001d5478bb07c7b77d57479f63e3836a119895a
 fbce2530ca1b8c4a600f5812f1de4bae83b635091ad22cfd1b567716eb6e1def
 fc17da4e77fb527f8c4d3bf817db8c144d0b49f2d4204b66f04b25ea41a2238c
@@ -30213,7 +30225,7 @@ indagini-puntuali
 indagini-puntuali1
 indennita-e-compensi-accessori-anno-2022-corrisposti-al-personale-nello-stesso-anno
 indicatore-annuale-di-tempestivita-dei-pagamenti-2014-2015
-indicatore-dei-pagamenti
+indicatore-dei-pagamenti1
 indicatore-di-investimento-ict
 indicatore-di-offerta-ict
 indicatore-di-sostenibilita
@@ -55663,10 +55675,12 @@ riepilogo-assistiti-per-servizio-2015
 riepilogo-assistiti-per-servizio-2016
 riepilogo-assistiti-per-servizio-2017
 riepilogo-assistiti-per-tipologia-di-utenza-e-intervento-2018
+riepilogo-conto-generale-bilancio-entrate
+riepilogo-conto-generale-bilancio-spese
 riepilogo-della-popolazione-dal-1861-ad-oggi
 riepilogo-economie-vincolate-da-svincolare-dipartimento-ambiente
-riepilogo-generale-conto-bilancio-entrate
-riepilogo-generale-conto-bilancio-spese
+riepilogo-generale-bilancio-preventivio-entrate-2026-2028
+riepilogo-generale-bilancio-preventivio-spese-2026-2028
 riepilogo-generale-edicole
 riepilogo-generale-esercizi-pubblici
 riepilogo-generale-farmacie-dal-2005-al-2009
@@ -66094,7 +66108,6 @@ tassi-di-assenza1
 tassi-di-assenza2
 tassi-di-assenza3
 tassi-di-assenza4
-tassi-di-assenza5
 tassi-di-assenze-personale-asl-taranto-2009
 tassi-di-assenze-personale-asl-taranto-2010
 tassi-di-assenze-personale-asl-taranto-2011
