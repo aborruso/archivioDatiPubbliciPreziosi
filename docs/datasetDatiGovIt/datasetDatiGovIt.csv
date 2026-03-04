@@ -25,6 +25,7 @@ id
 0de68fa044471d0a27b081b549bd17bfbed3c879952fa3b6848656ddb5d2cee5
 0e5e44baf58d8ed72ab05225810061f4ab62195ebd2ddf89908fb6b92466e4e4
 0eb71228c5eb717f712af42ab0ceb45e604d8a9618ea0f07de8231c260cccba5
+0f19e06ff5bc3d04c75eec4ac7e2406e2c0588ddbb303f96dcfe112f9405a019
 0f3e91b7469b3f1c8e44fdc82e07929340a5e0e225fc8c0a96a8a395f60bd8d4
 0f5732a51d8cfcd6c640a052d27aed6a9cf43d98d433cfb3a13adfd375328529
 10-parcheggi-comune-di-berlingo
@@ -380,6 +381,7 @@ id
 29-centri-revisione-auto-comune-di-manerbio
 29-centri-revisione-auto-comune-di-verolavecchia
 2917bddf2b6fb963537a3bfe400d663fd2548141ace48261e8aa51a0356b05c9
+2a864b5d98ac97e2888015521c8cb0a0ba3a82b1d93d071452aac37b4b10ca8f
 2b1cc2255af293161357886adfa8f25d76728e3b0fd10759a981c618517204f5
 2bb529a15255651e0534a0b156761c892e7034bfe2dea10a646d5b347c14e69b
 2c2f27ef4f5a6667ca5e50353da8c80b9799851a0d7a5c09c141ec62f974592d
@@ -3958,6 +3960,10 @@ anni-2020-2022-i-nuovi-iscritti-al-sistema-bibliotecario-urbano-sbu
 anni-2020-2022-i-prestiti-nelle-biblioteche-del-sistema-bibliotecario-urbano-sbu
 anni-di-permanenza-alluscita-dal-progettone
 anno-2022-comunicazioni-obbligatorie
+anno-2023-26-gli-accessi-al-catalogo-online-bi-g-met-biblioteche-genova-metropolitana
+anno-2023-26-gli-utenti-fruitori-del-prestito-nelle-biblioteche-del-sistema-bibliotecario-urban
+anno-2023-26-i-movimenti-e-gli-utenti-della-biblioteca-digitale-del-polo-genova-metropolitana-g
+anno-2023-26-i-prestiti-nelle-biblioteche-del-sistema-bibliotecario-urbano-sbu
 anno-2023-comunicazioni-obbligatorie
 anno-2024-comunicazioni-obbligatorie
 anno-2024-comunicazioni-obbligatorie-analisi-sulle-assunzioni
@@ -5385,6 +5391,7 @@ artea-piani-colturali-grafici-2021
 artea-piani-colturali-grafici-2022
 artea-piani-colturali-grafici-2023
 artea-piani-colturali-grafici-2024-aggiornamento-del-22-01-2025
+artea-piani-colturali-grafici-2025
 artea-raccolta-uva-dal-2004-aggiornamento-del-22-01-2025
 artes-registro-regionale-delle-associazioni
 articolazione-copertura-finanziaria-oo-pp-triennio-2018-2020
@@ -5565,6 +5572,8 @@ articolazione-degli-uffici-con-orari-al-pubblico-talmassons
 articolazione-degli-uffici1
 articolazione-degli-uffici2
 articolazione-dei-tessuti-storici-zone-a-piano-operativo-del-comune-di-bagno-a-ripoli
+articoli
+articoli-1
 artigiani
 artigiani-distribuzione-per-categoria-2010-2012
 artigiani-distribuzione-per-sesso-2010-2012
@@ -8420,7 +8429,7 @@ bilancio-consuntivo-rendiconto-spese-per-tutela-e-valorizzazione-beni-e-attivita
 bilancio-consuntivo-rendiconto-totale-generale-delle-spese1
 bilancio-consuntivo-rendiconto-totale-generale-delle-spese1-1
 bilancio-consuntivo1
-bilancio-consuntivo3
+bilancio-consuntivo2
 bilancio-dati-di-sintesi-previsione-2000
 bilancio-dati-di-sintesi-previsione-2001
 bilancio-del-comune-di-palermo-entrate-anno-2009
@@ -8578,7 +8587,7 @@ bilancio-preventivo-e-consuntivo2
 bilancio-preventivo-e-consuntivo3
 bilancio-preventivo-e-consuntivo4
 bilancio-preventivo1
-bilancio-preventivo3
+bilancio-preventivo2
 bilancio-previsionale-2013
 bilancio-previsione-2020-entrate-comune-di-rovigo
 bilancio-previsione-2020-spesa-comune-di-rovigo
@@ -8754,6 +8763,7 @@ c-4b-tipi-e-varianti-del-paesaggio-agrario
 c-4c-aree-agricole-speciali
 c-5-sistemi-territoriali
 c-7-u-t-o-e
+c03c3a8dd0e37cd830aee94b6b05d388c0ea039dcf07c9b9bb54b68098f70e27
 c110230221_sangermanob
 c11023040011_arsiero
 c11023040021_bassano
@@ -10031,6 +10041,7 @@ cb7aaf963fe19356d15204d59ad32abbce40c502daf8c1618f708c3b4d0d4e2a
 cc023f347647f27cc6daee8a601fb48ad1f4b1be55f4ff82235a008cea7d3af5
 cc14f34705044d9c1c75902df8b5c599eaca2a5b2a222404a86479c0a1071d6e
 ccbc40a418eb0fa8daec45aaafe6b1a3fa42e02c372902e6463ca81006553507
+cd4bff049087a23560b0e91cf2ac4d86217cca7da199af13b9d4aed175e9b822
 cdd
 cdda-report-2020-italia-dataaset
 cdda-report-2024-italia-dataaset
@@ -10974,6 +10985,11 @@ cittadini-iscritti-alle-commissioni-della-circoscrizione-2-per-commissione-maggi
 cittadini-iscritti-alle-commissioni-della-circoscrizione-2-per-quartiere-maggio-2019
 cittadini-residenti-iscritti-nei-registri-anagrafici-dal-2006-al-2017
 cittadini-stranieri-bilancio-demografico-e-popolazione-residente-al-31-dicembre-anni-2009-2012
+cittadini-stranieri-cancellati-dallanagrafe-in-quanto-irreperibili-per-cittadinanza
+cittadini-stranieri-emigrati-verso-altre-province-italiane-per-cittadinanza
+cittadini-stranieri-emigrati-verso-comuni-della-provincia-di-forli-cesena-per-cittadinanza
+cittadini-stranieri-emigrati-verso-i-paesi-dorigine-per-cittadinanza
+cittadini-stranieri-emigrati-verso-paesi-esteri-diversi-dal-paese-dorigine-per-cittadinanza
 cittadini-stranieri-immigrati-per-cittadinanza
 cittadini-stranieri-immigrati-provenienti-da-altre-province-italiane-per-cittadinanza
 cittadini-stranieri-immigrati-provenienti-da-comuni-della-provincia-di-forli-cesena-per-cittadi
@@ -12471,7 +12487,9 @@ comune-di-arzignano-tassi-popolazione-residente
 comune-di-arzignano-trend-demografico
 comune-di-ascoli-piceno-punti-interesse
 comune-di-ascoli-piceno-visite-per-paese-2024
+comune-di-ascoli-piceno-visite-per-paese-2025
 comune-di-ascoli-piceno-visite-per-regione-2024
+comune-di-ascoli-piceno-visite-per-regione-2025
 comune-di-assisi
 comune-di-bagno-a-ripoli-aire-per-nazione
 comune-di-bagno-a-ripoli-cognomi-piu-diffusi-residenti
@@ -13992,10 +14010,13 @@ comune-di-grezzana-conteggio-protocolli
 comune-di-grezzana-elenco-atti-amministrativi
 comune-di-grezzana-elenco-servizi-utenti
 comune-di-grezzana-famiglie-per-numero-figli
+comune-di-grezzana-imu-versamenti-spontanei-2024
 comune-di-grezzana-procedimenti-amministrativi
 comune-di-grezzana-rendiconto-della-gestione-entrata
 comune-di-grezzana-rendiconto-della-gestione-spesa
 comune-di-grezzana-stranieri-per-stato-cittadinanza
+comune-di-grezzana-tari-utenze-attive-2024
+comune-di-grezzana-tari-versamenti-spontanei-2024
 comune-di-grottammare-punti-interesse
 comune-di-grottazzolina-prg
 comune-di-grottazzolina-punti-interesse
@@ -14136,11 +14157,16 @@ comune-di-longare-stranieri-per-stato-cittadinanza
 comune-di-luino
 comune-di-luino-bilancio-di-previsione-entrata
 comune-di-luino-bilancio-di-previsione-spesa
+comune-di-luino-canone-unico-patrimoniale-utenze-2024
+comune-di-luino-canone-unico-patrimoniale-versamenti-spontanei-2024
 comune-di-luino-conteggio-popolazione
 comune-di-luino-famiglie-per-numero-figli
+comune-di-luino-imu-versamenti-spontanei-2024
 comune-di-luino-rendiconto-della-gestione-entrata
 comune-di-luino-rendiconto-della-gestione-spesa
 comune-di-luino-stranieri-per-stato-cittadinanza
+comune-di-luino-tari-utenze-attive-2024
+comune-di-luino-tari-versamenti-spontanei-2024
 comune-di-lumarzo-p-r-g-approvato-2002-revisione-per-variante-approvata-2012
 comune-di-magenta
 comune-di-magenta-aire-per-nazione
@@ -14336,6 +14362,8 @@ comune-di-mele-civici-e-toponomastica
 comune-di-melzo
 comune-di-melzo-bilancio-di-previsione-entrata
 comune-di-melzo-bilancio-di-previsione-spesa
+comune-di-melzo-canone-unico-patrimoniale-utenze-2024
+comune-di-melzo-canone-unico-patrimoniale-versamenti-spontanei-2024
 comune-di-melzo-conteggio-popolazione
 comune-di-melzo-conteggio-protocolli
 comune-di-melzo-elenco-atti-amministrativi
@@ -14344,6 +14372,7 @@ comune-di-melzo-procedimenti-amministrativi
 comune-di-melzo-rendiconto-della-gestione-entrata
 comune-di-melzo-rendiconto-della-gestione-spesa
 comune-di-melzo-stranieri-per-stato-cittadinanza
+comune-di-melzo-tari-utenze-attive-2024
 comune-di-mentana
 comune-di-mentana-aggiornato
 comune-di-mentana-aire-per-nazione
@@ -17281,6 +17310,7 @@ consistenza-del-personale-regione-autonoma-trentino-alto-adige-sudtirol
 consistenza-del-tessuto-urbano-storico
 consistenza-della-rete-distributiva-al-dettaglio-esercizi-attivi
 consistenza-della-rete-distributiva-al-dettaglio-in-sede-fissa
+consistenza-elettorale-comune-di-ascoli-piceno-aggiornata-al-2025
 consistenza-media-annua-dei-dipendenti-privati-divisi-per-anno-classi-di-et224-tavola-2014-2015
 consistenza-media-annua-lavoratori-dipendenti-privati-divisi-per-anno-e-qualifica-valori-assolu
 consolati
@@ -21210,6 +21240,7 @@ densita-abitativa-della-popolazione-residente-in-toscana-2021
 densita-abitativa-della-popolazione-residente-in-toscana-2022
 densita-abitativa-della-popolazione-residente-in-toscana-anno-2019
 densita-abitativa-della-popolazione-residente-in-toscana-dati-definitivi-anno-2020
+densita-abitativa-e-classificazioni-comunali-istat-in-toscana-anno-2024
 densita-capi-totali-allevati-per-comune-bacino-po-2010-distretto-po
 densita-degli-impianti-fotovoltaici-serie-storica
 densita-della-popolazione
@@ -21325,6 +21356,8 @@ destinazione-duso-catastale3-9
 destinazione-duso-catastale5-3
 destinazione-duso-degli-spazi-dalla-s-2020-2021
 destinazione-duso-degli-spazi-negli-edifici-scolastici-scuole-statali-as-2020-2021
+destinazioni
+destinazioni-1
 destinazioni-funzionali-prevalenti-pgf-piani-di-gestione-forestale-ex-pfa
 destinazioni-urbanistiche-vigenti-comune-di-matera
 detentori-di-apparecchiature-e-fluidi-contenenti-pcb
@@ -24404,6 +24437,7 @@ elenco-immobili-vincolati
 elenco-impianti-antenne-telefonia
 elenco-impianti-antenne-tv-e-altre-antenne
 elenco-impianti-ascensori-montacarichi
+elenco-impianti-sportivi
 elenco-impianti-sportivi-del-comune-di-galliate
 elenco-impianti-sportivi-di-regione-campania
 elenco-impianti-sportivi-nella-provincia-di-avellino
@@ -25561,6 +25595,7 @@ elezioni-amministrative-anno-2012
 elezioni-amministrative-anno-2017
 elezioni-amministrative-anno-2017-ballotaggio-sindaco
 elezioni-amministrative-anno-2022
+elezioni-amministrative-anno-2025
 elezioni-amministrative-comunali-maggio-2007
 elezioni-amministrative-comunali-maggio-2012-voti-di-lista
 elezioni-amministrative-consiglieri-eletti-maggio-2007
@@ -26225,6 +26260,7 @@ elezioni-politiche-anno-2008
 elezioni-politiche-anno-2008-affluenza-camera
 elezioni-politiche-anno-2008-affluenza-senato
 elezioni-politiche-anno-2013
+elezioni-politiche-anno-2022
 elezioni-politiche-camera-20131
 elezioni-politiche-camera-20181
 elezioni-politiche-camera-anno-2018
@@ -26459,6 +26495,7 @@ elezioni-regionali-anno-2005
 elezioni-regionali-anno-2010
 elezioni-regionali-anno-2015
 elezioni-regionali-anno-2020
+elezioni-regionali-anno-2024
 elezioni-regionali-bari-2025
 elezioni-regionali-della-campania-2010-2
 elezioni-regionali-e-referendum-costituzionale-2020-affluenza-domenica-ore-12-00
@@ -27074,6 +27111,7 @@ europee-2019-voti-preferenza-candidati-partito-pirata
 europee-2019-voti-preferenza-candidati-popolari-per-l-italia
 europee-2024-elezioni-parlamento-europeo
 europee-2024-pinerolo
+europee-2024-risultati-ufficiosi
 europee-26-05-2014
 evapotraspirazione-potenziale-annua-clima-1961-1990-ed-2017
 evapotraspirazione-potenziale-annua-clima-1991-2015-ed-2017
@@ -27181,6 +27219,8 @@ eventi-sportivi-empolese-valdelsa-2016
 eventi-sportivi-pugliesi-finanziati-con-contributi-regionali
 eventi-valanghivi-dallinverno-07-081
 eventi-valanghivi-fino-allinverno-06-071
+eventi1
+eventi1-1
 eventi5
 evento-franoso
 evoluzione-annuale-della-generazione-2006-di-nuovi-beneficiari-di-mobilit224-anni-2006-2009
@@ -29899,7 +29939,6 @@ incendi-2007
 incendi-2008
 incendi-boschivi
 incendi-boschivi-aib-percorsi-di-avvistamento-mobili
-incendi-boschivi-aib-punti-di-sosta
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia
 incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia-scala-provinciale
 incendi-boschivi-aree-e-punti-di-innesco
@@ -30226,7 +30265,7 @@ indagini-puntuali
 indagini-puntuali1
 indennita-e-compensi-accessori-anno-2022-corrisposti-al-personale-nello-stesso-anno
 indicatore-annuale-di-tempestivita-dei-pagamenti-2014-2015
-indicatore-dei-pagamenti1
+indicatore-dei-pagamenti
 indicatore-di-investimento-ict
 indicatore-di-offerta-ict
 indicatore-di-sostenibilita
@@ -30397,6 +30436,7 @@ indicatori-di-performance-dello-sportello-unico-per-le-attivita-produttive-2017
 indicatori-di-performance-dello-sportello-unico-per-le-attivita-produttive-2018
 indicatori-di-risultato-con-relativi-obiettivi-per-il-2023it
 indicatori-di-struttura-della-popolazione-al-1-gennaio-anni-2010-2012
+indicatori-di-struttura-della-popolazione-residente-in-toscana-al-31-12-2024
 indicatori-di-sviluppo-ict
 indicatori-digitroma-wifi
 indicatori-economici-anno-2015
@@ -30419,6 +30459,7 @@ indicatori-presenza-cittadini-stranieri
 indicatori-presenza-cittadini-stranieri-nei-comuni-della-provincia-di-lucca-anno-2020
 indicatori-produzione-rifiuti-urbani-a-livello-comunale
 indicatori-raccolta-differenziata
+indicatori-relativi-alla-struttura-della-popolazione-straniera-residente-in-toscana-anno-2024
 indicatori-rifiuti-a-partire-dal-2018
 indicatori-rifiuti-urbani
 indicatori-sdgs1
@@ -30596,6 +30637,7 @@ indici-dei-prezzi-al-consumo-prodotti-alimentari-e-bevande-analcoliche-anno-2013
 indici-dei-prezzi-al-consumo-servizi-ambulatoriali-anno-2013
 indici-dei-prezzi-al-consumo-utensili-e-attrezzature-per-la-casa-anno-2013
 indici-demografici-2017
+indici-demografici-relativi-al-bilancio-della-toscana-anno-2024
 indici-di-fragilita-2019-2020
 indici-di-fragilita-2023
 indici-di-fragilita-dal-2021
@@ -31356,6 +31398,7 @@ iscritti-allalbo-regionale-veneto-delle-guide-alpine
 iscritti-alle-gestioni-autonomi-dellinps-2012
 iscritti-alle-gestioni-dipendenti-dellinps-2012
 iscritti-alle-liste-di-mobilita
+iscritti-alle-scuole
 iscritti-alle-universita-per-facolta
 iscritti-alluniversita-per-sede-di-ateneo-a-rovigo-e-per-gruppo-tematico-2015-2017
 iscritti-anagrafe
@@ -41482,9 +41525,6 @@ movimenti-turistici-per-comune-anno-2021
 movimenti-turistici-per-comune-anno-2022
 movimenti-turistici-per-comune-anno-2023
 movimenti-turistici-per-comune-anno-2024
-movimentituristicimensiliperatlpaeseregionediprovenienzaesettoreanno2024
-movimentituristicimensiliperatlsottosegmentoepaeseregionediprovenienzaanno2024
-movimentituristicimensiliperatlsottosegmentoepaeseregionediprovenienzaanno2024-1
 movimento-anagrafico
 movimento-anagrafico-cancellazioni-anno-2009-2010
 movimento-anagrafico-cancellazioni-anno-2010-2011
@@ -41533,10 +41573,10 @@ movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2021
 movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2022
 movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2023
 movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2024
+movimento-dei-clienti-e-struttura-dellofferta-ricettiva-toscana-anno-2025
 movimento-dei-clienti-negli-esercizi-ricettivi-per-comune-e-provenienza-toscana-anno-2016
 movimento-dei-clienti-negli-esercizi-ricettivi-toscana-anno-2017
 movimento-della-popolazione-2024
-movimento-della-popolazione-2024-1
 movimento-demografico-annuale-1931-2012-della-citta-di-matera
 movimento-demografico-annuale-1931-2013-della-citta-di-matera
 movimento-demografico-annuale-1931-2014-della-citta-di-matera
@@ -44560,7 +44600,14 @@ operatori-dellagricoltura-biologica-elenco-regionale-al-2016
 operatori-di-fecondazione-artificiale-laici
 operatori-di-fecondazione-artificiale-medici
 operatori-di-impianto-embrionale
+operatori-economici-chiaravalle
+operatori-economici-del-comune-di-barbara
 operatori-economici-del-programma
+operatori-economici-ostra
+operatori-economici-ostra-vetere
+operatori-economici-san-costanzo
+operatori-economici-serra-de-conti
+operatori-economici-trecastelli
 operatori-fuori-mercato
 operatori-pratici-inseminazione-artificiale
 operatori-pugliesi-dei-servizi-turistici-e-culturali-progressivo
@@ -44657,6 +44704,7 @@ opere-situate-nelle-terme-di-castrocaro-grand-hotel-terme
 opere-speciali1
 opere-spondali-dati-storici
 opere-trasversali1
+opertatori-economici-comune-di-terre-roveresche
 opportunita-di-finanziamento-2014-2020
 orari-degli-uffici-comune-di-montemesola
 orari-entrata-e-uscita-della-scuola-dellinfanzia-comune-di-montemesola
@@ -51350,6 +51398,8 @@ provincia-monza-brianza-pietre-dinciampo
 provincia-monza-brianza-pietre-dinciampo1-1
 provincia-monza-brianza-piste-ciclabili
 provincia-monza-brianza-pozzi
+provincia-monza-brianza-procedure-stazione-unica-appaltante-suddivise-per-tipo-di-fornitura
+provincia-monza-brianza-procedure-stazione-unica-appaltante-suddivise-per-tipo-di-fornitura-per
 provincia-monza-brianza-punti-di-ricarica-per-veicoli-elettrici
 provincia-monza-brianza-scuole-nautiche
 provincia-monza-brianza-scuole-superiori-mb-finanziamenti-per-la-manutenzione-aprile-2017-2019
@@ -53635,6 +53685,7 @@ referendum-2020-affluenza
 referendum-2020-riduzione-numero-parlamentari-affluenze
 referendum-2020-riduzione-numero-parlamentari-risultati
 referendum-2020-risultati-per-zona
+referendum-2020-risultati-ufficiosi
 referendum-2022-affluenza-domenica-ore-12-00
 referendum-2022-affluenza-domenica-ore-19-00
 referendum-2022-affluenza-finale
@@ -53645,6 +53696,7 @@ referendum-2022-quesito-02-limiti-alla-custodia-cautelare
 referendum-2022-quesito-03-separazione-delle-funzioni-dei-magistrati
 referendum-2022-quesito-04-equa-valutazione-dei-magistrati
 referendum-2022-quesito-05-riforma-del-c-s-m
+referendum-2022-risultati-ufficiosi
 referendum-2022-seggi-e-corrispondenti-sezioni-elettorali
 referendum-2025-civici-per-sezione-elettorale
 referendum-2025-quesito-1-stop-ai-licenziamenti-illegittimi-affluenza
@@ -55701,6 +55753,7 @@ riepilogo-sau-bio-per-comune-anno-2021
 riepilogo-sau-bio-per-comune-anno-2022
 riepilogo-sau-bio-per-comune-anno-2023
 riepilogo-sau-bio-per-comune-anno-2024-aggiornamento-del-22-01-2025
+riepilogo-sau-bio-per-comune-anno-2025
 riepilogo-segnalazioni-contact-center-polizia-municipale-2012
 riepilogo-segnalazioni-contact-center-polizia-municipale-2013
 riepilogo-segnalazioni-contact-center-polizia-municipale-2014
@@ -56800,6 +56853,7 @@ riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossio
 riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossioni-da-ruol-2022
 riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossioni-da-ruol-2023
 riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossioni-da-ruol-2024
+riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossioni-da-ruol-2025
 rivestimento-in-alveo
 riviera-berica-ptrc-2020
 riviera-del-bacchiglione-da-padova-a-vicenza-ptrc-2020
@@ -57388,6 +57442,7 @@ scuole5
 scuole6
 scuole7
 scuole8
+scuole9
 sdi-spatial-data-infrastructure-della-provincia-di-trento
 sealines-metanifere-e-petrolifere-agg-2023
 secap-aprie-trento
@@ -58278,6 +58333,7 @@ settori-con-falda-sub-affiorante-0-2-m-dal-p-c
 settori-con-falda-sub-affiorante-0-2-m-dal-p-c-approvato
 settori-urbani-funzionali
 sezione-censimento-20111
+sezione-elettorali
 sezione-linked-opendata
 sezioni
 sezioni-approvato
@@ -58310,6 +58366,8 @@ sezioni-di-censimento2
 sezioni-di-censimento3
 sezioni-di-censimento4
 sezioni-elettorali
+sezioni-elettorali-2005
+sezioni-elettorali-2013
 sezioni-elettorali-2014
 sezioni-elettorali-2015-2016
 sezioni-elettorali-alla-data-del-referendum
@@ -61204,6 +61262,7 @@ spd_rnd_liq_sio_reg01_01_2022
 spd_rnd_liq_sio_reg01_01_2023
 spd_rnd_liq_sio_reg01_01_2024
 spd_rnd_liq_sio_reg01_01_2025
+spd_rnd_liq_sio_reg01_01_2026
 spd_rnd_liq_sio_reg02_01_2014
 spd_rnd_liq_sio_reg02_01_2015
 spd_rnd_liq_sio_reg02_01_2016
@@ -61216,6 +61275,7 @@ spd_rnd_liq_sio_reg02_01_2022
 spd_rnd_liq_sio_reg02_01_2023
 spd_rnd_liq_sio_reg02_01_2024
 spd_rnd_liq_sio_reg02_01_2025
+spd_rnd_liq_sio_reg02_01_2026
 spd_rnd_liq_sio_reg03_01_2014
 spd_rnd_liq_sio_reg03_01_2015
 spd_rnd_liq_sio_reg03_01_2016
@@ -61228,6 +61288,7 @@ spd_rnd_liq_sio_reg03_01_2022
 spd_rnd_liq_sio_reg03_01_2023
 spd_rnd_liq_sio_reg03_01_2024
 spd_rnd_liq_sio_reg03_01_2025
+spd_rnd_liq_sio_reg03_01_2026
 spd_rnd_liq_sio_reg04_01_2014
 spd_rnd_liq_sio_reg04_01_2015
 spd_rnd_liq_sio_reg04_01_2016
@@ -61240,6 +61301,7 @@ spd_rnd_liq_sio_reg04_01_2022
 spd_rnd_liq_sio_reg04_01_2023
 spd_rnd_liq_sio_reg04_01_2024
 spd_rnd_liq_sio_reg04_01_2025
+spd_rnd_liq_sio_reg04_01_2026
 spd_rnd_liq_sio_reg05_01_2014
 spd_rnd_liq_sio_reg05_01_2015
 spd_rnd_liq_sio_reg05_01_2016
@@ -61252,6 +61314,7 @@ spd_rnd_liq_sio_reg05_01_2022
 spd_rnd_liq_sio_reg05_01_2023
 spd_rnd_liq_sio_reg05_01_2024
 spd_rnd_liq_sio_reg05_01_2025
+spd_rnd_liq_sio_reg05_01_2026
 spd_rnd_liq_sio_reg06_01_2014
 spd_rnd_liq_sio_reg06_01_2015
 spd_rnd_liq_sio_reg06_01_2016
@@ -61264,6 +61327,7 @@ spd_rnd_liq_sio_reg06_01_2022
 spd_rnd_liq_sio_reg06_01_2023
 spd_rnd_liq_sio_reg06_01_2024
 spd_rnd_liq_sio_reg06_01_2025
+spd_rnd_liq_sio_reg06_01_2026
 spd_rnd_liq_sio_reg07_01_2014
 spd_rnd_liq_sio_reg07_01_2015
 spd_rnd_liq_sio_reg07_01_2016
@@ -61276,6 +61340,7 @@ spd_rnd_liq_sio_reg07_01_2022
 spd_rnd_liq_sio_reg07_01_2023
 spd_rnd_liq_sio_reg07_01_2024
 spd_rnd_liq_sio_reg07_01_2025
+spd_rnd_liq_sio_reg07_01_2026
 spd_rnd_liq_sio_reg08_01_2014
 spd_rnd_liq_sio_reg08_01_2015
 spd_rnd_liq_sio_reg08_01_2016
@@ -61288,6 +61353,7 @@ spd_rnd_liq_sio_reg08_01_2022
 spd_rnd_liq_sio_reg08_01_2023
 spd_rnd_liq_sio_reg08_01_2024
 spd_rnd_liq_sio_reg08_01_2025
+spd_rnd_liq_sio_reg08_01_2026
 spd_rnd_liq_sio_reg09_01_2014
 spd_rnd_liq_sio_reg09_01_2015
 spd_rnd_liq_sio_reg09_01_2016
@@ -61300,6 +61366,7 @@ spd_rnd_liq_sio_reg09_01_2022
 spd_rnd_liq_sio_reg09_01_2023
 spd_rnd_liq_sio_reg09_01_2024
 spd_rnd_liq_sio_reg09_01_2025
+spd_rnd_liq_sio_reg09_01_2026
 spd_rnd_liq_sio_reg10_01_2014
 spd_rnd_liq_sio_reg10_01_2015
 spd_rnd_liq_sio_reg10_01_2016
@@ -61312,6 +61379,7 @@ spd_rnd_liq_sio_reg10_01_2022
 spd_rnd_liq_sio_reg10_01_2023
 spd_rnd_liq_sio_reg10_01_2024
 spd_rnd_liq_sio_reg10_01_2025
+spd_rnd_liq_sio_reg10_01_2026
 spd_rnd_liq_sio_reg11_01_2014
 spd_rnd_liq_sio_reg11_01_2015
 spd_rnd_liq_sio_reg11_01_2016
@@ -61324,6 +61392,7 @@ spd_rnd_liq_sio_reg11_01_2022
 spd_rnd_liq_sio_reg11_01_2023
 spd_rnd_liq_sio_reg11_01_2024
 spd_rnd_liq_sio_reg11_01_2025
+spd_rnd_liq_sio_reg11_01_2026
 spd_rnd_liq_sio_reg12_01_2014
 spd_rnd_liq_sio_reg12_01_2015
 spd_rnd_liq_sio_reg12_01_2016
@@ -61336,6 +61405,7 @@ spd_rnd_liq_sio_reg12_01_2022
 spd_rnd_liq_sio_reg12_01_2023
 spd_rnd_liq_sio_reg12_01_2024
 spd_rnd_liq_sio_reg12_01_2025
+spd_rnd_liq_sio_reg12_01_2026
 spd_rnd_liq_sio_reg13_01_2014
 spd_rnd_liq_sio_reg13_01_2015
 spd_rnd_liq_sio_reg13_01_2016
@@ -61348,6 +61418,7 @@ spd_rnd_liq_sio_reg13_01_2022
 spd_rnd_liq_sio_reg13_01_2023
 spd_rnd_liq_sio_reg13_01_2024
 spd_rnd_liq_sio_reg13_01_2025
+spd_rnd_liq_sio_reg13_01_2026
 spd_rnd_liq_sio_reg14_01_2014
 spd_rnd_liq_sio_reg14_01_2015
 spd_rnd_liq_sio_reg14_01_2016
@@ -61360,6 +61431,7 @@ spd_rnd_liq_sio_reg14_01_2022
 spd_rnd_liq_sio_reg14_01_2023
 spd_rnd_liq_sio_reg14_01_2024
 spd_rnd_liq_sio_reg14_01_2025
+spd_rnd_liq_sio_reg14_01_2026
 spd_rnd_liq_sio_reg15_01_2014
 spd_rnd_liq_sio_reg15_01_2015
 spd_rnd_liq_sio_reg15_01_2016
@@ -61372,6 +61444,7 @@ spd_rnd_liq_sio_reg15_01_2022
 spd_rnd_liq_sio_reg15_01_2023
 spd_rnd_liq_sio_reg15_01_2024
 spd_rnd_liq_sio_reg15_01_2025
+spd_rnd_liq_sio_reg15_01_2026
 spd_rnd_liq_sio_reg16_01_2014
 spd_rnd_liq_sio_reg16_01_2015
 spd_rnd_liq_sio_reg16_01_2016
@@ -61384,6 +61457,7 @@ spd_rnd_liq_sio_reg16_01_2022
 spd_rnd_liq_sio_reg16_01_2023
 spd_rnd_liq_sio_reg16_01_2024
 spd_rnd_liq_sio_reg16_01_2025
+spd_rnd_liq_sio_reg16_01_2026
 spd_rnd_liq_sio_reg17_01_2014
 spd_rnd_liq_sio_reg17_01_2015
 spd_rnd_liq_sio_reg17_01_2016
@@ -61396,6 +61470,7 @@ spd_rnd_liq_sio_reg17_01_2022
 spd_rnd_liq_sio_reg17_01_2023
 spd_rnd_liq_sio_reg17_01_2024
 spd_rnd_liq_sio_reg17_01_2025
+spd_rnd_liq_sio_reg17_01_2026
 spd_rnd_liq_sio_reg18_01_2014
 spd_rnd_liq_sio_reg18_01_2015
 spd_rnd_liq_sio_reg18_01_2016
@@ -61408,6 +61483,7 @@ spd_rnd_liq_sio_reg18_01_2022
 spd_rnd_liq_sio_reg18_01_2023
 spd_rnd_liq_sio_reg18_01_2024
 spd_rnd_liq_sio_reg18_01_2025
+spd_rnd_liq_sio_reg18_01_2026
 spd_rnd_liq_sio_reg19_01_2014
 spd_rnd_liq_sio_reg19_01_2015
 spd_rnd_liq_sio_reg19_01_2016
@@ -61420,6 +61496,7 @@ spd_rnd_liq_sio_reg19_01_2022
 spd_rnd_liq_sio_reg19_01_2023
 spd_rnd_liq_sio_reg19_01_2024
 spd_rnd_liq_sio_reg19_01_2025
+spd_rnd_liq_sio_reg19_01_2026
 spd_rnd_liq_sio_reg20_01_2014
 spd_rnd_liq_sio_reg20_01_2015
 spd_rnd_liq_sio_reg20_01_2016
@@ -61432,6 +61509,7 @@ spd_rnd_liq_sio_reg20_01_2022
 spd_rnd_liq_sio_reg20_01_2023
 spd_rnd_liq_sio_reg20_01_2024
 spd_rnd_liq_sio_reg20_01_2025
+spd_rnd_liq_sio_reg20_01_2026
 spd_rnd_not_aam_attam_01_2018
 spd_rnd_not_aam_attam_01_2019
 spd_rnd_not_aam_attam_01_2020
@@ -61846,6 +61924,7 @@ spd_rnd_spe_sio_reg03_01_2022
 spd_rnd_spe_sio_reg03_01_2023
 spd_rnd_spe_sio_reg03_01_2024
 spd_rnd_spe_sio_reg03_01_2025
+spd_rnd_spe_sio_reg03_01_2026
 spd_rnd_spe_sio_reg04_01_2014
 spd_rnd_spe_sio_reg04_01_2015
 spd_rnd_spe_sio_reg04_01_2016
@@ -62223,6 +62302,7 @@ spd_ssn_cce_elb_voccn_01_2020
 spd_ssn_cce_elb_voccn_01_2021
 spd_ssn_cce_elb_voccn_01_2022
 spd_ssn_cce_elb_voccn_01_2023
+spd_ssn_cce_elb_voccn_01_2024
 spd_ssn_cce_naz_voccn_01_2012
 spd_ssn_cce_naz_voccn_01_2013
 spd_ssn_cce_naz_voccn_01_2014
@@ -62235,6 +62315,7 @@ spd_ssn_cce_naz_voccn_01_2020
 spd_ssn_cce_naz_voccn_01_2021
 spd_ssn_cce_naz_voccn_01_2022
 spd_ssn_cce_naz_voccn_01_2023
+spd_ssn_cce_naz_voccn_01_2024
 spd_ssn_cce_reg_voccn_01_2012
 spd_ssn_cce_reg_voccn_01_2013
 spd_ssn_cce_reg_voccn_01_2014
@@ -62247,14 +62328,23 @@ spd_ssn_cce_reg_voccn_01_2020
 spd_ssn_cce_reg_voccn_01_2021
 spd_ssn_cce_reg_voccn_01_2022
 spd_ssn_cce_reg_voccn_01_2023
+spd_ssn_cce_reg_voccn_01_2024
 spd_ssn_cce_sfc_nazva_01_2023
+spd_ssn_cce_sfc_nazva_01_2024
 spd_ssn_cce_sfc_nazvp_01_2023
+spd_ssn_cce_sfc_nazvp_01_2024
 spd_ssn_cce_sfc_regva_01_2023
+spd_ssn_cce_sfc_regva_01_2024
 spd_ssn_cce_sfc_regvp_01_2023
+spd_ssn_cce_sfc_regvp_01_2024
 spd_ssn_cce_spf_nazva_01_2023
+spd_ssn_cce_spf_nazva_01_2024
 spd_ssn_cce_spf_nazvp_01_2023
+spd_ssn_cce_spf_nazvp_01_2024
 spd_ssn_cce_spf_regva_01_2023
+spd_ssn_cce_spf_regva_01_2024
 spd_ssn_cce_spf_regvp_01_2023
+spd_ssn_cce_spf_regvp_01_2024
 spd_ssn_cce_t01_voccn_01_2012
 spd_ssn_cce_t01_voccn_01_2013
 spd_ssn_cce_t01_voccn_01_2014
@@ -62322,7 +62412,9 @@ spd_ssn_csp_elb_voccn_01_2020
 spd_ssn_csp_elb_voccn_01_2021
 spd_ssn_csp_elb_voccn_01_2022
 spd_ssn_csp_elb_voccn_01_2023
+spd_ssn_csp_elb_voccn_01_2024
 spd_ssn_csp_idf_nazvp_01_2023
+spd_ssn_csp_idf_nazvp_01_2024
 spd_ssn_csp_naz_voccn_01_2012
 spd_ssn_csp_naz_voccn_01_2013
 spd_ssn_csp_naz_voccn_01_2014
@@ -62335,7 +62427,9 @@ spd_ssn_csp_naz_voccn_01_2020
 spd_ssn_csp_naz_voccn_01_2021
 spd_ssn_csp_naz_voccn_01_2022
 spd_ssn_csp_naz_voccn_01_2023
+spd_ssn_csp_naz_voccn_01_2024
 spd_ssn_csp_pfn_nazvp_01_2023
+spd_ssn_csp_pfn_nazvp_01_2024
 spd_ssn_csp_reg_voccn_01_2012
 spd_ssn_csp_reg_voccn_01_2013
 spd_ssn_csp_reg_voccn_01_2014
@@ -62348,6 +62442,7 @@ spd_ssn_csp_reg_voccn_01_2020
 spd_ssn_csp_reg_voccn_01_2021
 spd_ssn_csp_reg_voccn_01_2022
 spd_ssn_csp_reg_voccn_01_2023
+spd_ssn_csp_reg_voccn_01_2024
 spd_ssn_lea_elb_voccn_01_2017
 spd_ssn_lea_elb_voccn_01_2018
 spd_ssn_lea_elb_voccn_01_2019
@@ -62355,6 +62450,7 @@ spd_ssn_lea_elb_voccn_01_2020
 spd_ssn_lea_elb_voccn_01_2021
 spd_ssn_lea_elb_voccn_01_2022
 spd_ssn_lea_elb_voccn_01_2023
+spd_ssn_lea_elb_voccn_01_2024
 spd_stm_aen_bdp_cdt_01
 spd_stm_aen_bdp_cis_01
 spd_stm_aen_bdp_dlg_01
@@ -64347,6 +64443,7 @@ strutture-ricettive1
 strutture-ricettive2
 strutture-ricettive3
 strutture-ricettive4
+strutture-ricettive5
 strutture-sanitarie
 strutture-sanitarie-con-codice-di-accreditamento
 strutture-sanitarie-dwarpe_r030
@@ -66111,6 +66208,7 @@ tassi-di-assenza1
 tassi-di-assenza2
 tassi-di-assenza3
 tassi-di-assenza4
+tassi-di-assenza5
 tassi-di-assenze-personale-asl-taranto-2009
 tassi-di-assenze-personale-asl-taranto-2010
 tassi-di-assenze-personale-asl-taranto-2011
@@ -69154,6 +69252,7 @@ visite-fiscali-2016
 visite-fiscali-2017
 visite-fiscali-2018
 visite-mensili-sito-web-istituzionale-comune-di-ascoli-piceno-2023-2024
+visite-mensili-sito-web-istituzionale-comune-di-ascoli-piceno-2025
 visite-nel-sistema-museale-metropolitano-di-torino-2017-2019
 visite-nel-sistema-museale-metropolitano-di-torino-2018-2020
 visite-specialistiche-erogate-anamnesi-e-valutazione-definite-brevi-anni-2007-2012
