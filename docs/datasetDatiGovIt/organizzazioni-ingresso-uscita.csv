@@ -1,4 +1,5 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-coriano","c_d004","https://comune.coriano.rn.it/","2026-03-02T09:46:33.147834","08",ingresso,2026-03-04,1
 "comune-di-arcene","c_a365","https://www.opendata.maggioli.cloud/organizzation/comune-di-arcene","2026-02-18T14:45:42.524048","03",ingresso,2026-02-20,1
 "comune-di-brusciano","c_b227","https://www.opendata.maggioli.cloud/organization/comune-di-brusciano","2026-02-18T12:02:56.143749","15",ingresso,2026-02-20,1
 "comune-di-chivasso","c_c665","https://www.opendata.maggioli.cloud/organizzation/comune-di-chivasso","2026-02-12T13:23:19.285592","01",ingresso,2026-02-16,1

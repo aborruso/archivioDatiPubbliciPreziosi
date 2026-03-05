@@ -46,7 +46,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-18T15:58:49.682074,Azienda Socio Sanitaria Territoriale Nord Milano,001fcb43-9490-4fc1-a434-526fe7f64a77,asstnm,azienda-socio-sanitaria-territoriale-nord-milano,10,https://dati.gov.it/view-dataset?organization=azienda-socio-sanitaria-territoriale-nord-milano
 2024-03-08T18:12:46.044727,Boxxapps,55388ac0-2be8-4f1f-90f7-8a9b212eb593,04155080270,boxxapps,681,https://dati.gov.it/view-dataset?organization=boxxapps
 2024-11-27T11:47:56.821882,Brescia Mobilità Spa,2769d5a0-f4ab-4337-b577-a3426d4f0752,bmspa,brescia-mobilita-spa,3,https://dati.gov.it/view-dataset?organization=brescia-mobilita-spa
-2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,65,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
+2024-03-08T18:15:05.531714,Camera di Commercio delle Marche,24f39537-efc7-4c06-bb10-efd2d2f27ac3,cciaan,camera-di-commercio-delle-marche,70,https://dati.gov.it/view-dataset?organization=camera-di-commercio-delle-marche
 2024-11-07T10:06:41.673226,Camera di Commercio Industria Artigianato e Agricoltura di Roma,faab567c-7036-4090-87d2-bf7c558b43b9,cciaa_rm,camera-di-commercio-industria-artigianato-e-agricoltura-di-roma,13,https://dati.gov.it/view-dataset?organization=camera-di-commercio-industria-artigianato-e-agricoltura-di-roma
 2024-10-22T09:50:45.909964,Catalogo TEST,722baec9-c6ee-4842-8f29-39c82c24d63d,agid,catalogo-test,0,https://dati.gov.it/view-dataset?organization=catalogo-test
 2024-10-21T14:33:06.320958,Città metropolitana di Catania,2d9eea42-cb60-48fd-9a8a-36ad3691a0ac,cmct,citta-metropolitana-di-catania,16,https://dati.gov.it/view-dataset?organization=citta-metropolitana-di-catania
@@ -149,6 +149,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-17T17:10:05.094601,Comune di Giaveno,f5f9730b-e56c-4478-bda0-3ad6157f2751,c_e020,comune-di-giaveno,5,https://dati.gov.it/view-dataset?organization=comune-di-giaveno
 2025-02-07T15:18:26.164181,Comune di Gildone,4bd8476a-047d-4254-afeb-900d8661e69c,c_e030,comune-di-gildone,0,https://dati.gov.it/view-dataset?organization=comune-di-gildone
 2025-03-07T15:29:16.641505,Comune di Giovinazzo,e1e9f349-ef2d-4894-91f4-d32f30db0a46,c_e047,comune-di-giovinazzo,4,https://dati.gov.it/view-dataset?organization=comune-di-giovinazzo
+2026-03-04T21:03:46.266798,Comune di Grassobbio,829778e5-41d8-465f-bf50-06ff8deb0245,c_e148,comune-di-grassobbio,0,https://dati.gov.it/view-dataset?organization=comune-di-grassobbio
 2025-02-11T10:15:38.000771,Comune di Gravina di Catania,9efc13b8-1d90-40b8-9447-9a71823448f5,c_e156,comune-di-gravina-di-catania,6,https://dati.gov.it/view-dataset?organization=comune-di-gravina-di-catania
 2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,14,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
 2025-04-14T07:59:19.027568,Comune di Grottammare,c59b580b-8e17-459f-b532-db891593d4e6,c_e207,comune-di-grottammare,5,https://dati.gov.it/view-dataset?organization=comune-di-grottammare
@@ -349,6 +350,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-20T12:23:37.817154,Provincia di Novara,c3234889-f512-4ab2-9ee8-0d7ec8a7cb6c,p_no,provincia-di-novara,48,https://dati.gov.it/view-dataset?organization=provincia-di-novara
 2025-02-06T10:48:03.748623,Provincia di Padova,53290502-f70e-43fc-9378-bab36bb0f55c,p_pd,provincia-di-padova,10,https://dati.gov.it/view-dataset?organization=provincia-di-padova
 2025-02-13T16:35:26.066601,Provincia di Parma,8e7b5d19-4a39-4d51-96c9-549ee2eda073,p_pr,provincia-di-parma,5,https://dati.gov.it/view-dataset?organization=provincia-di-parma
+2026-03-04T21:19:47.923716,Provincia di Pescara,bd167c31-204e-430f-9337-98bff34cc2af,p_pe,provincia-di-pescara,18,https://dati.gov.it/view-dataset?organization=provincia-di-pescara
 2024-11-29T12:10:44.118275,Provincia di Rovigo,75cb7b56-1316-4b71-9e71-c68c5a62bae5,p_RO,provincia-di-rovigo,10,https://dati.gov.it/view-dataset?organization=provincia-di-rovigo
 2025-02-07T10:23:04.452323,Provincia di Verona,6d38bd89-e867-40f2-be5e-4991acf327ca,p_vr,provincia-di-verona,3,https://dati.gov.it/view-dataset?organization=provincia-di-verona
 2024-03-08T21:31:41.383548,Regione Basilicata,d605ab5c-50bd-4895-bace-4ac93714032c,r_basili,regione-basilicata,214,https://dati.gov.it/view-dataset?organization=regione-basilicata
