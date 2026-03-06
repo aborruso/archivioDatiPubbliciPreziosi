@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-grassobbio","c_e148","https://comune.grassobbio.bg.it/","2026-03-04T21:03:46.266798","",ingresso,2026-03-05,1
+"provincia-di-pescara","p_pe","https://www.opendata.maggioli.cloud/organizzation/provincia-di-pescara","2026-03-04T21:19:47.923716","13",ingresso,2026-03-05,1
 "comune-di-coriano","c_d004","https://comune.coriano.rn.it/","2026-03-02T09:46:33.147834","08",ingresso,2026-03-04,1
 "comune-di-arcene","c_a365","https://www.opendata.maggioli.cloud/organizzation/comune-di-arcene","2026-02-18T14:45:42.524048","03",ingresso,2026-02-20,1
 "comune-di-brusciano","c_b227","https://www.opendata.maggioli.cloud/organization/comune-di-brusciano","2026-02-18T12:02:56.143749","15",ingresso,2026-02-20,1
