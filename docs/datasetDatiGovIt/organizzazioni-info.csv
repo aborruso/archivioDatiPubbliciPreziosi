@@ -184,7 +184,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-12-18T14:03:34.577633,Comune di Merate,2c8e04d7-6b17-4834-95d8-0fc250174280,c_f133,comune-di-merate,5,https://dati.gov.it/view-dataset?organization=comune-di-merate
 2024-03-08T18:42:49.037775,Comune di Messina,735660ff-b04c-47e7-9caf-ca70007b059c,c_f158,comune-di-messina,104,https://dati.gov.it/view-dataset?organization=comune-di-messina
 2025-04-11T15:25:55.463465,Comune di Meta,c635426b-1b6e-46aa-a599-e6a1eba0b557,c_f162,comune-di-meta,0,https://dati.gov.it/view-dataset?organization=comune-di-meta
-2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,2581,https://dati.gov.it/view-dataset?organization=comune-di-milano
+2024-03-08T18:26:48.166678,Comune di Milano,9016b789-d0f5-417c-8453-1eeed68e2b5a,c_f205,comune-di-milano,0,https://dati.gov.it/view-dataset?organization=comune-di-milano
 2024-09-23T09:52:06.942638,Comune di Milazzo,fdd54380-d946-4fe5-b511-de523e698fdb,c_f206,comune-di-milazzo,42,https://dati.gov.it/view-dataset?organization=comune-di-milazzo
 2025-04-14T12:26:03.595916,Comune di Militello in Val di Catania,ce57a0b9-b1e7-4fd0-bd0a-0ddd619fbb05,c_f209,comune-di-militello-in-val-di-catania,0,https://dati.gov.it/view-dataset?organization=comune-di-militello-in-val-di-catania
 2025-02-17T09:11:42.407328,Comune di Mogliano Veneto,c5ea01c8-cbef-41e4-9979-960f011bd72b,c_f269,comune-di-mogliano-veneto,42,https://dati.gov.it/view-dataset?organization=comune-di-mogliano-veneto
@@ -259,7 +259,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-12-18T14:59:48.830127,Comune di Siracusa,ab4e5be9-1a12-40da-bb93-559475c37bc9,c_i754,comune-di-siracusa,10,https://dati.gov.it/view-dataset?organization=comune-di-siracusa
 2025-07-11T09:35:19.950739,Comune di Sondrio,e05e5762-9b48-4f5e-a72f-0d9af092bf5b,c_i829,comune-di-sondrio,16,https://dati.gov.it/view-dataset?organization=comune-di-sondrio
 2025-12-07T09:08:18.928607,Comune di Soresina,389cafd9-534e-4e67-b4b0-71ecdd5bd990,c_i849,comune-di-soresina,1,https://dati.gov.it/view-dataset?organization=comune-di-soresina
-2026-01-30T09:52:33.438173,Comune di Sovicille,251e1965-dfe8-45f1-a2a7-398863225576,c_i877,comune-di-sovicille,0,https://dati.gov.it/view-dataset?organization=comune-di-sovicille
+2026-01-30T09:52:33.438173,Comune di Sovicille,251e1965-dfe8-45f1-a2a7-398863225576,c_i877,comune-di-sovicille,1,https://dati.gov.it/view-dataset?organization=comune-di-sovicille
 2025-11-10T09:14:51.252789,Comune di Spezzano Albanese,506c8123-d930-47d7-a025-fed28443b280, c_i895,comune-di-spezzano-albanese,0,https://dati.gov.it/view-dataset?organization=comune-di-spezzano-albanese
 2024-10-08T10:09:27.470392,Comune di Sulmona,184af785-59d7-44b3-aa77-31a8d724dc2b,c_i804,comune-di-sulmona,10,https://dati.gov.it/view-dataset?organization=comune-di-sulmona
 2025-11-18T14:23:35.816325,Comune di Taggia,604ab9c6-6297-4d7c-9ec0-1c3f46cabc38,c_­l024,comune-di-taggia,5,https://dati.gov.it/view-dataset?organization=comune-di-taggia
