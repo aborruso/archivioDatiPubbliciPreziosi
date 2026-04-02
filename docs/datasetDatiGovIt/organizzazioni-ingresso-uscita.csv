@@ -1,4 +1,9 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-laino-castello","c_e419","https://www.comune.lainocastello.cs.it/","2026-03-19T13:20:16.790415","",ingresso,2026-03-31,1
+"comune-di-pula","c_h088","https://www.comune.pula.ca.it/","2026-03-19T13:05:51.750983","",ingresso,2026-03-31,1
+"comune-di-torremaggiore","c_l273","https://comune.torremaggiore.fg.it/","2026-03-27T08:21:39.639875","",ingresso,2026-03-31,1
+"comunita-montana-valtellina-di-tirano","cm_valtetir","https://www.cmtirano.so.it","2026-03-27T09:18:28.987902","",ingresso,2026-03-31,1
+"consorzio-dei-comuni-del-cassinate-per-la-programmazione-e-gestione-dei-servizi-sociali","cdccl","https://www.opendata.maggioli.cloud/organization/consorzio-dei-comuni-del-cassinate-per-la-programmazione-e-gestione-dei-servizi-sociali","2026-03-23T09:46:38.735108","12",ingresso,2026-03-31,1
 "comune-di-taranto","c_l049","https://www.opendata.maggioli.cloud/organizzation/comune-di-taranto","2026-03-11T13:57:04.090576","16",ingresso,2026-03-12,1
 "comune-di-grassobbio","c_e148","https://comune.grassobbio.bg.it/","2026-03-04T21:03:46.266798","",ingresso,2026-03-05,1
 "provincia-di-pescara","p_pe","https://www.opendata.maggioli.cloud/organizzation/provincia-di-pescara","2026-03-04T21:19:47.923716","13",ingresso,2026-03-05,1

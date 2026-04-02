@@ -131,7 +131,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-19T10:29:32.284647,Comune di Comacchio,f61bbd01-416b-4ce0-a6e1-4f4c3f76bdfe,c_c912,comune-di-comacchio,50,https://dati.gov.it/view-dataset?organization=comune-di-comacchio
 2026-01-07T09:05:49.466573,Comune di Corbetta,b64dd82a-79fa-4527-a6c1-4ece2e547f79,c_c986,comune-di-corbetta,21,https://dati.gov.it/view-dataset?organization=comune-di-corbetta
 2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,6,https://dati.gov.it/view-dataset?organization=comune-di-corciano
-2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,2,https://dati.gov.it/view-dataset?organization=comune-di-coriano
+2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,3,https://dati.gov.it/view-dataset?organization=comune-di-coriano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,12,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
 2024-11-13T09:20:51.897034,Comune di Desenzano del Garda,1d853219-813f-469f-9382-1582ff3e5203,c_d284,comune-di-desenzano-del-garda,43,https://dati.gov.it/view-dataset?organization=comune-di-desenzano-del-garda
 2025-11-04T15:09:44.875179,Comune di Diano Marina,d6c9e819-ced7-4ac9-9a4a-eb412aaf440a,c_d297,comune-di-diano-marina,6,https://dati.gov.it/view-dataset?organization=comune-di-diano-marina
@@ -149,7 +149,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-17T17:10:05.094601,Comune di Giaveno,f5f9730b-e56c-4478-bda0-3ad6157f2751,c_e020,comune-di-giaveno,5,https://dati.gov.it/view-dataset?organization=comune-di-giaveno
 2025-02-07T15:18:26.164181,Comune di Gildone,4bd8476a-047d-4254-afeb-900d8661e69c,c_e030,comune-di-gildone,0,https://dati.gov.it/view-dataset?organization=comune-di-gildone
 2025-03-07T15:29:16.641505,Comune di Giovinazzo,e1e9f349-ef2d-4894-91f4-d32f30db0a46,c_e047,comune-di-giovinazzo,4,https://dati.gov.it/view-dataset?organization=comune-di-giovinazzo
-2026-03-04T21:03:46.266798,Comune di Grassobbio,829778e5-41d8-465f-bf50-06ff8deb0245,c_e148,comune-di-grassobbio,0,https://dati.gov.it/view-dataset?organization=comune-di-grassobbio
+2026-03-04T21:03:46.266798,Comune di Grassobbio,829778e5-41d8-465f-bf50-06ff8deb0245,c_e148,comune-di-grassobbio,3,https://dati.gov.it/view-dataset?organization=comune-di-grassobbio
 2025-02-11T10:15:38.000771,Comune di Gravina di Catania,9efc13b8-1d90-40b8-9447-9a71823448f5,c_e156,comune-di-gravina-di-catania,6,https://dati.gov.it/view-dataset?organization=comune-di-gravina-di-catania
 2025-03-17T15:59:19.907584,Comune di Grezzana,3f45638a-7bce-4437-a8bd-5274c3cd9047,c_e171,comune-di-grezzana,14,https://dati.gov.it/view-dataset?organization=comune-di-grezzana
 2025-04-14T07:59:19.027568,Comune di Grottammare,c59b580b-8e17-459f-b532-db891593d4e6,c_e207,comune-di-grottammare,5,https://dati.gov.it/view-dataset?organization=comune-di-grottammare
@@ -271,7 +271,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-05-28T08:34:08.763606,Comune di Terralba,250720a6-46e3-4f10-abe7-ec9902a49dd7,c_l122,comune-di-terralba,3,https://dati.gov.it/view-dataset?organization=comune-di-terralba
 2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2060,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
-2026-03-27T08:21:39.639875,Comune di Torremaggiore,d9b9e2b5-b8ab-4ee6-b2a0-7a710762c60a,c_l273,comune-di-torremaggiore,0,https://dati.gov.it/view-dataset?organization=comune-di-torremaggiore
+2026-03-27T08:21:39.639875,Comune di Torremaggiore,d9b9e2b5-b8ab-4ee6-b2a0-7a710762c60a,c_l273,comune-di-torremaggiore,1,https://dati.gov.it/view-dataset?organization=comune-di-torremaggiore
 2025-02-13T16:26:10.993736,Comune di Tortona,70318d13-2c24-46ea-8944-12d58fa13ae3,c_l304,comune-di-tortona,3,https://dati.gov.it/view-dataset?organization=comune-di-tortona
 2025-02-18T16:39:02.958167,Comune di Tortoreto,8d8c41d3-a539-4f08-b489-a7fed178846a,c_l307,comune-di-tortoreto,7,https://dati.gov.it/view-dataset?organization=comune-di-tortoreto
 2025-10-07T15:49:27.740922,Comune di Treviglio,79d608ae-ea96-4736-9393-4154086f2e23,c_l400,comune-di-treviglio,44,https://dati.gov.it/view-dataset?organization=comune-di-treviglio
@@ -369,7 +369,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3345,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5460,https://dati.gov.it/view-dataset?organization=regione-marche
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,868,https://dati.gov.it/view-dataset?organization=regione-piemonte
-2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1809,https://dati.gov.it/view-dataset?organization=regione-puglia
+2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1806,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,191,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12806,https://dati.gov.it/view-dataset?organization=regione-toscana
 2024-03-08T21:45:55.598398,Regione Umbria,84f13bc0-e106-476f-8f32-19e5c15e8499,r_umbria,regione-umbria,452,https://dati.gov.it/view-dataset?organization=regione-umbria
