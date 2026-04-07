@@ -1,83 +1,83 @@
 REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
-Abruzzo,Gasolio,SELF,2.105
+Abruzzo,Gasolio,SELF,2.106
 Abruzzo,Benzina,SELF,1.778
-Abruzzo,GPL,SERVITO,0.778
-Abruzzo,Metano,SERVITO,1.520
-Basilicata,Gasolio,SELF,2.145
+Abruzzo,GPL,SERVITO,0.779
+Abruzzo,Metano,SERVITO,1.527
+Basilicata,Gasolio,SELF,2.147
 Basilicata,Benzina,SELF,1.806
-Basilicata,GPL,SERVITO,0.728
+Basilicata,GPL,SERVITO,0.731
 Basilicata,Metano,SERVITO,1.568
-Bolzano,Gasolio,SELF,2.159
+Bolzano,Gasolio,SELF,2.163
 Bolzano,Benzina,SELF,1.806
 Bolzano,GPL,SERVITO,0.821
 Bolzano,Metano,SERVITO,1.733
-Calabria,Gasolio,SELF,2.169
+Calabria,Gasolio,SELF,2.172
 Calabria,Benzina,SELF,1.804
-Calabria,GPL,SERVITO,0.806
+Calabria,GPL,SERVITO,0.807
 Calabria,Metano,SERVITO,1.628
-Campania,Gasolio,SELF,2.138
+Campania,Gasolio,SELF,2.141
 Campania,Benzina,SELF,1.785
-Campania,GPL,SERVITO,0.766
-Campania,Metano,SERVITO,1.530
-Emilia Romagna,Gasolio,SELF,2.137
+Campania,GPL,SERVITO,0.768
+Campania,Metano,SERVITO,1.531
+Emilia Romagna,Gasolio,SELF,2.139
 Emilia Romagna,Benzina,SELF,1.773
-Emilia Romagna,GPL,SERVITO,0.760
-Emilia Romagna,Metano,SERVITO,1.568
-Friuli Venezia Giulia,Gasolio,SELF,2.146
-Friuli Venezia Giulia,Benzina,SELF,1.776
-Friuli Venezia Giulia,GPL,SERVITO,0.747
+Emilia Romagna,GPL,SERVITO,0.762
+Emilia Romagna,Metano,SERVITO,1.569
+Friuli Venezia Giulia,Gasolio,SELF,2.152
+Friuli Venezia Giulia,Benzina,SELF,1.778
+Friuli Venezia Giulia,GPL,SERVITO,0.750
 Friuli Venezia Giulia,Metano,SERVITO,1.567
-Lazio,Gasolio,SELF,2.125
+Lazio,Gasolio,SELF,2.127
 Lazio,Benzina,SELF,1.773
-Lazio,GPL,SERVITO,0.778
+Lazio,GPL,SERVITO,0.779
 Lazio,Metano,SERVITO,1.692
 Liguria,Gasolio,SELF,2.153
-Liguria,Benzina,SELF,1.790
+Liguria,Benzina,SELF,1.791
 Liguria,GPL,SERVITO,0.849
 Liguria,Metano,SERVITO,1.567
-Lombardia,Gasolio,SELF,2.158
+Lombardia,Gasolio,SELF,2.160
 Lombardia,Benzina,SELF,1.780
-Lombardia,GPL,SERVITO,0.756
-Lombardia,Metano,SERVITO,1.580
-Marche,Gasolio,SELF,2.115
-Marche,Benzina,SELF,1.769
-Marche,GPL,SERVITO,0.790
-Marche,Metano,SERVITO,1.526
-Molise,Gasolio,SELF,2.133
-Molise,Benzina,SELF,1.794
+Lombardia,GPL,SERVITO,0.758
+Lombardia,Metano,SERVITO,1.581
+Marche,Gasolio,SELF,2.119
+Marche,Benzina,SELF,1.770
+Marche,GPL,SERVITO,0.792
+Marche,Metano,SERVITO,1.533
+Molise,Gasolio,SELF,2.138
+Molise,Benzina,SELF,1.795
 Molise,GPL,SERVITO,0.773
 Molise,Metano,SERVITO,1.473
-Piemonte,Gasolio,SELF,2.147
+Piemonte,Gasolio,SELF,2.148
 Piemonte,Benzina,SELF,1.774
 Piemonte,GPL,SERVITO,0.758
-Piemonte,Metano,SERVITO,1.579
-Puglia,Gasolio,SELF,2.143
-Puglia,Benzina,SELF,1.790
+Piemonte,Metano,SERVITO,1.581
+Puglia,Gasolio,SELF,2.148
+Puglia,Benzina,SELF,1.791
 Puglia,GPL,SERVITO,0.747
 Puglia,Metano,SERVITO,1.649
-Sardegna,Gasolio,SELF,2.142
-Sardegna,Benzina,SELF,1.782
-Sardegna,GPL,SERVITO,0.842
-Sicilia,Gasolio,SELF,2.138
-Sicilia,Benzina,SELF,1.802
-Sicilia,GPL,SERVITO,0.786
+Sardegna,Gasolio,SELF,2.144
+Sardegna,Benzina,SELF,1.783
+Sardegna,GPL,SERVITO,0.843
+Sicilia,Gasolio,SELF,2.141
+Sicilia,Benzina,SELF,1.803
+Sicilia,GPL,SERVITO,0.789
 Sicilia,Metano,SERVITO,1.822
-Toscana,Gasolio,SELF,2.135
-Toscana,Benzina,SELF,1.780
-Toscana,GPL,SERVITO,0.783
+Toscana,Gasolio,SELF,2.139
+Toscana,Benzina,SELF,1.781
+Toscana,GPL,SERVITO,0.785
 Toscana,Metano,SERVITO,1.627
-Trento,Gasolio,SELF,2.141
-Trento,Benzina,SELF,1.787
-Trento,GPL,SERVITO,0.781
+Trento,Gasolio,SELF,2.146
+Trento,Benzina,SELF,1.788
+Trento,GPL,SERVITO,0.784
 Trento,Metano,SERVITO,1.613
-Umbria,Gasolio,SELF,2.118
-Umbria,Benzina,SELF,1.771
-Umbria,GPL,SERVITO,0.780
-Umbria,Metano,SERVITO,1.576
-Valle d'Aosta,Gasolio,SELF,2.151
-Valle d'Aosta,Benzina,SELF,1.792
-Valle d'Aosta,GPL,SERVITO,0.869
-Veneto,Gasolio,SELF,2.139
-Veneto,Benzina,SELF,1.769
-Veneto,GPL,SERVITO,0.774
+Umbria,Gasolio,SELF,2.119
+Umbria,Benzina,SELF,1.772
+Umbria,GPL,SERVITO,0.782
+Umbria,Metano,SERVITO,1.578
+Valle d'Aosta,Gasolio,SELF,2.152
+Valle d'Aosta,Benzina,SELF,1.793
+Valle d'Aosta,GPL,SERVITO,0.861
+Veneto,Gasolio,SELF,2.143
+Veneto,Benzina,SELF,1.770
+Veneto,GPL,SERVITO,0.776
 Veneto,Metano,SERVITO,1.534
