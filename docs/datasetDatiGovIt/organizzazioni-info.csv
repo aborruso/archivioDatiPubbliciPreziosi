@@ -70,6 +70,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-03-04T10:09:07.040681,Comune di Assisi,c7b4166e-36ae-4abb-9827-a9f580a02a2b,c_a475,comune-di-assisi,6,https://dati.gov.it/view-dataset?organization=comune-di-assisi
 2025-12-18T13:11:27.283070,Comune di Bagno a Ripoli,7d75d1bf-18c1-4f06-975d-8e0ec62ca8c4,c_a564,comune-di-bagno-a-ripoli,26,https://dati.gov.it/view-dataset?organization=comune-di-bagno-a-ripoli
 2025-11-04T15:13:59.709624,Comune di Baiso,f168d8ec-f6c5-4b44-8d90-fb343ccb0806,c_a586,comune-di-baiso,35,https://dati.gov.it/view-dataset?organization=comune-di-baiso
+2026-04-17T08:10:38.632385,Comune di Barbarano Mossano,2aa5fa7b-10fe-4561-ac30-cbeb310a9c7c,c_m401,comune-di-barbarano-mossano,0,https://dati.gov.it/view-dataset?organization=comune-di-barbarano-mossano
 2025-02-07T15:19:52.959015,Comune di Barcellona Pozzo di Gotto,cfbe70da-ac17-4fac-8887-fa82d7b9cc65,c_a638,comune-di-barcellona-pozzo-di-gotto,16,https://dati.gov.it/view-dataset?organization=comune-di-barcellona-pozzo-di-gotto
 2025-11-20T16:15:21.950445,Comune di Barga,293fb0bd-8583-45df-8b52-d682755d6027,c_a657,comune-di-barga,1,https://dati.gov.it/view-dataset?organization=comune-di-barga
 2024-03-08T18:20:12.070830,Comune di Bari,df53accc-dc73-4f98-bd0e-66c32524eb6f,c_a662,comune-di-bari,150,https://dati.gov.it/view-dataset?organization=comune-di-bari
@@ -131,7 +132,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-19T10:29:32.284647,Comune di Comacchio,f61bbd01-416b-4ce0-a6e1-4f4c3f76bdfe,c_c912,comune-di-comacchio,50,https://dati.gov.it/view-dataset?organization=comune-di-comacchio
 2026-01-07T09:05:49.466573,Comune di Corbetta,b64dd82a-79fa-4527-a6c1-4ece2e547f79,c_c986,comune-di-corbetta,21,https://dati.gov.it/view-dataset?organization=comune-di-corbetta
 2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,6,https://dati.gov.it/view-dataset?organization=comune-di-corciano
-2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,3,https://dati.gov.it/view-dataset?organization=comune-di-coriano
+2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,4,https://dati.gov.it/view-dataset?organization=comune-di-coriano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,12,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
 2024-11-13T09:20:51.897034,Comune di Desenzano del Garda,1d853219-813f-469f-9382-1582ff3e5203,c_d284,comune-di-desenzano-del-garda,43,https://dati.gov.it/view-dataset?organization=comune-di-desenzano-del-garda
 2025-11-04T15:09:44.875179,Comune di Diano Marina,d6c9e819-ced7-4ac9-9a4a-eb412aaf440a,c_d297,comune-di-diano-marina,6,https://dati.gov.it/view-dataset?organization=comune-di-diano-marina
