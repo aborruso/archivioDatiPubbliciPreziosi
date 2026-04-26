@@ -899,6 +899,7 @@ accessi-esterni2
 accessi-esterni2-10
 accessi-esterni2-4
 accessi-esterni3-1
+accessi-esterni3-15
 accessi-esterni3-3
 accessi-famiglie
 accessi-in-ps-e-ricoveri-urgenti-di-pazienti-cronici-malattie-cerebrovascolari-2018-2023
@@ -916,13 +917,13 @@ accessi-interni2-8
 accessi-interni2-9
 accessi-interni3-2
 accessi-interni3-4
+accessi-interni3-6
 accessi-interno
 accessi-interno1
 accessi-interno1-1
 accessi-interno1-2
 accessi-interno1-3
 accessi-mensili-al-portale-istituzionale-del-comune-di-bari
-accessi-pedonali-stazioni-ferroviarie
 accessi-pronto-soccorso
 accessi-pronto-soccorso-2020
 accessi-pronto-soccorso-2021
@@ -1356,7 +1357,6 @@ agenzia-nazionale-per-la-meteorologia-e-climatologia-italiameteo
 agenzia-provinciale-delle-foreste-demaniali-aprofod
 agenzia-tutela-salute-bergamo
 agenzie-autorizzate-alla-riscossione-tasse-auto
-agenzie-daffari
 agenzie-di-pratiche-automobilistiche
 agenzie-di-viaggio
 agenzie-di-viaggio-del-territorio-piemontese
@@ -1434,8 +1434,6 @@ aib-uso-suolo-degli-incendi-nei-parchi-nazionali-rilevati-con-gps
 aib-vegetazione-nei-parchi-nazionali
 aib-zone-rosse-prioritarie
 aib-zonizzazione-dei-parchi-nazionali
-air-break-index-centraline-ultime-24-ore
-air-break-index-medio-ultima-ora
 air-data-odala
 air-quality-observation-in-tuscany-based-on-date-json-data-in-the-cities-of-firenze-pisa-livorn
 air-quality-observation-provenance-metadata-in-tuscany
@@ -1773,7 +1771,6 @@ aliquote-contributive-terziario-i
 aliquote-contributive-terziario-ii
 aliquote-contributive-trasporto-aereo-i
 aliquote-contributive-trasporto-aereo-ii
-allagamenti-da-forti-piogge-in-ambito-urbano
 allenamento-21-09-2013-macroviabilita
 allenamento-21-09-2013-percorso-di-gara
 allenamento-21-09-2013-varchi
@@ -1838,7 +1835,6 @@ alto-piemonte-bi-no-vb-vc-export-imprese-dal-2023-al-2022
 alto-piemonte-bi-no-vb-vc-imprese-anno-2023
 alto-piemonte-bi-no-vb-vc-imprese-femminili-anno-2023
 alto-piemonte-bi-no-vb-vc-start-up-al-16-05-2024
-altre-attivita-commerciali
 altre-collaborazioni-a-s-2022
 altre-direttrici-interregionali
 altre-funzioni-pubbliche
@@ -4044,7 +4040,6 @@ anpil-citta-metropolitana-di-firenze1
 anpil-unitario
 anpil1-1
 antenne-punti
-anthophila
 anticipazione-provvisoria-dellindice-dei-prezzi-al-consumo-anno-2014
 anticipazione-provvisoria-dellindice-dei-prezzi-al-consumo-anno-2015
 anticipazione-provvisoria-dellindice-dei-prezzi-al-consumo-anno-2016
@@ -4142,7 +4137,6 @@ archi-stradali1-3
 archi-stradali1-5
 archi-stradali1-6
 archi-stradali1-7
-archi-stradali2
 archi-stradali2-3
 archi-verdi-metropolitani-ptrc-2020
 architettura-di-qualita-del-secondo-novecento-1945-2000-edifici-pubblici
@@ -4389,7 +4383,6 @@ area-di-scalo-ferroviario1
 area-di-scavo-o-discarica-sc_dis-050303
 area-di-stoccaggio-sale
 area-di-tutela-biologica-delle-acque-marino-costiere
-area-di-volo-usage
 area-drenata
 area-edificato-continuo
 area-edificato-continuo1
@@ -4446,6 +4439,7 @@ area-stradale1-6
 area-stradale1-8
 area-stradale1-9
 area-stradale2-11
+area-stradale2-15
 area-stradale3
 area-stradale3-1
 area-stradale3-2
@@ -4534,7 +4528,6 @@ aree-allagabili-m-rsp-uomitr081-vigente-adbpo
 aree-allagabili-media-probabilita-m-apsfr-2020-distretto-po
 aree-allagate-di-firenze-alluvione-del-1966
 aree-allagate-durante-gli-eventi-alluvionali-del-26-settembre-2007
-aree-allagate-fonte-citizen-science
 aree-alluvionate-1994-2000
 aree-amministrative-bertiolo
 aree-amministrative-comune-di-agna
@@ -4644,6 +4637,7 @@ aree-di-circolazione-ciclabili1-9
 aree-di-circolazione-ciclabili2-1
 aree-di-circolazione-ciclabili2-10
 aree-di-circolazione-ciclabili2-11
+aree-di-circolazione-ciclabili2-13
 aree-di-circolazione-ciclabili3
 aree-di-circolazione-ciclabili3-4
 aree-di-circolazione-ciclabili3-7
@@ -4682,6 +4676,7 @@ aree-di-circolazione-pedonale1-8
 aree-di-circolazione-pedonale2-1
 aree-di-circolazione-pedonale2-11
 aree-di-circolazione-pedonale2-13
+aree-di-circolazione-pedonale2-15
 aree-di-circolazione-pedonale2-9
 aree-di-circolazione-pedonale3
 aree-di-circolazione-pedonale3-1
@@ -4726,6 +4721,7 @@ aree-di-circolazione-veicolare1-8
 aree-di-circolazione-veicolare2-1
 aree-di-circolazione-veicolare2-10
 aree-di-circolazione-veicolare2-13
+aree-di-circolazione-veicolare2-15
 aree-di-circolazione-veicolare2-9
 aree-di-circolazione-veicolare3
 aree-di-circolazione-veicolare3-1
@@ -4765,7 +4761,6 @@ aree-di-nuovo-impianto
 aree-di-particolare-interesse-naturalistico1
 aree-di-pertinenza-dei-ghiacciai-variante-pup-2000
 aree-di-pertinenza-della-rete-idrografica-1-10-000-edizione-del-1988
-aree-di-piantumazione-air-break
 aree-di-potenziale-approvvigionamento-di-biomasse
 aree-di-prelievo-di-sabbia-destinata-al-ripascimento-delle-spiagge
 aree-di-protezione-assoluta-dei-pozzi-per-le-acque-minerali-areale
@@ -4783,7 +4778,6 @@ aree-di-ricerca-per-nuovi-impianti-di-radiocomunicazione-piano-strutturale-del-c
 aree-di-ricovero-per-la-popolazione-rp
 aree-di-ricovero-protezione-civile-nel-comune-di-bassano-del-grappa
 aree-di-ricovero-protezione-civile-nel-comune-di-cartigliano
-aree-di-riequilibrio-ecologico
 aree-di-riferimento-normativo
 aree-di-rilevamento
 aree-di-rispetto-delle-stazioni-sismometriche
@@ -4802,7 +4796,6 @@ aree-di-schianto-censite-da-arpav-1
 aree-di-servizio-fipili-citta-metropolitana-di-firenze
 aree-di-servizio-fipili-citta-metropolitana-di-firenze1
 aree-di-sosta-per-camper-citta-metropolitana-di-firenze
-aree-di-sosta-piu-usate-da-monopattini-elettrici-sharing
 aree-di-spiaggia-d-d-g-n-7056-2025
 aree-di-superamento-degli-standard-di-qualita-dellaria-sqa-pair-2030
 aree-di-tutela-ambientale-variante-pup-2000
@@ -4916,7 +4909,6 @@ aree-pedonali-messina
 aree-pedonali1
 aree-pedonali2
 aree-pedonali3
-aree-pedonali4
 aree-per-la-cantieristica-ptrc-2020
 aree-per-la-viabilita-common
 aree-per-la-viabilita-ground
@@ -4976,7 +4968,6 @@ aree-pericolose-dovute-ad-allagamento-nel-bacino-del-lemene
 aree-pertinenza
 aree-pertinenza-edifici-1-e-2-elenco-ex-l-59-80
 aree-piano-neve-liv1
-aree-pilota
 aree-potenzialmente-carsificabili
 aree-potenzialmente-carsificabili1
 aree-presidiate-dai-sistemi-arginali
@@ -5101,8 +5092,6 @@ aree-verdi-ed-impianti-ricreativi-common1
 aree-verdi-ed-impianti-ricreativi-ground
 aree-verdi-ed-impianti-ricreativi-line
 aree-verdi-fruibili-comune-di-chieri
-aree-verdi-istat-2023
-aree-verdi-istat-2024
 aree-verdi-nel-comune-di-bassano-del-grappa
 aree-verdi-nel-comune-di-cartigliano
 aree-verdi-nel-comune-di-mussolente
@@ -5662,7 +5651,6 @@ assi-di-piega
 assi-di-piega1
 assi-fluviali-dei-tratti-morfologicamente-omogenei-della-rete-idrografica-naturale-tipizzata
 assi-fluviali-uom-po-2001-distretto-po
-assi-infrastrutture
 assi-stradali-crn-25000
 assistenza-distrettuale-assistenza-consultoriale-materno-infantile
 assistenza-domiciliare-integrata-adi-nel-comune-di-milano1
@@ -7004,7 +6992,6 @@ bacini-afferenti-individuati-nellambito-dellanalisi-delle-pressioni-dei-corpi-id
 bacini-afferenti-interbacini-ai-corpi-idrici-superficiali-pta-2022
 bacini-della-costa-toscana-stato-ecologico-e-chimico-delle-acque-superficiali-anni-2010-2022
 bacini-di-conferimento-delle-discariche-provinciali
-bacini-di-laminazione
 bacini-di-raccolta-dei-rifiuti-e-comuni
 bacini-di-utenza-farmacie1
 bacini-dutenza-per-i-singoli-depuratori1
@@ -7372,6 +7359,7 @@ battente-idrometrico-di-esondazione-allo-stato-attuale-tr-200-anni-piano-struttu
 battente-idrometrico-di-esondazione-allo-stato-attuale-tr-30-anni-piano-strutturale-del-comune-
 battente-idrometrico-di-esondazione-allo-stato-di-progetto-tr-200-anni-piano-strutturale-del-co
 battente-idrometrico-di-esondazione-allo-stato-di-progetto-tr-30-anni-piano-strutturale-del-com
+battenti-e-velocita-da-studi-idraulici-di-dettaglio
 battenti-idraulici-simi
 bbd7b3aec40014d602d002e59bc70c8fed98a5238e6f58fa1efd45db8eff1cca
 bcde001eef9247887f1fe48afbb8649a0c12084116795b2138d797aabbfbbb9c
@@ -7637,7 +7625,6 @@ beni-immobili-dellex-riforma-fondiaria-oggetto-di-alienazione-con-procedura-di-a
 beni-immobili-di-proprieta-al-30-04-2024
 beni-immobili-di-proprieta-al-30-04-2025
 beni-immobili-non-di-proprieta-al-30-04-2025
-beni-immobili-tutelati-con-provvedimento-ministeriale
 beni-mobili-2022_comune-di-lecce
 beni-monumentali-art-10-d-lgs-42-04-comune-di-matera
 beni-naturalistici-zoologici-bnz
@@ -7713,6 +7700,7 @@ biblioteche
 biblioteche-caratteristiche-degli-utenti-delle-biblioteche-rionali
 biblioteche-catalogo-comunicazione-aumentativa-alternativa
 biblioteche-catalogo-opere-leggochiaro
+biblioteche-colibri
 biblioteche-comunali
 biblioteche-comunali-a-firenze-anno-2012
 biblioteche-comunali-a-firenze-anno-2013
@@ -8125,7 +8113,6 @@ biblioteche5-9
 biblioteche7
 biblioteche9
 biciplan-il-piano-ciclistico-comunale
-bicipolitana-nella-rete-ciclabile-esistente
 bicocca-hack-the-cloud-2019
 biella-esportazioni-biellesi-per-principali-prodotti-e-paesi-anni-2023-e-2024
 biella-imprese-femminili-per-settore-e-per-classe-giuridica-anno-2024
@@ -8630,7 +8617,6 @@ biodiversita-rete-ecologica
 bioittica
 biomassa-da-scarti-agro-industriali-2021
 biota-classificazione-acque-superficiali
-biotopi
 biotopi-1
 biotopi-di-interesse-provinciale
 biotopi-naturali
@@ -9060,7 +9046,6 @@ captazioni-idriche-ad-uso-potabile
 captazioni-idriche-piano-strutturale-del-comune-di-bagno-a-ripoli
 car-sharing-noleggi
 car-sharing-open-data
-carabidi-2023
 carabinieri
 caratteri-dellinsediamento-e-sistema-dei-percorsi-stradali
 caratteristiche-allievi-dei-percorsi-di-formazione-lefp
@@ -9883,7 +9868,6 @@ catalogo-e-inventario-della-biblioteca-della-giunta-regionale-del-lazio-altiero-
 catalogo-generale-dei-beni-culturali
 catalogo-generale-dei-beni-culturali-dataset-itinerari
 catalogo-generale-dei-beni-culturali-schede-catalografiche-altre-normative
-catalogo-invertebrati-alcool
 catalogo-minori
 catalogo-minori-zerotre
 catalogo-od-lombardia-std-dcat-ap_it-formato-rdf
@@ -10173,7 +10157,6 @@ censimento-2011-principali-caratteristiche-delle-famiglie-residenti-per-sezione-
 censimento-2011-struttura-demografica-della-popolazione-straniera-nata-in-italia
 censimento-2011-struttura-demografica-della-popolazione-straniera-per-le-10-cittadinanze-piu-nu1
 censimento-2011-titolo-di-godimento-delle-abitazioni-occupate-per-municipi1
-censimento-alberi-specie-arboree
 censimento-annuale-degli-stalli-auto-nelle-zone-a-sosta-tariffata-dal-2007-al-2017-zone-blu
 censimento-arboreo-comune-di-copertino
 censimento-aree-edifici-inutilizzati
@@ -10724,7 +10707,6 @@ cippi-ettometrici-della-viabilita-della-provincia-di-pistoia
 cippi-stradali
 circhi-glaciali-aree
 circhi-glaciali-linee
-circoli
 circoscrizioni
 circoscrizioni-del-comune-di-reggio-emilia
 circoscrizioni-del-territorio-comunale-di-vicenza
@@ -10934,6 +10916,7 @@ cittadini-aire-per-stato
 cittadini-aire-pesaro
 cittadini-aire-pesaro-per-localita
 cittadini-aire-suddivisi-per-nazione-di-iscrizione
+cittadini-cancellati-dallanagrafe-per-cittadinanza-eta-e-provenienza
 cittadini-e-che-hanno-beneficiato-della-misura-del-reddito-di-dignita-e-hanno-avviato-un-percor
 cittadini-emigrati-dal-comune-di-carbonera-dal-2015-al-2019-suddivisi-per-sesso
 cittadini-immigrati-nel-comune-di-carbonera-dal-2015-al-2019-suddivisi-per-sesso
@@ -10985,7 +10968,6 @@ civici_spj
 civici_ssq
 civici_st
 classe-geotecnica
-classi-acustiche-1
 classi-acustiche1
 classi-altimetriche-pianura-padana-rer-copertura-vettoriale-edizione-1997
 classi-altimetriche-pianura-padana-rer-copertura-vettoriale-edizione-19971
@@ -11006,7 +10988,6 @@ classificazione-ambientale-dei-corpi-idrici-piano-di-gestione-del-distretto-idro
 classificazione-corsi-dacqua-competenze-di-gestione
 classificazione-dei-comuni-pugliesi-per-aree-interne
 classificazione-dei-corpi-idrici-fluviali-del-veneto-come-da-dgr-1856-del-12-dicembre-2015
-classificazione-dei-materiali-di-superficie
 classificazione-dei-morfotipi
 classificazione-dei-tessuti-urbani
 classificazione-della-rete-viaria-esistente
@@ -11091,7 +11072,6 @@ cnit-2018
 cnr-igg-arpa-piemonte-carta-geologica-geopiemonte-map
 cnr-igg-arpa-piemonte-unito-carta-geolitologica-interattiva-delle-pietre-ornamentali-del-piemon
 co-massima-media-giornaliera-2018-2022
-co-orario-ultimi-7-giorni
 codice-della-strada
 codice-statistico-contributivo
 codice-univoco-degli-uffici-del-comune-di-narni-per-servizi-di-fatturazione-elettronica
@@ -11106,7 +11086,6 @@ codifiche-stati-esteri-associazione-codice-istat-e-ministero
 codifiche-stati-esteri-classificazione-istat
 codifiche-stati-esteri-classificazione-ministero
 coefficiente-di-boscosita1
-coefficienti-di-deflusso-per-comparti
 coefficienti-e-aliquote-lavoratori-dipendenti-senza-contributo
 coefficienti-e-aliquote-lavoratori-domestici-2014-con-contributo
 cognomi-con-frequenza-maggiore-dal-2012-al-2022
@@ -11144,12 +11123,7 @@ collegi-provinciali
 collegi-senatoriali
 collegi-uninominali-2018
 collegio-di-pesca
-collettori-fognari-rete-esistente
 collettori-principali-in-esercizio
-collezione-apidae
-collezione-bosi
-collezione-cosmos
-collezione-ibe-1985-1986
 collezione-opere-darte-regionale-presso-il-palazzo-del-lloyd-triestino
 collezione-regionale-della-provincia-di-gorizia
 collocazione-defibrillatori1
@@ -11197,7 +11171,6 @@ commercio-aperture-e-chiusure-attivita-20181
 commercio-con-lestero-della-provincia-di-lecce-i-trimestre-2020
 commercio-con-lestero-della-provincia-di-lecce-ii-trimestre-2020
 commercio-con-lestero-della-provincia-di-lecce-iii-trimestre-2020
-commercio-elettronico
 commercio-estero-della-provincia-di-lucca-per-paese-anno-2011
 commercio-estero-della-provincia-di-lucca-per-paese-anno-2012
 commercio-estero-della-provincia-di-lucca-per-paese-anno-2013
@@ -13547,7 +13520,10 @@ comune-di-corbetta-stranieri-per-stato-cittadinanza
 comune-di-coreglia-ligure-p-u-c-delibera-c-c-n-16-2013
 comune-di-cormano
 comune-di-cormano-aire-per-nazione
+comune-di-cormano-bandi-di-gara-e-contratti-aggiornati
 comune-di-cormano-cognomi-piu-diffusi-residenti
+comune-di-cormano-conteggio-protocolli
+comune-di-cormano-conteggio-protocolli-per-ufficio
 comune-di-cormano-elenco-anagrafico-decessi-giornalieri
 comune-di-cormano-elenco-cancellati
 comune-di-cormano-elenco-decessi
@@ -13558,6 +13534,7 @@ comune-di-cormano-elenco-nascite
 comune-di-cormano-elenco-residenti
 comune-di-cormano-elenco-residenti-allestero
 comune-di-cormano-elenco-stato-civile-decessi-giornalieri
+comune-di-cormano-fabbricati-attivi
 comune-di-cormano-famiglie-per-numero-figli
 comune-di-cormano-famiglie-residenti-per-via
 comune-di-cormano-famiglie-totali
@@ -13566,10 +13543,16 @@ comune-di-cormano-movimento-anagrafico
 comune-di-cormano-movimento-stranieri
 comune-di-cormano-nomi-resid-iscritti-per-nascita
 comune-di-cormano-nomi-resid-per-eta-e-sesso
+comune-di-cormano-personale-cessati-nellanno
+comune-di-cormano-personale-in-servizio
 comune-di-cormano-posas
+comune-di-cormano-provvedimenti-degli-organi-di-indirizzo-politico
+comune-di-cormano-provvedimenti-dei-dirigenti
 comune-di-cormano-saldi-movimento-anagrafico
+comune-di-cormano-sovvenzioni-contributi-sussidi-vantaggi-economici-aggiornati
 comune-di-cormano-strasa
 comune-di-cormano-tassi-popolazione-residente
+comune-di-cormano-terreni-attivi
 comune-di-cormano-trend-demografico
 comune-di-cossignano-punti-interesse
 comune-di-credera-rubbiano-elenco-immobili-di-proprieta
@@ -14188,7 +14171,9 @@ comune-di-longare-famiglie-per-numero-figli
 comune-di-longare-imu-versamenti-spontanei-2024
 comune-di-longare-procedimenti-amministrativi
 comune-di-longare-rendiconto-della-gestione-entrata-2024
+comune-di-longare-rendiconto-della-gestione-entrata-2025
 comune-di-longare-rendiconto-della-gestione-spesa-2024
+comune-di-longare-rendiconto-della-gestione-spesa-2025
 comune-di-longare-stranieri-per-stato-cittadinanza
 comune-di-luino
 comune-di-luino-bilancio-di-previsione-entrata
@@ -14753,6 +14738,50 @@ comune-di-nembro-sportello-telematico-compilazioni-presentate
 comune-di-nembro-sportello-telematico-export-contatore-pratiche
 comune-di-nembro-sportello-telematico-export-valutazione-servizio
 comune-di-nerviano
+comune-di-nova-milanese
+comune-di-nova-milanese-aire-per-nazione
+comune-di-nova-milanese-bandi-di-gara-e-contratti-aggiornati
+comune-di-nova-milanese-calcolato-annuale-rifiuti-solidi-urbani
+comune-di-nova-milanese-cognomi-piu-diffusi-residenti
+comune-di-nova-milanese-conteggio-protocolli
+comune-di-nova-milanese-conteggio-protocolli-per-ufficio
+comune-di-nova-milanese-convocati
+comune-di-nova-milanese-elenco-anagrafico-decessi-giornalieri
+comune-di-nova-milanese-elenco-cancellati
+comune-di-nova-milanese-elenco-decessi
+comune-di-nova-milanese-elenco-delle-aree-di-circolazione
+comune-di-nova-milanese-elenco-divorzi
+comune-di-nova-milanese-elenco-iscritti
+comune-di-nova-milanese-elenco-matrimoni
+comune-di-nova-milanese-elenco-nascite
+comune-di-nova-milanese-elenco-residenti
+comune-di-nova-milanese-elenco-residenti-allestero
+comune-di-nova-milanese-elenco-stato-civile-decessi-giornalieri
+comune-di-nova-milanese-fabbricati-attivi
+comune-di-nova-milanese-famiglie-per-numero-figli
+comune-di-nova-milanese-famiglie-residenti-per-via
+comune-di-nova-milanese-famiglie-totali
+comune-di-nova-milanese-matrim-celebrati-per-rito
+comune-di-nova-milanese-movimento-anagrafico
+comune-di-nova-milanese-movimento-stranieri
+comune-di-nova-milanese-nomi-resid-iscritti-per-nascita
+comune-di-nova-milanese-nomi-resid-per-eta-e-sesso
+comune-di-nova-milanese-peronale-in-servizio
+comune-di-nova-milanese-personale-assunto-nellanno
+comune-di-nova-milanese-personale-cessati-nellanno
+comune-di-nova-milanese-popolazione-residente
+comune-di-nova-milanese-posas
+comune-di-nova-milanese-provvedimenti-dirigenti-amministrativi
+comune-di-nova-milanese-provvedimenti-organi-di-indirizzo-politico
+comune-di-nova-milanese-saldi-movimento-anagrafico
+comune-di-nova-milanese-sovvenzioni-contributi-sussidi-vantaggi-economici-aggiornato
+comune-di-nova-milanese-stranieri-per-sesso-ed-eta
+comune-di-nova-milanese-stranieri-per-stato-cittad
+comune-di-nova-milanese-strasa
+comune-di-nova-milanese-tassi-popolazione-residente
+comune-di-nova-milanese-terreni-attivi
+comune-di-nova-milanese-trend-demografico
+comune-di-nova-milanese-utenze-rifiuti-solidi-urbani
 comune-di-nuoro
 comune-di-offanengo-elenco-impianti-di-depurazione
 comune-di-offanengo-parcheggi
@@ -17498,6 +17527,7 @@ consumo-del-suolo1-9
 consumo-del-suolo2-1
 consumo-del-suolo2-11
 consumo-del-suolo2-13
+consumo-del-suolo2-15
 consumo-del-suolo2-16
 consumo-del-suolo2-9
 consumo-del-suolo3
@@ -18772,8 +18802,6 @@ copernicus-grassland-italia-dataset
 copernicus-imperviousness-italia-dataset
 copernicus-water-wetness-italia-dataset
 copertura-2019-della-banda-larga-in-italia-secondo-i-criteri-di-rilevazione-desi-2020
-copertura-alberi-tree-canopy
-copertura-alberi-usage-tree-canopy
 copertura-del-servizio-pubblico-di-fognatura1
 copertura-del-suolo-aree
 copertura-del-suolo-simboli1
@@ -19785,7 +19813,6 @@ dati-da-sensore-della-stazione-smt5-via-emilia-viale-caduti-in-guerra-viale-mart
 dati-da-sensore-della-stazione-smt54-nonantolana-mar-tirreno-cimone
 dati-da-sensore-della-stazione-smt88-emilia-ovest-zucchi-italia
 dati-dei-pagamenti-della-pubblica-amministrazione-piemontese
-dati-dei-pagamenti-della-pubblica-amministrazione-piemontese1
 dati-del-patrimonio-immobiliare-della-regione-derivante-dalle-ex-provincie
 dati-del-trasporto-pubblico-gtfs-del-comune-di-roma
 dati-delle-classificazioni-acustiche-dei-comuni-della-lombardia
@@ -19929,6 +19956,7 @@ dati-openstreetmap-per-studio-citta-in-15-minuti
 dati-pagamenti-1-trimestre-anno-2025
 dati-pagamenti-2-trimestre-anno-2025
 dati-pagamenti-3-trimestre-anno-2025
+dati-pagamenti-della-pubblica-amministrazione-piemontese
 dati-particellari-dei-piani-di-assestamento-forestali-vigenti
 dati-per-bilancio-di-genere
 dati-popolazione
@@ -21103,8 +21131,6 @@ defibrillatori-presenti-nel-comune-di-crispiano
 defibrillatori-pubblici-a-bassano-del-grappa
 defibrillatori-pubblici-a-pianezze
 defibrillatori-pubblici-a-pove-del-grappa
-deficit-volumi-di-laminazione-per-comparti
-deficit-volumi-di-laminazione-specifici
 definizione-dei-nuclei-rurali-piano-operativo-del-comune-di-bagno-a-ripoli
 deflusso-minimo-vitale-dmv-fattore-correttivo-q-dgr-n-1268-2022
 deflusso-minimo-vitale-dmv-fattore-correttivo-q-dgr-n-609-2018
@@ -21386,6 +21412,7 @@ destinazione-duso-catastale1-6
 destinazione-duso-catastale1-8
 destinazione-duso-catastale1-9
 destinazione-duso-catastale2-12
+destinazione-duso-catastale2-15
 destinazione-duso-catastale3
 destinazione-duso-catastale3-1
 destinazione-duso-catastale3-3
@@ -22257,7 +22284,6 @@ distribuzione-geografica-importi-pagamenti-domanda-unica
 distribuzione-geografica-importi-pagamenti-programma-di-sviluppo-rurale
 distribuzione-geografica-numero-pagamenti-domanda-unica
 distribuzione-geografica-numero-pagamenti-programma-di-sviluppo-rurale
-distribuzione-impollinatori
 distribuzione-impollinatori1-1
 distribuzione-percentuale-dei-beneficiari-di-indennit224-di-integrazione-salariale-an-2007-2009
 distribuzione-percentuale-dei-beneficiari-di-indennit224-di-integrazione-salariale-an-2007-2009-1
@@ -22266,14 +22292,7 @@ distribuzione-percentuale-dei-beneficiari-di-indennit224-di-integrazione-salaria
 distribuzione-percentuale-numero-pensionati-e-importo-lordo-annuo-reddito-pensionistico-pe-2012
 distribuzione-percentuale-numero-pensionati-e-importo-lordo-per-scaglioni-tipici-2012
 distribuzione-percentuale-pensionati-inps-e-importo-medio-mensile-reddito-pensionistico-12-2012
-distribuzione-popolazione-2020-gdpr
-distribuzione-popolazione-2021-gdpr
-distribuzione-popolazione-2022-gdpr
-distribuzione-popolazione-2023-gdpr
-distribuzione-popolazione-2024-gdpr
-distribuzione-roadkill
 distribuzione-spaziale-ozono-aot40-2007-2015
-distribuzione-specie-censite-con-inaturalist
 distribuzione-specie-censite-con-inaturalist1-1
 distribuzione-targhe-prova-per-attivita-e-provincia-in-campania-anno-2024
 distribuzione-targhe-prova-per-attivita-e-provincia-in-campania-persone-fisiche-anno-2023
@@ -22766,6 +22785,7 @@ edificato-minore1-7
 edificato-minore2-1
 edificato-minore2-10
 edificato-minore2-12
+edificato-minore2-14
 edificato-minore2-7
 edificato-minore2-8
 edificato-minore4
@@ -22835,7 +22855,6 @@ edifici-sensibile
 edifici-soglie-temporali-di-riferimento
 edifici-soglie-temporali-di-riferimento-2
 edifici-soglie-temporali-di-riferimento-approvato
-edifici-storici-rue
 edifici-strategici-dei-48-ct-della-regione-calabria
 edifici-vincolati-l59-80
 edifici1
@@ -22925,6 +22944,7 @@ edificio1-9
 edificio2-1
 edificio2-11
 edificio2-13
+edificio2-15
 edificio2-8
 edificio3
 edificio3-6
@@ -24854,7 +24874,6 @@ elenco-vie-comunali-5
 elenco-vie-comunali-6
 elenco-vie-comunali-7
 elenco-vie-comunali-8
-elenco-vie-comunali1
 elenco-vie-e-piazze-di-roncade
 elencocodiciipaufficiregionali
 eletti-nel-2023-al-consiglio-regionale-nella-circoscrizione-di-milano-e-relativi-subentri
@@ -25747,7 +25766,6 @@ elezioni-comunali-2018-primo-turno-affluenza
 elezioni-comunali-2018-primo-turno-voti-liste
 elezioni-comunali-2018-primo-turno-voti-sindaco
 elezioni-comunali-2019-affluenza
-elezioni-comunali-2019-mappatura-voti-ballottaggio
 elezioni-comunali-2019-preferenze-candidati-consiglieri1
 elezioni-comunali-2019-voti-di-lista1
 elezioni-comunali-2019-voti-liste
@@ -25779,7 +25797,6 @@ elezioni-comunali-2023-voti-liste
 elezioni-comunali-2023-voti-sindaco
 elezioni-comunali-2024
 elezioni-comunali-2024-affluenza
-elezioni-comunali-2024-affluenze
 elezioni-comunali-2024-preferenze-candidati-consiglieri1
 elezioni-comunali-2024-voti-di-lista1
 elezioni-comunali-2024-voti-liste
@@ -26077,7 +26094,6 @@ elezioni-europee-20191
 elezioni-europee-20193
 elezioni-europee-2024
 elezioni-europee-2024-abbinamenti-dei-civici-alle-sezioni-elettorali1
-elezioni-europee-2024-affluenze
 elezioni-europee-2024-corrispondenza-civici-e-sezioni-elettorali
 elezioni-europee-2024-dati-affluenza
 elezioni-europee-2024-indirizzi-e-plessi-elettorali
@@ -26085,7 +26101,6 @@ elezioni-europee-2024-preferenze-ai-candidati-suddivise-per-sezione
 elezioni-europee-2024-preferenze-alle-liste
 elezioni-europee-2024-seggi-elettorali-e-sezioni-corrispondenti
 elezioni-europee-2024-sezioni-e-sedi-elettorali
-elezioni-europee-2024-voti-di-preferenza
 elezioni-europee-20242
 elezioni-europee-20243
 elezioni-europee-26-05-2014-liste
@@ -26526,10 +26541,6 @@ elezioni-regionali-2023-stradario-e-abbinamento-dei-numeri-civici-alle-sezioni-e
 elezioni-regionali-2023-voti-liste
 elezioni-regionali-2023-voti-presidente
 elezioni-regionali-2024-candidati-presidenti1
-elezioni-regionali-2024-dati-affluenza
-elezioni-regionali-2024-dati-consiglieri
-elezioni-regionali-2024-dati-liste
-elezioni-regionali-2024-dati-presidente
 elezioni-regionali-20241
 elezioni-regionali-2025-affluenza-domenica-12-ottobre-ore-12-00
 elezioni-regionali-2025-affluenza-domenica-12-ottobre-ore-19-00
@@ -26967,7 +26978,6 @@ esercizi-commerciali-presenti-nel-territorio-di-roma-capitale-alla-data-dell-01-
 esercizi-di-erogazione-carburante
 esercizi-di-ristorazione-comune-di-mesagne
 esercizi-di-vicinato
-esercizi-di-vicinato1
 esercizi-extra-alberghieri
 esercizi-extra-alberghieri-anno-2003
 esercizi-extra-alberghieri-anno-2004
@@ -27067,6 +27077,7 @@ estensione-delle-proprieta1-9
 estensione-delle-proprieta2
 estensione-delle-proprieta2-9
 estensione-delle-proprieta3-1
+estensione-delle-proprieta3-15
 estensione-delle-proprieta3-6
 estensione-delle-proprieta4-3
 estesa-amministrativa-es_amm-030301-aree
@@ -27338,7 +27349,6 @@ fabbricati-2023_comune-di-lecce
 fabbricati-attivi-comune-di-gambellara
 fabbricati-attivi-comune-di-montecchio-precalcino
 fabbricati-comune-di-magliano-in-toscana
-fabbricati-con-altezze-e-materiali-copertura
 fabbricati-del-comune-di-pinerolo
 fabbricati-del-demanio-statale-anno-20141
 fabbricati-del-demanio-statale-anno-20151
@@ -27733,8 +27743,6 @@ fasce-fluviali-uom-marecchia-conca-fasce-inondabili-per-piene-con-tempo-di-ritor
 fasce-fluviali-uom-marecchia-conca-fasce-inondabili-per-piene-con-tempo-di-ritorno-di-50-anni-2
 fasce-fluviali-uom-marecchia-conca-fasce-inondabili-per-piene-con-tempo-di-ritorno-di-500-anni-
 fasce-fluviali-uom-marecchia-conca-zone-o-elementi-a-rischio-2020-distretto-po
-fasce-pertinenza-di-progetto
-fasce-pertinenza-esistenti
 fasce-reddito-servizio-mensa
 fascia-a-uom-po-2008-distretto-po
 fascia-b-uom-po-2008-distretto-po
@@ -27811,7 +27819,6 @@ fatture-fornitori-2016
 fatture-fornitori-2017
 fatture-fornitori-2018
 fatture-fornitori-2019
-fauna-di-interesse
 fauna-elenco-specie
 fauna-mammiferi
 fauna-rettili-e-anfibi
@@ -28785,7 +28792,6 @@ gradino-morfologico-o-di-falesia
 grado-di-apertura-chiusura-del-sistema-sanitario-trentino1
 grado-di-diffusione-di-internet-nelle-famiglie1
 grado-di-soddisfazione-per-la-situazione-economica1
-grado-di-sofferenza-idraulica-dei-diversi-comparti
 grado-di-tutela-archeologica-approvato
 graduatoria-contributi-per-consumi-idrici
 graduatoria-contributi-per-le-badanti
@@ -28863,7 +28869,6 @@ gravita-sinistri-2020
 gravita-sinistri-2021
 green-mobility-2020-mobilita-del-futuro-alto-adige
 grid-statistico-umbria
-griglia-esagonale-per-aggregazione-dati
 grigliati-5-000-ed-igm-50-000
 grigliato-passo-1-km-etrf2000
 grotta
@@ -28915,7 +28920,6 @@ hta-segnalazioni-crehta-al-programma-nazionale-hta-dispositivi-medici
 hub-monocentrico-ptrc-2020
 hub-policentrico-area-ptrc-2020
 hub-policentrico-ptrc-2020
-hub-urbani-e-di-prossimita
 hun-monocentrico-area-ptrc-2020
 hydrography
 i-10-cognomi-piu-diffusi-al-31-08-2013
@@ -29014,12 +29018,6 @@ il-patrimonio-abitativo-nelle-utoe-e-sub-utoe
 il-patrimonio-abitativo-nelle-utoe-e-sub-utoe-1
 il-sistema-degli-istituti-tecnici-superiori-its-in-calabria
 illeciti-amministrativi-e-penali-per-anno-e-per-comune
-immagine-termica-diurna-16-07-2023
-immagine-termica-diurna-16-07-2023-temperatura-delle-superfici
-immagine-termica-notturna-17-07-2023
-immagine-termica-notturna-17-07-2023-temperatura-delle-superfici
-immagine-termica-notturna-30-01-2023
-immagini-iperspettrali-20-07-2022
 immagini-satellitari-spot-5-grafico-di-acquisizione-immagini-multispettrali
 immagini-satellitari-spot-5-grafico-di-acquisizione-immagini-pancromatiche
 immatricolate-i-lauree-magistrali
@@ -29159,7 +29157,6 @@ impermeabilizzazione-del-suolo-serie
 impermeabilizzazione-e-consumo-di-suolo-pro-capite1
 impianti
 impianti-12
-impianti-a-butano-e-gpl
 impianti-a-fune
 impianti-a-rischio-di-incidente-rilevante
 impianti-a-rischio-di-incidente-rilevante1
@@ -29174,7 +29171,6 @@ impianti-destinazione-rifiuti-urbani-messina
 impianti-di-depurazione
 impianti-di-depurazione-biologici1
 impianti-di-depurazione-delle-acque-reflue-urbane1
-impianti-di-distribuzione-carburanti
 impianti-di-erogazione-metano
 impianti-di-gestione-dei-rifiuti
 impianti-di-gestione-dei-rifiuti-aggregazione-per-unita-locale
@@ -29283,10 +29279,6 @@ impianti-sportivi4-8
 impianti-sportivi4-9
 impianti-sportivi5
 impianti-sportivi7
-impianti-termici-a-energia-elettrica
-impianti-termici-a-gasolio-e-olio-combustibile
-impianti-termici-a-legno-e-pellet
-impianti-termici-a-metano-e-gas-naturale
 impianti-termici-cit
 impianti-trattamento-rifiuti-autorizzati-dalla-provincia-di-rovigo
 impianti-trattamento-smaltimento-e-recupero-rifiuti-nel-comune-di-milano1
@@ -29967,6 +29959,9 @@ incendi-2007
 incendi-2008
 incendi-boschivi
 incendi-boschivi-aib-percorsi-di-avvistamento-mobili
+incendi-boschivi-aib-punti-di-osservazione
+incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia
+incendi-boschivi-aree-a-pericolosita-incendi-dinterfaccia-scala-provinciale
 incendi-boschivi-aree-e-punti-di-innesco
 incendi-boschivi1
 incendi-dal-1966-al-1983
@@ -29982,8 +29977,6 @@ incidentalita-anno-2014
 incidentalita-stradale-anni-2001-2018
 incidentalita-stradale-anno-2018
 incidenti-anno-2021-comune-di-copertino
-incidenti-con-decessi-dal-2004-al-2017
-incidenti-con-feriti-dal-2004-al-2017
 incidenti-con-guida-in-stato-di-ebbrezza-anno-2015
 incidenti-con-guida-sotto-uso-di-stupefacenti-anno-2015
 incidenti-e-persone-infortunate-secondo-la-conseguenza-anno-2010
@@ -30024,7 +30017,6 @@ incidenti-riepilogo-incroci
 incidenti-riepilogo-strade
 incidenti-stradali
 incidenti-stradali-2001-2007
-incidenti-stradali-2004-2017
 incidenti-stradali-anno-2005
 incidenti-stradali-anno-2006
 incidenti-stradali-anno-2007
@@ -30038,6 +30030,8 @@ incidenti-stradali-anno-2013
 incidenti-stradali-anno-2014
 incidenti-stradali-anno-2022
 incidenti-stradali-anno-2023
+incidenti-stradali-anno-2024
+incidenti-stradali-anno-2025
 incidenti-stradali-comune-di-badia-polesine
 incidenti-stradali-comune-di-campo-san-martino
 incidenti-stradali-comune-di-cordignano
@@ -30191,7 +30185,6 @@ incidenti-stradali3-1
 incidenti-stradali4
 incidenti-stradali4-1
 incidenti-stradali5
-incidenti-stradali6
 incidenti-stradali7
 incidenti-strade
 incidenti-strade-coinvolte
@@ -30506,6 +30499,7 @@ indice-definitivo-dei-prezzi-al-consumo-anno-2022
 indice-definitivo-dei-prezzi-al-consumo-anno-2023
 indice-definitivo-dei-prezzi-al-consumo-anno-2024
 indice-definitivo-dei-prezzi-al-consumo-anno-2025
+indice-definitivo-dei-prezzi-al-consumo-anno-2026
 indice-dei-percorsi-rilevati-sentiero-2-mari
 indice-dei-percorsi-rilevati-sentiero-lucano
 indice-dei-prezzi-al-consumo-armonizzato-a-tassazione-costante-base-2015100-dati
@@ -30536,15 +30530,9 @@ indice-dei-prezzi-al-consumo-per-lintera-collettivita-nic-servizi-ricettivi-e-di
 indice-dei-prezzi-al-consumo-per-lintera-collettivita-nic-servizi-sanitari-e-spese-per-la-salut
 indice-dei-prezzi-al-consumo-per-lintera-collettivita-nic-trasporti
 indice-del-traffico-merci-su-strada1
-indice-della-vegetazione-bordo-rosso-ndre
-indice-della-vegetazione-ndvi
-indice-della-vegetazione-verde-gndvi
 indice-densita-venatoria
-indice-di-azoto-ndni
 indice-di-bassa-qualita-dellabitazione1
 indice-di-calore-humidex
-indice-di-clorofilla-ci
-indice-di-concentrazione-clorofilla-in-acqua
 indice-di-dipendenza
 indice-di-dipendenza-anziani1
 indice-di-dipendenza-del-comune-di-treviso-anni-2003-2015
@@ -30559,10 +30547,6 @@ indice-di-fragilita-comunale
 indice-di-gini1
 indice-di-grande-difficolta-economica1
 indice-di-grave-deprivazione-materiale-e-sociale-europa-20301
-indice-di-impermeabilita-wim
-indice-di-impermeabilita-wim-zone-pug
-indice-di-infiltrazione-acqua-piovana-irw
-indice-di-infiltrazione-acqua-piovana-irw-zone-pug
 indice-di-parita-di-genere-f-m-competenza-alfabetica-non-adeguata-classi-ii-della-scuola-second1
 indice-di-parita-di-genere-f-m-competenza-alfabetica-non-adeguata-classi-iii-della-scuola-secon1
 indice-di-parita-di-genere-f-m-competenza-alfabetica-non-adeguata-classi-v-della-scuola-seconda1
@@ -30579,13 +30563,9 @@ indice-di-parita-di-genere-f-m-persone-di-16-74-anni-con-competenze-digitali-alm
 indice-di-parita-di-genere-f-m-persone-di-16-74-anni-con-competenze-digitali-elevate1
 indice-di-parita-di-genere-f-m-persone-di-30-34-anni-che-hanno-conseguito-un-titolo-universitar1
 indice-di-parita-di-genere-f-m-uscita-precoce-dal-sistema-di-istruzione-e-formazione1
-indice-di-regolazione-climatica-clr
-indice-di-regolazione-climatica-clr-zone-pug
 indice-di-ricambio
 indice-di-ricambio-della-popolazione-veneta-in-eta-attiva-1995-2016
 indice-di-ricambio-della-popolazione-veneta-in-eta-attiva-1995-2017
-indice-di-ruscellamento-superficiale-roc
-indice-di-ruscellamento-superficiale-roc-zone-pug
 indice-di-salute-del-verde-comune-di-adria
 indice-di-salute-del-verde-comune-di-rovigo
 indice-di-salute-del-verde-comune-di-villadose
@@ -30597,7 +30577,6 @@ indice-di-sovraffollamento-degli-istituti-di-pena-maschi1
 indice-di-sovraffollamento-degli-istituti-di-pena1
 indice-di-stato-fisico-pcs1
 indice-di-stato-psicologico-mcs1
-indice-di-stress-idrico-msi
 indice-di-tempestivita-dei-pagamenti-2014
 indice-di-tempestivita-dei-pagamenti-2015
 indice-di-tempestivita-dei-pagamenti-2016
@@ -30622,11 +30601,7 @@ indice-di-verde-urbano-dei-municipi-luglio-20241
 indice-di-verde-urbano-dei-nil-nuclei-di-identita-locale-luglio-20241
 indice-di-verde-urbano-delle-sezioni-di-censimento-2011-luglio-20241
 indice-dipendenza-per-quartiere
-indice-ecologico-integrato-iev
-indice-ecologico-integrato-iev-zone-pug
-indice-idrico-ndwi
 indice-nazionale-dei-prezzi-al-consumo-messina
-indice-ndvi-air-break
 indice-piattaforma-medcordex
 indice-pollinico-anno-2014
 indice-prezzi-al-consumo-intera-collettivita-nazionale-2010
@@ -31149,10 +31124,8 @@ interventi-di-trasformazione-della-citta-comune-di-vicenza
 interventi-di-tutela-e-valorizzazione-delle-chiese-rupestri-presenti-sul-territorio-regionale
 interventi-di-valorizzazione-e-recupero-dei-beni-culturali-fondo-sviluppo-e-coesione-14-20
 interventi-di-valorizzazione-e-recupero-dei-beni-culturali-por-calabria-fesr-fse-14-20
-interventi-e-progetti-pnrr
 interventi-edifici-scolastici
 interventi-edilizi-ed-urbanistici-piano-operativo-del-comune-di-bagno-a-ripoli
-interventi-edilizi-oope
 interventi-edilizia-scolastica-periferie
 interventi-edilizia-scolastica-pon-2018
 interventi-edilizia-scolastica-ptes-2018
@@ -32167,7 +32140,6 @@ laguna-di-grado-e-marano
 lampeggiatori
 land-cover
 land-cover-habitat-mapping-dataset
-land-surface-temperature-hot-spots
 land-surface-temperature-hot-spots1-1
 land-und-forstwirtschaft-betriebliche-arbeitskrafte
 land-und-forstwirtschaft-bodennutzung
@@ -32853,6 +32825,7 @@ limiti-amministrativi-comunali-2019-con-aggiornamenti-dbt-pgt-poligon-versione-s
 limiti-amministrativi-comunali-2020-con-aggiornamenti-dbt-pgt-line
 limiti-amministrativi-comunali-2020-con-aggiornamenti-dbt-pgt-poligon
 limiti-amministrativi-comunali-ante-2014-citta-metropolitana-di-firenze
+limiti-amministrativi-comunali-ante-2014-citta-metropolitana-di-firenze1
 limiti-amministrativi-comunali-citta-metropolitana-di-firenze
 limiti-amministrativi-comunali-citta-metropolitana-di-firenze1
 limiti-amministrativi-comune-di-vicenza
@@ -33053,7 +33026,6 @@ livello-invaso-di-bilancino-anno-2026
 livello-paesaggistico-puntuale-puc-2015
 living-labs
 local-authorities-project-beneficiariesen
-local-climate-zone-lcz
 locali-dell-universita-degli-studi-di-torino
 locali-pubblici-comune-di-arsiero
 locali-pubblici-comune-di-borso-del-grappa
@@ -33188,8 +33160,6 @@ lotti-ctrn-5000-ed2
 lotti-delle-aree-industriali-consortili-di-basilicata
 lotti-delle-aree-industriali-consortili-di-basilicata1
 lotti-pascolivi-2018
-lst-zone-pug-diurno
-lst-zone-pug-notturno
 ludoteche
 lunghezza-dei-procedimenti-civili1
 lunghezza-delle-piste-ciclabili1
@@ -33254,12 +33224,6 @@ m_it-anpr
 macchine-agricole-con-motore-2010-2017
 macchine-agricole-senza-motore-2010-2017
 macchine-emettitrici-biglietti-meb
-maceri-chiusi-prima-del-2004
-maceri-chiusi-prima-del-2004-linee
-maceri-esistenti-al-2008
-maceri-esistenti-nel-2004
-maceri-fabbri
-maceri-rimasti-a-ottobre-2019
 macro-ambito-della-nautica-da-diporto-ptrc-2020
 macroaree-di-allertamento-meteo-idro
 macroaree-disciplinari-uniba-aree-dipartimenti-e-corsi-di-studio-erogati
@@ -34109,7 +34073,6 @@ mappa-scuole-di-sci
 mappa-sll-regione-lombardia
 mappa-sonora-firenze-sound-map
 mappa-tassa-auto
-mappa-vulnerabilita-isole-di-calore
 mappa-zone-omogenee-per-rischio-idro-meteo
 mappa-zone-omogenee-per-rischio-incendi-boschivi
 mappa-zone-omogenee-per-rischio-neve
@@ -34119,7 +34082,6 @@ mappacantieristradali
 mappadolescenti
 mappatura-acustica-direttiva-rumore
 mappatura-aree-verdi-comune-di-verona
-mappatura-degli-alloggi-erp
 mappatura-degli-edifici-occupati-da-scuole-secondarie-di-2-grado-anno-2014-citta-metropolitana-
 mappatura-degli-edifici-occupati-da-scuole-secondarie-di-2-grado-citta-metropolitana-di-firenze
 mappatura-degli-eventi-di-presenza-noti-dell-orso-bruno-marsicano
@@ -34408,7 +34370,6 @@ medie-concentrazioni-annuali-pm2-5-in-veneto-anni-2002-2024
 medie-delle-concentrazioni-annuali-degli-elementi-in-tracce-as-cd-ni-pb-in-veneto-ann-2002-2024
 medie-delle-concentrazioni-annuali-dellinquinante-atmosferico-benzene-c6h6-in-veneto-2002-2024
 medie-delle-concentrazioni-annuali-dellinquinante-atmosferico-benzoapirene-ipa-in-ven-2002-2024
-medie-e-grandi-strutture-di-vendita
 medie-mensili-delle-temperature-massime-giornaliere-in-c-nel-comune-di-firenze-anni-20112014
 medie-mensili-delle-temperature-minime-e-massime-giornaliere-anni-2009-2012
 medie-mensili-delle-temperature-minime-giornaliere-in-c-nel-comune-di-firenze-anni-20112014
@@ -34554,7 +34515,6 @@ microsite-datasets-comune-di-monza
 microsite-hero-comune-di-monza
 microtoponimo
 microtoponimo1
-microzonazione-sismica-aree-indagate
 microzonazione-sismica-carta-delle-indagini
 microzonazione-sismica-carta-delle-microzone-omogenee-in-prospettiva-sismica-mops
 microzonazione-sismica-carta-geologico-tecnica-cgt
@@ -34564,8 +34524,6 @@ microzonazione-sismica-liv-1-zone-stabili
 microzonazione-sismica-liv-1-zone-suscettibili-di-amplificazione
 microzonazione-sismica-liv-2-3-zone-instabili
 microzonazione-sismica-liv-2-3-zone-stabili
-microzonazione-sismica-zone-instabili
-microzonazione-sismica-zone-stabili
 midline-delladriatico-confine-italia-croazia
 milan-observatory-attractiveness1
 milan-observatory-benchmark1
@@ -34735,7 +34693,6 @@ modello-digitale-della-superficie-dsm-risoluzione-5m
 modello-digitale-della-superficie-ghiacciai-2016-17-dsm-05m
 modello-digitale-della-superficie-ghiacciai-2016-17-dsm-05m1
 modello-digitale-della-superficie-ghiacciai-2023-dsm-05m
-modello-digitale-delle-superfici-dsm-2022
 modello-digitale-delle-superfici-edizione-2005-2008-dsm-passo-10-aggregato-in-quota-ellissoidic
 modello-digitale-delle-superfici-edizione-2005-2008-dsm-passo-10-aggregato-in-quota-ortometrica
 modello-digitale-delle-superfici-edizione-2005-2008-dsm-passo-2-aggregato-in-quota-ellissoidica
@@ -34746,7 +34703,6 @@ modello-digitale-delle-superfici-edizione-2005-dsm-passo-0-5-in-quota-ellissoidi
 modello-digitale-delle-superfici-edizione-2005-dsm-passo-0-5-in-quota-ortometrica
 modello-digitale-delle-superfici-edizione-2008-dsm-passo-2-in-quota-ellissoidica
 modello-digitale-delle-superfici-edizione-2008-dsm-passo-2-in-quota-ortometrica
-modello-digitale-terreno-dtm-2022
 modello-digitale-topo-batimetrico-rer
 modello-digitale-topo-batimetrico-rer-dtmcosta_2012
 modello-digitale-topo-batimetrico-rer-dtmcosta_20121
@@ -41988,12 +41944,10 @@ nidi-capitolini-e-convenzionati-anno-educativo-2018-2019
 nidi-capitolini-e-convenzionati-anno-educativo-2022-2023
 nidi-dinfanzia
 nidi-dinfanzia1
-nidi-e-spazi-bambini
 nidi1
 nidificazioni-di-fratino-rilevate-dal-2016-ad-oggi
 no2-medie-annuali-2007-2022
 no2-n-superamenti-massima-media-oraria-di-200-microgrammi-m3-anni-2007-2022
-no2-orario-ultimi-7-giorni
 nodi
 nodi-critici-uom-po-2001-distretto-po
 nodi-delimitatori-dei-tratti-morfologicamente-omogenei-della-rete-idrografica-naturale-tipizzat
@@ -42162,6 +42116,7 @@ norme-tecniche-di-attuazione1-10
 norme-tecniche-di-attuazione1-11
 norme-tecniche-di-attuazione1-19
 norme-tecniche-di-attuazione2
+norme-tecniche-di-attuazione3-17
 nota-prot-n-g1-2020-0038154
 nota_trimestrale___tabella_01___rapporti_di_lavoro_attivati_per_ripartizione_geografica_e_gener
 nota_trimestrale___tabella_02___rapporti_di_lavoro_attivati_per_per_genere_dei_lavoratori_inter
@@ -42567,7 +42522,6 @@ numeri-civici-del-comune-di-padova-2022
 numeri-civici-del-comune-di-siena
 numeri-civici-del-comune-di-vaiano
 numeri-civici-del-territorio-comunale-di-vicenza
-numeri-civici-e-copertura-arborea-entro-200-metri
 numeri-civici-francesi-a-firenze
 numeri-civici-georiferiti-2012
 numeri-civici-grigno
@@ -42613,7 +42567,6 @@ numeri-civici7-3
 numeri-civici7-4
 numeri-civici7-5
 numeri-civici8-2
-numeri-civici8-7
 numeri-dei-punti-acqua-censiti-per-lapprovvigionamento-dei-mezzi-antincendio
 numeri-dellamministrazione-anno-2010
 numeri-dellamministrazione-anno-2011
@@ -43107,7 +43060,6 @@ numero-di-sportelli-bancari-operativi1
 numero-di-srb-sul-territorio
 numero-di-studenti-per-indirizzo-nellunico-istituto-superiore-del-camposampierese-neg-2021-2022
 numero-di-superamenti-valore-limite-di-biossido-di-zolfo-so2-in-veneto-anni-2002-2024
-numero-di-transiti-orari
 numero-di-trattamenti-naspi-e-durate-media-in-mesi-divisi-per-anno-di-cessazione-del-contratto-
 numero-di-unita-locali-con-certificazione-di-gestione-dellenergia-uni-cei-en-iso-500011
 numero-di-unita-locali-con-certificazione-di-sistemi-di-gestione-ambientale-uni-en-iso-140011
@@ -43615,7 +43567,6 @@ numero-totale-operai-nelle-aziende-agricole-divisi-per-anno-cittadinanza-e-class
 numero-totale-operai-nelle-aziende-agricole-divisi-per-anno-sesso-e-cittadinanza-anno-2016
 numero-totale-pensioni-liquidate-divise-per-anno-sesso-categoria-e-sottocategoria-ser-1997-2016
 numero-totale-pensioni-vigenti-che-percepiscono-maggiorazione-sociale-divise-per-anno-2013-2017
-numero-transiti-per-giorno
 numero-trattamenti-disoccupazione-non-agricola-aspi-per-area-geografica-e-classe-di-giorna-2014
 numero-trattamenti-disoccupazione-non-agricola-aspi-per-sesso-e-regione-2014lt
 numero-trattamenti-disoccupazione-non-agricola-con-requisiti-ridotti-per-classe-di-et-2011-2012
@@ -43706,7 +43657,6 @@ nuovo-parcheggio-stazione-area-ex-piazzale-ff-ss-rfi
 nuovo-soggettario-thesaurus-multisciplinare
 nuovo-stradario-della-citta-di-matera-ad-oggi
 nutria-piano-faunistico-provinciale-2025
-nuvola-di-punti-rilievo-lidar
 nuvola_di_punti_3d_le_colmate
 nuvola_di_punti_3d_le_colmate_abitato
 nuvola_di_punti_3d_piazza_sandro_pertini
@@ -43721,7 +43671,6 @@ nuvola_di_punti_3d_via_francesco_carrara
 nuvola_di_punti_via_burianino
 nuvola_di_punti_via_rubattorno
 nuvole-punti-rilievo-lidar-rafvg-2017-2020
-o3-orario-ultimi-7-giorni
 oasi-di-protezione
 oasi-wwf-di-san-giuliano-comune-di-matera
 obiettivi-comune-di-messina
@@ -43844,7 +43793,6 @@ od_te_tipog
 od_te_tipoh
 od_te_tipol
 odciclabili
-odonata-da-collezione
 offerta-formativa
 offerta-formativa-2024-2025
 offerta-formativa-2025-2026
@@ -45011,7 +44959,6 @@ ortofoto-2016-17-ghiacciai
 ortofoto-2016-17-ghiacciai1
 ortofoto-20171
 ortofoto-20201
-ortofoto-2022-area-urbana
 ortofoto-2023
 ortofoto-2023-cir1
 ortofoto-2023-ghiacciai1
@@ -45339,6 +45286,7 @@ pagopa-pagamenti-elettronici-2021
 pagopa-pagamenti-elettronici-2022
 pagopa-pagamenti-elettronici-2023
 pagopa-pagamenti-elettronici-2024
+pagopa-pagamenti-elettronici-2025
 pagopa-s-p-a-app-io
 pagopa-s-p-a-piattaforma-pagamenti
 pagopa-s-p-a-send
@@ -45481,7 +45429,6 @@ parcheggi-8
 parcheggi-a-servizio-dei-consolati
 parcheggi-a-servizio-di-persone-disabili-h
 parcheggi-auto-zona-centro-chieri
-parcheggi-car-sharing
 parcheggi-carico-scarico
 parcheggi-comune-di-thiene-aggiornato-al-03-05-2022
 parcheggi-di-attestamento-e-di-scambio-open-data
@@ -45508,7 +45455,6 @@ parcheggi-pubblici-piano-strutturale-del-comune-di-bagno-a-ripoli
 parcheggi-riservati-a-hotel-culto-giornalisti-dializzati
 parcheggi-riservati-forze-di-polizia
 parcheggi-scambiatori-andamento-passeggeri1
-parcheggi-scambiatori-corse-perse1
 parcheggi-scambiatori-dettaglio-passeggeri-per-parcheggio
 parcheggi-sosta-disabili1
 parcheggi-strutture
@@ -45976,7 +45922,6 @@ patrimonio-disponibile-terreni-ex-comunione-delle-aa-ss-ll-comma-5
 patrimonio-disponibile-terreni-non-agricoli-proveniente
 patrimonio-disponibile-uso-abitativo
 patrimonio-fabbricati
-patrimonio-fabbricati1
 patrimonio-immobiliare
 patrimonio-immobiliare-arca-puglia-centrale-anno-2022
 patrimonio-immobiliare-arca-puglia-centrale-anno-2023
@@ -46017,7 +45962,6 @@ patrimonio-regionale-indisponibile-fabbricati-aree-naturali-protette
 patrimonio-scientifico-e-tecnologico-contenuti-negli-istituti-culturali-di-regione-lombardia
 patrimonio-scientifico-tecnologico-conservato-nei-musei-della-regione-lombardia
 patrimonio-terreni
-patrimonio-terreni1
 patrimonio-territoriale-componenti-identitarie
 patrimonio-territoriale-patrimonio-culturale-e-paesaggistico-elementi-lineari
 patrimonio-territoriale-patrimonio-culturale-e-paesaggistico-elementi-puntuali
@@ -46329,7 +46273,6 @@ percorsi-ciclabili-nei-parchi-cittadini
 percorsi-ciclabili-panoramici-nel-veneto
 percorsi-ciclabili1
 percorsi-ciclabili2
-percorsi-ciclabili3
 percorsi-ciclopedonal
 percorsi-ciclopedonali-approvazione
 percorsi-ciclopedonali-provincia-di-varese
@@ -46518,7 +46461,6 @@ perimetri-dei-consorzi-irrigui-e-di-miglioramento-fondiario
 perimetro-aggiornato-del-centro-abitato
 perimetro-aree-di-progetto
 perimetro-bando-periferie-citta-metropolitana-di-firenze
-perimetro-centro-storico-di-ferrara
 perimetro-degli-incendi-boschivi
 perimetro-dei-centri-abitati
 perimetro-dei-centri-abitati-secondo-il-nuovo-codice-della-strada
@@ -46965,7 +46907,6 @@ piani-urbanistici-attuativi-pua-7
 piani-urbanistici-attuativi-pua-8
 piani-urbanistici-attuativi-pua-9
 piani-urbanistici-attuativi-pua1-10
-piani-urbanistici-attuativi-vigenti
 piani-urbanistici-confini
 piani-urbanistici-elementi-lineari
 piani-urbanistici-elementi-puntuali
@@ -47284,10 +47225,6 @@ pistoia-prato-iscrizioni-di-imprese-per-settore-economico-anno-2022
 pistoia-prato-iscrizioni-di-imprese-per-settore-economico-anno-2023
 pistoia-prato-iscrizioni-di-imprese-per-settore-economico-anno-2024
 pit-con-valenza-di-piano-paesaggistico
-planimetria-aree-soggette-a-flooding-evento-meteorico-19-agosto-2022
-planimetria-aree-soggette-a-flooding-tr-25-anni
-planimetria-aree-soggette-a-flooding-tr-5-anni
-planimetria-aree-soggette-a-flooding-tr-50-anni
 planimetrie-delle-grotte
 plessi-scolastici
 plessi-scolastici-nei-comuni-del-camposampierese-nellanno-scolastico-2021-2022
@@ -47296,8 +47233,6 @@ plessi-scolastici-per-circoscrizione-anno-scolastico-2010-2011
 plis_mb_03
 pm10-medie-annuali-2007-2022
 pm10-n-superamenti-del-valore-giornaliero-di-50-microgrammi-m3-anni-2007-2022
-pm10-orario-ultimi-7-giorni
-pm2-5-orario-ultimi-7-giorni
 pm25-medie-annuali-2007-2022
 pnrr-1-7-2-digipass-punti-digitale-facile
 pnrr-infrastrutture-sociali-aree-interne-liquidazioni-10
@@ -47399,7 +47334,6 @@ poli-urbani-locali-di-quinto-rango
 poli-urbani-locali-di-terzo-rango
 poligonazione-degli-elementi-cartografici-delle-zone-vulnerabili-da-prodotti-fitosanitari
 poligoni-di-oggetti-territoriali-che-producono-vincolo-o-fascia-di-rispetto
-poligoni-strade-e-canali
 poligoni-tavole-qc-e-st-componenti-ecosistemiche-e-agroforestali
 poligoni-tavole-qc-e-st-componenti-ecosistemiche-e-agroforestali1
 poligono-del-perimetro-del-centro-storico-vigente
@@ -47439,6 +47373,7 @@ polis-lombardia-dati-sui-pagamenti-i-trimestre-2022
 polis-lombardia-dati-sui-pagamenti-i-trimestre-2023
 polis-lombardia-dati-sui-pagamenti-i-trimestre-2024
 polis-lombardia-dati-sui-pagamenti-i-trimestre-2025
+polis-lombardia-dati-sui-pagamenti-i-trimestre-2026
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2018
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2019
 polis-lombardia-dati-sui-pagamenti-ii-trimestre-2020
@@ -47762,7 +47697,6 @@ popolazione-femminile-per-singolo-anno-deta-2014
 popolazione-femminile-residente-anni-1992-2014
 popolazione-femminile-residente-per-quartiere-anni-2004-2014
 popolazione-femminile-residente-rapporto-femmine-maschi-morti-per-classi-di-eta-e-per-caus-2008
-popolazione-ferrara-2001-2021
 popolazione-gennaio-dicembre-2023-per-aree-psr-14-22
 popolazione-in-eta-anziana1
 popolazione-in-eta-giovanile1
@@ -48981,8 +48915,6 @@ potenziale-archeologico
 potenziale-archeologico1
 potenziale-geotermico-a-bassa-entalpia-in-piemonte
 potenziale-rischio-archeologico-piano-strutturale-del-comune-di-bagno-a-ripoli
-potenziale-solare-parcheggi
-potenziale-solare-tetti-degli-edifici
 potenziali-aree-di-collegamento-lineare-della-rete-dei-corsi-dacqua-citta-metropolitana-di-fire
 potenziali-aree-di-collegamento-lineare-della-rete-dei-corsi-dacqua-citta-metropolitana-di-fire1
 potenziali-focolai-larvali
@@ -48995,11 +48927,8 @@ potenziali-focolai-larvali-6
 potenziali-focolai-larvali-7
 potenziali-focolai-larvali-8
 potenzialita-connettive-ptrc-2020
-potenziamento-pompe-impianto-sollevamento-sutter
 poverta
 pozze-life-colli-berici-natura-2000-08-nat-it-362
-pozzetti-di-linea-non-rilevati
-pozzetti-di-linea-rilevati
 pozzetto-geognostico
 pozzi
 pozzi-acque-minerali-e-termali-puntuale
@@ -49505,14 +49434,6 @@ presenze-consigliere-e-consiglieri-comunali-2019
 presenze-consigliere-e-consiglieri-comunali-2020
 presenze-dei-turisti-italiani-nel-veneto-per-regione-di-provenienza-e-per-provincia-anno-2021
 presenze-dei-turisti-stranieri-nel-veneto-per-paese-di-provenienza-e-per-provincia-anno-2021
-presenze-e-pendolarismo-dal-1-al-8-novembre-2021
-presenze-e-pendolarismo-dal-10-al-17-ottobre-2021
-presenze-e-pendolarismo-dal-13-al-20-ottobre-2019
-presenze-e-pendolarismo-dal-30-giugno-al-7-luglio-2020
-presenze-e-pendolarismo-dal-30-giugno-al-7-luglio-2021
-presenze-e-pendolarismo-dal-4-al-11-novembre-2019
-presenze-e-pendolarismo-dal-5-al-12-settembre-2021
-presenze-e-pendolarismo-dal-8-al-15-settembre-2019
 presenze-e-pernottamenti-in-piemonte
 presenze-e-votazioni
 presenze-in-esercizi-ricettivi-open-air-agriturismi-e-rifugi-montani-sul-totale-delle-presenze-1
@@ -49531,7 +49452,6 @@ presidenti-province-lombarde
 presidenti-province-lombarde-1
 presidi-asl
 presidi-di-primo-livello-protezione-civile-regione-piemonte
-pressione-atmosferica-oraria-ultimi-7-giorni
 pressione-delle-attivita-estrattive1
 pressione-turistica-1994-2018
 prestazioni-a-sostegno-alla-famiglia-congedo-di-maternit224-e-paternit224-settore-lavoratori-au
@@ -49710,6 +49630,7 @@ prezzi-al-consumo-giugno-2023-indice-nic-e-variaz-per-tipologia-di-prodotto1
 prezzi-al-consumo-giugno-2023-indice-nic-per-gruppi-di-spesa1
 prezzi-al-consumo-indice-nic-e-variazione-congiunturale-e-tendenziale-per-le-12-divisioni-20151
 prezzi-al-consumo-indice-nic-e-variazioni-complessivi-e-per-divisione-dal-2016-al-2025
+prezzi-al-consumo-indice-nic-e-variazioni-complessivi-e-per-divisione-dal-2026
 prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa-anno-20161
 prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa-anno-20171
 prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa-anno-20181
@@ -49718,17 +49639,23 @@ prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa-anno
 prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa-anno-20211
 prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa-anno-20221
 prezzi-al-consumo-indice-nic-e-variazioni-dal-2016-classificazione-completa1
+prezzi-al-consumo-indice-nic-e-variazioni-dal-2026-classificazione-completa
 prezzi-al-consumo-indice-nic-e-variazioni-per-frequenza-di-acquisto-dal-2016-al-2025
+prezzi-al-consumo-indice-nic-e-variazioni-per-frequenza-di-acquisto-dal-2026
 prezzi-al-consumo-indice-nic-e-variazioni-per-tipologia-di-prodotto-dal-2016-al-2025
+prezzi-al-consumo-indice-nic-e-variazioni-per-tipologia-di-prodotto-dal-2026
 prezzi-al-consumo-indice-nic-per-classi-di-spesa-dal-2005-al-20101
 prezzi-al-consumo-indice-nic-per-classi-di-spesa-dal-2011-al-20151
 prezzi-al-consumo-indice-nic-per-classi-di-spesa-dal-2016-al-2025
+prezzi-al-consumo-indice-nic-per-classi-di-spesa-dal-2026
 prezzi-al-consumo-indice-nic-per-gruppi-di-spesa-dal-2005-al-20101
 prezzi-al-consumo-indice-nic-per-gruppi-di-spesa-dal-2011-al-20151
 prezzi-al-consumo-indice-nic-per-gruppi-di-spesa-dal-2016-al-2025
+prezzi-al-consumo-indice-nic-per-gruppi-di-spesa-dal-2026
 prezzi-al-consumo-indice-nic-per-sottoclassi-di-spesa-dal-2005-al-20101
 prezzi-al-consumo-indice-nic-per-sottoclassi-di-spesa-dal-2011-al-20151
 prezzi-al-consumo-indice-nic-per-sottoclassi-di-spesa-dal-2016-al-2025
+prezzi-al-consumo-indice-nic-per-sottoclassi-di-spesa-dal-2026
 prezzi-al-consumo-indice-nic-per-voci-di-prodotto-dal-2005-al-20101
 prezzi-al-consumo-indice-nic-variazione-congiunturale-e-tendenziale-per-frequenza-dacquist-20151
 prezzi-al-consumo-indice-nic-variazione-congiunturale-e-tendenziale-per-tipologia-di-prodo-20151
@@ -49967,14 +49894,6 @@ procedimenti-paesaggistici-2022
 procedimenti-paesaggistici-2023
 procedimenti-paesaggistici-2024
 procedimenti-per-stato-pratica
-procedimenti-suap-agricoltura
-procedimenti-suap-artigianato
-procedimenti-suap-circoli
-procedimenti-suap-commercio
-procedimenti-suap-pubblici-esercizi
-procedimenti-suap-servizi
-procedimenti-suap-strutture-ricettive
-procedimenti-suap-strutture-sportive
 procedure-di-gara-gestite-tramite-sintel
 procedure-di-gara-gestite-tramite-sintel-con-dettaglio-prodotti
 procedure-di-gara-sotto-soglia-delle-strutture-della-regione-lazio
@@ -50911,9 +50830,6 @@ protocollo-raggruppamento-per-tramite
 prova
 prova-penetrometrica
 prova1
-prove-geotecniche
-prove-geotecniche-hvsr
-prove-geotecniche-masw
 provenienza-dei-turisti-nei-comuni-lombardi
 provenienza-studenti-italiani-immatricolati
 provenienza-studenti-stranieri-immatricolati
@@ -51656,21 +51572,6 @@ ps_incendi
 ps_invariante_i
 ps_prc
 ps_trasformazioni_territoriali
-psc-ambiti
-psc-area-rottura-carico-merci
-psc-sistemi
-psc-sistemi-aeroporto
-psc-sistemi-collegamento-territoriale
-psc-sistemi-di-logistica-urbana
-psc-sistemi-ferrovie
-psc-sistemi-metropolitana
-psc-sistemi-metropolitana-stazioni
-psc-sistemi-piste-ciclabili
-psc-sistemi-strade-di-di-accesso-alla-citta
-psc-sistemi-strade-di-distribuzione
-psc-sistemi-strade-di-distribuzione-sotterranee
-psc-sistemi-strade-di-penetrazione-e-collegamento
-psc-sistemi-strade-sotterranee-di-accesso-alla-citta
 psi_base_sanvincenzo1
 psi_d_inv_iv_sanvincenzo1
 psi_d_m_urb_sanvincenzo1
@@ -51867,6 +51768,7 @@ ptcp-2013-carta-dello-statuto-del-territorio-art-11-aree-fragili-del-territorio-
 ptcp-2013-carta-dello-statuto-del-territorio-art-12-aree-di-protezione-storico-ambientale-citta
 ptcp-2013-carta-dello-statuto-del-territorio-art-12-aree-di-protezione-storico-ambientale-citta1
 ptcp-2013-carta-dello-statuto-del-territorio-art-14-immobili-e-aree-di-notevole-interesse-pubbl
+ptcp-2013-carta-dello-statuto-del-territorio-art-14-immobili-e-aree-di-notevole-interesse-pubbl1
 ptcp-2013-carta-dello-statuto-del-territorio-art-15-geotopi-e-biotopi-rete-ecologica-provincial
 ptcp-2013-carta-dello-statuto-del-territorio-art-15-geotopi-e-biotopi-rete-ecologica-provincial1
 ptcp-2013-carta-dello-statuto-del-territorio-art-16-rete-di-percorsi-attrezzati-rete-della-mobi
@@ -52203,7 +52105,6 @@ pubblicazioni-delluniversita-di-trento
 pubblicazioni-e-libri-finanziati
 pubblicazioni-scientifiche
 pubblici-esercizi
-pubblici-esercizi1
 public-engagement-numero-eventi-2020
 publications-of-the-university-of-trento
 puc-ambiti-produttivi
@@ -52293,7 +52194,6 @@ punti-di-ricarica-veicoli-elettrici
 punti-di-stazionamento-gps
 punti-di-vista-fotografie
 punti-dindagine-cgt
-punti-facciate-con-vista-alberi
 punti-facciate-con-vista-alberi1-1
 punti-frana-attiva-uom-po-2001-distretto-po
 punti-frana-quiescente-uom-uom-po-2001-distretto-po
@@ -52314,7 +52214,6 @@ punti-quotati
 punti-quotati-1-10-000-edizione-del-1988
 punti-quotati-open-data
 punti-quotati2
-punti-ricarica-mezzi-elettrici
 punti-rilevamento-traffico
 punti-ristoro-a-gestione-diretta-o-indiretta
 punti-sosta-monopattini-condivisi-a-tariffa-agevolata-open-data
@@ -52459,14 +52358,6 @@ quadro-complessivo-classi-e-alunni-della-scuola-secondaria-di-1-grado-a-s-2015-2
 quadro-complessivo-classi-e-alunni-raggruppati-per-istituti-comprensivi-a-s-2014-2015
 quadro-complessivo-classi-e-alunni-raggruppati-per-istituti-comprensivi-a-s-2015-2016
 quadro-complessivo-delle-cartografie-degli-habitat-di-interesse-comunitario-del-fvg
-quadro-conoscitivo-pug-dotazioni-territoriali-altri-spazi-aperti-pubblici
-quadro-conoscitivo-pug-dotazioni-territoriali-amministrazione-e-sicurezza-pubblica-prot-civile
-quadro-conoscitivo-pug-dotazioni-territoriali-assistenza-servizi-sociali
-quadro-conoscitivo-pug-dotazioni-territoriali-attivita-culturali
-quadro-conoscitivo-pug-dotazioni-territoriali-istruzione
-quadro-conoscitivo-pug-dotazioni-territoriali-spazi-per-lesercizio-di-culto
-quadro-conoscitivo-pug-dotazioni-territoriali-tempo-libero-e-sport
-quadro-conoscitivo-pug-parcheggi-pubblici-non-a-diretto-servizio-dellinsediamento
 quadro-di-unione-1-10-000
 quadro-di-unione-1-10-0001
 quadro-di-unione-1-25-000
@@ -53100,19 +52991,6 @@ raccolta-rifiuti-unione-valle-savio1
 raccolta-rifiuti-urbani-mensili-per-bacino
 raccolta-rifiuti-verghereto1
 raccolta-rifiuti1
-radiazione-solare-su-ferrara-durante-il-mese-di-agosto
-radiazione-solare-su-ferrara-durante-il-mese-di-aprile
-radiazione-solare-su-ferrara-durante-il-mese-di-dicembre
-radiazione-solare-su-ferrara-durante-il-mese-di-febbraio
-radiazione-solare-su-ferrara-durante-il-mese-di-gennaio
-radiazione-solare-su-ferrara-durante-il-mese-di-giugno
-radiazione-solare-su-ferrara-durante-il-mese-di-luglio
-radiazione-solare-su-ferrara-durante-il-mese-di-maggio
-radiazione-solare-su-ferrara-durante-il-mese-di-marzo
-radiazione-solare-su-ferrara-durante-il-mese-di-novembre
-radiazione-solare-su-ferrara-durante-il-mese-di-ottobre
-radiazione-solare-su-ferrara-durante-il-mese-di-settembre
-radiazione-solare-totale-su-ferrara
 radiazioni-emittenti-radiofoniche
 radiazioni-emittenti-televisive
 radiazioni-impianti-di-telefonia-mobile
@@ -53311,7 +53189,6 @@ rastrelliere
 rastrelliere-per-biciclette
 rastrelliere-per-biciclette-open-data
 rastrelliere-per-il-parcheggio-delle-biciclette-nel-territorio-comunale-di-vicenza
-rastrelliere-portabici
 rastrelliere1
 rating-di-legalita-agosto-2023
 rating-di-legalita-agosto-2024
@@ -53560,7 +53437,6 @@ referendum-2022-affluenza-domenica-ore-12-00
 referendum-2022-affluenza-domenica-ore-19-00
 referendum-2022-affluenza-finale
 referendum-2022-civici-per-sezione-elettorale
-referendum-2022-mappatura-voto-quesito-1
 referendum-2022-quesito-01-abolizione-del-decreto-severino
 referendum-2022-quesito-02-limiti-alla-custodia-cautelare
 referendum-2022-quesito-03-separazione-delle-funzioni-dei-magistrati
@@ -53668,6 +53544,7 @@ referendum-giugno-2022-riforma-del-csm-voti-complessivi
 referendum-giugno-2022-riforma-del-csm-voti-per-sezione
 referendum-giugno-2022-separazione-delle-funzioni-dei-magistrati-voti-complessivi
 referendum-giugno-2022-separazione-delle-funzioni-dei-magistrati-voti-per-sezione
+referendum-giustizia-2026-bari
 referendum-popolare-17-aprile-2016
 referendum-popolare-1999-scrutinio-finale
 referendum-popolare-2000-scrutinio-finale-quesito-1
@@ -54381,7 +54258,6 @@ registro-regionale-delle-organizzazioni-di-volontariato
 registro-regionale-delle-persone-giuridiche
 registro-regionale-materiali-di-base
 registro-regionale-unico-dei-defibrillatori-dae
-registro-regionale-unico-dei-defibrillatori-dae1
 registro-ufficiale-degli-operatori-professionali-ruop-gia-registro-ufficiale-dei-produttori-rup
 registro-unico-degli-accessi-della-giunta-regionale-della-campania-delibera-anac-n-1309-de-2025
 registro-unico-degli-accessi-della-giunta-regionale-della-campania-delibera-anac-n-1309-del-28-
@@ -54389,7 +54265,6 @@ registro-unico-degli-accessi-della-giunta-regionale-della-campania-ii-semestre-2
 registro-unico-degli-accessi-della-giunta-regionale-della-campania-primo-semestre-2025-delibera
 registro-unico-degli-accessi-della-giunta-regionale-della-campania-secondo-semestre-2024-delibe
 registry-of-beneficiaries-of-the-national-operational-programme-other-than-educational-institut
-regola-3-30-300
 regolamenti
 regolamenti-del-comun-general-de-fascia
 regolamenti-del-comunita-della-paganella
@@ -54414,7 +54289,6 @@ regolamento-urbanistico-dati
 regolamento-urbanistico-del-comune-di-vaiano
 regolamento-urbanistico-del-comune-di-vaiano1
 regolamento-urbanistico-del-comune-di-vaiano1-1
-regolamento-urbanistico-edilizio-destinazioni-uso
 regolamento-urbanistico-elementi-lineari
 regolamento-urbanistico-linee
 regolamento-urbanistico-linee1
@@ -55318,7 +55192,6 @@ rete-natura-2000-pdgpo-2021-distretto-po
 rete-natura-2000-sic-e-zps-fuori-regione
 rete-natura-2000-sic-e-zps-regionali
 rete-natura-2000-sic-e-zps-regionali1
-rete-natura-2000-sic-zps
 rete-natura-2000-sic-zsc-e-zps
 rete-natura-2000-zone-speciali-di-conservazione-zsc-e-zone-di-protezione-speciale-zps
 rete-natura-2000-zsc-zps
@@ -55938,7 +55811,6 @@ rilevamento-e-misurazione-giornaliera-della-qualita-dellaria-del-comune-di-paler
 rilevamento-e-misurazione-giornaliera-della-qualita-dellaria-del-comune-di-palermo-settemb-2008
 rilevamento-sensori-idrometrici-livello
 rilevamento-sensori-idrometrici-portata-calcolata
-rilevamento-temperature-dellaria
 rilevati-arginali
 rilevato-arginale
 rilevatori1
@@ -56373,7 +56245,6 @@ rilievi-lidar-costa-rilievo-lidar-2010-della-costa-dsm
 rilievi-lidar-costa-rilievo-lidar-2010-della-costa-dsm1
 rilievi-lidar-costa-rilievo-lidar-2010-della-costa-dtm
 rilievi-lidar-costa-rilievo-lidar-2010-della-costa-dtm1
-rilievo-alberi-ferraratua
 rilievo-iperspettrale-2017-2019-quadro-unione
 rilievo-isolato-in-pianura
 rilievo-lidar-2004-della-costa-e-del-fiume-savio-dsm-digital-surface-model
@@ -56583,14 +56454,9 @@ risultati-elezioni-comunali-2009-sindaco
 risultati-elezioni-comunali-2014
 risultati-elezioni-comunali-2015
 risultati-elezioni-comunali-2019
-risultati-elezioni-comunali-2019-ballottaggio
 risultati-elezioni-comunali-2019-comune-di-roncade
-risultati-elezioni-comunali-2019-voto-sindaco
 risultati-elezioni-comunali-2020
 risultati-elezioni-comunali-2021
-risultati-elezioni-comunali-2024-voti-consiglieri
-risultati-elezioni-comunali-2024-voti-lista
-risultati-elezioni-comunali-2024-voto-sindaco
 risultati-elezioni-comunali-2025-extra-turno-del-09-11-2025
 risultati-elezioni-comunali-20251
 risultati-elezioni-comunali-comune-di-roncade
@@ -56606,7 +56472,6 @@ risultati-elezioni-europee-20141
 risultati-elezioni-europee-2019
 risultati-elezioni-europee-2024
 risultati-elezioni-europee-2024-per-sezione
-risultati-elezioni-europee-2024-voti-lista
 risultati-elezioni-europee-20241
 risultati-elezioni-europee-cento-2019-raggruppati-per-sezione-elettorale
 risultati-elezioni-politiche-2008-camera-dei-deputati
@@ -56719,7 +56584,6 @@ ritenute-per-ricorso-al-credito
 ritenute-previdenziali
 ritrovamenti-archeologici
 riutilizzo-datigovit
-rivendita-giornali-e-riviste
 rivendite-di-tabacchi1
 riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossioni-da-ruol-2020
 riversamenti-per-codice-tributo-effettuati-dagli-agenti-a-fronte-delle-riscossioni-da-ruol-2021
@@ -57263,7 +57127,6 @@ scuole-nel-territorio-del-comune-di-valeggio-sul-mincio
 scuole-non-accessibili-dal-punto-di-vista-fisico1
 scuole-per-circoscrizione-alunni-frequentanti-anno-scolastico-2009-2010
 scuole-per-circoscrizione-alunni-frequentanti-anno-scolastico-2010-2011
-scuole-per-linfanzia
 scuole-piemontesi
 scuole-primarie
 scuole-primarie-alunni-e-classi-2020-2021
@@ -57431,7 +57294,6 @@ sedi-di-quartiere1
 sedi-distretti-sanitari
 sedi-elettorali
 sedi-enea
-sedi-farmaceutiche-delimitate
 sedi-forze-dellordine
 sedi-inail
 sedi-inps
@@ -57466,7 +57328,6 @@ sedute-consiglio-comunale-2020
 sedute-del-consiglio
 sedute-di-consiglio-del-comunita-valsugana-e-tesino
 seggi-elettorali
-seggi-elettorali1
 segnalazione-certificata-agibilita
 segnalazione-certificata-inizio-attivita
 segnalazione-tramite-app-nel-comune-di-mira-primo-semestre-2020
@@ -57477,8 +57338,6 @@ segnalazioni
 segnalazioni-aggiornate
 segnalazioni-aggiornate-da-terremotocentroitalia
 segnalazioni-al-comune1
-segnalazioni-allagamenti-2015-2019
-segnalazioni-allagamenti-2020-2022
 segnalazioni-app-materapulita
 segnalazioni-archeologiche
 segnalazioni-archeologiche-areali
@@ -57505,7 +57364,6 @@ segnalazioni-tramite-app-nel-comune-di-mira-secondo-semestre-2023
 segnaletica-orizzontale-nel-comune-di-matera
 segnaletica-sassi
 segnaletica-verticale-del-comune-di-matera
-segnaletica-verticale-della-bicipolitana
 segnali-di-centro-abitato1
 segnali-di-localizzazione1
 segretari-comunali-dal-1861
@@ -58250,9 +58108,7 @@ sezioni-elettorali-2014
 sezioni-elettorali-2015-2016
 sezioni-elettorali-alla-data-del-referendum
 sezioni-elettorali-alla-data-del-referendum-20161204
-sezioni-elettorali-amministrative-regionali-novembre-2024
 sezioni-elettorali-con-vie-di-roncade
-sezioni-elettorali-giugno-2024
 sezioni-elettorali-mappa-delle-sedi
 sezioni-elettorali-messina
 sezioni-elettorali-shp
@@ -58368,9 +58224,6 @@ simbologia-di-conoidi-alluvionali-e-detritici
 simon-elenco-allievi-iscritti-ai-corsi-di-formazione
 simon-elenco-progetti-a-finanziamento-regionale-per-finalita
 simon-elenco-progetti-relativo-all-asse-i-adattabilita-fse-por-regione-lazio-2007-2013
-simulazione-microclima-outdoor-piazza-cortevecchia-indice-comfort-termico
-simulazione-microclima-outdoor-piazza-cortevecchia-temperatura-aria
-simulazione-microclima-outdoor-piazza-cortevecchia-temperatura-superficiale
 sin-tito
 sin-val-basento-ferrandina-pisticci
 sin-val-basento-salandra-ferrandina
@@ -58493,7 +58346,6 @@ sira-punti-di-prelievo-idrico-per-uso-idropotabile-fascia-di-tutela-di-10-m-appr
 sira-punti-di-prelievo-idrico-per-uso-idropotabile-fascia-di-tutela-di-200-m
 sira-punti-di-prelievo-idrico-per-uso-idropotabile-fascia-di-tutela-di-200-m-approvato
 sira-web-services-soap-web-services-per-laccesso-soap-ai-dati-del-sira-attraverso-la-porta-di-d
-sirfidi-2023
 sirfidi-life-colli-berici-natura-2000-08-nat-it-362
 sirgat
 sisbon
@@ -58712,14 +58564,12 @@ sito-istituzionale-statistiche-chiavi-di-ricerche-anno-2022
 sito-istituzionale-statistiche-download-anno-2022
 sito-istituzionale-statistiche-tipo-di-dispositivo-anno-2022
 sito-istituzionale-statistiche-url-anno-2022
-sito-unesco
 situazione-dei-canili-comunali-di-matera-aggiornata-al-2-settembre-2014
 situazione-nellagricoltura-censimento-1961-comune-di-treviso
 ski-touring-routes-in-the-veneto-region
 sla
 sma
 smaltimento-fanghi-in-discarica-m5-dataset
-smart-hub-progetto-air-break
 smart-irrigation-e-smart-bench
 smart-lighting
 smart-working-aress-puglia-2023
@@ -58951,7 +58801,6 @@ sosta-riservata-bus-gt1
 soste-blu-area
 sostegno-a-traliccio-tralic-020207
 sostegno-economico-per-minori-riconosciuti-dalla-sola-madre-ex-baliatico
-sostituzione-o-rifacimento-collettori-fognari
 sotto-uirl-vulcanico
 sottobacini-convenzionali-2021-distretto-po
 sottobacini-corpi-idrici-superficiali
@@ -62294,6 +62143,7 @@ spd_ssn_cce_t04_voccn_01_2021
 spd_ssn_cce_t04_voccn_01_2022
 spd_ssn_cce_t04_voccn_01_2023
 spd_ssn_cce_t04_voccn_01_2024
+spd_ssn_cce_t04_voccn_01_2025
 spd_ssn_csp_elb_voccn_01_2012
 spd_ssn_csp_elb_voccn_01_2013
 spd_ssn_csp_elb_voccn_01_2014
@@ -62960,9 +62810,11 @@ statistiche-sugli-accessi-portale-open-data-anno-20261-11
 statistiche-sugli-accessi-portale-open-data-anno-20261-7
 statistiche-sugli-accessi-portale-open-data-anno-20261-9
 statistiche-sugli-accessi-portale-open-data-anno-20262
+statistiche-sugli-accessi-portale-open-data-anno-20263-17
 statistiche-sugli-accessi-portale-open-data1-1
 statistiche-sugli-accessi-portale-open-data1-10
 statistiche-sugli-accessi-portale-open-data1-11
+statistiche-sugli-accessi-portale-open-data1-17
 statistiche-sugli-accessi-portale-open-data1-6
 statistiche-sui-cacciatori
 statistiche-sull-irap-aliquote-dichiarate-per-soggetto-privato
@@ -63381,7 +63233,6 @@ stile-di-vita-attivita-fisica
 stima-del-reddito-medio-annuo-lordo-del-nucleo-familiare-dichiarato-dal-lavoratore-e-relat-2010
 stima-del-reddito-medio-annuo-lordo-del-nucleo-familiare-dichiarato-dal-lavoratore-e-relat-2010-1
 stima-fabbisogno-energetico-edifici-ferrara
-stima-pannelli-fotovoltaici
 stime-disoccupati-per-sistema-locale-della-provincia-di-lucca-anni-2009-2012
 stime-donne-disoccupate-per-sistema-locale-della-provincia-di-lucca-anni-2009-2012
 stime-uomini-disoccupati-per-sistema-locale-della-provincia-di-lucca-anni-2009-2012
@@ -63667,7 +63518,6 @@ stradario4
 stradario5
 strade
 strade-1
-strade-a-maggiore-incidentalita-2004-2017
 strade-a-maggiore-incidentalita-anno-2012
 strade-a-maggiore-incidentalita-anno-2013
 strade-a-maggiore-incidentalita-anno-2014
@@ -63684,11 +63534,6 @@ strade-fascia-di-rispetto
 strade-linee-esterne-ai-centri-abitati
 strade-mercato
 strade-nel-territorio-comunale-di-vicenza
-strade-piu-percorse-a-piedi-playgo-mese-per-mese
-strade-piu-percorse-a-piedi-playgo-per-giorno-della-settimana
-strade-piu-percorse-da-monopattini-elettrici-sharing
-strade-piu-percorse-in-bici-playgo-mese-per-mese
-strade-piu-percorse-in-bici-playgo-per-giorno-della-settimana
 strade-provinciali
 strade-provinciali-cmve
 strade-provinciali-della-provincia-di-rovigo
@@ -64042,7 +63887,6 @@ struttura-organizzativa-dei-comuni-della-federazione-dei-comuni-del-camposampier
 struttura-ospedaliera-integrata-universita-regione-ptrc-2020
 struttura-per-eta-della-popolazione-residente-in-famiglie-unipersonali
 struttura-polizia-municipale
-struttura-popolazione-2002-2021
 struttura-semiresidenziale-di-socializzazione
 struttura-semiresidenziale-per-anziani
 strutture
@@ -65404,11 +65248,8 @@ superfici-e-siti-amiantati
 superfici-e-volumi-dalla-s-2020-2021
 superfici-e-volumi-degli-edifici-mq-mc
 superfici-e-volumi-delle-aree-scolastiche-scuole-statali-as-2020-20211
-superfici-impermeabili
-superfici-permeabili
 superfici-prato-pascolive-da-land-cover-edizione-2024
 superfici-rivendicate-per-la-produzione-vini-doc_docg_igt
-superfici-semi-impermeabili
 superfici-territoriali-esposte-a-rischio-idrogeologico-anno-20171
 superficie
 superficie-agricola
@@ -66363,11 +66204,9 @@ temperatura-minima-media-annuale-clima-1961-1990-ed-2017
 temperatura-minima-media-annuale-clima-1991-2015-ed-2017
 temperatura-minima-media-invernale-clima-1961-1990-ed-2017
 temperatura-minima-media-invernale-clima-1991-2015-ed-2017
-temperatura-oraria-ultimi-7-giorni
 temperatura-protezione-civile-giornaliera-istituto-alberghiero-di-matera
 temperatura-protezione-civile-ultimi-30gg-istituto-alberghiero-matera
 temperature-bologna
-temperature-delle-superfici-lst-2024-landsat
 temperature-massime-giornaliere-toscana
 temperature-minima-massima-e-media-rilevate-dai-sensori-termici-dal-2001-al-2010
 temperature-minima-massima-e-media-rilevate-dai-sensori-termici-dal-2011-al-2023
@@ -67326,7 +67165,6 @@ traffico-giornaliero-medio-e-altri-dati-svr-2021-su-elemento-stradale-bdtre
 traffico-giornaliero-medio-e-altri-dati-svr-2022-su-elemento-stradale-bdtre
 traffico-giornaliero-medio-e-altri-dati-svr-2023-su-elemento-stradale-bdtre
 traffico-giornaliero-medio-e-altri-dati-svr-2024-su-elemento-stradale-bdtre
-traffico-in-orario-di-punta-2018
 traffico-marittimo-e-aereo
 traffico-medio-giornaliero-sensori1
 traffico-merci-passeggeri-porti
@@ -67356,10 +67194,8 @@ trasformazione-storica-della-viabilita-ferroviaria
 trasformazione-storica-della-viabilita-stradale
 trasformazione-storica-delle-aree-urbanizzate
 trasformazioni-del-bosco-in-altra-destinazione-duso
-trasformazioni-psc
 trasformazioni-rapporto-di-lavoro
 traspeccezionalifino44t
-trasporti
 trasporti-contributi-ai-comuni-per-lapplicazione-di-tariffe-speciali
 trasporti-linee-ferroviarie
 trasporti-linee-ferroviarie1
@@ -67731,7 +67567,6 @@ ululone-dal-ventre-giallo-piano-faunistico-provinciale-2025
 uma-conteggio-aziende-e-assegnazione-complessiva-carburanti-per-comune
 umero-domande-di-sostegno-del-psr-2014-2020-rilasciate-ripartite-per-area-decentrata
 umidita-edilizia-scolastica-e-uffici-citta-metropolitana-di-torino
-umidita-relativa-oraria-ultimi-7-giorni
 uniba
 unibas
 unibo
@@ -67966,6 +67801,7 @@ unita-volumetriche3-8
 unita-volumetriche4-1
 unita-volumetriche4-10
 unita-volumetriche4-12
+unita-volumetriche4-14
 unita-volumetriche4-15
 unita-volumetriche4-9
 unita-volumetriche5
@@ -68136,6 +67972,7 @@ uso-del-suolo-catastale1-5
 uso-del-suolo-catastale1-6
 uso-del-suolo-catastale1-8
 uso-del-suolo-catastale1-9
+uso-del-suolo-catastale2-14
 uso-del-suolo-catastale2-15
 uso-del-suolo-catastale2-8
 uso-del-suolo-catastale3
@@ -68287,9 +68124,6 @@ v012
 v015
 v017
 v033
-v1_14_rep-nodo-ecologico-di-progetto-aree-protette
-v1_35_tutela-indiretta-dei-beni-culturali
-v2_69_zone-di-rispetto-aeroporti
 vaccinazioni-anno-2009
 vaccinazioni-anno-2010-2011
 vaccinazioni-infantili-obbligatorie
@@ -68655,7 +68489,6 @@ velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornament
 velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-luglio-2023
 velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-maggio-2023
 velocita-media-di-deformazione-del-terreno-orbita-ovest-discendente-aggiornamento-novembre-2022
-velocita-media-oraria-veicoli
 velocitacitta-30
 vendita-di-prodotti-petroliferi-2005
 vendita-di-prodotti-petroliferi-2006
@@ -68698,7 +68531,6 @@ vercelli-imprese-femminili-per-settore-e-per-classe-giuridica-anno-2024
 vercelli-sedi-di-impresa-per-settore-della-provincia-anno-2024
 verde-bilancio-ambientale-comune-di-reggio-emilia-serie-dati-2006-2017
 verde-cimiteriale-comunale
-verde-privato
 verde-privato-nel-territorio-urbanizzato
 verde-pubblico
 verde-pubblico-e-parchi-pubblici
@@ -69282,7 +69114,6 @@ zona-memc1
 zona-pedonale-centro-storico
 zona-rotolon
 zona-t-centro-storico
-zona-tampone-del-sito-unesco
 zona-via
 zonazione-del-parco
 zonazione-della-disponibilita-idrica
@@ -69292,7 +69123,6 @@ zonazione-viticola-ed-olivicola-siena
 zone-30
 zone-30-limite-velocita
 zone-301
-zone-302-1
 zone-a-parcheggio-open-data
 zone-a-particolare-rilevanza-urbanistica
 zone-a-protezione-speciale-zps-2011
@@ -69304,7 +69134,6 @@ zone-a-rischio-sismico
 zone-a-traffico-limitato
 zone-a-traffico-limitato-2
 zone-a-traffico-limitato-ztl
-zone-a-traffico-limitato-ztl-esistente
 zone-a-traffico-limitato1
 zone-allertamento-bollettini-arpa-piemonte
 zone-allinterno-di-coni-visivi-e-panoramici-la-cui-immagine-e-storicizzata

@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-bernareggio","c_a802","https://www.opendata.maggioli.cloud//organizzation/comune-di-bernareggio","2026-04-20T12:52:30.108788","03",ingresso,2026-04-23,1
+"comune-di-cormano","c_d013","https://www.opendata.maggioli.cloud/organizzation/comune-di-cormano","2026-04-21T08:38:20.230199","03",ingresso,2026-04-23,1
 "comune-di-barbarano-mossano","c_m401","https://www.comune.barbaranomossano.vi.it/","2026-04-17T08:10:38.632385","",ingresso,2026-04-17,1
 "unione-municipia","um_cr","https://www.unionemunicipia.it/","2026-04-09T14:42:52.984436","",ingresso,2026-04-16,1
 "comune-di-laino-castello","c_e419","https://www.comune.lainocastello.cs.it/","2026-03-19T13:20:16.790415","",ingresso,2026-03-31,1
