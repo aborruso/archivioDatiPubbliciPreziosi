@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-finale-ligure","c_d600","https://www.comune.finaleligure.sv.it/it","2026-04-27T09:20:27.572584","",ingresso,2026-04-27,1
+"comune-di-galbiate","c_d865","https://www.opendata.maggioli.cloud/organization/comune-di-galbiate","2026-04-27T09:01:15.947375","03",ingresso,2026-04-27,1
 "comune-di-asola","c_a470","https://www.comune.asola.mn.it/","2026-04-23T15:06:42.721117","",ingresso,2026-04-26,1
 "comune-di-nova-milanese","c_f944","https://www.opendata.maggioli.cloud/organizzation/comune-di-nova-milanese","2026-04-23T17:55:24.685254","03",ingresso,2026-04-26,1
 "comune-di-bernareggio","c_a802","https://www.opendata.maggioli.cloud//organizzation/comune-di-bernareggio","2026-04-20T12:52:30.108788","03",ingresso,2026-04-23,1
