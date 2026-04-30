@@ -134,7 +134,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-19T10:29:32.284647,Comune di Comacchio,f61bbd01-416b-4ce0-a6e1-4f4c3f76bdfe,c_c912,comune-di-comacchio,50,https://dati.gov.it/view-dataset?organization=comune-di-comacchio
 2026-01-07T09:05:49.466573,Comune di Corbetta,b64dd82a-79fa-4527-a6c1-4ece2e547f79,c_c986,comune-di-corbetta,21,https://dati.gov.it/view-dataset?organization=comune-di-corbetta
 2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,6,https://dati.gov.it/view-dataset?organization=comune-di-corciano
-2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,5,https://dati.gov.it/view-dataset?organization=comune-di-coriano
+2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,7,https://dati.gov.it/view-dataset?organization=comune-di-coriano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,12,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
 2026-04-21T08:38:20.230199,Comune di Cormano,bccd988e-5869-48a1-809c-9c0221a3c3e3,c_d013,comune-di-cormano,35,https://dati.gov.it/view-dataset?organization=comune-di-cormano
 2024-11-13T09:20:51.897034,Comune di Desenzano del Garda,1d853219-813f-469f-9382-1582ff3e5203,c_d284,comune-di-desenzano-del-garda,43,https://dati.gov.it/view-dataset?organization=comune-di-desenzano-del-garda
@@ -170,6 +170,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-07T11:53:23.592238,Comune di Lavagna,9dde546d-318f-47a0-9a45-b6feafff1004,c_e488,comune-di-lavagna,5,https://dati.gov.it/view-dataset?organization=comune-di-lavagna
 2026-02-13T12:17:12.856641,Comune di Laveno Mombello,28359e4a-b6c1-418d-a35a-0680b40b8be2,c_e496,comune-di-laveno-mombello,31,https://dati.gov.it/view-dataset?organization=comune-di-laveno-mombello
 2025-07-09T15:09:24.342703,Comune di Lentini,88d08051-7cd8-4349-bec5-7ba11a125587,c_e532,comune-di-lentini,0,https://dati.gov.it/view-dataset?organization=comune-di-lentini
+2026-04-29T14:33:57.205075,Comune di Livigno,582b250b-7d72-4ca4-bb22-191289cb1e3e,c_e621,comune-di-livigno,44,https://dati.gov.it/view-dataset?organization=comune-di-livigno
 2025-12-19T14:10:30.111548,Comune di Lizzano,6345e208-aeea-4ff9-86ae-bcc1c303f169,c_e630,comune-di-lizzano,1,https://dati.gov.it/view-dataset?organization=comune-di-lizzano
 2025-04-14T09:09:22.152544,Comune di Lonate Pozzolo,fd8ad81b-a555-4d73-be28-90c3d23e7cb1,c_e666,comune-di-lonate-pozzolo,5,https://dati.gov.it/view-dataset?organization=comune-di-lonate-pozzolo
 2025-03-03T15:21:50.583516,Comune di Lonato del Garda,e6b7829d-2b34-4568-90fc-64d179a9edfa,c_e667,comune-di-lonato-del-garda,6,https://dati.gov.it/view-dataset?organization=comune-di-lonato-del-garda
@@ -211,6 +212,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-20T16:50:25.433137,Comune di Novi Ligure,09b27d0d-cea8-4137-8286-3b0588f6c54b,c_f965,comune-di-novi-ligure,5,https://dati.gov.it/view-dataset?organization=comune-di-novi-ligure
 2025-12-02T10:29:04.473738,Comune di Nuoro,1381d40a-605b-4145-95a7-e178e4e8f8a9,c_f979,comune-di-nuoro,5,https://dati.gov.it/view-dataset?organization=comune-di-nuoro
 2025-02-07T10:26:05.167856,Comune di Occhiobello,fc889074-47de-4acb-9ea3-98af4b649e84,c_f994,comune-di-occhiobello,3,https://dati.gov.it/view-dataset?organization=comune-di-occhiobello
+2026-04-28T17:48:16.932240,Comune di Olbia,307cf038-81ae-4bc0-b0d9-f9df3d42043a,c_g015,comune-di-olbia,36,https://dati.gov.it/view-dataset?organization=comune-di-olbia
 2026-01-28T13:02:55.645510,Comune di Olgiate Olona,3daa7d70-c6f4-405e-8237-8ed37535ae08,c_g028,comune-di-olgiate-olona,5,https://dati.gov.it/view-dataset?organization=comune-di-olgiate-olona
 2024-11-22T10:50:23.903313,Comune di Orbassano,f0cb4dd8-ff0b-43cb-a7bf-3f9578be6fb5,c_g087,comune-di-orbassano,47,https://dati.gov.it/view-dataset?organization=comune-di-orbassano
 2025-11-05T11:31:58.481853,Comune di Osio Sotto,676f6ea8-fa44-40ae-a00e-a9d39e8fc536,c_g160,comune-di-osio-sotto,38,https://dati.gov.it/view-dataset?organization=comune-di-osio-sotto
