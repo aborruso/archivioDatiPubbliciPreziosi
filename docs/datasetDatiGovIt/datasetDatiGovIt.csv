@@ -1444,6 +1444,7 @@ aire-muggio
 aire-per-nazione-2022-comune-di-vicenza
 aire-per-nazione-2023-comune-di-vicenza
 aire-per-nazione-2024-comune-di-vicenza
+aire-per-nazione-2025-comune-di-vicenza
 aire-per-nazione-comune-di-creazzo
 aire-per-nazione-comune-di-gambellara
 aire-per-nazione-comune-di-malo
@@ -1503,11 +1504,6 @@ albi-ed-elenchi-del-comunita-valsugana-e-tesino
 albi-ed-elenchi-del-magnifica-comunita-degli-altipiani-cimbri
 albo-associazioni
 albo-associazioni-comune-di-torrebelvicino-aggiornato-al-31-12-2020
-albo-beneficiari-di-provvidenze-economiche-2012
-albo-beneficiari-di-provvidenze-economiche-2013
-albo-beneficiari-di-provvidenze-economiche-2014
-albo-beneficiari-di-provvidenze-economiche-2015
-albo-beneficiari-di-provvidenze-economiche-2016
 albo-beneficiari-feaga-2013
 albo-beneficiari-feasr-2013
 albo-cooperative-sociali-al-31-12-2015
@@ -2128,6 +2124,7 @@ amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-21-04-2025-al-31
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-21-07-2025-al-31-08-2025
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-22-10-2025-al-30-11-2025
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-23-06-2025-al-31-07-2025
+amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-25-03-2026-al-31-05-2026
 amat-palermo-spa-dati-del-trasporto-pubblico-locale-periodo-dal-26-09-2025-al-31-10-2025
 ambiente
 ambiente-analisi-dellacqua-1-trimestre-2021
@@ -2221,7 +2218,6 @@ ambiti-di-pertinenza-e-salvaguardia-approvato
 ambiti-di-pianificazione-coordinata-ptrc-2020
 ambiti-di-reperimento
 ambiti-di-reperimento-per-listituzione-di-parchi-riserve-e-aree-naturali-protette-di-interesse-
-ambiti-di-tutela
 ambiti-di-tutela-centri-e-nuclei-storici
 ambiti-di-valore-naturalistico-ed-ecosistemico-nel-patrimonio-territoriale-piano-strutturale-de
 ambiti-estrattivi-prac-calcari-per-costruzioni
@@ -2289,7 +2285,6 @@ ambito-per-funzioni-e-attivita-artigianali-e-di-servizio-alla-citta-ptrc-2020
 ambito-per-la-meccatronica-ptrc-2020
 ambito-per-la-promozione-delle-produzioni-tipiche-ptrc-2020
 ambito-per-listituzione-di-nuovi-parchi-regionali-ptrc-2020
-ambito-portuale
 ambito-portuale-puc-2015
 ambito-tecnologico-per-la-lavorazione-del-legno-ptrc-2020
 ambito-tecnologico-per-lottica-ptrc-2020
@@ -3026,6 +3021,7 @@ analisi-dipendenti-dellente-nimis
 analisi-dipendenti-dellente-nurachi
 analisi-dipendenti-dellente-orani
 analisi-dipendenti-dellente-orani1
+analisi-dipendenti-dellente-paulilatino
 analisi-dipendenti-dellente-povoletto
 analisi-dipendenti-dellente-reana-del-rojale
 analisi-dipendenti-dellente-regione-calabria
@@ -3259,6 +3255,7 @@ andamento-competenza-entrata-per-titoli-milena
 andamento-competenza-entrata-per-titoli-nurachi
 andamento-competenza-entrata-per-titoli-nuxis
 andamento-competenza-entrata-per-titoli-orani
+andamento-competenza-entrata-per-titoli-paulilatino
 andamento-competenza-entrata-per-titoli-pisogne
 andamento-competenza-entrata-per-titoli-povoletto
 andamento-competenza-entrata-per-titoli-reana-del-rojale
@@ -3456,6 +3453,7 @@ andamento-competenza-uscita-per-titoli-milena
 andamento-competenza-uscita-per-titoli-nurachi
 andamento-competenza-uscita-per-titoli-nuxis
 andamento-competenza-uscita-per-titoli-orani
+andamento-competenza-uscita-per-titoli-paulilatino
 andamento-competenza-uscita-per-titoli-pisogne
 andamento-competenza-uscita-per-titoli-povoletto
 andamento-competenza-uscita-per-titoli-reana-del-rojale
@@ -3694,6 +3692,7 @@ andamento-demografico-nurachi
 andamento-demografico-nuxis
 andamento-demografico-orani
 andamento-demografico-paulilatino
+andamento-demografico-paulilatino1
 andamento-demografico-poggio-renatico
 andamento-demografico-povoletto
 andamento-demografico-reana-del-rojale
@@ -3899,6 +3898,7 @@ andamento-entrate-e-uscite-di-competenza-negli-anni-marianopoli
 andamento-entrate-e-uscite-di-competenza-negli-anni-nurachi
 andamento-entrate-e-uscite-di-competenza-negli-anni-nuxis
 andamento-entrate-e-uscite-di-competenza-negli-anni-orani
+andamento-entrate-e-uscite-di-competenza-negli-anni-paulilatino
 andamento-entrate-e-uscite-di-competenza-negli-anni-pisogne
 andamento-entrate-e-uscite-di-competenza-negli-anni-povoletto
 andamento-entrate-e-uscite-di-competenza-negli-anni-reana-del-rojale
@@ -4759,7 +4759,6 @@ aree-di-intervento
 aree-di-mare-sottoposte-a-divieto
 aree-di-massima-tutela-paesaggistica
 aree-di-monitoraggio-balneazione-agg-2023
-aree-di-nuovo-impianto
 aree-di-particolare-interesse-naturalistico1
 aree-di-pertinenza-dei-ghiacciai-variante-pup-2000
 aree-di-pertinenza-della-rete-idrografica-1-10-000-edizione-del-1988
@@ -4780,7 +4779,6 @@ aree-di-ricerca-per-nuovi-impianti-di-radiocomunicazione-piano-strutturale-del-c
 aree-di-ricovero-per-la-popolazione-rp
 aree-di-ricovero-protezione-civile-nel-comune-di-bassano-del-grappa
 aree-di-ricovero-protezione-civile-nel-comune-di-cartigliano
-aree-di-riferimento-normativo
 aree-di-rilevamento
 aree-di-rispetto-delle-stazioni-sismometriche
 aree-di-rispetto-e-vincoli-common
@@ -4909,7 +4907,6 @@ aree-pedonali-dbt
 aree-pedonali-e-ztl1
 aree-pedonali-messina
 aree-pedonali1
-aree-pedonali2
 aree-pedonali3
 aree-per-la-cantieristica-ptrc-2020
 aree-per-la-viabilita-common
@@ -6274,6 +6271,7 @@ atti-amministrativi-nurachi
 atti-amministrativi-nuxis
 atti-amministrativi-orani
 atti-amministrativi-paulilatino
+atti-amministrativi-paulilatino1
 atti-amministrativi-per-tipo-e-servizio
 atti-amministrativi-poggio-renatico
 atti-amministrativi-porpetto
@@ -8636,7 +8634,6 @@ bollettino-mare-largo-per-la-toscana
 bollettino-meteo-per-la-toscana
 bollettino-meteo-probabilistico-giornaliero
 bollettino-meteorologico-della-toscana-a-6-15-giorni
-bollettino-meteorologico-di-localita
 bollettino-meteorologico-generale
 bollettino-montagna-toscana
 bollettino-siccita-2012
@@ -10248,6 +10245,8 @@ centralina-monitoraggio-progetto-toolsmart-scuola-primaria-tempesta
 centraline-monitoraggio-qualita-aria-comunitarie
 centraline-qualita-dellaria-misurazioni-giornaliere
 centraline-qualita-dellaria-storico-dal-2017
+centraline-semaforiche-flussi-di-traffico-giornalieri
+centraline-semaforiche-posizionamento-e-sensoristica-a-bordo
 centri-abitati
 centri-abitati-ai-sensi-degli-strumenti-pre-vigenti
 centri-abitati-ai-sensi-degli-strumenti-pre-vigenti1
@@ -10705,7 +10704,6 @@ cineteca-comunale
 cinghiale-piano-faunistico-provinciale-2025
 cippi-chilometrici1
 cippi-e-lapidi-situati-nei-cimiteri-ebraici-in-emilia-romagna
-cippi-ettometrici-della-viabilita-della-provincia-di-pistoia
 cippi-stradali
 circhi-glaciali-aree
 circhi-glaciali-linee
@@ -10737,6 +10735,7 @@ citta-cantu-provvedimenti-degli-organi-di-indirizzo-politico
 citta-cantu-provvedimenti-dei-dirigenti
 citta-cantu-risultati-elezioni
 citta-metropolitana-di-catania
+citta-metropolitana-di-catania-affluenze-musei
 citta-metropolitana-di-catania-ainop-anagrafiche-base-ponti
 citta-metropolitana-di-catania-appalti-e-gare
 citta-metropolitana-di-catania-bandi-di-gara-e-contratti
@@ -10748,10 +10747,12 @@ citta-metropolitana-di-catania-conteggio-protocolli
 citta-metropolitana-di-catania-conteggio-protocolli-per-ufficio
 citta-metropolitana-di-catania-convocati
 citta-metropolitana-di-catania-elenco-delle-aree-di-circolazione
+citta-metropolitana-di-catania-elenco-strade-di-competenza-per-comune-anno-2021
 citta-metropolitana-di-catania-monitoraggio-dei-tempi-dei-procedimenti
 citta-metropolitana-di-catania-provvedimenti-degli-organi-di-indirizzo-politico
 citta-metropolitana-di-catania-provvedimenti-dirigenti-amministrativi
 citta-metropolitana-di-catania-provvedimenti-organi-di-indirizzo-politico
+citta-metropolitana-di-catania-registro-concessioni-anno-2026
 citta-metropolitana-di-catania-sovvenzioni-contributi-sussidi-vantaggi-economici
 citta-metropolitana-di-catania-utenze
 citta-metropolitana-di-genova
@@ -11107,6 +11108,7 @@ cognomi-piu-diffusi-fra-i-residenti-2021-comune-di-vicenza
 cognomi-piu-diffusi-fra-i-residenti-2022-comune-di-vicenza
 cognomi-piu-diffusi-fra-i-residenti-2023-comune-di-vicenza
 cognomi-piu-diffusi-fra-i-residenti-2024-comune-di-vicenza
+cognomi-piu-diffusi-fra-i-residenti-2025-comune-di-vicenza
 cognomi-piu-usati
 cognomi-residenti-anno-2012
 cognomi-residenti-anno-2013
@@ -11529,6 +11531,7 @@ composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-nurachi
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-nuxis
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-orani
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-paulilatino
+composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-paulilatino1
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-poggio-renatico
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-povoletto
 composizione-famiglie-numero-componenti-e-minori-presenti-nel-nucleo-reana-del-rojale
@@ -12174,6 +12177,61 @@ comune-di-albenga-stranieri-per-stato-cittad
 comune-di-albenga-strasa
 comune-di-albenga-tassi-popolazione-residente
 comune-di-albenga-trend-demografico
+comune-di-albiate
+comune-di-albiate-aire-per-nazione
+comune-di-albiate-bandi-di-gara-e-contratti-trasparenza
+comune-di-albiate-calcolato-annuale-rifiuti-solidi-urbani
+comune-di-albiate-cognomi-piu-diffusi-residenti
+comune-di-albiate-condizioni-lavorative
+comune-di-albiate-conteggio-protocolli
+comune-di-albiate-conteggio-protocolli-per-ufficio
+comune-di-albiate-convocati
+comune-di-albiate-elenco-anagrafico-decessi-giornalieri
+comune-di-albiate-elenco-cancellati
+comune-di-albiate-elenco-decessi
+comune-di-albiate-elenco-divorzi
+comune-di-albiate-elenco-iscritti
+comune-di-albiate-elenco-matrimoni
+comune-di-albiate-elenco-nascite
+comune-di-albiate-elenco-pratiche
+comune-di-albiate-elenco-pratiche-generali
+comune-di-albiate-elenco-residenti
+comune-di-albiate-elenco-residenti-allestero
+comune-di-albiate-elenco-stato-civile-decessi-giornalieri
+comune-di-albiate-fabbricati-attivi-ici-imu
+comune-di-albiate-famiglie-con-stranieri-per-via
+comune-di-albiate-famiglie-per-numero-figli
+comune-di-albiate-famiglie-residenti-per-via
+comune-di-albiate-famiglie-totali
+comune-di-albiate-matrim-celebrati-per-rito
+comune-di-albiate-matrimimoni-celebrati-per-rito
+comune-di-albiate-media-componenti-famiglia
+comune-di-albiate-monitoraggio-dei-tempi-dei-procedimenti
+comune-di-albiate-monitoraggio-pratiche
+comune-di-albiate-monitoraggio-pratiche-generali
+comune-di-albiate-movimento-anagrafico
+comune-di-albiate-movimento-stranieri
+comune-di-albiate-nomi-iscritti-per-nascita
+comune-di-albiate-nomi-resid-per-eta-e-sesso
+comune-di-albiate-persone-giuridiche
+comune-di-albiate-popolazione-residente
+comune-di-albiate-provvedimenti-degli-organi-di-indirizzo-politico
+comune-di-albiate-provvedimenti-dei-dirigenti-2023
+comune-di-albiate-provvedimenti-dirigenti-amministrativi-trasparenza
+comune-di-albiate-provvedimenti-organi-di-indirizzo-politico-trasparenza
+comune-di-albiate-resid-per-quartiere-e-figli-in-fam
+comune-di-albiate-residenti-per-quartiere-e-figli-in-famiglia
+comune-di-albiate-residenti-per-quartiere-ed-eta
+comune-di-albiate-residenti-titoli-di-studio
+comune-di-albiate-saldi-movimento-anagrafico
+comune-di-albiate-stranieri-per-quartiere-e-cittad
+comune-di-albiate-stranieri-per-quartiere-e-cittadinanza
+comune-di-albiate-stranieri-per-sesso-ed-eta
+comune-di-albiate-stranieri-per-stato-cittad
+comune-di-albiate-tassi-popolazione-residente
+comune-di-albiate-trend-demografico
+comune-di-albiate-utenze-rifiuti-solidi-urbani
+comune-di-albiate-versamenti-spontanei-2023-ici-imu
 comune-di-alessandria
 comune-di-altamura
 comune-di-altamura-bilancio-di-previsione-entrata
@@ -14034,6 +14092,7 @@ comune-di-garbagnate-milanese-residenti-titoli-di-studio
 comune-di-garbagnate-milanese-saldi-movimento-anagrafico
 comune-di-garbagnate-milanese-sovvenzioni-contributi-sussidi-vantaggi-economici
 comune-di-garbagnate-milanese-strasa-statistica-stranieri-sesso-stato-civile-e-anno-di-nascita
+comune-di-garbagnate-milanese-strutture-imposta-di-soggiorno
 comune-di-garbagnate-milanese-tassi-popolazione-residente
 comune-di-garbagnate-milanese-trend-demografico
 comune-di-genova
@@ -17939,6 +17998,7 @@ conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-magnano-i
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-marianopoli
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-nurachi
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-orani
+conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-paulilatino
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-povoletto
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-reana-del-rojale
 conto-annuale-altri-oneri-che-concorrono-a-formare-il-costo-del-lavoro-sedilo
@@ -18040,6 +18100,7 @@ conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizi
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-magnano-in-ri
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-marianopoli
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-nurachi
+conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-paulilatino
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-povoletto
 conto-annuale-indennita-e-compensi-accessori-corrisposti-al-personale-in-servizio-reana-del-roj
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale
@@ -18137,6 +18198,7 @@ conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrispos
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale2
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale2-40
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale3
+conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale4
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale4-1
 conto-annuale-oneri-annui-per-voci-retributive-a-carattere-stipendiale-corrisposte-al-personale4-8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a
@@ -18240,6 +18302,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a1-94
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a2-45
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a3
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a3-2
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-a3-8
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e
@@ -18350,6 +18413,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e2-47
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e3
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e3-1
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e4
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e4-1
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-classi-di-e4-10
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s
@@ -18461,6 +18525,7 @@ conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s3
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s3-2
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s3-3
+conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s4
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s4-24
 conto-annuale-personale-a-tempo-indeterminato-e-personale-dirigente-distribuito-per-titolo-di-s4-6
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-bagn
@@ -18561,6 +18626,7 @@ conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-i
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-mari
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-nura
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-oran
+conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-paul
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-povo
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-rean
 conto-annuale-personale-dipendente-a-tempo-indeterminato-e-personale-dirigente-in-servizio-rema
@@ -19275,6 +19341,7 @@ costo-del-personale-magnano-in-riviera
 costo-del-personale-marianopoli
 costo-del-personale-non-a-tempo-indeterminato
 costo-del-personale-nurachi
+costo-del-personale-paulilatino
 costo-del-personale-povoletto
 costo-del-personale-reana-del-rojale
 costo-del-personale-san-teodoro
@@ -21809,6 +21876,7 @@ dettaglio-entrate-per-capitolo-di-spesa-magnano-in-riviera
 dettaglio-entrate-per-capitolo-di-spesa-marianopoli
 dettaglio-entrate-per-capitolo-di-spesa-nurachi
 dettaglio-entrate-per-capitolo-di-spesa-orani
+dettaglio-entrate-per-capitolo-di-spesa-paulilatino
 dettaglio-entrate-per-capitolo-di-spesa-pisogne
 dettaglio-entrate-per-capitolo-di-spesa-povoletto
 dettaglio-entrate-per-capitolo-di-spesa-reana-del-rojale
@@ -22008,6 +22076,7 @@ dettaglio-uscite-per-capitolo-di-spesa-magnano-in-riviera
 dettaglio-uscite-per-capitolo-di-spesa-marianopoli
 dettaglio-uscite-per-capitolo-di-spesa-nurachi
 dettaglio-uscite-per-capitolo-di-spesa-orani
+dettaglio-uscite-per-capitolo-di-spesa-paulilatino
 dettaglio-uscite-per-capitolo-di-spesa-pisogne
 dettaglio-uscite-per-capitolo-di-spesa-povoletto
 dettaglio-uscite-per-capitolo-di-spesa-reana-del-rojale
@@ -23610,6 +23679,7 @@ elenco-cittadini-per-sesso-nascita-e-cittadinanza-nurachi
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-nuxis
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-orani
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-paulilatino
+elenco-cittadini-per-sesso-nascita-e-cittadinanza-paulilatino1
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-poggio-renatico
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-reana-del-rojale
 elenco-cittadini-per-sesso-nascita-e-cittadinanza-remanzacco
@@ -23851,6 +23921,7 @@ elenco-dei-fascicoli-suddivisi-per-anno-magnano-in-riviera
 elenco-dei-fascicoli-suddivisi-per-anno-marianopoli
 elenco-dei-fascicoli-suddivisi-per-anno-nurachi
 elenco-dei-fascicoli-suddivisi-per-anno-orani
+elenco-dei-fascicoli-suddivisi-per-anno-paulilatino
 elenco-dei-fascicoli-suddivisi-per-anno-poggio-renatico
 elenco-dei-fascicoli-suddivisi-per-anno-povoletto
 elenco-dei-fascicoli-suddivisi-per-anno-sedilo
@@ -24078,6 +24149,7 @@ elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-nurachi
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-nuxis
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-orani
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-paulilatino
+elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-paulilatino1
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-poggio-renatico
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-povoletto
 elenco-dei-protocolli-suddivisi-per-anno-e-tipologia-reana-del-rojale
@@ -24395,6 +24467,7 @@ elenco-delle-pubblicazioni-nurachi
 elenco-delle-pubblicazioni-nuxis
 elenco-delle-pubblicazioni-orani
 elenco-delle-pubblicazioni-paulilatino
+elenco-delle-pubblicazioni-paulilatino1
 elenco-delle-pubblicazioni-poggio-renatico
 elenco-delle-pubblicazioni-porpetto
 elenco-delle-pubblicazioni-povoletto
@@ -26198,11 +26271,18 @@ elezioni-europee-2024
 elezioni-europee-2024-abbinamenti-dei-civici-alle-sezioni-elettorali1
 elezioni-europee-2024-corrispondenza-civici-e-sezioni-elettorali
 elezioni-europee-2024-dati-affluenza
+elezioni-europee-2024-dati-relativi-alle-affluenze-alle-urne-per-seggio-rilevazione-domen-23-00
+elezioni-europee-2024-dati-relativi-alle-affluenze-alle-urne-per-seggio-rilevazione-sabat-23-00
 elezioni-europee-2024-indirizzi-e-plessi-elettorali
 elezioni-europee-2024-preferenze-ai-candidati-suddivise-per-sezione
 elezioni-europee-2024-preferenze-alle-liste
 elezioni-europee-2024-seggi-elettorali-e-sezioni-corrispondenti
 elezioni-europee-2024-sezioni-e-sedi-elettorali
+elezioni-europee-2024-voti-assegnati-ai-candidati-per-sezioni-estere
+elezioni-europee-2024-voti-assegnati-alle-liste-per-sezioni
+elezioni-europee-2024-voti-assegnati-per-area-alle-liste-estere
+elezioni-europee-2024-voti-non-assegnati-per-area-estere
+elezioni-europee-2024-voti-non-assegnati-per-sezioni-estere
 elezioni-europee-20242
 elezioni-europee-20243
 elezioni-europee-26-05-2014-liste
@@ -29757,7 +29837,6 @@ imprese-giovanili-dei-comuni-della-provincia-di-lecce-anno-2017
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-anno-2018
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-anno-2019
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-i-trim-2017
-imprese-giovanili-dei-comuni-della-provincia-di-lecce-i-trimestre-2016
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-i-trimestre-2018
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-i-trimestre-2020
 imprese-giovanili-dei-comuni-della-provincia-di-lecce-ii-trim-2017
@@ -29903,6 +29982,11 @@ imprese-registrate-e-attive-per-comuni
 imprese-registrate-e-attive-per-forma-giuridica
 imprese-registrate-e-attive-per-provincia-natura-giuridica-e-ateco-anno-2017
 imprese-registrate-e-attive-per-provincia-natura-giuridica-e-settore-di-attivita-economica-2015
+imprese-registrate-nel-settore-f-costruzioni
+imprese-registrate-nella-divisione-attivita-servizi-di-ristorazione
+imprese-registrate-nella-divisione-commercio-al-dettaglio
+imprese-registrate-nella-divisione-commercio-allingrosso
+imprese-registrate-nella-divisione-servizi-di-alloggio
 imprese-rischio-frane-dataset
 imprese-settori-economici-archivio-asia1
 imprese-straniere-per-settore-anno-2020
@@ -30883,7 +30967,6 @@ infrastrutture-cmbo-fermate-sfm-cmbo
 infrastrutture-cmbo-tracciato-linee-ferroviarie-cmbo
 infrastrutture-cmbo-tracciato-strade-provinciali-cmbo
 infrastrutture-cmbo-tracciato-strade-provinciali-cmbo1
-infrastrutture-di-collegamento
 infrastrutture-di-trasporto-per-laccessibilita
 infrastrutture-di-trasporto-stradali
 infrastrutture-di-trasporto-stradali1
@@ -31493,7 +31576,6 @@ iscritti-alla-scuola-non-statale-paritaria-a-s-2024-25
 iscritti-alla-scuola-primaria
 iscritti-alla-scuola-secondaria-di-i-grado
 iscritti-alla-scuola-secondaria-di-ii-grado-a-s-2024-25
-iscritti-alla-scuola-secondaria-di-ii-grado-a-s-2024-25-della-provincia-di-reggio-emilia
 iscritti-allalbo-regionale-veneto-delle-guide-alpine
 iscritti-alle-gestioni-autonomi-dellinps-2012
 iscritti-alle-gestioni-dipendenti-dellinps-2012
@@ -32158,6 +32240,7 @@ la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-1-trimest-2023
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-1-trimest-2024
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-1-trimest-2025
+la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-1-trimest-2026
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2020
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2021
 la-localizzazione-delle-imprese-della-provincia-di-lecce-per-settore-di-attivita-2-trimest-2022
@@ -32570,6 +32653,7 @@ le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-1-trimestre-2022
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-1-trimestre-2024
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-1-trimestre-2025
+le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-1-trimestre-2026
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trim-2020
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2021
 le-imprese-artigiane-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
@@ -32598,6 +32682,7 @@ le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2024
 le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2025
+le-imprese-artigiane-della-provincia-di-lecce-1-trimestre-2026
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-artigiane-della-provincia-di-lecce-2-trimestre-2023
@@ -32627,6 +32712,7 @@ le-imprese-artigiane-della-provincia-di-lecce-per-settore-economico-anno-2021
 le-imprese-dei-comuni-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-dei-comuni-della-provincia-di-lecce-1-trimestre-2024
 le-imprese-dei-comuni-della-provincia-di-lecce-1-trimestre-2025
+le-imprese-dei-comuni-della-provincia-di-lecce-1-trimestre-2026
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2023
 le-imprese-dei-comuni-della-provincia-di-lecce-2-trimestre-2024
@@ -32660,6 +32746,7 @@ le-imprese-della-provincia-di-lecce-1-trimestre-2022
 le-imprese-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-della-provincia-di-lecce-1-trimestre-2024
 le-imprese-della-provincia-di-lecce-1-trimestre-2025
+le-imprese-della-provincia-di-lecce-1-trimestre-2026
 le-imprese-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-della-provincia-di-lecce-2-trimestre-2021
 le-imprese-della-provincia-di-lecce-2-trimestre-2022
@@ -32689,6 +32776,7 @@ le-imprese-femminili-della-provincia-di-lecce-1-trimestre-2022
 le-imprese-femminili-della-provincia-di-lecce-1-trimestre-2023
 le-imprese-femminili-della-provincia-di-lecce-1-trimestre-2024
 le-imprese-femminili-della-provincia-di-lecce-1-trimestre-2025
+le-imprese-femminili-della-provincia-di-lecce-1-trimestre-2026
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2020
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2022
 le-imprese-femminili-della-provincia-di-lecce-2-trimestre-2023
@@ -34103,6 +34191,7 @@ manuale-organizzativo-al-31-03-2022
 manuale-organizzativo-al-31-03-2023
 manuale-organizzativo-al-31-03-2024
 manuale-organizzativo-al-31-03-2025
+manuale-organizzativo-al-31-03-2026
 manuale-organizzativo-al-31-12-2019
 manuale-organizzativo-al-31-12-2021
 manuale-organizzativo-al-31-12-2022
@@ -34477,6 +34566,7 @@ medie-mensili-delle-temperature-minime-e-massime-giornaliere-anni-2009-2012
 medie-mensili-delle-temperature-minime-giornaliere-in-c-nel-comune-di-firenze-anni-20112014
 medie-prezzi-ingrosso
 medie-strutture-di-vendita
+meet-rete-stazioni-idrogeochimiche-dataset
 mef-noipa
 mef-openbdap
 mef-pensioni
@@ -42168,6 +42258,7 @@ nomi-quartiere-4-anno-2013
 nomi-quartiere-5-anno-2009
 nomi-quartiere-5-anno-2013
 nomi-residenti-per-eta-e-sesso-2024-comune-di-vicenza
+nomi-residenti-per-eta-e-sesso-2025-comune-di-vicenza
 nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-regione-ann-2012
 nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-regione-ann-2013
 nomine-e-designazioni-effettuate-dalla-giunta-regionale-e-dal-presidente-della-regione-ann-2018
@@ -42217,7 +42308,6 @@ norme-tecniche-di-attuazione1
 norme-tecniche-di-attuazione1-10
 norme-tecniche-di-attuazione1-11
 norme-tecniche-di-attuazione1-19
-norme-tecniche-di-attuazione2
 norme-tecniche-di-attuazione3-17
 nota-prot-n-g1-2020-0038154
 nota_trimestrale___tabella_01___rapporti_di_lavoro_attivati_per_ripartizione_geografica_e_gener
@@ -42632,6 +42722,7 @@ numeri-civici-non-ascot
 numeri-civici-nurachi
 numeri-civici-open-data
 numeri-civici-orani
+numeri-civici-paulilatino
 numeri-civici-piazzola-sul-brenta-sitc
 numeri-civici-poggio-renatico
 numeri-civici-povoletto
@@ -43640,6 +43731,8 @@ numero-settimane-retribuite-nell-anno-per-i-lavoratori-intermittenti-divise-per-
 numero-settimane-retribuite-nell39anno-per-i-lavoratori-dipendenti-divise-per-anno-re-2015-2016
 numero-squadre-della-sorveglianza-idraulica
 numero-stabilimenti-a-rischio-incidente-rilevante
+numero-start-up-innovative-di-roma-per-attivita-economica
+numero-start-up-innovative-di-roma-per-settore
 numero-stazioni-radio-base-anni-2006-2021
 numero-strutture-ricettive
 numero-strutture-turistiche-alberghiere-suddivise-per-provincia-e-per-categoria
@@ -43956,6 +44049,7 @@ oggetti-trovati-altri-oggetti
 oggetti-trovati-ciclomotori
 oggetti-trovati-documenti
 oggetti-trovati-targhe
+oleifici-presenti-sul-territorio-del-comune-di-palagianello
 oliveti-sociali
 om_gpl
 ombreggiatura-alpi-dtm-20m1
@@ -44051,6 +44145,7 @@ oneri-pratiche-edilizie-comune-di-vigasio
 oneri-pratiche-edilizie-comune-di-zenson-di-piave
 oneri-pratiche-edilizie-goro
 oneri-pratiche-edilizie-magnano-in-riviera
+oneri-pratiche-edilizie-paulilatino
 oneri-pratiche-edilizie-poggio-renatico
 oneri-pratiche-edilizie-povoletto
 oneri-pratiche-edilizie-remanzacco
@@ -44123,21 +44218,6 @@ open-data-comune-di-santa-margherita-ligure-versamenti-spontanei-2024
 open-data-comune-di-santa-margherita-ligure-versamenti-spontanei-dal-2013-al-2022
 open-data-comune-di-santa-margherita-ligure-versamenti-spontanei-dal-2024
 open-data-covid19
-open-data-rna-aiuti-2015-10
-open-data-rna-aiuti-2015-11
-open-data-rna-aiuti-2015-12
-open-data-rna-aiuti-2016-01
-open-data-rna-aiuti-2016-02
-open-data-rna-aiuti-2016-03
-open-data-rna-aiuti-2016-04
-open-data-rna-aiuti-2016-05
-open-data-rna-aiuti-2016-06
-open-data-rna-aiuti-2016-07
-open-data-rna-aiuti-2016-08
-open-data-rna-aiuti-2016-09
-open-data-rna-aiuti-2016-10
-open-data-rna-aiuti-2016-11
-open-data-rna-aiuti-2016-12
 open-data-rna-aiuti-2017-01
 open-data-rna-aiuti-2017-02
 open-data-rna-aiuti-2017-03
@@ -44263,6 +44343,15 @@ open-data-rna-aiuti-2025-04
 open-data-rna-aiuti-2025-05
 open-data-rna-aiuti-2025-06
 open-data-rna-aiuti-2025-07
+open-data-rna-aiuti-2025-08
+open-data-rna-aiuti-2025-09
+open-data-rna-aiuti-2025-10
+open-data-rna-aiuti-2025-11
+open-data-rna-aiuti-2025-12
+open-data-rna-aiuti-2026-01
+open-data-rna-aiuti-2026-02
+open-data-rna-aiuti-2026-03
+open-data-rna-aiuti-2026-04
 open-data-rna-misura-1994-01
 open-data-rna-misura-1998-01
 open-data-rna-misura-1998-03
@@ -44491,6 +44580,15 @@ open-data-rna-misura-2025-12
 open-data-rna-misura-2026-01
 open-data-rna-misura-2026-02
 open-data-rna-misura-2026-03
+open-data-rna-misura-2026-04
+open-data-rna-misura-2026-05
+open-data-rna-misura-2026-06
+open-data-rna-misura-2026-07
+open-data-rna-misura-2026-08
+open-data-rna-misura-2026-09
+open-data-rna-misura-2026-11
+open-data-rna-misura-2026-12
+open-data-rna-misura-2027-01
 open-data-rna-misura-2027-12
 open-data-set-origine-esercizi-commerciali-25
 open-data-suap-sue
@@ -46560,7 +46658,6 @@ perimetrazione-viabilita-mista-secondaria
 perimetrazione-zonizzazione-p-r-g-vigente
 perimetrazioni
 perimetri-dei-consorzi-irrigui-e-di-miglioramento-fondiario
-perimetro-aggiornato-del-centro-abitato
 perimetro-aree-di-progetto
 perimetro-bando-periferie-citta-metropolitana-di-firenze
 perimetro-degli-incendi-boschivi
@@ -48839,6 +48936,7 @@ portolano-regione-lombardia
 portualita-veneziana-ptrc-2020
 porzione-di-territorio-restituito-zona_r-000201
 posas-2024-comune-di-vicenza
+posas-2025-comune-di-vicenza
 posas-conteggio-di-tutta-la-popolazione-residente-iscritta-in-anagrafe
 posas-popolazione-per-classe-di-eta-sesso-e-stato-civile
 posas-popolazione-per-sesso-eta-e-stato-civile-nel-comune-di-milano1
@@ -49387,6 +49485,7 @@ pratiche-edilizie-richieste-comune-di-vigasio
 pratiche-edilizie-richieste-comune-di-zenson-di-piave
 pratiche-edilizie-richieste-goro
 pratiche-edilizie-richieste-magnano-in-riviera
+pratiche-edilizie-richieste-paulilatino
 pratiche-edilizie-richieste-poggio-renatico
 pratiche-edilizie-richieste-povoletto
 pratiche-edilizie-richieste-remanzacco
@@ -49428,6 +49527,7 @@ pratiche-edilizie-rilasciate-comune-di-trevenzuolo
 pratiche-edilizie-rilasciate-comune-di-vigasio
 pratiche-edilizie-rilasciate-goro
 pratiche-edilizie-rilasciate-magnano-in-riviera
+pratiche-edilizie-rilasciate-paulilatino
 pratiche-edilizie-rilasciate-poggio-renatico
 pratiche-edilizie-rilasciate-reana-del-rojale
 pratiche-edilizie-rilasciate-remanzacco
@@ -49645,7 +49745,6 @@ prezzario-dei-lavori-pubblici-della-regione-campania-anno-2023-prodotti
 prezzario-dei-lavori-pubblici-della-regione-campania-anno-2024-analisi
 prezzario-dei-lavori-pubblici-della-regione-campania-anno-2024-articoli
 prezzario-dei-lavori-pubblici-della-regione-campania-anno-2024-prodotti
-prezzario-dei-lavori-pubblici-della-toscana
 prezzario-lavori
 prezzario-lavori-2026
 prezzario-opere-pubbliche-della-regione-piemonte
@@ -50833,7 +50932,6 @@ programmazione-triennale-della-regione-basilicata
 programmazioneannuale-della-regione-basilicata
 progress-of-the-erdf-and-esf-started-projectsen
 progress-report-of-the-on-going-suppliers-projectsen
-progressive-ettometriche-dei-tratti-stradali-della-viabilita-della-provincia-di-pistoia
 progressive-sp-cmve
 progressivo-decessi-giornalieri-anno-2020
 progressivo-decessi-giornalieri-anno-20201
@@ -51178,6 +51276,8 @@ provincia-di-pescara-2025-bilancio-provvisorio
 provincia-di-pescara-2026-elenco-censimento-ponti-aggiornamento-gennaio-censimento
 provincia-di-pescara-2026-elenco-censimento-ponti-aggiornamento-gennaio-monitoraggio
 provincia-di-pescara-provincia-di-pescara-report-sinistri-2012
+provincia-di-pescara-provincia-pescara-immobili_anno_2019
+provincia-di-pescara-provincia-pescara-immobili_anno_2020
 provincia-di-pescara-stradario-provincia
 provincia-di-rovigo
 provincia-lecco-autorizzazioni-paesaggistiche
@@ -53064,6 +53164,7 @@ raccolta-differenziata-per-tipologia
 raccolta-differenziata-per-tipologia-anno-2022
 raccolta-differenziata-per-tipologia-anno-2023
 raccolta-differenziata-progressivo-2017
+raccolta-differenziata-rifiuti-comuni-siciliani-i-e-ii-semestre-2025
 raccolta-differenziata-rifiuti-urbani-anni-2010-2021
 raccolta-rifiuti
 raccolta-rifiuti-2015
@@ -53676,6 +53777,7 @@ referendum-popolare-anno-2009
 referendum-popolare-anno-2011
 referendum-popolare-anno-2016
 referendum-popolare-confermativo-2026-affluenza-per-sezione-domenica-ore-12
+referendum-popolare-confermativo-2026-affluenza-per-sezione-domenica-ore-19
 referendum-popolare-sulla-durata-delle-trivellazioni-in-mare-dati-affluenze-alle-urne
 referendum-popolare-sulla-durata-delle-trivellazioni-in-mare-dati-relativi-alle-sezioni-scrutin
 referendum-popolare-sulla-durata-delle-trivellazioni-in-mare-i-seggi-nelle-scuole
@@ -54798,6 +54900,7 @@ residenti-deceduti-per-anno-e-cittadinanza-2
 residenti-della-citta-di-matera-suddivisi-per-sesso-eta-cittadinanza-ed-area-sub-comunale-quart
 residenti-divisi-per-eta-e-sesso-comune-di-vicenza
 residenti-divisi-per-fasce-deta
+residenti-divisi-per-nuovi-quartieri-eta-e-cittadinanza-comune-di-vicenza
 residenti-estero-per-localita
 residenti-famiglie-e-stranieri-nel-centro-storico
 residenti-famiglie-e-stranieri-nella-ztl1
@@ -55078,6 +55181,7 @@ residui-finali-per-esercizio-magnano-in-riviera
 residui-finali-per-esercizio-marianopoli
 residui-finali-per-esercizio-nurachi
 residui-finali-per-esercizio-orani
+residui-finali-per-esercizio-paulilatino
 residui-finali-per-esercizio-pisogne
 residui-finali-per-esercizio-povoletto
 residui-finali-per-esercizio-reana-del-rojale
@@ -55178,6 +55282,7 @@ rete-di-monitoraggio-pioggia
 rete-di-monitoraggio-topo-batimetrica-sezioni-di-rilievo-2012-edizione-2014
 rete-di-monitoraggio-topo-batimetrica-sezioni-di-rilievo-2018-edizione-2020
 rete-di-stazioni-di-monitoraggio-idro-termo-pluviometrica
+rete-di-stazioni-gnss-ispra-dataset
 rete-dimore-e-giardini-storici-del-lazio-elenco-dei-beni-accreditati
 rete-distributiva-commerciale
 rete-distributiva-provinciale
@@ -57991,7 +58096,6 @@ servizi-tecnici-attinenti-all-ingegneria-e-all-architettura-2018
 servizi-territoriali
 servizi-territoriali-per-le-tossicodipendenze-sert-nel-comune-di-milano1
 servizi-terzo-settore1
-servizi-vari
 servizi-web-dei-comunicati-stampa
 servizi-web-dei-contatti-dellazienda-sanitaria-dellalto-adige
 servizi-web-dei-medici-di-turno
@@ -58130,12 +58234,6 @@ servizio-trasporto-scolastico-comune-di-soave
 servizio-trasporto-scolastico-magnano-in-riviera
 servizio-vigili-nonni
 servizio-web-dei-musei-in-alto-adige
-sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2020
-sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2021
-sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2022
-sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2023
-sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2024
-sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2025
 sessioni-anonimizzate-di-navigazione-web-riscontrate-nel-sistema-wifi-di-roma-capitale-tra-2026
 sessioni-di-accesso-al-servizio-wifi-pubblico-comune-di-cento
 set-di-indicatori-comunali-per-le-politiche-locali
@@ -58167,7 +58265,6 @@ settore-auto-per-numero-di-esercizi-anno-2015
 settori-catasto-tracciati-alpini
 settori-con-falda-sub-affiorante-0-2-m-dal-p-c
 settori-con-falda-sub-affiorante-0-2-m-dal-p-c-approvato
-settori-urbani-funzionali
 sezione-censimento-20111
 sezione-elettorali
 sezione-linked-opendata
@@ -58316,8 +58413,6 @@ sicurezza-stradale-tipologia-di-veicoli-coinvolti-polizia-municipale-anno-2017
 sicurezza-urbana-2017
 siepi
 siepi-in-manutenzione
-sigle-degli-strandard
-sigle-delle-funzioni-esistenti
 sim-di-utenti-stranieri-connessi-a-openwifimilano-nel-20171
 sim-di-utenti-stranieri-connessi-a-openwifimilano-nel-20181
 sim-di-utenti-stranieri-connessi-a-openwifimilano-nel-20191
@@ -62881,7 +62976,6 @@ statistiche-sugli-accessi-portale-open-data-anno-2025-5
 statistiche-sugli-accessi-portale-open-data-anno-2025-7
 statistiche-sugli-accessi-portale-open-data-anno-2025-8
 statistiche-sugli-accessi-portale-open-data-anno-2025-9
-statistiche-sugli-accessi-portale-open-data-anno-20251
 statistiche-sugli-accessi-portale-open-data-anno-2026
 statistiche-sugli-accessi-portale-open-data-anno-2026-1
 statistiche-sugli-accessi-portale-open-data-anno-2026-10
@@ -62911,7 +63005,6 @@ statistiche-sugli-accessi-portale-open-data-anno-20261
 statistiche-sugli-accessi-portale-open-data-anno-20261-11
 statistiche-sugli-accessi-portale-open-data-anno-20261-7
 statistiche-sugli-accessi-portale-open-data-anno-20261-9
-statistiche-sugli-accessi-portale-open-data-anno-20262
 statistiche-sugli-accessi-portale-open-data-anno-20263-17
 statistiche-sugli-accessi-portale-open-data1-1
 statistiche-sugli-accessi-portale-open-data1-10
@@ -63574,6 +63667,7 @@ stradario-comunale-grigno
 stradario-comunale-magnano-in-riviera
 stradario-comunale-nurachi
 stradario-comunale-orani
+stradario-comunale-paulilatino
 stradario-comunale-poggio-renatico
 stradario-comunale-povoletto
 stradario-comunale-reana-del-rojale
@@ -64142,6 +64236,7 @@ strutture-ricettive-comune-di-san-marcello
 strutture-ricettive-comune-zollino
 strutture-ricettive-del-comune-di-sternatia
 strutture-ricettive-di-modena
+strutture-ricettive-di-palagianello
 strutture-ricettive-di-roma-capitale-nel-2014
 strutture-ricettive-di-roma-capitale-nel-2015
 strutture-ricettive-di-roma-capitale-nel-2016
@@ -66395,7 +66490,6 @@ tessitura-depositi
 tessiture-depositi-quaternari
 tessuti-ed-aree-interne-al-perimetro-del-territorio-urbanizzato
 tessuti-storici-piano-operativo-del-comune-di-bagno-a-ripoli
-tessuti-urbani-esistenti
 tessuti-urbani-piano-operativo-del-comune-di-bagno-a-ripoli
 tessuto-urbanizzato-ptrc-2020
 test
@@ -67904,7 +67998,6 @@ unita-volumetriche4-1
 unita-volumetriche4-10
 unita-volumetriche4-12
 unita-volumetriche4-14
-unita-volumetriche4-15
 unita-volumetriche4-9
 unita-volumetriche5
 unita-volumetriche5-1
@@ -68269,7 +68362,6 @@ valori-e-tutele-naturali-rete-ecologica-locale-linee
 valori-limite-per-agenti-inquinanti
 valori-rilevati-per-i-principali-inquinanti-acustici1
 valori-rilevati-per-i-principali-inquinanti-dellaria-2004-20231
-valorizzazione-e-o-recupero-ambientale
 valutazione-dellaccessibilita-al-bosco
 valutazione-e-gestione-del-rischio-da-stress-lavoro-correlato-a-favore-del-personale-in-servizi
 valutazione-impatto-ambientale-via
@@ -68716,7 +68808,6 @@ viabilita-area-di-circolazione-pedonale-con-geometria-polylinez
 viabilita-area-di-circolazione-veicolare-con-geometria-polygonz
 viabilita-area-di-circolazione-veicolare-con-geometria-polylinez
 viabilita-consentita-misure-antismog1
-viabilita-della-provincia-di-pistoia
 viabilita-di-crinale-piano-strutturale-del-comune-di-bagno-a-ripoli
 viabilita-di-interesse-silvo-pastorale-esistente
 viabilita-di-interesse-silvo-pastorale-proposta
@@ -68909,7 +69000,6 @@ vincolo-cimiteriale
 vincolo-cimiteriale1
 vincolo-cimiteriale1-2
 vincolo-cimiteriale2
-vincolo-cimiteriale3
 vincolo-destinazione-forestale-art-15-l-r-52-78
 vincolo-idrogeologico
 vincolo-idrogeologico-28
@@ -69120,8 +69210,6 @@ wifi-a-reggio-emilia
 wifi-comune-di-erba
 wifi-hotspot-pubblici-comune-di-rimini
 wifi-pubblica
-windcube
-windprofile
 wms-service-inspire-pab
 wms-wmts-und-wfs-mit-qgis
 workshop-bcn-isocrone-total

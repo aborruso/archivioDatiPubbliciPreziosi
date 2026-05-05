@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-livigno","c_e621","https://www.opendata.maggioli.cloud/organization/comune-di-livigno","2026-04-29T14:33:57.205075","03",ingresso,2026-04-30,1
+"comune-di-olbia","c_g015","https://www.opendata.maggioli.cloud/organization/comune-di-olbia","2026-04-28T17:48:16.932240","20",ingresso,2026-04-30,1
 "comune-di-finale-ligure","c_d600","https://www.comune.finaleligure.sv.it/it","2026-04-27T09:20:27.572584","",ingresso,2026-04-27,1
 "comune-di-galbiate","c_d865","https://www.opendata.maggioli.cloud/organization/comune-di-galbiate","2026-04-27T09:01:15.947375","03",ingresso,2026-04-27,1
 "comune-di-asola","c_a470","https://www.comune.asola.mn.it/","2026-04-23T15:06:42.721117","",ingresso,2026-04-26,1
