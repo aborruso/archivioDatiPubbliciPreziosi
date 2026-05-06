@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-albiate","c_a159","https://www.opendata.maggioli.cloud/organization/comune-di-albiate","2026-05-05T09:30:48.310270","03",ingresso,2026-05-05,1
+"comune-di-serravalle-scrivia","c_i657","https://comune.serravalle-scrivia.al.it/","2026-05-04T09:26:57.763210","",ingresso,2026-05-05,1
 "comune-di-livigno","c_e621","https://www.opendata.maggioli.cloud/organization/comune-di-livigno","2026-04-29T14:33:57.205075","03",ingresso,2026-04-30,1
 "comune-di-olbia","c_g015","https://www.opendata.maggioli.cloud/organization/comune-di-olbia","2026-04-28T17:48:16.932240","20",ingresso,2026-04-30,1
 "comune-di-finale-ligure","c_d600","https://www.comune.finaleligure.sv.it/it","2026-04-27T09:20:27.572584","",ingresso,2026-04-27,1
