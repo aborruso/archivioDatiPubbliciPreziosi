@@ -64,7 +64,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-04-11T09:46:18.409525,Comune di Andora,7fb0e504-e9a7-4797-a2d9-682199d3e955,c_a278,comune-di-andora,0,https://dati.gov.it/view-dataset?organization=comune-di-andora
 2026-02-04T18:52:15.892826,Comune di Arbus,a4da9a0e-9ebf-4db1-9412-0f8a45b672e4,c_a359,comune-di-arbus,3,https://dati.gov.it/view-dataset?organization=comune-di-arbus
 2026-02-18T14:45:42.524048,Comune di Arcene,90e119c6-3b34-484d-a8c8-8dc1a602842e,c_a365,comune-di-arcene,41,https://dati.gov.it/view-dataset?organization=comune-di-arcene
-2025-09-19T07:19:02.331624,Comune di Arenzano,252d0ba0-2b2c-4e11-9d76-49c92dcda67e,c_a388,comune-di-arenzano,5,https://dati.gov.it/view-dataset?organization=comune-di-arenzano
+2025-09-19T07:19:02.331624,Comune di Arenzano,252d0ba0-2b2c-4e11-9d76-49c92dcda67e,c_a388,comune-di-arenzano,6,https://dati.gov.it/view-dataset?organization=comune-di-arenzano
 2025-07-31T15:59:38.037371,Comune di Arese,79884d6c-55d0-4987-9391-9aec2d3b7193,c_a389,comune-di-arese,44,https://dati.gov.it/view-dataset?organization=comune-di-arese
 2025-12-17T14:20:07.907282,Comune di Arquata Scrivia,cfcc1d68-8701-4093-a65d-e7a89c25e557,c_a436,comune-di-arquata-scrivia,2,https://dati.gov.it/view-dataset?organization=comune-di-arquata-scrivia
 2025-12-11T11:45:12.632084,Comune di Arzignano,894d3c6a-074f-4fc7-b69e-5095f9c15ec0,c_a459,comune-di-arzignano,27,https://dati.gov.it/view-dataset?organization=comune-di-arzignano
@@ -154,6 +154,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T16:24:12.167600,Comune di Garbagnate Milanese,d788d1b5-89b5-4280-af15-5d12eda0cdeb,c_d912,comune-di-garbagnate-milanese,36,https://dati.gov.it/view-dataset?organization=comune-di-garbagnate-milanese
 2024-03-08T22:00:51.660303,Comune di Genova,226f7e4e-979f-4e43-bcdc-7396b79248ec,c_d969,comune-di-genova,158,https://dati.gov.it/view-dataset?organization=comune-di-genova
 2025-11-17T17:10:05.094601,Comune di Giaveno,f5f9730b-e56c-4478-bda0-3ad6157f2751,c_e020,comune-di-giaveno,5,https://dati.gov.it/view-dataset?organization=comune-di-giaveno
+2026-05-06T10:30:32.090849,Comune di Giffoni Valle Piana,3711f6d7-eacf-4c08-a3b7-8f67981fc8b3,c_e027,comune-di-giffoni-valle-piana,10,https://dati.gov.it/view-dataset?organization=comune-di-giffoni-valle-piana
 2025-02-07T15:18:26.164181,Comune di Gildone,4bd8476a-047d-4254-afeb-900d8661e69c,c_e030,comune-di-gildone,0,https://dati.gov.it/view-dataset?organization=comune-di-gildone
 2025-03-07T15:29:16.641505,Comune di Giovinazzo,e1e9f349-ef2d-4894-91f4-d32f30db0a46,c_e047,comune-di-giovinazzo,4,https://dati.gov.it/view-dataset?organization=comune-di-giovinazzo
 2026-03-04T21:03:46.266798,Comune di Grassobbio,829778e5-41d8-465f-bf50-06ff8deb0245,c_e148,comune-di-grassobbio,3,https://dati.gov.it/view-dataset?organization=comune-di-grassobbio
@@ -280,7 +281,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-19T10:48:52.337631,Comune di Tarquinia,d56cf387-2ee3-4b03-a193-291be330486f,c_d024,comune-di-tarquinia,6,https://dati.gov.it/view-dataset?organization=comune-di-tarquinia
 2025-02-07T15:08:09.871704,Comune di Termoli,9c4f6260-2af7-4c64-b145-36b178760710,c_l113,comune-di-termoli,5,https://dati.gov.it/view-dataset?organization=comune-di-termoli
 2025-05-28T08:34:08.763606,Comune di Terralba,250720a6-46e3-4f10-abe7-ec9902a49dd7,c_l122,comune-di-terralba,3,https://dati.gov.it/view-dataset?organization=comune-di-terralba
-2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2060,https://dati.gov.it/view-dataset?organization=comune-di-torino
+2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2072,https://dati.gov.it/view-dataset?organization=comune-di-torino
 2025-02-13T16:33:47.617043,Comune di Torre Annunziata,76e91de6-8e18-48c9-b5e4-ed7dbffd6877,c_l245,comune-di-torre-annunziata,3,https://dati.gov.it/view-dataset?organization=comune-di-torre-annunziata
 2026-03-27T08:21:39.639875,Comune di Torremaggiore,d9b9e2b5-b8ab-4ee6-b2a0-7a710762c60a,c_l273,comune-di-torremaggiore,1,https://dati.gov.it/view-dataset?organization=comune-di-torremaggiore
 2025-02-13T16:26:10.993736,Comune di Tortona,70318d13-2c24-46ea-8944-12d58fa13ae3,c_l304,comune-di-tortona,3,https://dati.gov.it/view-dataset?organization=comune-di-tortona
@@ -387,6 +388,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:44:49.126876,Regione Veneto,e29d26ff-c0a3-4035-8566-63f1a6962b41,r_veneto,regione-veneto,6560,https://dati.gov.it/view-dataset?organization=regione-veneto
 2024-03-08T21:55:33.855295,Roma Capitale,94b9330e-0382-4d23-a8f6-03c80ac74355,c_h501,roma-capitale,359,https://dati.gov.it/view-dataset?organization=roma-capitale
 2024-08-30T13:25:10.959364,Sebastien Catalog,5597fffe-b810-404e-94a3-498f3d9d9092,XW88C90Q,sebastien-catalog,1,https://dati.gov.it/view-dataset?organization=sebastien-catalog
+2026-05-06T14:07:05.753141,SWITCH Catalog,26401515-e0df-4f22-bb55-1a8ba45029d8,XW88C90Q,switch-catalog,1,https://dati.gov.it/view-dataset?organization=switch-catalog
 2025-02-07T09:12:21.222865,Unione Bassa Est Parmense,e0108f7b-6337-4715-8629-31b199daaaca,ubep_pr,unione-bassa-est-parmense,0,https://dati.gov.it/view-dataset?organization=unione-bassa-est-parmense
 2025-04-04T08:58:14.054919,Unione dei Comuni del Coros,f5799c0d-0f96-42ae-886b-4fe5117d238e,udcc_090,unione-dei-comuni-del-coros,6,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-coros
 2025-06-19T13:11:40.727621,Unione dei Comuni del Distretto Ceramico,b371a946-8d89-4548-b595-f40da8dbcec4,c_i462a,unione-dei-comuni-del-distretto-ceramico,8,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-del-distretto-ceramico
