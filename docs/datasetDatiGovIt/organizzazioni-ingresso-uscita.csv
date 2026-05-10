@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-giffoni-valle-piana","c_e027","https://www.opendata.maggioli.cloud/organization/comune-di-giffoni-valle-piana","2026-05-06T10:30:32.090849","15",ingresso,2026-05-07,1
+"switch-catalog","XW88C90Q","https://switch.cmcc.it","2026-05-06T14:07:05.753141","16",ingresso,2026-05-07,1
 "comune-di-albiate","c_a159","https://www.opendata.maggioli.cloud/organization/comune-di-albiate","2026-05-05T09:30:48.310270","03",ingresso,2026-05-05,1
 "comune-di-serravalle-scrivia","c_i657","https://comune.serravalle-scrivia.al.it/","2026-05-04T09:26:57.763210","",ingresso,2026-05-05,1
 "comune-di-livigno","c_e621","https://www.opendata.maggioli.cloud/organization/comune-di-livigno","2026-04-29T14:33:57.205075","03",ingresso,2026-04-30,1
