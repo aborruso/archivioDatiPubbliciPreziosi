@@ -103,6 +103,7 @@ created,display_name,id,identifier,name,package_count,URL
 2026-01-30T13:35:07.900968,Comune di Campomarino,160858a8-41d6-4c3b-b30f-98e785aa3dc4,c_b550,comune-di-campomarino,1,https://dati.gov.it/view-dataset?organization=comune-di-campomarino
 2025-12-22T14:40:41.214158,Comune di Canino,f70946ef-1071-492e-bb55-c41ef2900372,c_b604,comune-di-canino,1,https://dati.gov.it/view-dataset?organization=comune-di-canino
 2025-10-30T11:50:59.469368,Comune di Capoterra,6e44f061-4fdf-4ddb-9040-095629a08a9b,c_b675,comune-di-capoterra,13,https://dati.gov.it/view-dataset?organization=comune-di-capoterra
+2026-05-14T07:53:57.231004,Comune di Carapelle,efb14061-5bde-49a4-b6e7-ff570434033e,c_b724,comune-di-carapelle,0,https://dati.gov.it/view-dataset?organization=comune-di-carapelle
 2024-11-14T15:09:34.834499,Comune di Carovigno,c87c64da-568e-42fa-870f-7fae083db0a5,c_b809,comune-di-carovigno,58,https://dati.gov.it/view-dataset?organization=comune-di-carovigno
 2025-02-10T11:14:17.193980,Comune di Carugate,d39bb41e-5dc3-46e2-b9be-ba2ac2a1b72c,c_b850,comune-di-carugate,3,https://dati.gov.it/view-dataset?organization=comune-di-carugate
 2025-11-04T15:18:21.397153,Comune di Casalgrande,c1a6870b-08d7-422e-af9a-5d2b5c0c9db1,c_b893,comune-di-casalgrande,28,https://dati.gov.it/view-dataset?organization=comune-di-casalgrande
@@ -135,7 +136,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-19T10:29:32.284647,Comune di Comacchio,f61bbd01-416b-4ce0-a6e1-4f4c3f76bdfe,c_c912,comune-di-comacchio,50,https://dati.gov.it/view-dataset?organization=comune-di-comacchio
 2026-01-07T09:05:49.466573,Comune di Corbetta,b64dd82a-79fa-4527-a6c1-4ece2e547f79,c_c986,comune-di-corbetta,23,https://dati.gov.it/view-dataset?organization=comune-di-corbetta
 2025-02-13T16:19:21.252888,Comune di Corciano,e2aa7491-54b3-44f1-a19e-190ce075479e,c_c990,comune-di-corciano,6,https://dati.gov.it/view-dataset?organization=comune-di-corciano
-2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,7,https://dati.gov.it/view-dataset?organization=comune-di-coriano
+2026-03-02T09:46:33.147834,Comune di Coriano,3acc744c-1499-4f62-bcee-0a7fb623ba8c,c_d004,comune-di-coriano,8,https://dati.gov.it/view-dataset?organization=comune-di-coriano
 2024-11-28T16:20:08.307335,Comune di Corigliano-Rossano,68ceb51d-00d3-45e8-9420-692827d82a38,c_m403,comune-di-corigliano-rossano,12,https://dati.gov.it/view-dataset?organization=comune-di-corigliano-rossano
 2026-04-21T08:38:20.230199,Comune di Cormano,bccd988e-5869-48a1-809c-9c0221a3c3e3,c_d013,comune-di-cormano,33,https://dati.gov.it/view-dataset?organization=comune-di-cormano
 2024-11-13T09:20:51.897034,Comune di Desenzano del Garda,1d853219-813f-469f-9382-1582ff3e5203,c_d284,comune-di-desenzano-del-garda,43,https://dati.gov.it/view-dataset?organization=comune-di-desenzano-del-garda
@@ -245,6 +246,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-04-11T08:27:43.931224,Comune di Rubano,2c930491-a1fc-4ec9-aa89-4175339bbf42,c_h625,comune-di-rubano,22,https://dati.gov.it/view-dataset?organization=comune-di-rubano
 2025-11-04T15:24:42.985201,Comune di Rubiera,d5d94045-ed9b-4e90-a1cb-cee5af4049c7,c_h628,comune-di-rubiera,24,https://dati.gov.it/view-dataset?organization=comune-di-rubiera
 2025-11-18T08:46:43.989940,Comune di Ruvo di Puglia,fbdec4c2-891e-4e1f-828f-a9e86f31ae59,c_h645,comune-di-ruvo-di-puglia,5,https://dati.gov.it/view-dataset?organization=comune-di-ruvo-di-puglia
+2026-05-13T12:22:46.826488,Comune di Salle,ccbf9a69-462f-4d0d-9862-2158f7ff3f03,c_h715,comune-di-salle,0,https://dati.gov.it/view-dataset?organization=comune-di-salle
 2025-08-27T09:49:40.851418,Comune di San Cesareo,fc5aa328-c830-4dbe-a1c3-b27c59a7faae,c_m295,comune-di-san-cesareo,1,https://dati.gov.it/view-dataset?organization=comune-di-san-cesareo
 2026-01-12T11:26:22.757449,Comune di San Cesario di Lecce,b91100c9-76c3-4800-b54b-e04aef62dd3d,c_h793,comune-di-san-cesario-di-lecce,1,https://dati.gov.it/view-dataset?organization=comune-di-san-cesario-di-lecce
 2026-01-22T10:49:54.293347,Comune di San Gavino Monreale,0f053478-c0d4-40ce-9a8c-bcab9bbc0a40,c_h856,comune-di-san-gavino-monreale,0,https://dati.gov.it/view-dataset?organization=comune-di-san-gavino-monreale
@@ -378,7 +380,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:37:37.431495,Regione Friuli Venezia-Giulia,25c2df1c-b01e-4026-b732-7cf6d767ab57,r_friuve,regione-friuli-venezia-giulia,802,https://dati.gov.it/view-dataset?organization=regione-friuli-venezia-giulia
 2024-03-08T21:38:56.153323,Regione Lazio,3333eed7-8e3a-4ea8-86f1-7241feff768d,r_lazio,regione-lazio,407,https://dati.gov.it/view-dataset?organization=regione-lazio
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,19,https://dati.gov.it/view-dataset?organization=regione-liguria
-2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,12,https://dati.gov.it/view-dataset?organization=regione-lombardia
+2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3293,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5460,https://dati.gov.it/view-dataset?organization=regione-marche
 2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,881,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1818,https://dati.gov.it/view-dataset?organization=regione-puglia
@@ -417,8 +419,9 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-29T14:05:22.877045,Università degli Studi di Ferrara,81b7f05a-333b-41ea-82a5-172756e4313e,uni_fe,universita-degli-studi-di-ferrara,16,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-ferrara
 2025-02-13T16:18:04.754265,Università degli Studi di Macerata,363bf31c-cfec-49bf-b4ca-4af78304983e,UNSTU_MC,universita-degli-studi-di-macerata,9,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-macerata
 2025-02-13T16:00:24.359281,Università degli Studi di Messina,eb41d753-1d8f-4c38-a7e0-8066258fe1cc,udsm_me,universita-degli-studi-di-messina,13,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-messina
-2025-04-14T08:58:24.487897,Università degli Studi di Napoli 'Parthenope',9c4fb242-0259-451d-baf2-54a51e5fd32c,uni_napa,universita-degli-studi-di-napoli-parthenope,1,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-napoli-parthenope
+2025-04-14T08:58:24.487897,Università degli Studi di Napoli 'Parthenope',9c4fb242-0259-451d-baf2-54a51e5fd32c,uni_napa,universita-degli-studi-di-napoli-parthenope,15,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-napoli-parthenope
 2025-12-18T10:38:04.952813,Università degli Studi di Palermo,3f34dfc3-ecb9-4495-be5b-5b50b1090f05,uni_pa,universita-degli-studi-di-palermo,19,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-palermo
+2026-05-14T09:30:54.646159,Università degli Studi di Pavia,d55cfad7-9b71-4233-9fe2-13b1a4610998,uni_pv,universita-degli-studi-di-pavia,2,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-pavia
 2025-07-04T12:19:30.528697,Università degli Studi di Teramo,ad653426-628d-444f-966a-c79a31355be5,unite,universita-degli-studi-di-teramo,11,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-teramo
 2024-11-21T13:05:18.778167,Università degli Studi di Udine,cd67c34e-dc08-44f5-bf58-e50e2601a4de,uni_udi,universita-degli-studi-di-udine,9,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-udine
 2025-02-13T16:25:39.862187,Università degli Studi di Urbino Carlo Bo,e1b846a5-8eab-44da-b13f-29f192abd0c6,USUCB,universita-degli-studi-di-urbino-carlo-bo,13,https://dati.gov.it/view-dataset?organization=universita-degli-studi-di-urbino-carlo-bo
