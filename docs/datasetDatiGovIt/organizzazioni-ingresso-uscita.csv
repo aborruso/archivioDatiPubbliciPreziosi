@@ -1,4 +1,7 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-carapelle","c_b724","http://www.comune.carapelle.fg.it/","2026-05-14T07:53:57.231004","",ingresso,2026-05-14,1
+"comune-di-salle","c_h715","https://www.comune.salle.pe.it/","2026-05-13T12:22:46.826488","",ingresso,2026-05-14,1
+"universita-degli-studi-di-pavia","uni_pv","https://portale.unipv.it/it","2026-05-14T09:30:54.646159","03",ingresso,2026-05-14,1
 "comune-di-giffoni-valle-piana","c_e027","https://www.opendata.maggioli.cloud/organization/comune-di-giffoni-valle-piana","2026-05-06T10:30:32.090849","15",ingresso,2026-05-07,1
 "switch-catalog","XW88C90Q","https://switch.cmcc.it","2026-05-06T14:07:05.753141","16",ingresso,2026-05-07,1
 "comune-di-albiate","c_a159","https://www.opendata.maggioli.cloud/organization/comune-di-albiate","2026-05-05T09:30:48.310270","03",ingresso,2026-05-05,1
