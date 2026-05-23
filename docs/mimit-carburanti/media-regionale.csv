@@ -1,83 +1,83 @@
 REGIONE,TIPOLOGIA,EROGAZIONE,PREZZO MEDIO
-Abruzzo,Gasolio,SELF,1.974
-Abruzzo,Benzina,SELF,1.967
+Abruzzo,Gasolio,SELF,1.977
+Abruzzo,Benzina,SELF,1.968
 Abruzzo,GPL,SERVITO,0.809
-Abruzzo,Metano,SERVITO,1.519
+Abruzzo,Metano,SERVITO,1.520
 Basilicata,Gasolio,SELF,1.989
-Basilicata,Benzina,SELF,1.983
+Basilicata,Benzina,SELF,1.985
 Basilicata,GPL,SERVITO,0.786
 Basilicata,Metano,SERVITO,1.567
-Bolzano,Gasolio,SELF,2.008
-Bolzano,Benzina,SELF,1.997
-Bolzano,GPL,SERVITO,0.889
+Bolzano,Gasolio,SELF,2.011
+Bolzano,Benzina,SELF,2.000
+Bolzano,GPL,SERVITO,0.890
 Bolzano,Metano,SERVITO,1.730
-Calabria,Gasolio,SELF,1.992
-Calabria,Benzina,SELF,1.982
-Calabria,GPL,SERVITO,0.852
+Calabria,Gasolio,SELF,1.990
+Calabria,Benzina,SELF,1.984
+Calabria,GPL,SERVITO,0.851
 Calabria,Metano,SERVITO,1.667
 Campania,Gasolio,SELF,1.963
-Campania,Benzina,SELF,1.957
-Campania,GPL,SERVITO,0.771
-Campania,Metano,SERVITO,1.533
-Emilia Romagna,Gasolio,SELF,1.972
+Campania,Benzina,SELF,1.958
+Campania,GPL,SERVITO,0.770
+Campania,Metano,SERVITO,1.532
+Emilia Romagna,Gasolio,SELF,1.975
 Emilia Romagna,Benzina,SELF,1.969
-Emilia Romagna,GPL,SERVITO,0.803
+Emilia Romagna,GPL,SERVITO,0.802
 Emilia Romagna,Metano,SERVITO,1.530
-Friuli Venezia Giulia,Gasolio,SELF,1.993
+Friuli Venezia Giulia,Gasolio,SELF,1.997
 Friuli Venezia Giulia,Benzina,SELF,1.991
-Friuli Venezia Giulia,GPL,SERVITO,0.801
+Friuli Venezia Giulia,GPL,SERVITO,0.800
 Friuli Venezia Giulia,Metano,SERVITO,1.517
-Lazio,Gasolio,SELF,1.970
-Lazio,Benzina,SELF,1.956
-Lazio,GPL,SERVITO,0.792
-Lazio,Metano,SERVITO,1.654
+Lazio,Gasolio,SELF,1.973
+Lazio,Benzina,SELF,1.958
+Lazio,GPL,SERVITO,0.791
+Lazio,Metano,SERVITO,1.652
 Liguria,Gasolio,SELF,1.984
 Liguria,Benzina,SELF,1.977
-Liguria,GPL,SERVITO,0.892
+Liguria,GPL,SERVITO,0.891
 Liguria,Metano,SERVITO,1.531
-Lombardia,Gasolio,SELF,1.971
-Lombardia,Benzina,SELF,1.964
-Lombardia,GPL,SERVITO,0.801
+Lombardia,Gasolio,SELF,1.977
+Lombardia,Benzina,SELF,1.966
+Lombardia,GPL,SERVITO,0.800
 Lombardia,Metano,SERVITO,1.550
-Marche,Gasolio,SELF,1.962
-Marche,Benzina,SELF,1.949
+Marche,Gasolio,SELF,1.977
+Marche,Benzina,SELF,1.951
 Marche,GPL,SERVITO,0.829
-Marche,Metano,SERVITO,1.529
-Molise,Gasolio,SELF,1.999
+Marche,Metano,SERVITO,1.531
+Molise,Gasolio,SELF,2.013
 Molise,Benzina,SELF,1.970
-Molise,GPL,SERVITO,0.819
+Molise,GPL,SERVITO,0.818
 Molise,Metano,SERVITO,1.481
-Piemonte,Gasolio,SELF,1.968
-Piemonte,Benzina,SELF,1.964
-Piemonte,GPL,SERVITO,0.799
-Piemonte,Metano,SERVITO,1.562
-Puglia,Gasolio,SELF,1.977
-Puglia,Benzina,SELF,1.972
-Puglia,GPL,SERVITO,0.784
+Piemonte,Gasolio,SELF,1.972
+Piemonte,Benzina,SELF,1.965
+Piemonte,GPL,SERVITO,0.798
+Piemonte,Metano,SERVITO,1.565
+Puglia,Gasolio,SELF,1.976
+Puglia,Benzina,SELF,1.973
+Puglia,GPL,SERVITO,0.783
 Puglia,Metano,SERVITO,1.630
-Sardegna,Gasolio,SELF,1.992
+Sardegna,Gasolio,SELF,1.995
 Sardegna,Benzina,SELF,1.979
-Sardegna,GPL,SERVITO,0.880
-Sicilia,Gasolio,SELF,1.984
+Sardegna,GPL,SERVITO,0.879
+Sicilia,Gasolio,SELF,1.996
 Sicilia,Benzina,SELF,1.970
-Sicilia,GPL,SERVITO,0.831
+Sicilia,GPL,SERVITO,0.830
 Sicilia,Metano,SERVITO,1.821
-Toscana,Gasolio,SELF,1.974
-Toscana,Benzina,SELF,1.968
-Toscana,GPL,SERVITO,0.809
+Toscana,Gasolio,SELF,1.997
+Toscana,Benzina,SELF,1.969
+Toscana,GPL,SERVITO,0.805
 Toscana,Metano,SERVITO,1.601
-Trento,Gasolio,SELF,1.989
-Trento,Benzina,SELF,1.975
-Trento,GPL,SERVITO,0.827
+Trento,Gasolio,SELF,1.991
+Trento,Benzina,SELF,1.977
+Trento,GPL,SERVITO,0.826
 Trento,Metano,SERVITO,1.550
-Umbria,Gasolio,SELF,1.969
-Umbria,Benzina,SELF,1.961
-Umbria,GPL,SERVITO,0.821
+Umbria,Gasolio,SELF,1.974
+Umbria,Benzina,SELF,1.963
+Umbria,GPL,SERVITO,0.819
 Umbria,Metano,SERVITO,1.511
 Valle d'Aosta,Gasolio,SELF,1.999
-Valle d'Aosta,Benzina,SELF,1.989
+Valle d'Aosta,Benzina,SELF,1.990
 Valle d'Aosta,GPL,SERVITO,0.899
 Veneto,Gasolio,SELF,1.962
 Veneto,Benzina,SELF,1.962
-Veneto,GPL,SERVITO,0.806
+Veneto,GPL,SERVITO,0.805
 Veneto,Metano,SERVITO,1.501
