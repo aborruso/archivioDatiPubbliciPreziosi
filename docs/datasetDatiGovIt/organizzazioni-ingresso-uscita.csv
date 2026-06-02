@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"banca-d-italia","bdi_rm","https://www.bancaditalia.it/","2026-05-22T15:50:29.041315","",ingresso,2026-05-27,1
+"comune-di-besnate","c_a825","https://www.opendata.maggioli.cloud/organization/comune-di-besnate","2026-05-25T08:54:54.399773","03",ingresso,2026-05-27,1
 "comune-di-resana","c_h238","https://www.comune.resana.tv.it","2026-05-14T12:45:52.863032","",ingresso,2026-05-19,1
 "comune-di-carapelle","c_b724","http://www.comune.carapelle.fg.it/","2026-05-14T07:53:57.231004","",ingresso,2026-05-14,1
 "comune-di-salle","c_h715","https://www.comune.salle.pe.it/","2026-05-13T12:22:46.826488","",ingresso,2026-05-14,1
