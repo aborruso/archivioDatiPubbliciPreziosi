@@ -1,4 +1,7 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-fontanelle","c_d674","https://www.comune.fontanelle.tv.it/","2026-05-28T07:22:23.534078","",ingresso,2026-06-02,1
+"comune-di-martellago","c_e980","https://www.comune.martellago.ve.it/","2026-05-27T11:47:41.630723","",ingresso,2026-06-02,1
+"comune-di-santa-giustina-in-colle","c_i207","https://www.comune.santa-giustina-in-colle.pd.it/","2026-05-29T08:53:30.983479","",ingresso,2026-06-02,1
 "banca-d-italia","bdi_rm","https://www.bancaditalia.it/","2026-05-22T15:50:29.041315","",ingresso,2026-05-27,1
 "comune-di-besnate","c_a825","https://www.opendata.maggioli.cloud/organization/comune-di-besnate","2026-05-25T08:54:54.399773","03",ingresso,2026-05-27,1
 "comune-di-resana","c_h238","https://www.comune.resana.tv.it","2026-05-14T12:45:52.863032","",ingresso,2026-05-19,1
