@@ -450,6 +450,7 @@ id
 3fba95100350de9d1fe7e64fd985ede7ee3f70d6e05ba10c68c9caba6af02d14
 3fc05468cfcdefa768611ce780fa99ae9c7862a5fa4f8c41acf4dc12bca4090e
 3fcc628e736a4c9a25eaa98704cb76e2402f2d04f715f560bfc14ff8ff9b031b
+402faca319d310e570a23eb5c02e6fd50ab40d41df93c88ab3a640e69519d2c7
 404ac387423c4014b79c9b4a0f17b98f838aa825d90e76ccaf97829153b00abd
 405bda1ca4708a0a6d70fecdcadfa1a36a52252549e71abe5caabfa70cdb7847
 40fe104b575e6b5b2f5409b3672153b69de1e25fb269d8e66be8034592ac668f
@@ -538,6 +539,7 @@ id
 612163aec3160d81fc8fc4d12ca43a48963e43d86b2a1a21c194dc9b6fd5758d
 6136c4e930a230acc5f18695d8d8c584658348d548cba7b099a6754959d88d5f
 613c51cb314b4bb13fa2ae751c9db7dc48f7db4850b84b77890d0bf2b637f194
+624d6f7c2a70715bccb839bc404052253a79dc5dd98f604767751110314b05dc
 6290053074c6aaa40751a9a306cbcd9fb51d4ef435c1ec53253213cd05f4d39e
 62ecc273e5981978a6db10ad659976a011d4b835d8a0e3e08a4ca8de392d2b0a
 62f553370e5e46a2b171f55bed460762c9d8ab11ef4a483851fa2ce822e13cd1
@@ -640,6 +642,7 @@ id
 8aa8103b66c8753736f9fef2ee02eabc9413ae1104d5a8457ba4aed78f699f40
 8b519c120c564a2f3d4a4b27005fcc02a457a00d52d62a404cd7e196f44899df
 8bf20d0fac9e19302a28d3b1445b23ddb6a9cb4f48c619f0c7ba7a8961c98573
+8c0cc0bf3c6dbe4908b900834fbe3768c4ba6106a5b546cae7c004196fc8041b
 8c16247b3e0f0ac1ab7d4f7f2966d914a6ae0b20b0653ec22a458243ff208465
 8cef34edd94c56bdb8bc1ed702e88530d3ecf0ae48735174aa7ba9001f13188b
 8cf839872bbf117c9601e1c770319912f26c7e7d137fb243da5da36342b80056
@@ -1335,7 +1338,6 @@ agro-centuriato-area
 agro-centuriato-area-1
 agro-centuriato-linee
 agro-clima
-agrometeo_2005_2006
 ahhhchebello
 aia
 aib-carta-della-vegetazione
@@ -11275,6 +11277,7 @@ comune-di-altamura-procedimenti-amministrativi-2024-ii
 comune-di-altamura-procedimenti-amministrativi-2025-i
 comune-di-altamura-procedimenti-amministrativi-2025-ii
 comune-di-altamura-procedimenti-amministrativi-2026-i
+comune-di-altamura-procedimenti-amministrativi-2026-ii
 comune-di-altamura-referendum-confermativo-2026-affluenze-finali-lunedi-23-ore-15
 comune-di-altamura-referendum-confermativo-2026-affluenze-parziali-domenica-22-ore-12
 comune-di-altamura-referendum-confermativo-2026-affluenze-parziali-domenica-22-ore-19
@@ -15801,6 +15804,7 @@ comuni-della-toscana-al-1-1-negli-anni-2013-2021-codici-istat-e-catastali
 comuni-della-toscana-con-funzione-statistica-associata-per-statuto-al-01-01-2024
 comuni-dellumbria
 comuni-distretti
+comuni-distretti-veterinari-ats-pavia
 comuni-distretto-po-2021-distretto-po
 comuni-interessati-dalla-presenza-di-terre-di-uso-civico
 comuni-lombardi
@@ -22773,6 +22777,7 @@ elenco-di-autobus-per-trasporto-pubblico-circolanti-in-puglia-al-2024-e-aggiorna
 elenco-di-merito
 elenco-di-operatori-cui-affidare-eventuali-incarichi-di-realizzazione-di-attivita-di-2014-2020
 elenco-dipartimenti
+elenco-dipartimenti-ats-pavia
 elenco-dipartimenti1
 elenco-direttori-tecnici-anno-2026
 elenco-direttori-tecnici-di-agenzia-viaggio
@@ -22780,6 +22785,7 @@ elenco-direttori-tecnici-di-agenzie-di-viaggio-e-turismo
 elenco-dirigenti
 elenco-distretti-agricoli-accreditati
 elenco-distretti-socio-sanitari-con-comuni-di-competenza
+elenco-distretti-veterinari-ats-pavia
 elenco-distretti-veterinari-con-comuni-di-competenza
 elenco-distributori-carburante-con-turni-anno-2015-del-comune-di-matera
 elenco-distributori-carburante-stradali
@@ -28168,6 +28174,8 @@ incidenti-per-tipo-e-persone-infortunate-anno-2011
 incidenti-persone-coinvolte
 incidenti-riepilogo-incroci
 incidenti-riepilogo-strade
+incidenti-rilevati-dalla-polizia-municipale-anno-2024
+incidenti-rilevati-dalla-polizia-municipale-anno-2025
 incidenti-stradali
 incidenti-stradali-2001-2007
 incidenti-stradali-2004-2017
@@ -50648,6 +50656,10 @@ regione-toscana-musei
 regione-toscana-note-appropriatezza-e-erogabilita
 regione-toscana-numero-di-accessi-a-dottorati-di-ricerca-per-ateneo-per-anno-per-area-cun
 regione-toscana-orari-trasporto-pubblico
+regione-toscana-ortofoto-anni-1975-1976
+regione-toscana-ortofoto-anno-2021
+regione-toscana-ortofoto-anno-2023
+regione-toscana-ortofoto-volo-rossi-brescia
 regione-toscana-paas
 regione-toscana-patrimonio-immobiliare-georeferenziato
 regione-toscana-pcca
@@ -59722,6 +59734,7 @@ storico-imprese-straniere-comune-di-adria-anni-2017-2020
 storico-imprese-straniere-comune-di-rovigo-anni-2017-2020
 storico-imprese-straniere-comune-di-villadose-anni-2017-2020
 storico-interventi-previsti-dai-contratti-di-programma-rfi-e-anas
+storico-popolazione-residente-anni-2008-2025
 storico-sez-elettorali-2011
 storico-sez-elettorali-20111
 storico-sezioni-censimento1
@@ -64833,16 +64846,35 @@ verona-imprenditoria-artigiana-nel-2023
 verona-imprenditoria-femminile-nel-2023
 verona-imprenditoria-giovanile-nel-2023
 verona-imprenditoria-straniera-nel-2023
+verona-imprese-artigiane-per-comune-anno-2025
 verona-imprese-artigiane-per-comune-e-per-settore-anno-2024
 verona-imprese-artigiane-per-settore-anno-2025
+verona-imprese-femminili-per-comune-anno-2025
 verona-imprese-femminili-per-comune-e-per-settore-anno-2024
+verona-imprese-femminili-per-settore-anno-2025
+verona-imprese-giovanili-per-comune-anno-2025
 verona-imprese-giovanili-per-comune-e-per-settore-anno-2024
+verona-imprese-giovanili-per-settore-anno-2025
+verona-imprese-per-classe-di-natura-giuridica-e-per-comune-anno-2024
+verona-imprese-per-classe-di-natura-giuridica-e-per-comune-anno-2025
+verona-imprese-per-settori-economici-e-comune-anno-2024
+verona-imprese-per-settori-economici-e-per-comune-anno-2025
+verona-imprese-per-status-di-impresa-e-comune-anno-2024
+verona-imprese-per-status-di-impresa-e-comune-anno-2025
+verona-imprese-straniere-per-comune-anno-2025
 verona-imprese-straniere-per-comune-e-per-settore-anno-2024
+verona-imprese-straniere-per-settore-anno-2025
 verona-interscambio-commerciale-per-paesi-della-provincia-verona-anni-2023-2024
 verona-interscambio-commerciale-per-prodotti-valori-in-euro-anni-2023-2024
 verona-interscambio-commerciale-per-provincia-valori-in-euro-italia-anno-2023-2024
 verona-localizzazioni-attive-e-addetti-alle-localizzazioni-per-comune-anno-2024
+verona-localizzazioni-di-impresa-e-addetti-per-comune-anno-2024
+verona-localizzazioni-di-impresa-e-addetti-per-comune-anno-2025
+verona-localizzazioni-di-impresa-e-addetti-per-settore-anno-2024
+verona-localizzazioni-di-impresa-e-addetti-per-settore-anno-2025
 verona-localizzazioni-di-impresa-nel-2023
+verona-natimortalita-delle-imprese-anno-2024
+verona-natimortalita-delle-imprese-anno-2025
 versamenti-di-spettanza-regionale-effettuati-tramite-il-modello-di-pagamento-f24-anno-2024
 versamenti-di-spettanza-regionale-effettuati-tramite-il-modello-di-pagamento-f24-anno-2025
 versamenti-di-spettanza-regionale-effettuati-tramite-il-modello-di-pagamento-f24-serie-storica-

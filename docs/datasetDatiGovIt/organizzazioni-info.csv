@@ -7,7 +7,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-11-14T15:24:06.603076,ATS - Agenzia di Tutela della Salute della Val Padana,0f63e7d6-119a-4a02-85e9-b11066fc5e58,atsvp,agenzia-di-tutela-della-salute-della-val-padana,13,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-della-val-padana
 2025-03-17T10:08:57.085812,Agenzia di Tutela della Salute di Bergamo,937e603c-e069-4080-a8cd-9ec39f851bda,atsb,agenzia-di-tutela-della-salute-di-bergamo,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-di-bergamo
 2025-05-05T09:04:03.721945,Agenzia di Tutela della Salute di Brescia,f1086794-56a8-4455-9136-cb23744c0ff2,atsbs,agenzia-di-tutela-della-salute-di-brescia,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-di-brescia
-2025-02-13T16:26:48.651604,Agenzia di Tutela della Salute di Pavia,6d631e37-cc73-469f-9d51-7f81acba3cb2,atspv,agenzia-di-tutela-della-salute-di-pavia,10,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-di-pavia
+2025-02-13T16:26:48.651604,Agenzia di Tutela della Salute di Pavia,6d631e37-cc73-469f-9d51-7f81acba3cb2,atspv,agenzia-di-tutela-della-salute-di-pavia,13,https://dati.gov.it/view-dataset?organization=agenzia-di-tutela-della-salute-di-pavia
 2024-12-04T19:33:26.317012,Agenzia Laore Sardegna,fd1d1914-d4d4-4705-8479-08d959b02005,ls_ca,agenzia-laore-sardegna,12,https://dati.gov.it/view-dataset?organization=agenzia-laore-sardegna
 2025-06-30T15:56:13.821200,Agenzia Nazionale per la Meteorologia e Climatologia - ItaliaMeteo,58f47ff9-996f-418a-938d-da7ac109079d,8W0Q4VWZ,agenzia-nazionale-per-la-meteorologia-e-climatologia-italiameteo,8,https://dati.gov.it/view-dataset?organization=agenzia-nazionale-per-la-meteorologia-e-climatologia-italiameteo
 2024-10-23T15:26:40.841328,ANSFISA - Agenzia Nazionale per la Sicurezza delle Ferrovie e delle Infrastrutture Stradali e Autostradali,adba4134-0c06-45a6-9849-27ad745861be,ansfisa,agenzia-nazionale-per-la-sicurezza-delle-ferrovie-e-delle-infrastrutture-stradali-e-autostradali,21,https://dati.gov.it/view-dataset?organization=agenzia-nazionale-per-la-sicurezza-delle-ferrovie-e-delle-infrastrutture-stradali-e-autostradali
@@ -61,7 +61,7 @@ created,display_name,id,identifier,name,package_count,URL
 2026-05-05T09:30:48.310270,Comune di Albiate,5d75eca0-e879-4dcb-a812-ff2886969289,c_a159,comune-di-albiate,54,https://dati.gov.it/view-dataset?organization=comune-di-albiate
 2025-11-20T16:24:56.538846,Comune di Albino,d00a1361-e3a8-439d-93cd-59b299441763,c_a163,comune-di-albino,5,https://dati.gov.it/view-dataset?organization=comune-di-albino
 2025-03-17T13:40:38.794427,Comune di Alessandria,82bf1957-ae6b-461f-8da0-9f20fabd7a6c,c_a182,comune-di-alessandria,5,https://dati.gov.it/view-dataset?organization=comune-di-alessandria
-2025-04-01T09:04:18.107021,Comune di Altamura,a94de7dd-d093-48c9-8f79-ea847690e3fe,c_a225,comune-di-altamura,31,https://dati.gov.it/view-dataset?organization=comune-di-altamura
+2025-04-01T09:04:18.107021,Comune di Altamura,a94de7dd-d093-48c9-8f79-ea847690e3fe,c_a225,comune-di-altamura,32,https://dati.gov.it/view-dataset?organization=comune-di-altamura
 2025-04-11T09:46:18.409525,Comune di Andora,7fb0e504-e9a7-4797-a2d9-682199d3e955,c_a278,comune-di-andora,0,https://dati.gov.it/view-dataset?organization=comune-di-andora
 2026-02-04T18:52:15.892826,Comune di Arbus,a4da9a0e-9ebf-4db1-9412-0f8a45b672e4,c_a359,comune-di-arbus,3,https://dati.gov.it/view-dataset?organization=comune-di-arbus
 2026-02-18T14:45:42.524048,Comune di Arcene,90e119c6-3b34-484d-a8c8-8dc1a602842e,c_a365,comune-di-arcene,41,https://dati.gov.it/view-dataset?organization=comune-di-arcene
@@ -153,6 +153,7 @@ created,display_name,id,identifier,name,package_count,URL
 2026-01-27T10:22:44.465654,Comune di Forte dei Marmi,e5916554-888e-48fa-8086-c3a5c720639f,c_d730,comune-di-forte-dei-marmi,1,https://dati.gov.it/view-dataset?organization=comune-di-forte-dei-marmi
 2025-06-19T13:01:48.188864,Comune di Frassinoro,6ce38fa7-c69b-4416-8165-f5477ffec67a,c_d783,comune-di-frassinoro,48,https://dati.gov.it/view-dataset?organization=comune-di-frassinoro
 2025-09-12T10:51:49.226218,Comune di Frattamaggiore,ff5e368a-250c-4a2f-9aa5-dbbc4dd537a3,c_d789,comune-di-frattamaggiore,9,https://dati.gov.it/view-dataset?organization=comune-di-frattamaggiore
+2026-06-12T09:50:59.194750,Comune di Frosinone,1c79940a-05d9-4f8c-a1d1-88191f95983e,c_d810,comune-di-frosinone,0,https://dati.gov.it/view-dataset?organization=comune-di-frosinone
 2025-02-13T16:34:19.519687,Comune di Gaggiano,33679cb9-991c-489d-aab4-04ae74a2ce00,c_d845,comune-di-gaggiano,52,https://dati.gov.it/view-dataset?organization=comune-di-gaggiano
 2026-04-27T09:01:15.947375,Comune di Galbiate,bde5100c-4c60-4f10-ad56-ab6e6d726be5,c_d865,comune-di-galbiate,17,https://dati.gov.it/view-dataset?organization=comune-di-galbiate
 2025-02-13T16:24:12.167600,Comune di Garbagnate Milanese,d788d1b5-89b5-4280-af15-5d12eda0cdeb,c_d912,comune-di-garbagnate-milanese,36,https://dati.gov.it/view-dataset?organization=comune-di-garbagnate-milanese
@@ -243,7 +244,7 @@ created,display_name,id,identifier,name,package_count,URL
 2026-01-27T13:45:12.426644,Comune di Quartu Sant'Elena,c94061b3-77ca-466f-acb0-5dccf2b54b07,c_h118,comune-di-quartu-sant-elena,11,https://dati.gov.it/view-dataset?organization=comune-di-quartu-sant-elena
 2025-04-14T08:07:37.142964,Comune di Rapallo,1377acf3-e741-43d1-a533-a695afadbcd3,c_h183,comune-di-rapallo,8,https://dati.gov.it/view-dataset?organization=comune-di-rapallo
 2025-12-18T14:36:05.726085,Comune di Rende,a3ad6393-ac3b-4080-acac-cb4da6ad4080,c_h235,comune-di-rende,9,https://dati.gov.it/view-dataset?organization=comune-di-rende
-2026-05-14T12:45:52.863032,Comune di Resana,ffaea769-155e-492e-88fa-556b8732aed5,c_h238,comune-di-resana,0,https://dati.gov.it/view-dataset?organization=comune-di-resana
+2026-05-14T12:45:52.863032,Comune di Resana,ffaea769-155e-492e-88fa-556b8732aed5,c_h238,comune-di-resana,3,https://dati.gov.it/view-dataset?organization=comune-di-resana
 2024-03-08T18:28:23.244694,Comune di Rimini,f9546d88-5c6e-41d1-97b2-ebd9d0a77d21,00304260409,comune-di-rimini,72,https://dati.gov.it/view-dataset?organization=comune-di-rimini
 2025-04-15T14:40:46.400199,Comune di Rocca di Papa,e879fab1-9906-456a-995c-df320ac6ea54,c_h404,comune-di-rocca-di-papa,10,https://dati.gov.it/view-dataset?organization=comune-di-rocca-di-papa
 2026-01-07T09:40:53.432780,Comune di Roggiano Gravina,726bc211-4b26-469b-ba19-0ac8d5ea57e4,c_h488,comune-di-roggiano-gravina,27,https://dati.gov.it/view-dataset?organization=comune-di-roggiano-gravina
@@ -330,7 +331,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-24T14:08:16.301679,Fondazione RESTART,f54588ab-46a1-4c1b-8fcc-f4c5fbc830d2,UIA75WMM,fondazione-restart,10,https://dati.gov.it/view-dataset?organization=fondazione-restart
 2025-09-29T15:10:55.790559,GAL Terra dei Messapi,5b9e346e-78a3-4923-b85b-c73a74cd7768,01796490744,gal-terra-dei-messapi,13,https://dati.gov.it/view-dataset?organization=gal-terra-dei-messapi
 2024-03-08T18:47:26.076098,GeoDati - RNDT,9eeff220-80c1-4da9-a7ef-fd2af6e2fb78,agid,geodati-gov-it-rndt,4235,https://dati.gov.it/view-dataset?organization=geodati-gov-it-rndt
-2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,51,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
+2025-01-27T19:31:48.866907,GeoDati - RNDT - HVD,da926247-2672-4f13-9da2-bab96a552511,agid,geodati-rndt-hvd,55,https://dati.gov.it/view-dataset?organization=geodati-rndt-hvd
 2024-11-29T15:23:53.459997,Giustizia Amministrativa,628f052b-8df3-4c28-9393-6782500a3525,cds,giustizia-amministrativa,436,https://dati.gov.it/view-dataset?organization=giustizia-amministrativa
 2024-03-08T18:50:39.346269,INAIL - Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro,5c562a2c-ee7a-4a78-8f3d-73642b166e5c,inail,inail,102,https://dati.gov.it/view-dataset?organization=inail
 2024-03-08T18:51:48.966250,INPS - Istituto Nazionale della Previdenza Sociale,0d3685ca-8d03-4226-a31d-ea60b7fcefce,inps,inps,2281,https://dati.gov.it/view-dataset?organization=inps
@@ -388,7 +389,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T21:43:29.290667,Regione Liguria,9109e13d-e845-43b7-aed3-916043efe653,r_liguri,regione-liguria,19,https://dati.gov.it/view-dataset?organization=regione-liguria
 2024-03-08T21:40:37.206041,Regione Lombardia,0d28a036-aa28-46cd-becb-7def5df861d7,r_lombar,regione-lombardia,3286,https://dati.gov.it/view-dataset?organization=regione-lombardia
 2024-03-08T21:42:05.252251,Regione Marche,2bbf9fca-aef9-4264-b4ef-31848f2cf206,r_marche,regione-marche,5460,https://dati.gov.it/view-dataset?organization=regione-marche
-2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,899,https://dati.gov.it/view-dataset?organization=regione-piemonte
+2024-03-12T20:50:28.773830,Regione Piemonte,5a3755df-20c7-4246-bf94-d6a6a0f30c09,r_piemon,regione-piemonte,901,https://dati.gov.it/view-dataset?organization=regione-piemonte
 2024-03-08T18:00:19.729966,Regione Puglia,585452e2-12b4-4187-89d6-c33068eff19f,r_puglia,regione-puglia,1823,https://dati.gov.it/view-dataset?organization=regione-puglia
 2024-03-08T21:47:08.275914,Regione Siciliana,0f70a991-1235-4c64-9079-5430f84d9087,r_sicili,regione-siciliana,192,https://dati.gov.it/view-dataset?organization=regione-siciliana
 2024-03-08T21:54:09.033196,Regione Toscana,9bcd4050-eecd-400b-8196-cd4db7b38c58,r_toscan,regione-toscana,12373,https://dati.gov.it/view-dataset?organization=regione-toscana
@@ -411,7 +412,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-02-13T15:13:55.041859,Unione dei Comuni Valdostani Valdigne-Mont-Blanc,8f03b401-6d17-4410-9dcb-9332966b7696,udcvvmb,unione-dei-comuni-valdostani-valdigne-mont-blanc,5,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-valdigne-mont-blanc
 2025-03-07T15:54:25.043291,Unione dei Comuni valdostani Walser,e8c2e2f1-1cf7-4e2f-a559-389ecaf779a7,CMWAVL,unione-dei-comuni-valdostani-walser,3,https://dati.gov.it/view-dataset?organization=unione-dei-comuni-valdostani-walser
 2025-02-18T10:30:25.445531,Unione di Comuni Terre di Vini e di Tartufi,cf70b8a1-7e49-4592-9dff-b350535c81ec,uctvt,unione-di-comuni-terre-di-vini-e-di-tartufi,1,https://dati.gov.it/view-dataset?organization=unione-di-comuni-terre-di-vini-e-di-tartufi
-2024-12-09T19:18:02.155400,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",aef1d1e0-3f4b-41cf-bebb-f34390847f42,UICCIAA,unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura,352,https://dati.gov.it/view-dataset?organization=unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura
+2024-12-09T19:18:02.155400,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",aef1d1e0-3f4b-41cf-bebb-f34390847f42,UICCIAA,unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura,371,https://dati.gov.it/view-dataset?organization=unione-italiana-delle-camere-di-commercio-industria-artigianato-e-agricoltura
 2025-04-11T14:30:06.695555,Unione Montana Dei Monti Azzurri,21ae45f6-bc2a-410e-89ae-c78c9b2bbffb,umdma,unione-montana-dei-monti-azzurri,0,https://dati.gov.it/view-dataset?organization=unione-montana-dei-monti-azzurri
 2026-04-09T14:42:52.984436,Unione Municipia,53041470-c18c-4fd9-8356-f4eddf598ee5,um_cr,unione-municipia,8,https://dati.gov.it/view-dataset?organization=unione-municipia
 2024-11-05T11:43:08.495052,Unione Pedemontana Parmense,29a696fa-00d5-4be1-b3e9-879992b90f8d,c_c852xf,unione-pedemontana-parmense,3,https://dati.gov.it/view-dataset?organization=unione-pedemontana-parmense
