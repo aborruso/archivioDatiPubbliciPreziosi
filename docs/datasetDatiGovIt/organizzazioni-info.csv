@@ -252,7 +252,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-04-11T08:27:43.931224,Comune di Rubano,2c930491-a1fc-4ec9-aa89-4175339bbf42,c_h625,comune-di-rubano,22,https://dati.gov.it/view-dataset?organization=comune-di-rubano
 2025-11-04T15:24:42.985201,Comune di Rubiera,d5d94045-ed9b-4e90-a1cb-cee5af4049c7,c_h628,comune-di-rubiera,24,https://dati.gov.it/view-dataset?organization=comune-di-rubiera
 2025-11-18T08:46:43.989940,Comune di Ruvo di Puglia,fbdec4c2-891e-4e1f-828f-a9e86f31ae59,c_h645,comune-di-ruvo-di-puglia,5,https://dati.gov.it/view-dataset?organization=comune-di-ruvo-di-puglia
-2026-05-13T12:22:46.826488,Comune di Salle,ccbf9a69-462f-4d0d-9862-2158f7ff3f03,c_h715,comune-di-salle,0,https://dati.gov.it/view-dataset?organization=comune-di-salle
+2026-05-13T12:22:46.826488,Comune di Salle,ccbf9a69-462f-4d0d-9862-2158f7ff3f03,c_h715,comune-di-salle,1,https://dati.gov.it/view-dataset?organization=comune-di-salle
 2025-08-27T09:49:40.851418,Comune di San Cesareo,fc5aa328-c830-4dbe-a1c3-b27c59a7faae,c_m295,comune-di-san-cesareo,1,https://dati.gov.it/view-dataset?organization=comune-di-san-cesareo
 2026-01-12T11:26:22.757449,Comune di San Cesario di Lecce,b91100c9-76c3-4800-b54b-e04aef62dd3d,c_h793,comune-di-san-cesario-di-lecce,1,https://dati.gov.it/view-dataset?organization=comune-di-san-cesario-di-lecce
 2026-01-22T10:49:54.293347,Comune di San Gavino Monreale,0f053478-c0d4-40ce-9a8c-bcab9bbc0a40,c_h856,comune-di-san-gavino-monreale,0,https://dati.gov.it/view-dataset?organization=comune-di-san-gavino-monreale
@@ -288,6 +288,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-18T14:23:35.816325,Comune di Taggia,604ab9c6-6297-4d7c-9ec0-1c3f46cabc38,c_­l024,comune-di-taggia,5,https://dati.gov.it/view-dataset?organization=comune-di-taggia
 2026-03-11T13:57:04.090576,Comune di Taranto,be821cea-a9a1-4331-822d-350c68837a4e,c_l049,comune-di-taranto,58,https://dati.gov.it/view-dataset?organization=comune-di-taranto
 2025-02-19T10:48:52.337631,Comune di Tarquinia,d56cf387-2ee3-4b03-a193-291be330486f,c_d024,comune-di-tarquinia,6,https://dati.gov.it/view-dataset?organization=comune-di-tarquinia
+2026-06-19T08:11:00.908330,Comune di Teggiano,fc7a8e44-6034-4f66-bbef-0f8ecef48045,c_d292,comune-di-teggiano,37,https://dati.gov.it/view-dataset?organization=comune-di-teggiano
 2025-02-07T15:08:09.871704,Comune di Termoli,9c4f6260-2af7-4c64-b145-36b178760710,c_l113,comune-di-termoli,5,https://dati.gov.it/view-dataset?organization=comune-di-termoli
 2025-05-28T08:34:08.763606,Comune di Terralba,250720a6-46e3-4f10-abe7-ec9902a49dd7,c_l122,comune-di-terralba,3,https://dati.gov.it/view-dataset?organization=comune-di-terralba
 2024-03-08T18:48:36.286853,Comune di Torino,f804b34c-a5f7-42ca-bde2-82a0bcadd55e,00514490010,comune-di-torino,2076,https://dati.gov.it/view-dataset?organization=comune-di-torino
@@ -374,6 +375,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-11-13T13:58:53.251079,Provincia di Forlì Cesena,431d91aa-6e51-46ff-8481-de9649039d89,p_fc,provincia-di-forli-cesena,22,https://dati.gov.it/view-dataset?organization=provincia-di-forli-cesena
 2025-03-25T13:25:15.335726,Provincia di Isernia,6e3d98f6-cd37-4413-9085-eb4526542764,p_is,provincia-di-isernia,5,https://dati.gov.it/view-dataset?organization=provincia-di-isernia
 2025-11-24T16:29:52.273055,Provincia di Lodi,4cd6b877-e777-47cf-9bb7-6eca27571cde,p_lo,provincia-di-lodi,78,https://dati.gov.it/view-dataset?organization=provincia-di-lodi
+2026-06-18T09:51:13.527536,Provincia di Mantova,d3751e61-a677-410b-9d7e-858daf05e896,p_mn,provincia-di-mantova,0,https://dati.gov.it/view-dataset?organization=provincia-di-mantova
 2024-11-20T12:23:37.817154,Provincia di Novara,c3234889-f512-4ab2-9ee8-0d7ec8a7cb6c,p_no,provincia-di-novara,48,https://dati.gov.it/view-dataset?organization=provincia-di-novara
 2025-02-06T10:48:03.748623,Provincia di Padova,53290502-f70e-43fc-9378-bab36bb0f55c,p_pd,provincia-di-padova,10,https://dati.gov.it/view-dataset?organization=provincia-di-padova
 2025-02-13T16:35:26.066601,Provincia di Parma,8e7b5d19-4a39-4d51-96c9-549ee2eda073,p_pr,provincia-di-parma,5,https://dati.gov.it/view-dataset?organization=provincia-di-parma
