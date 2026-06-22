@@ -1,4 +1,6 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-teggiano","c_d292","https://www.comune.teggiano.sa.it","2026-06-19T08:11:00.908330","15",ingresso,2026-06-19,1
+"provincia-di-mantova","p_mn","https://www.provincia.mantova.it","2026-06-18T09:51:13.527536","03",ingresso,2026-06-19,1
 "comune-di-frosinone","c_d810","https://comune.frosinone.it/","2026-06-12T09:50:59.194750","",ingresso,2026-06-13,1
 "comune-di-fontanelle","c_d674","https://www.comune.fontanelle.tv.it/","2026-05-28T07:22:23.534078","",ingresso,2026-06-02,1
 "comune-di-martellago","c_e980","https://www.comune.martellago.ve.it/","2026-05-27T11:47:41.630723","",ingresso,2026-06-02,1

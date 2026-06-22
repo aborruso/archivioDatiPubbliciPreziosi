@@ -11721,7 +11721,6 @@ comune-di-bitonto-residenti-per-quartiere-ed-eta
 comune-di-bitonto-residenti-titoli-di-studio
 comune-di-bitonto-saldi-movimento-anagrafico
 comune-di-bitonto-sovvenzioni-contributi-sussidi-vantaggi-economici
-comune-di-bitonto-stranieri-per-quartiere-e-cittad
 comune-di-bitonto-stranieri-per-sesso-ed-eta
 comune-di-bitonto-stranieri-per-stato-cittad
 comune-di-bitonto-strasa
@@ -13802,6 +13801,7 @@ comune-di-nave
 comune-di-nave-aire-per-nazione
 comune-di-nave-bandi-di-gara-e-contratti
 comune-di-nave-calcolato-annuale
+comune-di-nave-calcolato-annuale-imu
 comune-di-nave-censimento-popolazione
 comune-di-nave-cognomi-piu-diffusi-residenti
 comune-di-nave-condizioni-lavorative
@@ -13810,6 +13810,7 @@ comune-di-nave-conteggio-protocolli-per-ufficio
 comune-di-nave-elenco-anagrafico-decessi-giornalieri
 comune-di-nave-elenco-cancellati
 comune-di-nave-elenco-decessi
+comune-di-nave-elenco-delle-aree-di-circolazione
 comune-di-nave-elenco-divorzi
 comune-di-nave-elenco-iscritti
 comune-di-nave-elenco-matrimoni
@@ -13817,6 +13818,7 @@ comune-di-nave-elenco-nascite
 comune-di-nave-elenco-residenti
 comune-di-nave-elenco-residenti-allestero
 comune-di-nave-elenco-stato-civile-decessi-giornalieri
+comune-di-nave-fabbricati-attivi-imu
 comune-di-nave-famiglie-per-numero-figli
 comune-di-nave-famiglie-residenti-per-via
 comune-di-nave-famiglie-totali
@@ -13828,16 +13830,15 @@ comune-di-nave-nomi-resid-iscritti-per-nascita
 comune-di-nave-nomi-resid-per-eta-e-sesso
 comune-di-nave-popolazione-residente
 comune-di-nave-provvedimenti-dirigenti-amministrativi
-comune-di-nave-provvedimenti-organi-di-indirizzo-politico
 comune-di-nave-resid-per-quartiere-e-figli-in-fam
 comune-di-nave-residenti-per-quartiere-ed-eta
 comune-di-nave-residenti-titoli-di-studio
-comune-di-nave-saldi-movimento-anagrafico
 comune-di-nave-sovvenzioni-contributi-sussidi-vantaggi-economici
 comune-di-nave-stranieri-per-stato-cittad
 comune-di-nave-strasa-stranieri-residenti-per-sesso-e-anno-di-nascita
-comune-di-nave-tassi-popolazione-residente
 comune-di-nave-trend-demografico
+comune-di-nave-utenze-tari
+comune-di-nave-versamenti-spontanei-imu
 comune-di-nembro
 comune-di-nembro-2024-dati-sui-pagamenti-1-trimestre
 comune-di-nembro-2024-dati-sui-pagamenti-2-trimestre
@@ -19661,6 +19662,7 @@ deceduti-residenti-per-luogo-del-decesso-e-sesso1
 deceduti-residenti-per-mese-e-sesso1
 decessi-2020-2024
 decessi-2022-2023-2024
+decessi-cesena
 decessi-dei-residenti-del-comune-di-treviso-per-sesso-e-classi-di-eta-anno-2018
 decessi-in-puglia
 decessi-per-anno
@@ -26838,6 +26840,7 @@ gestione-rifiuti-speciali-non-pericolosi-per-singola-operazione-e-capitolo-cer-a
 gestione-rifiuti-speciali-per-singola-provincia-anni-2009-2019
 gestione-rifiuti-speciali-per-singolo-cer-per-singola-operazione-anni-2009-2019
 gestione-rifiuti-speciali-pericolosi-per-singola-operazione-e-capitolo-cer-anni-2009-2019
+gestione-rilevazione-osservatorio-regionale-del-commercio
 gestione-separata-collaboratori-e-professionisti-2011-2012
 gestione-separata-contributi-versati-per-categoria-e-genere-2012
 gestione-separata-distribuita-per-categoria-e-genere-2012
@@ -27850,6 +27853,7 @@ imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di
 imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-ii-2020
 imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-iii-2017
 imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-iii-2018
+imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-iii-20191
 imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-iii-2020
 imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-iv-2016
 imprese-individuali-gestite-da-imprenditori-extracomunitari-comuni-della-prov-di-lecce-iv-2018
@@ -48926,6 +48930,7 @@ pubblicazioni-delluniversita-di-trento
 pubblicazioni-e-libri-finanziati
 pubblicazioni-scientifiche
 pubblici-esercizi
+pubblici_esercizi_2026
 public-engagement-numero-eventi-2020
 publications-of-the-university-of-trento
 puc-ambiti-produttivi
@@ -49955,6 +49960,7 @@ rating-di-legalita-gennaio-2026
 rating-di-legalita-giugno-2023
 rating-di-legalita-giugno-2024
 rating-di-legalita-giugno-2025
+rating-di-legalita-giugno-2026
 rating-di-legalita-luglio-2023
 rating-di-legalita-luglio-2024
 rating-di-legalita-luglio-2025
@@ -53767,9 +53773,12 @@ segnali-di-localizzazione1
 segretari-comunali-dal-1861
 sel-stato-ecologico-dei-laghi
 semafori
+send-andamento-del-numero-di-avvisi-inviati
 send-distribuzione-dei-principali-ambiti-di-notifica
 send-distribuzione-del-numero-di-notifiche
+send-distribuzione-delle-principali-tipologie-di-atti-notificati-da-send
 send-distribuzione-geografica-dei-comuni-su-send
+send-enti-aderenti-a-send-per-anno
 sensi-unici
 sensibilita-degi-acquiferi
 sensori-di-traffico-rer
@@ -55266,6 +55275,7 @@ spd_apr_spe_pbs_amce2_01_2022_01
 spd_apr_spe_pbs_amce2_01_2023_01
 spd_apr_spe_pbs_amce2_01_2024_01
 spd_apr_spe_pbs_amce2_01_2025_01
+spd_apr_spe_pbs_amce2_01_2026_01
 spd_apr_spe_pbs_amice_01_2016_01
 spd_apr_spe_pbs_amice_01_2017_01
 spd_apr_spe_pbs_amice_01_2018_01
@@ -55276,6 +55286,7 @@ spd_apr_spe_pbs_amice_01_2022_01
 spd_apr_spe_pbs_amice_01_2023_01
 spd_apr_spe_pbs_amice_01_2024_01
 spd_apr_spe_pbs_amice_01_2025_01
+spd_apr_spe_pbs_amice_01_2026_01
 spd_apr_spe_pbs_ammce_01_2016_01
 spd_apr_spe_pbs_ammce_01_2017_01
 spd_apr_spe_pbs_ammce_01_2018_01
@@ -55286,6 +55297,7 @@ spd_apr_spe_pbs_ammce_01_2022_01
 spd_apr_spe_pbs_ammce_01_2023_01
 spd_apr_spe_pbs_ammce_01_2024_01
 spd_apr_spe_pbs_ammce_01_2025_01
+spd_apr_spe_pbs_ammce_01_2026_01
 spd_apr_spe_pbs_cece2_01_2016_01
 spd_apr_spe_pbs_cece2_01_2017_01
 spd_apr_spe_pbs_cece2_01_2018_01
@@ -55296,6 +55308,7 @@ spd_apr_spe_pbs_cece2_01_2022_01
 spd_apr_spe_pbs_cece2_01_2023_01
 spd_apr_spe_pbs_cece2_01_2024_01
 spd_apr_spe_pbs_cece2_01_2025_01
+spd_apr_spe_pbs_cece2_01_2026_01
 spd_apr_spe_pbs_micgs_01_2016_01
 spd_apr_spe_pbs_micgs_01_2017_01
 spd_apr_spe_pbs_micgs_01_2018_01
@@ -55306,6 +55319,7 @@ spd_apr_spe_pbs_micgs_01_2022_01
 spd_apr_spe_pbs_micgs_01_2023_01
 spd_apr_spe_pbs_micgs_01_2024_01
 spd_apr_spe_pbs_micgs_01_2025_01
+spd_apr_spe_pbs_micgs_01_2026_01
 spd_apr_spe_pbs_mis_01_2016_01
 spd_apr_spe_pbs_mis_01_2017_01
 spd_apr_spe_pbs_mis_01_2018_01
@@ -55316,6 +55330,7 @@ spd_apr_spe_pbs_mis_01_2022_01
 spd_apr_spe_pbs_mis_01_2023_01
 spd_apr_spe_pbs_mis_01_2024_01
 spd_apr_spe_pbs_mis_01_2025_01
+spd_apr_spe_pbs_mis_01_2026_01
 spd_apr_spe_pbs_misam_01_2016_01
 spd_apr_spe_pbs_misam_01_2017_01
 spd_apr_spe_pbs_misam_01_2018_01
@@ -55326,6 +55341,7 @@ spd_apr_spe_pbs_misam_01_2022_01
 spd_apr_spe_pbs_misam_01_2023_01
 spd_apr_spe_pbs_misam_01_2024_01
 spd_apr_spe_pbs_misam_01_2025_01
+spd_apr_spe_pbs_misam_01_2026_01
 spd_apr_spe_pbs_misce_01_2016_01
 spd_apr_spe_pbs_misce_01_2017_01
 spd_apr_spe_pbs_misce_01_2018_01
@@ -55336,6 +55352,7 @@ spd_apr_spe_pbs_misce_01_2022_01
 spd_apr_spe_pbs_misce_01_2023_01
 spd_apr_spe_pbs_misce_01_2024_01
 spd_apr_spe_pbs_misce_01_2025_01
+spd_apr_spe_pbs_misce_01_2026_01
 spd_bil_cce_civ_gcont_01_2014
 spd_bil_cce_civ_gcont_01_2015
 spd_bil_cce_civ_gcont_01_2016
@@ -65055,7 +65072,6 @@ zona-di-produzione-e-raccolta-molluschi-aggiornamento-2021-zone-di-produzione-e-
 zona-di-produzione-vini-doc-orvieto-classico
 zona-di-produzione-vini-doc-torgianoe-docg-torgiano-rosso-riserva
 zona-di-produzione-vino-doc-amelia
-zona-di-produzione-vino-doc-assisi
 zona-di-produzione-vino-doc-colli-altotiberini
 zona-di-produzione-vino-doc-colli-del-trasimeno
 zona-di-produzione-vino-doc-colli-martani
@@ -65063,7 +65079,6 @@ zona-di-produzione-vino-doc-colli-perugini
 zona-di-produzione-vino-doc-lago-di-corbara
 zona-di-produzione-vino-doc-orvieto
 zona-di-produzione-vino-doc-rosso-orvietano
-zona-di-produzione-vino-doc-spoleto
 zona-di-produzione-vino-doc-todi
 zona-di-produzione-vino-igt-allerona
 zona-di-produzione-vino-igt-bettona
