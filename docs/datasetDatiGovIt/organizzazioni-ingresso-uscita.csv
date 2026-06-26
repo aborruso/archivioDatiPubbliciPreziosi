@@ -1,4 +1,5 @@
 name,identifier,site,created,region,evento,data,corrente
+"comune-di-alcamo","c_a176","https://www.comune.alcamo.tp.it/","2026-06-23T10:48:28.722025","",ingresso,2026-06-25,1
 "comune-di-ceglie-messapica","c_c424","https://www.comune.ceglie-messapica.br.it/","2026-06-22T11:55:32.578272","",ingresso,2026-06-23,1
 "comune-di-teggiano","c_d292","https://www.comune.teggiano.sa.it","2026-06-19T08:11:00.908330","15",ingresso,2026-06-19,1
 "provincia-di-mantova","p_mn","https://www.provincia.mantova.it","2026-06-18T09:51:13.527536","03",ingresso,2026-06-19,1
