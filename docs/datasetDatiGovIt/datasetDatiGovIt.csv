@@ -66,6 +66,7 @@ id
 18-aree-verdi-comune-di-pezzaze
 18-aree-verdi-comune-di-verolanuova
 18-aree-verdi-comune-di-verolavecchia
+1822f54dc493b20f076586183876e0c6f4bfb58ec3db93b586cd7f0cf04ec048
 1853-coperture-vettoriali-delluso-del-suolo-storico-edizione-2011-poligoni1
 1884-milano-carta-tecnica-comunale-quadro-unione-scala-1-25000-1884-milano-municipal-base-map-s
 18ab79a68016632e569a43be5a3585347ddf80d29685be459d32bd26b0e16543
@@ -450,6 +451,7 @@ id
 3fba95100350de9d1fe7e64fd985ede7ee3f70d6e05ba10c68c9caba6af02d14
 3fc05468cfcdefa768611ce780fa99ae9c7862a5fa4f8c41acf4dc12bca4090e
 3fcc628e736a4c9a25eaa98704cb76e2402f2d04f715f560bfc14ff8ff9b031b
+3fdb76d0e40dcb128c589cca65aa38502fd7328de3653be87a8e6db1ac331b1e
 402faca319d310e570a23eb5c02e6fd50ab40d41df93c88ab3a640e69519d2c7
 404ac387423c4014b79c9b4a0f17b98f838aa825d90e76ccaf97829153b00abd
 405bda1ca4708a0a6d70fecdcadfa1a36a52252549e71abe5caabfa70cdb7847
@@ -586,6 +588,7 @@ id
 777ec6014de75ebfc0265da8fa76b2c32c407e4d1bc60f76827c05880368b441
 780e6bd4776f6c184f4a92f101c709aee58752bddcf38d0799b31424c55f2b3a
 78258016fca9441b9ad5d94ed4179a265210ef0c986e36a96fbc071ebc41956d
+78398982cebb5802808970d09cd8f2ff752f03063cbfa92a2a5d3bcb942283ee
 7954be4b1b9328579edc68c260bc48749128fe3f35e3c0419c5abd6b757864b5
 795d59aa54e5996b61efb4acd4d0b482864b4ac76aa684578a67e36a4601d430
 7969b6a177f9c07c374cff4415ba0af7765e5f99ec8b7c368e9fefd5185e22f0
@@ -1398,6 +1401,8 @@ alberi-monumentali3
 alberi-monumentali4
 alberi-prato
 alberi-pubblici
+alberi-pubblici-parametri-dendrometrici-degli-alberi-comunali
+alberi-pubblici-stato-fitosanitario-degli-alberi-comunali
 alberi3
 albi-ed-elenchi-del-comun-general-de-fascia
 albi-ed-elenchi-del-comunita-della-paganella
@@ -2565,6 +2570,7 @@ anagrafe-regionale-studenti-istituzioni-scolastiche-anni-2013-2014
 anagrafe-regionale-studenti-istituzioni-scolastiche-anno-2015
 anagrafe-scuole
 anagrafe-scuole-lombarde
+anagrafe-scuole1-1
 anagrafe-servizi-online-gennaio-aprile-2019
 anagrafe-servizi-online-maggio-agosto-2019
 anagrafe-servizi-online-settembre-dicembre-2019
@@ -4363,6 +4369,7 @@ aree-di-circolazione-pedonale2-10
 aree-di-circolazione-pedonale2-11
 aree-di-circolazione-pedonale2-17
 aree-di-circolazione-pedonale2-19
+aree-di-circolazione-pedonale2-2
 aree-di-circolazione-pedonale2-20
 aree-di-circolazione-pedonale2-21
 aree-di-circolazione-pedonale2-22
@@ -8126,7 +8133,6 @@ c-5-sistemi-territoriali
 c-7-u-t-o-e
 c-o-m-centri-operativi-misti
 c03c3a8dd0e37cd830aee94b6b05d388c0ea039dcf07c9b9bb54b68098f70e27
-c1-disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers01
 c11023040021_bassano
 c11023040051_carre
 c11023040071_cassol
@@ -11722,6 +11728,7 @@ comune-di-bitonto-residenti-per-quartiere-ed-eta
 comune-di-bitonto-residenti-titoli-di-studio
 comune-di-bitonto-saldi-movimento-anagrafico
 comune-di-bitonto-sovvenzioni-contributi-sussidi-vantaggi-economici
+comune-di-bitonto-stranieri-per-quartiere-e-cittad1
 comune-di-bitonto-stranieri-per-sesso-ed-eta
 comune-di-bitonto-stranieri-per-stato-cittad
 comune-di-bitonto-strasa
@@ -15145,7 +15152,7 @@ comune-di-viano-bandi-di-gara-e-contratti-aggiornati
 comune-di-viano-conteggio-protocolli
 comune-di-viano-conteggio-protocolli-per-ufficio
 comune-di-viano-convocati
-comune-di-viano-elenco-anagrafico-decessi-giornalieri
+comune-di-viano-elenco-anagrafico-decessi-giornalieri1
 comune-di-viano-elenco-cancellati
 comune-di-viano-elenco-decessi
 comune-di-viano-elenco-divorzi
@@ -15154,12 +15161,12 @@ comune-di-viano-elenco-matrimoni
 comune-di-viano-elenco-nascite
 comune-di-viano-elenco-residenti
 comune-di-viano-elenco-residenti-allestero
-comune-di-viano-elenco-stato-civile-decessi-giornalieri
+comune-di-viano-elenco-stato-civile-decessi-giornalieri1
 comune-di-viano-fabbricati-attivi
 comune-di-viano-famiglie-per-numero-figli
 comune-di-viano-famiglie-residenti-per-via
 comune-di-viano-famiglie-totali
-comune-di-viano-matrim-celebrati-per-rito
+comune-di-viano-matrim-celebrati-per-rito1
 comune-di-viano-movimento-anagrafico
 comune-di-viano-movimento-stranieri
 comune-di-viano-nomi-resid-iscritti-per-nascita
@@ -18838,6 +18845,7 @@ dati-centraline-meteo-aps-estremi-di-meteo4-comune-di-verona
 dati-centri-di-raccolta
 dati-chimico-fisici-fiumi
 dati-chimico-fisici-laghi
+dati-cittadini-per-luogo-di-nascita
 dati-collegi-regionali-maestri-di-sci-e-delle-guide-alpine-anno-2019-2020
 dati-collegi-regionali-maestri-di-sci-e-delle-guide-alpine-anno-2020-2021
 dati-collegi-regionali-maestri-di-sci-e-delle-guide-alpine-anno-2021-2022
@@ -19630,6 +19638,7 @@ dcattheme
 dcatthemegeo
 dcatthemeyucca
 dcc528b04e02d9caef55ed194a6cac0f61f8e5ff2ca3dc1e26e0f6323ca030aa
+dcc99abc5abde21b4831bc1fd821545ead1f28221a3caa14913127270adac170
 dd34625a2a07a0af23c087568f980db6f007ff7a2cee84a8a79fb4a09c9b67f6
 dd40f648f542d5a0248b6d2204ebf00b0ccf43e70fbe9084ddba97a00c4f5ebe
 dd4e3c704b2991bbced807aa5e73e9c5b7b5753c6821c35d8050a7168058860a
@@ -20692,8 +20701,33 @@ discariche-autorizzate
 discariche-puntuale
 disciplina-degli-ambiti-di-trasformazione-tabella
 disciplina-degli-ambiti-di-trasformazione-tabella-1
-disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers01
-disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers01
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers01
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers02
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers03
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers04
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers05
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers06
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers07
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers08
+disciplina-dei-suoli-e-degli-insediamenti-strato-lineare-vers09
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers011
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers02
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers03
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers04
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers05
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers06
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers07
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers08
+disciplina-dei-suoli-e-degli-insediamenti-strato-poligonale-vers09
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers011
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers02
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers03
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers04
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers05
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers06
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers07
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers08
+disciplina-dei-suoli-e-degli-insediamenti-strato-puntuale-vers09
 disciplina-del-territorio
 disciplina-del-territorio-urbanizzato-e-rurale
 disciplina-del-territorio-urbanizzato-e-rurale1
@@ -24534,6 +24568,7 @@ elezioni-europee-2024-preferenze-ai-candidati-suddivise-per-sezione
 elezioni-europee-2024-preferenze-alle-liste
 elezioni-europee-2024-seggi-elettorali-e-sezioni-corrispondenti
 elezioni-europee-2024-sezioni-e-sedi-elettorali
+elezioni-europee-2024-voti-assegnati-ai-candidati-per-sezioni
 elezioni-europee-2024-voti-assegnati-ai-candidati-per-sezioni-estere
 elezioni-europee-2024-voti-assegnati-alle-liste-per-sezioni
 elezioni-europee-2024-voti-assegnati-alle-liste-per-sezioni-estere
@@ -25236,6 +25271,7 @@ entrate-del-spa-in-campania-serie-storica-2000-2023
 entrate-delle-imprese-di-trasporto-passeggeri-osp
 entrate-previsione-per-il-triennio-2018-2020
 entrate-rendiconto-2024
+entrate-spese-2010-2024
 entrate-spese-comune-messina-per-dipartimento
 entrate-tributarie-2013-2014
 epatite-di-origine-sconosciuta-nei-bambini
@@ -25356,6 +25392,7 @@ esercizi-turistici-per-qualifica-2015
 esercizi-turistici-per-qualifica-2016
 esercizi-turistici-per-qualifica-2017
 esercizi-turistici-per-qualifica-2018
+esercizi-vicinato-2026
 esercizio-2022-chiuso
 esercizio-2022-chiuso-2
 esercizio-2022-chiuso-entrate-su-classificazione
@@ -26057,6 +26094,7 @@ fascia-di-rispetto-aeroportuale
 fascia-di-rispetto-aeroportuale-approvato
 fascia-di-rispetto-cimiteriale
 fascia-di-rispetto-cimiteriale-approvato
+fascia-di-rispetto-cimiteriale-r-d-1265-34-ru-comune-di-san-godenzo
 fascia-di-rispetto-dagli-impianti-di-discarica1
 fascia-di-rispetto-degli-impianti-comune-di-matera
 fascia-di-rispetto-dei-depuratori1
@@ -30765,7 +30803,6 @@ limiti-amministrativi-comunita-montane-2019-con-aggiornamenti-dbt-pgt
 limiti-amministrativi-comunita-montane-2020-con-aggiornamenti-dbt-pgt
 limiti-amministrativi-confini-comunali-istat-2025
 limiti-amministrativi-confini-giurisdizionali-forestali
-limiti-amministrativi-correnti-dataset
 limiti-amministrativi-dei-comuni-della-regione
 limiti-amministrativi-dei-comuni-della-regione-lazio
 limiti-amministrativi-della-regione-campania
@@ -30879,6 +30916,7 @@ lista-gruppi-assicurativi-vigilati1
 lista-gruppi-bancari1
 lista-gruppi-di-finanziarie1
 lista-gruppi-di-sim1
+lista-impianti-pubblicitari
 lista-imprese-assicurative-estere-ramo-10-r-c-autoveicoli-terrestri1
 lista-imprese-assicurative-estere-ramo-12-r-c-veicoli-marittimi-lacustri-e-fluviali1
 lista-imprese-assicurative-ramo-12-r-c-veicoli-marittimi-lacustri-e-fluviali1
@@ -32067,6 +32105,8 @@ milan-observatory-vocations-finance
 milan-observatory-vocations-life-sciences
 milan-observatory-vocations-manufacturing-4-0
 milano-monza-brianza-lodi-demografie-delle-imprese-2023
+milano-monza-brianza-lodi-imprese-artigiane-anno-2024
+milano-monza-brianza-lodi-imprese-artigiane-sul-totale-delle-tre-province-anno-2024
 milano-monza-brianza-lodi-imprese-attive-per-settore-e-natura-giuridica-anno-2024
 milano-monza-brianza-lodi-imprese-femminili-per-settore-anno-2024
 milano-monza-brianza-lodi-imprese-giovanili-per-settore-anno-2024
@@ -39560,10 +39600,10 @@ norme-tecniche-di-attuazione-del-regolamento-urbanistico
 norme-tecniche-di-attuazione1
 norme-tecniche-di-attuazione1-10
 norme-tecniche-di-attuazione1-11
-norme-tecniche-di-attuazione1-19
 norme-tecniche-di-attuazione2
 norme-tecniche-di-attuazione2-31
 norme-tecniche-di-attuazione3-17
+norme-tecniche-di-attuazione3-28
 nota-prot-n-g1-2020-0038154
 nota_trimestrale___tabella_01___rapporti_di_lavoro_attivati_per_ripartizione_geografica_e_gener
 nota_trimestrale___tabella_02___rapporti_di_lavoro_attivati_per_per_genere_dei_lavoratori_inter
@@ -44359,6 +44399,7 @@ piazza-virtuale-di-accesso-al-veneto-ptrc-2020
 piazzali-e-aree-di-parcheggio
 piazze
 picc-popolazione-studio-coorte-prospettica
+picchi-giornalieri-stazione-meteo
 piccole-memorie-materane
 pid-2024
 pietre-da-guado-stepping-stones-della-rete-degli-arbusteti-citta-metropolitana-di-firenze
@@ -44666,6 +44707,7 @@ polis-lombardia-sovvenzioni-contributi-e-sussidiagli-operatori-economici
 polis-lombardia-sovvenzioni-sussidi-vantaggi-economici-contributi-borse-di-studio
 polis-lombardia-sovvenzioni-sussidi-vantaggi-economici-contributi-borse-di-studio-mmg-corso-tri
 polis-lombardia-tassi-di-assenza-del-personale-anno-2024
+polis-lombardia-tassi-di-assenza-del-personale-anno-2025
 polis-lombardia-tassi-di-assenza-del-personale_anno-2018
 polis-lombardia-tassi-di-assenza-del-personale_anno-2019
 polis-lombardia-tassi-di-assenza-del-personale_anno-2020
@@ -45765,6 +45807,7 @@ popolazione-straniera-registrata-in-anagrafe-per-area-di-provenienza-anno-2013
 popolazione-straniera-registrata-in-anagrafe-per-area-di-provenienza-anno-2018
 popolazione-straniera-registrata-in-anagrafe-per-area-di-provenienza-anno-2020
 popolazione-straniera-residente
+popolazione-straniera-residente-1-gennaio-2025-per-eta-e-sesso
 popolazione-straniera-residente-al-31-12-2018-comune-di-rovigo
 popolazione-straniera-residente-al-31-dicembre-2014
 popolazione-straniera-residente-al-31-dicembre-2014-per-nazionalita
@@ -52030,6 +52073,8 @@ rievocazioni-storiche-7
 rievocazioni-storiche-8
 rievocazioni-storiche-9
 riferimenti-territoriali-toponimi
+rifiuti-2023
+rifiuti-2024
 rifiuti-altri-impianti-di-recupero-catasto
 rifiuti-bilancio-ambientale-comune-di-reggio-emilia-serie-dati-2006-2017
 rifiuti-coinceneritori-catasto
@@ -52372,7 +52417,7 @@ rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-agosto
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-aprile
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-dicembre
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-febbraio
-rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-gennaio
+rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-gennaio1
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-giugno
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-luglio
 rilevazione-dei-prezzi-al-consumo-del-comune-di-firenze-del-2018-maggio
@@ -52750,6 +52795,7 @@ rinuncia-a-prestazioni-sanitarie-femmine
 rinuncia-a-prestazioni-sanitarie-maschi
 rioni
 rioni-della-citta-di-foligno
+rioni-lecco
 rioni-urbanistici
 rioni-urbanistici1
 riordino-e-recupero-funzionale-degli-ambiti-di-dispersione-insediativa-di-fondovalle-ptrc-2020
@@ -52857,6 +52903,7 @@ risultati-economici-delle-unita-locali-di-imprese-in-puglia
 risultati-elettorali
 risultati-elettorali-delle-liste-circoscrizionali-elezioni-amministrative-2026
 risultati-elettorali-delle-liste-comunali-per-sezione-elezioni-amministrative-2026
+risultati-elettorali-preferenze-persone-candidate-al-consiglio-comunale-elezioni-amministr-2026
 risultati-elettorali-sindaco-elezioni-amministrative-2026
 risultati-elezione-consiglio-regionale-2020
 risultati-elezione-presidente-regione-2015
@@ -54804,6 +54851,8 @@ sistema-informativo-catasto-opere-di-difesa
 sistema-informativo-degli-archivi-di-stato
 sistema-informativo-degli-archivi-storici-in-emilia-romagna
 sistema-informativo-dei-rischi-costieri-in_risk
+sistema-informativo-dei-rischi-costieri-in_risk-cuneo-salino-piezometri-costieri
+sistema-informativo-dei-rischi-costieri-in_risk-cuneo-salino-sezioni-idrogeologiche
 sistema-informativo-dei-rischi-costieri-in_risk-vulnerabilita-alle-mareggiate-effetti-t1-t10-t1
 sistema-informativo-dellarchivio-di-stato-di-perugia
 sistema-informativo-dellarchivio-di-stato-di-venezia
@@ -58658,8 +58707,10 @@ spesa-campionata-e-controllata-per-asse-e-per-periodo-contabile-por-puglia-2014-
 spesa-campionata-e-controllata-per-asse-e-per-periodo-contabile-por-puglia-2014-2020-fse
 spesa-campionata-e-controllata-por-puglia-2014-2020-fesr
 spesa-campionata-e-controllata-por-puglia-2014-2020-fse
+spesa-energia-elettrica-2024-edifici-comunali
 spesa-media
 spesa-media-mensile-familiare-regione-lombardia
+spesa-metano-2024-edifici-comunali
 spesa-pensionistica-assistenziale-2011-2012
 spesa-pensionistica-inps-anno-2012
 spesa-pensionistica-previdenziale-2011-2012
@@ -59460,6 +59511,7 @@ stazioni-di-misura-della-qualita-dellaria1
 stazioni-di-misura-dellinquinamento-acustico
 stazioni-di-monitoraggio-acque-sotterranee
 stazioni-di-monitoraggio-acque-superficiali
+stazioni-di-monitoraggio-ambientale
 stazioni-di-monitoraggio-della-qualita-dellaria-a-roma-capitale
 stazioni-di-monitoraggio-pollini
 stazioni-di-monta-equina-bovina-e-bufalina-della-regione-lazio
@@ -59496,6 +59548,14 @@ stazioni-meteo
 stazioni-meteo-idrologiche
 stazioni-meteo-in-antartide-enea
 stazioni-meteorologiche-arpa-nel-comune-di-milano
+stazioni-meteorologiche-picchi-massimi-giornalieri-delle-temperature
+stazioni-meteorologiche-picchi-massimi-giornalieri-di-umidita
+stazioni-meteorologiche-picchi-massimi-giornalieri-pioggia
+stazioni-meteorologiche-picchi-massimi-giornalieri-vento
+stazioni-meteorologiche-picchi-minimi-giornalieri-delle-temperature
+stazioni-meteorologiche-picchi-minimi-giornalieri-di-umidita
+stazioni-meteorologiche-picchi-minimi-giornalieri-pioggia
+stazioni-meteorologiche-picchi-minimi-giornalieri-vento
 stazioni-meteorologiche1
 stazioni-misura-delle-portate
 stazioni-misura-laghi1
@@ -64940,7 +65000,7 @@ visite-nel-sistema-museale-metropolitano-di-torino-2018-2020
 visite-specialistiche-erogate-anamnesi-e-valutazione-definite-brevi-anni-2007-2012
 visite-specialistiche-erogate-anamnesi-e-valutazione-definite-brevi-anno-2014
 visite-specialistiche-erogate-anamnesi-e-valutazioni-definite-complessive-anni-2004-2012
-visite-specialistiche-erogate-anamnesi-e-valutazioni-definite-complessive-anno-2014
+visite-specialistiche-erogate-anamnesi-e-valutazioni-definite-complessive-anno-20141
 visite-specialistiche-erogate-consulto-definito-complessivo-anni-2004-2012
 visite-specialistiche-erogate-consulto-definito-complessivo-anno-2014
 visite-specialistiche-erogate-visita-generale-anni-2007-2012
@@ -65250,7 +65310,7 @@ zone-territoriali-di-competenza-delle-strade-in-gestione-citta-metropolitana-di-
 zone-toponomastiche
 zone-traffico-limitato
 zone-traffico-limitato-ztl1
-zone-turistiche-citta-metropolitana-di-firenze1
+zone-turistiche-citta-metropolitana-di-firenze
 zone-umide
 zone-umide-delle-anpil-citta-metropolitana-di-firenze1
 zone-umide-di-importanza-internazionale-ramsar
