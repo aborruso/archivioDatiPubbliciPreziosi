@@ -91,6 +91,7 @@ created,display_name,id,identifier,name,package_count,URL
 2024-03-08T18:16:37.011539,Comune di Bologna,459fbd42-c496-4511-bac8-1f06e341d6ef,c_a944,comune-di-bologna,686,https://dati.gov.it/view-dataset?organization=comune-di-bologna
 2026-02-02T14:31:04.295606,Comune di Borghetto Santo Spirito,c3777ff3-b760-43ec-86df-929722e6a9ad,c_a999,comune-di-borghetto-santo-spirito,3,https://dati.gov.it/view-dataset?organization=comune-di-borghetto-santo-spirito
 2025-10-29T16:40:38.039017,Comune di Borgo a Mozzano,164c30fb-3f80-40f6-b579-6f6ade5cb08e,c_b007,comune-di-borgo-a-mozzano,2,https://dati.gov.it/view-dataset?organization=comune-di-borgo-a-mozzano
+2026-07-06T11:15:48.153827,Comune di Borgo San Dalmazzo,149533ec-da7e-4667-a756-064b0a2aa6a4,c_b033,comune-di-borgo-san-dalmazzo,0,https://dati.gov.it/view-dataset?organization=comune-di-borgo-san-dalmazzo
 2025-11-03T16:39:51.118411,Comune di Borgo San Lorenzo,305277c9-0b08-44a0-8ad7-abe8a8b80a07,c_b036,comune-di-borgo-san-lorenzo,37,https://dati.gov.it/view-dataset?organization=comune-di-borgo-san-lorenzo
 2025-04-11T14:04:28.041027,Comune di Boscotrecase,0ed9476d-1022-4dcf-b522-d8d626abbeca,c_b077,comune-di-boscotrecase,0,https://dati.gov.it/view-dataset?organization=comune-di-boscotrecase
 2025-12-23T08:06:29.162907,Comune di Breganze,5ec925ed-506c-460f-aa93-b26bacb183c5,c_b132,comune-di-breganze,3,https://dati.gov.it/view-dataset?organization=comune-di-breganze
@@ -177,7 +178,7 @@ created,display_name,id,identifier,name,package_count,URL
 2025-12-16T14:37:15.363159,Comune di Lamezia Terme,9827373b-24ef-4062-95b9-366684dc0cef,c_m208,comune-di-lamezia-terme,36,https://dati.gov.it/view-dataset?organization=comune-di-lamezia-terme
 2025-04-11T13:19:41.241055,Comune di Laterza,ee431584-8edf-43b2-b6e2-8a917dd3f851,c_e469,comune-di-laterza,0,https://dati.gov.it/view-dataset?organization=comune-di-laterza
 2025-07-23T12:39:34.471627,Comune di Latina,5bed28f9-a3fc-4dce-a24b-f8c7728e0dc5,c_e472,comune-di-latina,13,https://dati.gov.it/view-dataset?organization=comune-di-latina
-2025-11-07T11:53:23.592238,Comune di Lavagna,9dde546d-318f-47a0-9a45-b6feafff1004,c_e488,comune-di-lavagna,5,https://dati.gov.it/view-dataset?organization=comune-di-lavagna
+2025-11-07T11:53:23.592238,Comune di Lavagna,9dde546d-318f-47a0-9a45-b6feafff1004,c_e488,comune-di-lavagna,36,https://dati.gov.it/view-dataset?organization=comune-di-lavagna
 2026-02-13T12:17:12.856641,Comune di Laveno Mombello,28359e4a-b6c1-418d-a35a-0680b40b8be2,c_e496,comune-di-laveno-mombello,31,https://dati.gov.it/view-dataset?organization=comune-di-laveno-mombello
 2025-07-09T15:09:24.342703,Comune di Lentini,88d08051-7cd8-4349-bec5-7ba11a125587,c_e532,comune-di-lentini,0,https://dati.gov.it/view-dataset?organization=comune-di-lentini
 2026-04-29T14:33:57.205075,Comune di Livigno,582b250b-7d72-4ca4-bb22-191289cb1e3e,c_e621,comune-di-livigno,44,https://dati.gov.it/view-dataset?organization=comune-di-livigno
