@@ -3,8 +3,6 @@ name: crea archivio mimit carburanti
 on:
 #  push:
   repository_dispatch:
-  schedule:
-    - cron:  '12 11 * * *'
   workflow_dispatch:
 
 jobs:

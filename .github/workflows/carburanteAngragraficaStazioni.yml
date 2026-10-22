@@ -3,8 +3,6 @@ name: crea archivio anagrafica delle stazioni di carburanti
 on:
 #  push:
   repository_dispatch:
-  schedule:
-    - cron:  '50 9 */1 * *'
   workflow_dispatch:
 
 jobs:
