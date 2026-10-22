@@ -24,20 +24,21 @@ if [ $code -eq 200 ]; then
   # nota bene, vengono rimossi tutte le "
   <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv sed -r 's/"//g' | tail -n +2 | perl -Mopen=locale -MHTML::Entities -pe '$_ = decode_entities($_)' >"$folder"/tmp.csv
 
-  # righe con più di 10 campi
-  grep -n -o ";" "$folder"/tmp.csv  | sort -n | uniq -c | cut -d : -f 1 | sed -r 's/^ *//g' | mlr --nidx label conteggio,riga then filter '$conteggio>9' then cut -f riga >"$folder"/tmp-errori-separatori.txt
+  # righe con più di 10 campi (separatore "|" dal 10 febbraio 2026, prima ";")
+  grep -n -o "|" "$folder"/tmp.csv  | sort -n | uniq -c | cut -d : -f 1 | sed -r 's/^ *//g' | mlr --nidx label conteggio,riga then filter '$conteggio>9' then cut -f riga >"$folder"/tmp-errori-separatori.txt
 
   # rimuovi righe con numero separatori errati
   cat "$folder"/tmp-errori-separatori.txt | while read line;do
     sed -i -e ''"$line"'d' "$folder"/tmp.csv
   done
 
-  mlrgo --ragged --csv --ifs ";" clean-whitespace then sort -n idImpianto then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Bandiera)' "$folder"/tmp.csv | sed 's/[^[:print:]]//g' >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi-cleaned.csv
+  mlrgo --ragged --csv --ifs "|" clean-whitespace then sort -n idImpianto then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Bandiera)' "$folder"/tmp.csv | sed 's/[^[:print:]]//g' >"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi-cleaned.csv
 
-  <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv tail -n +2 | grep -vP '&#' >"$folder"/../../docs/"$nome"/tmp.csv
+  # via anche le righe con ";" in un campo: questo file esce con separatore ";"
+  <"$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv tail -n +2 | grep -vP '&#|;' >"$folder"/../../docs/"$nome"/tmp.csv
 
   # righe con più di 10 campi
-  grep -n -o ";" "$folder"/../../docs/"$nome"/tmp.csv  | sort -n | uniq -c | cut -d : -f 1 | sed -r 's/^ *//g' | mlr --nidx label conteggio,riga then filter '$conteggio>9' then cut -f riga >"$folder"/tmp-errori-separatori.txt
+  grep -n -o "|" "$folder"/../../docs/"$nome"/tmp.csv  | sort -n | uniq -c | cut -d : -f 1 | sed -r 's/^ *//g' | mlr --nidx label conteggio,riga then filter '$conteggio>9' then cut -f riga >"$folder"/tmp-errori-separatori.txt
 
   # rimuovi righe con numero separatori errati
   cat "$folder"/tmp-errori-separatori.txt | while read line;do
@@ -46,9 +47,9 @@ if [ $code -eq 200 ]; then
 
   mv "$folder"/../../docs/"$nome"/tmp.csv "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
-  sed -i -r 's/; */;/g' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+  sed -i -r 's/\| */|/g' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
-  mlrgo -I --ragged --csvlite --fs ";" sort -n idImpianto then remove-empty-columns then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Gestore) || $Latitudine!=~"^([0-9]|NULL)"' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
+  mlrgo -I --ragged --csvlite --ifs "|" --ofs ";" sort -n idImpianto then remove-empty-columns then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Gestore) || $Latitudine!=~"^([0-9]|NULL)"' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
 else
 
