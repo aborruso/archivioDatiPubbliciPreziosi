@@ -50,4 +50,9 @@ if [ $code -eq 200 ]; then
 
   mlrgo -I --ragged --csvlite --fs ";" sort -n idImpianto then remove-empty-columns then cut -x -r -f "^[0-9].*" then filter -x 'is_null($Gestore) || $Latitudine!=~"^([0-9]|NULL)"' "$folder"/../../docs/"$nome"/anagrafica_impianti_attivi.csv
 
+else
+
+  echo "Sito non raggiungibile: $URL ha risposto con codice HTTP $code" >&2
+  exit 1
+
 fi
