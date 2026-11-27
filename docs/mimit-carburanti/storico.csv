@@ -101249,3 +101249,89 @@ data,ambito,area,carburante,erogazione,prezzo,data_fonte
 2026-11-26,stradale,Veneto,GPL,SERVITO,0.854,mimit
 2026-11-26,stradale,Veneto,Gasolio,SELF,2.186,mimit
 2026-11-26,stradale,Veneto,Metano,SERVITO,2.201,mimit
+2026-11-27,autostradale,Italia,Benzina,SELF,1.956,mimit
+2026-11-27,autostradale,Italia,GPL,SERVITO,0.939,mimit
+2026-11-27,autostradale,Italia,Gasolio,SELF,2.234,mimit
+2026-11-27,autostradale,Italia,Metano,SERVITO,2.088,mimit
+2026-11-27,stradale,Abruzzo,Benzina,SELF,1.930,mimit
+2026-11-27,stradale,Abruzzo,GPL,SERVITO,0.846,mimit
+2026-11-27,stradale,Abruzzo,Gasolio,SELF,2.193,mimit
+2026-11-27,stradale,Abruzzo,Metano,SERVITO,2.135,mimit
+2026-11-27,stradale,Basilicata,Benzina,SELF,1.945,mimit
+2026-11-27,stradale,Basilicata,GPL,SERVITO,0.833,mimit
+2026-11-27,stradale,Basilicata,Gasolio,SELF,2.206,mimit
+2026-11-27,stradale,Basilicata,Metano,SERVITO,2.060,mimit
+2026-11-27,stradale,Bolzano,Benzina,SELF,1.934,mimit
+2026-11-27,stradale,Bolzano,GPL,SERVITO,0.911,mimit
+2026-11-27,stradale,Bolzano,Gasolio,SELF,2.205,mimit
+2026-11-27,stradale,Bolzano,Metano,SERVITO,2.170,mimit
+2026-11-27,stradale,Calabria,Benzina,SELF,1.938,mimit
+2026-11-27,stradale,Calabria,GPL,SERVITO,0.860,mimit
+2026-11-27,stradale,Calabria,Gasolio,SELF,2.202,mimit
+2026-11-27,stradale,Calabria,Metano,SERVITO,2.175,mimit
+2026-11-27,stradale,Campania,Benzina,SELF,1.921,mimit
+2026-11-27,stradale,Campania,GPL,SERVITO,0.811,mimit
+2026-11-27,stradale,Campania,Gasolio,SELF,2.182,mimit
+2026-11-27,stradale,Campania,Metano,SERVITO,2.053,mimit
+2026-11-27,stradale,Emilia Romagna,Benzina,SELF,1.919,mimit
+2026-11-27,stradale,Emilia Romagna,GPL,SERVITO,0.847,mimit
+2026-11-27,stradale,Emilia Romagna,Gasolio,SELF,2.188,mimit
+2026-11-27,stradale,Emilia Romagna,Metano,SERVITO,2.189,mimit
+2026-11-27,stradale,Friuli Venezia Giulia,Benzina,SELF,1.916,mimit
+2026-11-27,stradale,Friuli Venezia Giulia,GPL,SERVITO,0.848,mimit
+2026-11-27,stradale,Friuli Venezia Giulia,Gasolio,SELF,2.192,mimit
+2026-11-27,stradale,Friuli Venezia Giulia,Metano,SERVITO,2.244,mimit
+2026-11-27,stradale,Lazio,Benzina,SELF,1.931,mimit
+2026-11-27,stradale,Lazio,GPL,SERVITO,0.831,mimit
+2026-11-27,stradale,Lazio,Gasolio,SELF,2.189,mimit
+2026-11-27,stradale,Lazio,Metano,SERVITO,2.215,mimit
+2026-11-27,stradale,Liguria,Benzina,SELF,1.926,mimit
+2026-11-27,stradale,Liguria,GPL,SERVITO,0.898,mimit
+2026-11-27,stradale,Liguria,Gasolio,SELF,2.188,mimit
+2026-11-27,stradale,Liguria,Metano,SERVITO,2.154,mimit
+2026-11-27,stradale,Lombardia,Benzina,SELF,1.915,mimit
+2026-11-27,stradale,Lombardia,GPL,SERVITO,0.846,mimit
+2026-11-27,stradale,Lombardia,Gasolio,SELF,2.185,mimit
+2026-11-27,stradale,Lombardia,Metano,SERVITO,2.111,mimit
+2026-11-27,stradale,Marche,Benzina,SELF,1.930,mimit
+2026-11-27,stradale,Marche,GPL,SERVITO,0.873,mimit
+2026-11-27,stradale,Marche,Gasolio,SELF,2.188,mimit
+2026-11-27,stradale,Marche,Metano,SERVITO,2.168,mimit
+2026-11-27,stradale,Molise,Benzina,SELF,1.938,mimit
+2026-11-27,stradale,Molise,GPL,SERVITO,0.856,mimit
+2026-11-27,stradale,Molise,Gasolio,SELF,2.201,mimit
+2026-11-27,stradale,Molise,Metano,SERVITO,2.134,mimit
+2026-11-27,stradale,Piemonte,Benzina,SELF,1.921,mimit
+2026-11-27,stradale,Piemonte,GPL,SERVITO,0.836,mimit
+2026-11-27,stradale,Piemonte,Gasolio,SELF,2.190,mimit
+2026-11-27,stradale,Piemonte,Metano,SERVITO,2.069,mimit
+2026-11-27,stradale,Puglia,Benzina,SELF,1.934,mimit
+2026-11-27,stradale,Puglia,GPL,SERVITO,0.818,mimit
+2026-11-27,stradale,Puglia,Gasolio,SELF,2.191,mimit
+2026-11-27,stradale,Puglia,Metano,SERVITO,2.138,mimit
+2026-11-27,stradale,Sardegna,Benzina,SELF,1.934,mimit
+2026-11-27,stradale,Sardegna,GPL,SERVITO,0.894,mimit
+2026-11-27,stradale,Sardegna,Gasolio,SELF,2.198,mimit
+2026-11-27,stradale,Sicilia,Benzina,SELF,1.933,mimit
+2026-11-27,stradale,Sicilia,GPL,SERVITO,0.868,mimit
+2026-11-27,stradale,Sicilia,Gasolio,SELF,2.195,mimit
+2026-11-27,stradale,Sicilia,Metano,SERVITO,2.276,mimit
+2026-11-27,stradale,Toscana,Benzina,SELF,1.926,mimit
+2026-11-27,stradale,Toscana,GPL,SERVITO,0.844,mimit
+2026-11-27,stradale,Toscana,Gasolio,SELF,2.193,mimit
+2026-11-27,stradale,Toscana,Metano,SERVITO,2.194,mimit
+2026-11-27,stradale,Trento,Benzina,SELF,1.925,mimit
+2026-11-27,stradale,Trento,GPL,SERVITO,0.869,mimit
+2026-11-27,stradale,Trento,Gasolio,SELF,2.198,mimit
+2026-11-27,stradale,Trento,Metano,SERVITO,2.259,mimit
+2026-11-27,stradale,Umbria,Benzina,SELF,1.937,mimit
+2026-11-27,stradale,Umbria,GPL,SERVITO,0.857,mimit
+2026-11-27,stradale,Umbria,Gasolio,SELF,2.191,mimit
+2026-11-27,stradale,Umbria,Metano,SERVITO,2.178,mimit
+2026-11-27,stradale,Valle d'Aosta,Benzina,SELF,1.935,mimit
+2026-11-27,stradale,Valle d'Aosta,GPL,SERVITO,0.922,mimit
+2026-11-27,stradale,Valle d'Aosta,Gasolio,SELF,2.200,mimit
+2026-11-27,stradale,Veneto,Benzina,SELF,1.913,mimit
+2026-11-27,stradale,Veneto,GPL,SERVITO,0.854,mimit
+2026-11-27,stradale,Veneto,Gasolio,SELF,2.184,mimit
+2026-11-27,stradale,Veneto,Metano,SERVITO,2.198,mimit
